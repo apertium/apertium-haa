@@ -1,0 +1,9 @@
+[
+	! Unify apostrophe styles
+	[ ?* [ ' (->) [ %` | ʻ | ’ | ‘ | ʼ ] ] ?* ]
+
+    ! composition operator, must appear between rules
+    ! .o.
+	! Example rule: Accept input without diacritics
+	! [ ?* [ á (->) a ] ?* ]
+]

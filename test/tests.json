@@ -1,0 +1,10 @@
+{
+    "analysis": {
+        "input": "analysis-input.txt",
+        "mode": "haa-disam"
+    },
+    "generation": {
+        "input": "generation-input.txt",
+        "mode": "haa-gener"
+    }
+}

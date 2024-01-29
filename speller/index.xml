@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hfstspeller dtdversion="1.0" hfstversion="3">
+  <info>
+    <locale>haa</locale>
+    <!-- TODO: locale may need to be changed to 2-letter ISO 639-1 code -->
+    <title>Apertium morphological analyser-based speller (Han)</title>
+    <description>
+      A spellchecker for Han.
+    </description>
+    <version vcsrev="GT_REVISION">cc5356f0b5b6ac0d83da704203e32c463424cee3</version>
+    <date>DATE</date>
+    <producer>Apertium contributors</producer>
+    <contact email="fverdon1@swarthmore.edu"
+        website="http://apertium.org"/>
+  </info>
+  <acceptor type="general" id="acceptor.default.hfst">
+    <title>Apertium dictionary (Han)</title>
+    <description>
+        Apertium dictionary for Han compiled for HFST.
+    </description>
+  </acceptor>
+  <errmodel id="errmodel.default.hfst">
+    <title>Levenshtein edit distance transducer</title>
+    <description>
+        Correction model for keyboard misstrokes, at most 2 per word.
+    </description>
+        <type type="default"/>
+        <model>errmodel.default.hfst</model>
+    </errmodel>
+</hfstspeller>
