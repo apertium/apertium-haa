@@ -1,12 +1,19 @@
 Alphabet
- A B Ç D E Ä F G H I J Ž K L M N Ň O Ö P R S Ş T U Ü W Y Ý Z
- a b ç d e ä f g h i j ž k l m n ň o ö p r s ş t u ü w y ý z
- %{A%}:a %>:0  ;
+ A Ä Ą B C D E Ë Ę G H I Į J K L Ł M N O Ö Ǫ P R S T U W Y Z
+ a ä ą b c d e ë ę g h i į j k l ł m n o ö ǫ p r s t u w y z
+
+  
+ 
+ %.
+ %-
+
+ %>:0
+ ;
 
 Sets
 
-Vowel = A E Ä I O Ö U Ü Y Ý
-        a e ä i o ö u ü y ý ;
+Vowel = A Ä Ą E Ë Ę I Į O Ö Ǫ U
+        a ä ą e ë ę i į o ö ǫ u ;
 
 Rules
 
