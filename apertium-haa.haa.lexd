@@ -1,4 +1,4 @@
-Morphological Transducer for Han
+# Morphological Transducer for Han
 
 # Part of speech categories
 # <n>      # Noun
@@ -30,15 +30,15 @@ Morphological Transducer for Han
 PATTERNS
 ## Example inflection pattern:
 # NounRoot RegNounInfl
-Verbs
+#Verbs
 Number
 Punctuation
 
-PATTERNS Verbs
-(VerbRoot[cl0] VerbTags[cl0])
-(VerbRoot[cld] VerbTags[cld])
-(VerbRoot[clł] VerbTags[clł])
-(VerbRoot[cll] VerbTags[cll])
+#PATTERN Verbs
+#(VerbRoot[cl0] VerbTags[cl0])
+#(VerbRoot[cld] VerbTags[cld])
+#(VerbRoot[clł] VerbTags[clł])
+#(VerbRoot[cll] VerbTags[cll])
 
 
 
