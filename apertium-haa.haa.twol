@@ -1,9 +1,9 @@
 Alphabet
- A Ä Ą B C D E Ë Ę G H I Į J K L Ł M N O Ö Ǫ P R S T U W Y Z
- a ä ą b c d e ë ę g h i į j k l ł m n o ö ǫ p r s t u w y z
+ A B C D E G H I J K L Ł M N O P R S T U W Y Z 
+ a b c d e g h i j k l ł m n o p r s t u w y z
 
-  
- 
+̈    ̨   ̀    ̌   ̂
+   
  %.
  %-
 
@@ -12,8 +12,8 @@ Alphabet
 
 Sets
 
-Vowel = A Ä Ą E Ë Ę I Į O Ö Ǫ U
-        a ä ą e ë ę i į o ö ǫ u ;
+Vowel = A E I O U
+        a e i o u ;
 
 Rules
 
