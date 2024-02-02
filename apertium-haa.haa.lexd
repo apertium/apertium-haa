@@ -40,7 +40,8 @@ Punctuation
 #(VerbRoot[clł] VerbTags[clł])
 #(VerbRoot[cll] VerbTags[cll])
 
-
+PATTERN Verbs
+object(1) classifier-ł-subject(1) (VerbStem[ł,nperf] VerbTags[ł,nperf])
 
 ###############################################################################
 ###                          L E X I C O N                                  ###
@@ -49,6 +50,19 @@ Punctuation
 ## Example stem lexicon:
 # LEXICON NounRoot
 # house:house   # A noun
+
+
+#LEXICON VerbStem
+#nnökʼįį:ʼįį[ł,nperf]
+
+#LEXICON classifier-ł-subject
+#:nök>   <s_1sg>:
+
+#LEXICON object
+#:n>   <o_2sg>:
+
+#LEXICON VerbTags
+#<v><tv><perf>:[ł,nperf]
 
 
 PATTERN Number
