@@ -54,12 +54,14 @@ object(1) classifier-ł-subject(1) (VerbStem[ł,nperf] VerbTags[ł,nperf]) class
 
 LEXICON VerbStem
 nökʼįį:ʼįį[ł,nperf]
+nökʼįį:ʼįh[ł,nperf] # Dir/LR
 
 LEXICON classifier-ł-subject(2)
 :nök>   <s_1sg>:
 
 LEXICON object(2)
 :n>   <o_2sg>:
+:   :
 
 LEXICON VerbTags
 <v><tv><perf>:[ł,nperf]

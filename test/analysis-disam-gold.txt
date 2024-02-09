@@ -1,0 +1,16 @@
+[BmdLNthxj_Lt]
+"<nökʼįį>"
+	"nökʼįį" v tv perf s_1sg [/option]
+[/BmdLNthxj_Lt]
+[G2ye1UW2sh3x]
+"<nnökʼįį>"
+	"nökʼįį" v tv perf s_1sg o_2sg [/option]
+[/G2ye1UW2sh3x]
+[TQFWiyJjM-F-]
+"<nnökʼįh>"
+	"nökʼįį" v tv perf s_1sg o_2sg [/option]
+[/TQFWiyJjM-F-]
+[cF0yIJy8AJU9]
+"<nökʼįh>"
+	"nökʼįį" v tv perf s_1sg [/option]
+[/cF0yIJy8AJU9]
