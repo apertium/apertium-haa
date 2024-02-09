@@ -30,7 +30,7 @@
 PATTERNS
 ## Example inflection pattern:
 # NounRoot RegNounInfl
-#Verbs
+Verbs
 Number
 Punctuation
 
@@ -41,7 +41,7 @@ Punctuation
 #(VerbRoot[cll] VerbTags[cll])
 
 PATTERN Verbs
-object(1) classifier-ł-subject(1) (VerbStem[ł,nperf] VerbTags[ł,nperf])
+object(1) classifier-ł-subject(1) (VerbStem[ł,nperf] VerbTags[ł,nperf]) classifier-ł-subject(2) object(2)
 
 ###############################################################################
 ###                          L E X I C O N                                  ###
@@ -52,17 +52,17 @@ object(1) classifier-ł-subject(1) (VerbStem[ł,nperf] VerbTags[ł,nperf])
 # house:house   # A noun
 
 
-#LEXICON VerbStem
-#nnökʼįį:ʼįį[ł,nperf]
+LEXICON VerbStem
+nökʼįį:ʼįį[ł,nperf]
 
-#LEXICON classifier-ł-subject
-#:nök>   <s_1sg>:
+LEXICON classifier-ł-subject(2)
+:nök>   <s_1sg>:
 
-#LEXICON object
-#:n>   <o_2sg>:
+LEXICON object(2)
+:n>   <o_2sg>:
 
-#LEXICON VerbTags
-#<v><tv><perf>:[ł,nperf]
+LEXICON VerbTags
+<v><tv><perf>:[ł,nperf]
 
 
 PATTERN Number
