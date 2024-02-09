@@ -41,7 +41,8 @@ Punctuation
 #(VerbRoot[cll] VerbTags[cll])
 
 PATTERN Verbs
-object(1) classifier-ł-subject(1) (VerbStem[ł,nperf] VerbTags[ł,nperf]) classifier-ł-subject(2) object(2)
+object(1) classifier-ł-subject-ReqO(1) (VerbStem[ł,nperf] VerbTags[ł,nperf]) classifier-ł-subject-ReqO(2) object(2)
+object(1)? classifier-ł-subject-OptO(1) (VerbStem[ł,nperf] VerbTags[ł,nperf]) classifier-ł-subject-OptO(2) object(2)?
 
 ###############################################################################
 ###                          L E X I C O N                                  ###
@@ -56,12 +57,28 @@ LEXICON VerbStem
 nökʼįį:ʼįį[ł,nperf]
 nökʼįį:ʼįh[ł,nperf] # Dir/LR
 
-LEXICON classifier-ł-subject(2)
+LEXICON classifier-ł-subject-OptO(2)
 :nök>   <s_1sg>:
+:ną̈h>   <s_2sg>: #what is going on with 2sg vs 2pl subjects
+:näh>   <s_2>: # Dir/LR
+:tr'ënäh>  <s_1pl>
+
+LEXICON classifier-ł-subject-ReqO(2)
+:noh>   <s_3sg>:
+:näh>   <s_3sg>: # Dir/LR
+:hënäh>    <s_3pl>:
+:henäh>    <s_3pl>: # Dir/LR
+:hënoh>   <s_3pl>: # Dir/LR
 
 LEXICON object(2)
-:n>   <o_2sg>:
-:   :
+:shë>   <o_1sg>:
+:sh>    <o_1sg>: # Dir/LR
+:ni>    <o_1pl>: 
+:n>     <o_2sg>:
+:khwë>  <o_2pl>:
+:yë     <0_3sg>:
+:hu>    <o_3pl>:
+
 
 LEXICON VerbTags
 <v><tv><perf>:[ł,nperf]
