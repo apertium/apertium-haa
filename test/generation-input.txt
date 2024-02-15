@@ -1,3 +1,4 @@
+^nökʼįį<v><tv><perf><s_1sg><o_1sg>$
 ^nökʼįį<v><tv><perf><s_1sg><o_2sg>$
 ^nökʼįį<v><tv><perf><s_1sg><o_3sg>$
 ^nökʼįį<v><tv><perf><s_1sg><o_1pl>$
@@ -33,3 +34,11 @@
 ^nökʼįį<v><tv><perf><s_3pl><o_1pl>$
 ^nökʼįį<v><tv><perf><s_3pl><o_2pl>$
 ^nökʼįį<v><tv><perf><s_3pl><o_3pl>$
+^öktsey<v><iv><imperf><s_1sg>$
+^öktsey<v><iv><imperf><s_2sg>$
+^öktsey<v><iv><imperf><s_3sg>$
+^öktsey<v><tv><imperf><s_3sg><o_3sg>$
+^öktsey<v><iv><imperf><s_1pl>$
+^öktsey<v><iv><imperf><s_2pl>$
+^öktsey<v><iv><imperf><s_3pl>$
+^öktsey<v><tv><imperf><s_3pl><o_3sg>$

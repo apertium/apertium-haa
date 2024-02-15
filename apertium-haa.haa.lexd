@@ -30,7 +30,8 @@
 PATTERNS
 ## Example inflection pattern:
 # NounRoot RegNounInfl
-Verbs
+Verbs-N-perfective
+# Verbs-Imperfective
 Number
 Punctuation
 
@@ -40,9 +41,12 @@ Punctuation
 #(VerbRoot[clł] VerbTags[clł])
 #(VerbRoot[cll] VerbTags[cll])
 
-PATTERN Verbs
+PATTERN Verbs-N-perfective
 object(1) classifier-ł-subject-ReqO(1) (VerbStem[ł,nperf] VerbTags[ł,nperf]) classifier-ł-subject-ReqO(2) object(2)
 object(1)? classifier-ł-subject-OptO(1) (VerbStem[ł,nperf] VerbTags[ł,nperf]) classifier-ł-subject-OptO(2) object(2)?
+
+# PATTERN Verbs-Imperfective
+
 
 ###############################################################################
 ###                          L E X I C O N                                  ###
@@ -56,12 +60,24 @@ object(1)? classifier-ł-subject-OptO(1) (VerbStem[ł,nperf] VerbTags[ł,nperf])
 LEXICON VerbStem
 nökʼįį:ʼįį[ł,nperf]
 nökʼįį:ʼįh[ł,nperf] # Dir/LR
+öktsey:tsey[ł,imperf]
+öktsey:tseyy[ł,imperf] # Dir/LR
 
-LEXICON classifier-ł-subject-OptO(2)
+LEXICON classifier-ł-subject-OptO(2) # n-perfective
 :nök>   <s_1sg>:
 :ną̈h>   <s_2sg>: #what is going on with 2sg vs 2pl subjects
 :näh>   <s_2>: # Dir/LR
 :tr'ënäh>  <s_1pl>
+
+LEXICON classifier-ł-subject-imperfective(2) # OptO
+:ök>    <s_1sg>:
+:ą̈h>    <s_2sg>:
+:tr'oh  <s_1pl>:
+:ą̈h>    <s_2pl>:
+
+LEXICON classifier-ł-subject-imperfective(2) # ReqO
+:oh>    <s_3sg>:
+:hoh>   <s_3pl>:
 
 LEXICON classifier-ł-subject-ReqO(2)
 :noh>   <s_3sg>:
@@ -76,9 +92,9 @@ LEXICON object(2)
 :ni>    <o_1pl>: 
 :n>     <o_2sg>:
 :khwë>  <o_2pl>:
-:yë     <0_3sg>:
+:yë     <o_3sg>:
 :hu>    <o_3pl>:
-
+:y>     <o_3sg>: # Dir/LR
 
 LEXICON VerbTags
 <v><tv><perf>:[ł,nperf]
