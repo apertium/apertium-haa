@@ -30,8 +30,7 @@
 PATTERNS
 ## Example inflection pattern:
 # NounRoot RegNounInfl
-Verbs-N-perfective
-# Verbs-Imperfective
+Verbs
 Number
 Punctuation
 
@@ -41,11 +40,9 @@ Punctuation
 #(VerbRoot[clł] VerbTags[clł])
 #(VerbRoot[cll] VerbTags[cll])
 
-PATTERN Verbs-N-perfective
-object(1) classifier-ł-subject-ReqO(1) (VerbStem[ł,nperf] VerbTags[ł,nperf]) classifier-ł-subject-ReqO(2) object(2)
-object(1)? classifier-ł-subject-OptO(1) (VerbStem[ł,nperf] VerbTags[ł,nperf]) classifier-ł-subject-OptO(2) object(2)?
-
-# PATTERN Verbs-Imperfective
+PATTERN Verbs
+(object(1)? subject-OptO(1) (VerbStem[ł] VerbTags[ł]) subject-OptO(2) object(2)?)[^[3Ssub,non3Ssub]]
+(object(1) subject-ReqO(1) (VerbStem[ł] VerbTags[ł]) subject-ReqO(2) object(2))[^[3Ssub,non3Ssub]]
 
 
 ###############################################################################
@@ -58,46 +55,49 @@ object(1)? classifier-ł-subject-OptO(1) (VerbStem[ł,nperf] VerbTags[ł,nperf])
 
 
 LEXICON VerbStem
-nökʼįį:ʼįį[ł,nperf]
-nökʼįį:ʼįh[ł,nperf] # Dir/LR
-öktsey:tsey[ł,imperf]
-öktsey:tseyy[ł,imperf] # Dir/LR
+nökʼįį:ʼįį[ł]
+nökʼįį:ʼįh[ł] # Dir/LR
+öktsey:tsey[ł]
+öktsey:tseyy[ł] # Dir/LR
+dädökchʼee:chʼee[ł]
 
-LEXICON classifier-ł-subject-OptO(2) # n-perfective
-:nök>   <s_1sg>:
-:ną̈h>   <s_2sg>: #what is going on with 2sg vs 2pl subjects
-:näh>   <s_2>: # Dir/LR
-:tr'ënäh>  <s_1pl>
 
-LEXICON classifier-ł-subject-imperfective(2) # OptO
-:ök>    <s_1sg>:
-:ą̈h>    <s_2sg>:
-:tr'oh  <s_1pl>:
-:ą̈h>    <s_2pl>:
+LEXICON subject-OptO(2)
+[ł,non3Ssub]:nök>      [ł,non3Ssub]<perf_n><s_1sg>:
+[ł,non3Ssub]:ną̈h>      [ł,non3Ssub]<perf_n><s_2sg>: #what is going on with 2sg vs 2pl subjects
+[ł,non3Ssub]:näh>      [ł,non3Ssub]<perf_n><s_2>: # Dir/LR
+[ł,non3Ssub]:trʼënäh>  [ł,non3Ssub]<perf_n><s_1pl>:
 
-LEXICON classifier-ł-subject-imperfective(2) # ReqO
-:oh>    <s_3sg>:
-:hoh>   <s_3pl>:
+[ł,non3Ssub]:ök>      [ł,non3Ssub]<impf><s_1sg>:
+[ł,non3Ssub]:ą̈h>      [ł,non3Ssub]<impf><s_2sg>:
+[ł,non3Ssub]:trʼoh>   [ł,non3Ssub]<impf><s_1pl>:
+[ł,non3Ssub]:ą̈h>      [ł,non3Ssub]<impf><s_2pl>:
 
-LEXICON classifier-ł-subject-ReqO(2)
-:noh>   <s_3sg>:
-:näh>   <s_3sg>: # Dir/LR
-:hënäh>    <s_3pl>:
-:henäh>    <s_3pl>: # Dir/LR
-:hënoh>   <s_3pl>: # Dir/LR
+LEXICON subject-ReqO(2)
+[ł,3Ssub]:noh>      [ł,3Ssub]<perf_n><s_3sg>:
+[ł,3Ssub]:näh>      [ł,3Ssub]<perf_n><s_3sg>: # Dir/LR
+[ł,non3Ssub]:hënäh>    [ł,non3Ssub]<perf_n><s_3pl>:
+[ł,non3Ssub]:henäh>    [ł,non3Ssub]<perf_n><s_3pl>: # Dir/LR
+[ł,non3Ssub]:hënoh>    [ł,non3Ssub]<perf_n><s_3pl>: # Dir/LR
+
+[ł,3Ssub]:oh>    [ł,3Ssub]<impf><s_3sg>:
+[ł,non3Ssub]:hoh>   [ł,non3Ssub]<impf><s_3pl>:
 
 LEXICON object(2)
-:shë>   <o_1sg>:
+:sh{E}>   <o_1sg>:
 :sh>    <o_1sg>: # Dir/LR
 :ni>    <o_1pl>: 
 :n>     <o_2sg>:
 :khwë>  <o_2pl>:
-:yë     <o_3sg>:
+[3Ssub]:y{E}>     [3Ssub]<o_3sg>:
+[3Ssub]:y>     [3Ssub]<o_3sg>: # Dir/LR
+[non3Ssub]:wë     [non3Ssub]<o_3sg>:
 :hu>    <o_3pl>:
-:y>     <o_3sg>: # Dir/LR
+:jë>    <refl>:
 
 LEXICON VerbTags
-<v><tv><perf>:[ł,nperf]
+<v><tv>:[ł]
+
 
 
 PATTERN Number
