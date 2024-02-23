@@ -1,4 +1,4 @@
-nök-ʼįį      #1see OR 1see3? no object marker default to 3sgO?
+nök-ʼįį      #1see
 nökʼįį       #1see
 nök-ʼįh      #1see
 nökʼįh       #1see
@@ -26,22 +26,64 @@ hunök-’įį    #1see3p
 hunök’įį     #1see3p
 hunök-’įh    #1see3p
 hunök’įh     #1see3p
-ną̈hʼįį       #2see OR 2see3? no object marker default to 3sgO?
+ną̈hʼįį       #2see
 ną̈hʼįh       #2see
 shëną̈h’įį    #2see1
 shënäh’įh    #2see1
-niną̈h’įį     #2see1p
-ninäh’įh     #2see1p
-jëną̈h’įį     #2see2 (reflexive)
-jënäh’įh     #2see2 (reflexive)
-khwëną̈h’įį   #2see2p
-khwëną̈h’įh   #2see2p
-ną̈hʼįį       #2see3
-ną̈hʼįh       #2see3
-wëną̈hʼįį     #2see3
-wëną̈hʼįh     #2see3
-huną̈hʼįį     #2see3p
-huną̈hʼįh     #2see3p
-nohʼįį       #3see OR 3see3? no object marker default to 3sgO?
-nohʼįh        #3see
-’
+niną̈h’įį        #2see1p
+ninäh’įh        #2see1p
+jëną̈h’įį        #2see2 (reflexive)
+jënäh’įh        #2see2 (reflexive)
+khwëną̈h’įį      #2see2p
+khwëną̈h’įh      #2see2p
+ną̈hʼįį          #2see3
+ną̈hʼįh          #2see3
+wëną̈hʼįį        #2see3
+wëną̈hʼįh        #2see3
+huną̈hʼįį        #2see3p
+huną̈hʼįh        #2see3p
+nohʼįį          #3see
+nohʼįh          #3see
+shënohʼįį       #3see1
+shënohʼįh       #3see1
+ninohʼįį        #3see1p
+ninohʼįh        #3see1p
+nnohʼįį         #3see2
+nnohʼįh         #3see2
+khwënohʼįį      #3see2p
+khwënohʼįh      #3see2p
+khunohʼįį       #3see2p
+nohʼįį          #3see3
+nohʼįh          #3see3
+jënohʼįį        #3see3 (reflexive)
+jënohʼįh        #3see3 (reflexive)
+yënohʼįį        #3see3 
+yënohʼįh        #3see3
+hunohʼįį        #3see3p
+hunohʼįh        #3see3p
+trʼënohʼįį      #1psee
+trʼënohʼįh      #1psee
+shëtrʼënohʼįį   #1psee1
+shëtrʼënohʼįh   #1psee1
+                #1psee1p (reflexive?)
+ntrʼënohʼįį     #1psee2
+ntrʼënohʼįh     #1psee2
+khwëtrʼënohʼįį  #1psee2p
+khwëtrʼënohʼįh  #1psee2p
+                #1psee3  ???
+hutrʼënohʼįį    #1psee3p
+hutrʼënohʼįh    #1psee3p
+nähʼįį          #2psee
+nähʼįh          #2psee
+shënähʼįį       #2psee1
+shënähʼįh       #2psee1
+ninähʼįį        #2psee1p
+ninähʼįh        #2psee1p
+                #2psee2 ???
+                #2psee2p ???
+                #2psee3 ???
+hunähʼįį        #2psee3p
+hunähʼįh        #2psee3p
+
+
+
