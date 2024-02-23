@@ -6,4 +6,7 @@
     ! .o.
 	! Example rule: Accept input without diacritics
 	! [ ?* [ á (->) a ] ?* ]
+
+	! accept 'u' for 'wë'
+	.o. [ ?* [ w ë (->) u ] ?* ]
 ]
