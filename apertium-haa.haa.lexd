@@ -55,22 +55,23 @@ PATTERN Verbs
 
 
 LEXICON VerbStem
-nökʼįį:ʼįį[ł]
-nökʼįį:ʼįh[ł] # Dir/LR
-öktsey:tsey[ł]
+nök’įį:’įį[ł] #see
+nök’įį:’įh[ł] # Dir/LR
+öktsey:tsey[ł] #make
 öktsey:tseyy[ł] # Dir/LR
-dädökchʼee:chʼee[ł]
+dädökch’ee:ch’ee[ł]
 
 
 LEXICON subject-OptO(2)
 [ł,non3Ssub]:nök>      [ł,non3Ssub]<perf_n><s_1sg>:
-[ł,non3Ssub]:ną̈h>      [ł,non3Ssub]<perf_n><s_2sg>: #what is going on with 2sg vs 2pl subjects
-[ł,non3Ssub]:näh>      [ł,non3Ssub]<perf_n><s_2>: # Dir/LR
-[ł,non3Ssub]:trʼënäh>  [ł,non3Ssub]<perf_n><s_1pl>:
+[ł,non3Ssub]:tr’ënoh>  [ł,non3Ssub]<perf_n><s_1pl>:
+[ł,non3Ssub]:tr’ënowh>  [ł,non3Ssub]<perf_n><s_1pl>: # Dir/LR
+[ł,non3Ssub]:ną̈h>      [ł,non3Ssub]<perf_n><s_2sg>:
+[ł,non3Ssub]:näh>      [ł,non3Ssub]<perf_n><s_2pl>:
 
 [ł,non3Ssub]:ök>      [ł,non3Ssub]<impf><s_1sg>:
 [ł,non3Ssub]:ą̈h>      [ł,non3Ssub]<impf><s_2sg>:
-[ł,non3Ssub]:trʼoh>   [ł,non3Ssub]<impf><s_1pl>:
+[ł,non3Ssub]:tr’oh>   [ł,non3Ssub]<impf><s_1pl>:
 [ł,non3Ssub]:ą̈h>      [ł,non3Ssub]<impf><s_2pl>:
 
 LEXICON subject-ReqO(2)
