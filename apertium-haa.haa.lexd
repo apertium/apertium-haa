@@ -41,8 +41,7 @@ Punctuation
 #(VerbRoot[cll] VerbTags[cll])
 
 PATTERN Verbs
-(object(1)? subject-OptO(1) (VerbStem[ł] VerbTags[ł]) subject-OptO(2) object(2)?)[^[3Ssub,non3Ssub]]
-(object(1) subject-ReqO(1) (VerbStem[ł] VerbTags[ł]) subject-ReqO(2) object(2))[^[3Ssub,non3Ssub]]
+(object(1)? pluralizer(1) theme(1) subject(1) (VerbStem[ł] VerbTags[ł]) theme(2) subject(2) object(2)?)[^[3Ssub,non3Ssub]]
 
 
 ###############################################################################
@@ -55,31 +54,27 @@ PATTERN Verbs
 
 
 LEXICON VerbStem
-nök’įį:’įį[ł] #see
-nök’įį:’įh[ł] # Dir/LR
+nök’įį:’įį[ł,n] #see
+nök’įį:’įh[ł,n] # Dir/LR
 öktsey:tsey[ł] #make
 öktsey:tseyy[ł] # Dir/LR
 dädökch’ee:ch’ee[ł]
 
 
-LEXICON subject-OptO(2)
-[ł,non3Ssub]:nök>      [ł,non3Ssub]<perf_n><s_1sg>:
-[ł,non3Ssub]:tr’ënoh>  [ł,non3Ssub]<perf_n><s_1pl>: # CHANGE THIS, oh as default?
-[ł,non3Ssub]:tr’ënowh>  [ł,non3Ssub]<perf_n><s_1pl>: # Dir/LR
-[ł,non3Ssub]:ną̈h>      [ł,non3Ssub]<perf_n><s_2sg>:
-[ł,non3Ssub]:näh>      [ł,non3Ssub]<perf_n><s_2pl>:
-
+LEXICON subject(2)
 [ł,non3Ssub]:ök>      [ł,non3Ssub]<impf><s_1sg>:
+[ł,non3Ssub]:äh>      [ł,non3Ssub]<impf><s_2pl>:
 [ł,non3Ssub]:ą̈h>      [ł,non3Ssub]<impf><s_2sg>:
-[ł,non3Ssub]:tr’oh>   [ł,non3Ssub]<impf><s_1pl>:
-[ł,non3Ssub]:ą̈h>      [ł,non3Ssub]<impf><s_2pl>:
+[ł,non3Ssub]:oh>      [ł,non3Ssub]<impf><s_3pl>:
+[ł,3Ssub]:oh>         [ł,3Ssub]<impf><s_3sg>: 
+[ł,non3Ssub]:oh>      [ł,non3Ssub]<impf><s_1pl>:
 
-LEXICON subject-ReqO(2)
-[ł,3Ssub]:noh>      [ł,3Ssub]<perf_n><s_3sg>: #IMPF CHANGE THIS
-[ł,non3Ssub]:hënoh>    [ł,non3Ssub]<perf_n><s_3pl>: # Dir/LR
+LEXICON theme(2)
+[ł,n]:n>      [ł,n]<them_n>:
 
-[ł,3Ssub]:oh>    [ł,3Ssub]<impf><s_3sg>:
-[ł,non3Ssub]:hoh>   [ł,non3Ssub]<impf><s_3pl>:
+LEXICON pluralizer(2)
+[ł,non3Ssub]:tr’ë>      [ł,non3Ssub]<s_1pl>:
+[ł,non3Ssub]:hë>        [ł,non3Ssub]<s_3pl>: #are these tags correct
 
 LEXICON object(2)
 :sh{E}>   <o_1sg>:
@@ -94,7 +89,8 @@ LEXICON object(2)
 [non3Ssub]:w{E}>     [non3Ssub]<o_3sg>:
 [non3Ssub]:w>     [non3Ssub]<o_3sg>:
 :hu>    <o_3pl>:
-:jë>    <refl>:    #maura checking on schwa deletion here
+:hu>    <o_3sg>:
+:jë>    <refl>:    #maura checking on schwa deletion here, should we make a separate lexicon for reflexive
 
 LEXICON VerbTags
 <v><tv>:[ł]
