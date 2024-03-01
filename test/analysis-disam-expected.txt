@@ -1,22 +1,93 @@
-[5907dl0MbWQX#0] "<ninökʼįį>"
-	"nökʼįį" v tv perf s_1sg
-	"nökʼįį" v tv perf s_1sg o_1pl
-[/5907dl0MbWQX]
-[BmdLNthxj_Lt#0] "<nökʼįį>"
-	"nökʼįį" v tv perf s_1sg
-[/BmdLNthxj_Lt]
-[DQWHZhzUIHaW#0] "<hunök>"
-	"*hunök"
-"<->"
-	"-" guio
+[0rSF5Cg-BZXf#0] "<ntrʼënohʼįį>"
+	"*ntrʼënohʼįį"
+[/0rSF5Cg-BZXf]
+[1vFtSatR28tT#0] "<khwëną̈h>"
+	"*khwëną̈h"
 "<’>"
 	"'" apos
 "<įį>"
 	"*įį"
-[/DQWHZhzUIHaW]
+[/1vFtSatR28tT]
+[5907dl0MbWQX#0] "<ninökʼįį>"
+	"nökʼįį" v tv perf s_1sg
+	"nökʼįį" v tv perf s_1sg o_1pl
+[/5907dl0MbWQX]
+[6tmg8NJhFbT7#0] "<khwëtrʼënohʼįį>"
+	"*khwëtrʼënohʼįį"
+[/6tmg8NJhFbT7]
+[7VOH5hGQgFOX#0] "<hunähʼįh>"
+	"*hunähʼįh"
+[/7VOH5hGQgFOX]
+[7XM1xEfbAyDk#0] "<khwënök>"
+	"*khwënök"
+"<’>"
+	"'" apos
+"<įį>"
+	"*įį"
+[/7XM1xEfbAyDk]
+[8MOPKbJwUgcn#0] "<yënohʼįh>"
+	"*yënohʼįh"
+[/8MOPKbJwUgcn]
+[90tLewKhB4QT#0] "<ntrʼënohʼįh>"
+	"*ntrʼënohʼįh"
+[/90tLewKhB4QT]
+[Bh86466xjuf3#0] "<ninök>"
+	"*ninök"
+"<->"
+	"-" guio
+"<ʼįį>"
+	"*ʼįį"
+[/Bh86466xjuf3]
+[BmdLNthxj_Lt#0] "<nökʼįį>"
+	"*nökʼįį"
+[/BmdLNthxj_Lt]
+[CRENvkPbgu8N#0] "<khwëną̈h>"
+	"*khwëną̈h"
+"<’>"
+	"'" apos
+"<įh>"
+	"*įh"
+[/CRENvkPbgu8N]
+[CV4-Tbf2_K-h#0] "<khwëtrʼënohʼįh>"
+	"*khwëtrʼënohʼįh"
+[/CV4-Tbf2_K-h]
+[DWEy8z-UCDVS#0] "<hutrʼënohʼįh>"
+	"*hutrʼënohʼįh"
+[/DWEy8z-UCDVS]
+[DiEpnKnexnYZ#0] "<khwënohʼįh>"
+	"*khwënohʼįh"
+[/DiEpnKnexnYZ]
+[E2_kJw-k5yvE#0] "<ninähʼįh>"
+	"*ninähʼįh"
+[/E2_kJw-k5yvE]
+[E3-FkdJ4QhAW#0] "<ninähʼįį>"
+	"*ninähʼįį"
+[/E3-FkdJ4QhAW]
+[Fxv3sLCbFPkd#0] "<shëtrʼënohʼįį>"
+	"*shëtrʼënohʼįį"
+[/Fxv3sLCbFPkd]
 [G2ye1UW2sh3x#0] "<nnökʼįį>"
 	"nökʼįį" v tv perf s_1sg o_2sg
 [/G2ye1UW2sh3x]
+[HZarrXgJn_uM#0] "<nnohʼįį>"
+	"*nnohʼįį"
+[/HZarrXgJn_uM]
+[IMM6IVePebhB#0] "<shënähʼįį>"
+	"*shënähʼįį"
+[/IMM6IVePebhB]
+[IZir4sQUt-tb#0] "<nnohʼįh>"
+	"*nnohʼįh"
+[/IZir4sQUt-tb]
+[JA8P9EJKbqW8#0] "<nnök>"
+	"*nnök"
+"<->"
+	"-" guio
+"<ʼįh>"
+	"*ʼįh"
+[/JA8P9EJKbqW8]
+[KCURgwV6wZxT#0] "<ninohʼįį>"
+	"*ninohʼįį"
+[/KCURgwV6wZxT]
 [LP9dEVFosfM2#0] "<shënäh>"
 	"*shënäh"
 "<’>"
@@ -24,6 +95,22 @@
 "<įh>"
 	"*įh"
 [/LP9dEVFosfM2]
+[MYijAGC6RLkf#0] "<shënohʼįį>"
+	"*shënohʼįį"
+[/MYijAGC6RLkf]
+[NY646bpKJj-q#0] "<huną̈hʼįį>"
+	"*huną̈hʼįį"
+[/NY646bpKJj-q]
+[NnHjRSOz7wuI#0] "<ninök>"
+	"*ninök"
+"<->"
+	"-" guio
+"<ʼįh>"
+	"*ʼįh"
+[/NnHjRSOz7wuI]
+[QdSd4mHybMrs#0] "<shëtrʼënohʼįh>"
+	"*shëtrʼënohʼįh"
+[/QdSd4mHybMrs]
 [STWDu3UJLQc-#0] "<khwënök>"
 	"*khwënök"
 "<->"
@@ -43,19 +130,102 @@
 [TQFWiyJjM-F-#0] "<nnökʼįh>"
 	"nökʼįį" v tv perf s_1sg o_2sg
 [/TQFWiyJjM-F-]
+[TnxmTycDzuo1#0] "<ninäh>"
+	"*ninäh"
+"<’>"
+	"'" apos
+"<įh>"
+	"*įh"
+[/TnxmTycDzuo1]
+[UGY4ND_nyv_S#0] "<nök>"
+	"*nök"
+"<->"
+	"-" guio
+"<ʼįį>"
+	"*ʼįį"
+[/UGY4ND_nyv_S]
+[URiBox5yv18n#0] "<hunohʼįį>"
+	"*hunohʼįį"
+[/URiBox5yv18n]
+[UZVRrTIQZKlF#0] "<nnök>"
+	"*nnök"
+"<->"
+	"-" guio
+"<ʼįį>"
+	"*ʼįį"
+[/UZVRrTIQZKlF]
+[VnHA2szrD41V#0] "<khwënök>"
+	"*khwënök"
+"<->"
+	"-" guio
+"<’>"
+	"'" apos
+"<įh>"
+	"*įh"
+[/VnHA2szrD41V]
+[Y23B6MkziXkB#0] "<khwënök>"
+	"*khwënök"
+"<’>"
+	"'" apos
+"<įh>"
+	"*įh"
+[/Y23B6MkziXkB]
+[Y3LnnBgeqDsb#0] "<hutrʼënohʼįį>"
+	"*hutrʼënohʼįį"
+[/Y3LnnBgeqDsb]
+[ajyf2dyMr6na#0] "<ninökʼįh>"
+	"*ninökʼįh"
+[/ajyf2dyMr6na]
+[aoaelyVBSlfG#0] "<nohʼįį>"
+	"*nohʼįį"
+[/aoaelyVBSlfG]
 [cF0yIJy8AJU9#0] "<nökʼįh>"
-	"nökʼįį" v tv perf s_1sg
+	"*nökʼįh"
 [/cF0yIJy8AJU9]
-[hVhgGdR9V0Ec#0] "<nähʼį>"
-	"*nähʼį"
-[/hVhgGdR9V0Ec]
-[lAwPblF_0NKG#0] "<shënähįį>"
-	"*shënähįį"
-[/lAwPblF_0NKG]
-[ySQLo3V_PavW#0] "<shënä>"
-	"*shënä"
+[eqZ6uRWcbGy_#0] "<hunohʼįh>"
+	"*hunohʼįh"
+[/eqZ6uRWcbGy_]
+[fFPJN46Uegth#0] "<nohʼįh>"
+	"*nohʼįh"
+[/fFPJN46Uegth]
+[fJfHld-iPDWd#0] "<hunähʼįį>"
+	"*hunähʼįį"
+[/fJfHld-iPDWd]
+[gUYBfoD0KzPA#0] "<nök>"
+	"*nök"
+"<->"
+	"-" guio
+"<ʼįh>"
+	"*ʼįh"
+[/gUYBfoD0KzPA]
+[jC7SIXYLQ7oS#0] "<khwënohʼįį>"
+	"*khwënohʼįį"
+[/jC7SIXYLQ7oS]
+[jkHFny1FSbDC#0] "<ną̈hʼįh>"
+	"*ną̈hʼįh"
+[/jkHFny1FSbDC]
+[jvh8vK4LGb1q#0] "<huną̈hʼįh>"
+	"*huną̈hʼįh"
+[/jvh8vK4LGb1q]
+[mWKb8iaCf4W6#0] "<shënohʼįh>"
+	"*shënohʼįh"
+[/mWKb8iaCf4W6]
+[ugEBVkUxkJ37#0] "<yënohʼįį>"
+	"*yënohʼįį"
+[/ugEBVkUxkJ37]
+[v0HXgPdtuNMh#0] "<ną̈hʼįį>"
+	"*ną̈hʼįį"
+[/v0HXgPdtuNMh]
+[viPlC1-OSOcY#0] "<ninohʼįh>"
+	"*ninohʼįh"
+[/viPlC1-OSOcY]
+[xoLbztlruDQy#0] "<niną̈h>"
+	"*niną̈h"
 "<’>"
 	"'" apos
 "<įį>"
 	"*įį"
-[/ySQLo3V_PavW]
+[/xoLbztlruDQy]
+[zyF33voxCx34#0] "<shënähʼįh>"
+	"*shënähʼįh"
+[/zyF33voxCx34]
