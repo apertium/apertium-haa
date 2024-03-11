@@ -36,7 +36,7 @@ Punctuation
 
 
 PATTERN Verbs
-(subject(1) object?(1) subject(2) refl(1) VerbStem(1) subject(3) (VerbStem(2)[ł] VerbTags[ł]) subject(4) object?(2))[^[3Ssub,non3Ssub],^[impf,perf]]
+(subject(1) object?(1) subject(2) refl(1) VerbStem(1) subject(3) (VerbStem(2)[ł] VerbTags[ł]) subject(4) object?(2) refl(2))[^[3Ssub,non3Ssub],^[impf,perf]]
 
 
 
@@ -62,41 +62,43 @@ LEXICON VerbStem(2)
 
 LEXICON subject(4)
 [ł,impf,non3Ssub]:      [ł,impf,non3Ssub]:      [ł,impf,non3Ssub]:ök>      [ł,impf,non3Ssub]<impf><s_1sg>:
-[ł,impf,non3Ssub]:      [ł,impf,non3Ssub]:tr’ë> [ł,impf,non3Ssub]:oh>      [ł,impf,non3Ssub]<impf><s_1pl>:
+[ł,impf,non3Ssub]:      [ł,impf,non3Ssub]:tr’ë> [ł,impf,non3Ssub]:oh>      [ł,impf,non3Ssub]<impf><s_1pl>:
 [ł,impf,non3Ssub]:      [ł,impf,non3Ssub]:      [ł,impf,non3Ssub]:ą̈h>      [ł,impf,non3Ssub]<impf><s_2sg>: 
 [ł,impf,non3Ssub]:      [ł,impf,non3Ssub]:      [ł,impf,non3Ssub]:äh>      [ł,impf,non3Ssub]<impf><s_2pl>:
 [ł,impf,3Ssub]:         [ł,impf,3Ssub]:         [ł,impf,3Ssub]:oh>         [ł,impf,3Ssub]<impf><s_3sg>: 
-[ł,impf,non3Ssub]:h{E}> [ł,impf,non3Ssub]:      [ł,impf,non3Ssub]:oh>      [ł,impf,non3Ssub]<impf><s_3pl>:
-[ł,impf,non3Ssub]:h>    [ł,impf,non3Ssub]:      [ł,impf,non3Ssub]:oh>      [ł,impf,non3Ssub]<impf><s_3pl>: # Dir/LR
+[ł,impf,non3Ssub]:h{E}{¨}> [ł,impf,non3Ssub]:      [ł,impf,non3Ssub]:oh>      [ł,impf,non3Ssub]<impf><s_3pl>:
+#[ł,impf,non3Ssub]:h>    [ł,impf,non3Ssub]:      [ł,impf,non3Ssub]:oh>      [ł,impf,non3Ssub]<impf><s_3pl>: # Dir/LR
+# TODO: gonna treat these as orthographic variation (ë sometimes not written)
 
 [ł,perf,non3Ssub]:     [ł,perf,non3Ssub]:      [ł,perf,non3Ssub]:ök>      [ł,perf,non3Ssub]<perf><s_1sg>:
-[ł,perf,non3Ssub]:     [ł,perf,non3Ssub]:tr’ë> [ł,perf,non3Ssub]:äh>      [ł,perf,non3Ssub]<perf><s_1pl>:
+[ł,perf,non3Ssub]:     [ł,perf,non3Ssub]:tr’ë> [ł,perf,non3Ssub]:äh>      [ł,perf,non3Ssub]<perf><s_1pl>:
 [ł,perf,non3Ssub]:     [ł,perf,non3Ssub]:      [ł,perf,non3Ssub]:äh>      [ł,perf,non3Ssub]<perf><s_2sg>: 
 [ł,perf,non3Ssub]:     [ł,perf,non3Ssub]:      [ł,perf,non3Ssub]:ą̈h>      [ł,perf,non3Ssub]<perf><s_2sg>:     #Dir/LR
 [ł,perf,non3Ssub]:     [ł,perf,non3Ssub]:      [ł,perf,non3Ssub]:äh>      [ł,perf,non3Ssub]<perf><s_2pl>:
 [ł,perf,3Ssub]:        [ł,perf,3Ssub]:         [ł,perf,3Ssub]:äh>         [ł,perf,3Ssub]<perf><s_3sg>: 
-[ł,perf,non3Ssub]:hë>  [ł,perf,non3Ssub]:      [ł,perf,non3Ssub]:äh>      [ł,perf,non3Ssub]<perf><s_3pl>:
+[ł,perf,non3Ssub]:hë>  [ł,perf,non3Ssub]:      [ł,perf,non3Ssub]:äh>      [ł,perf,non3Ssub]<perf><s_3pl>:
 [ł,perf,non3Ssub]:he>  [ł,perf,non3Ssub]:      [ł,perf,non3Ssub]:äh>      [ł,perf,non3Ssub]<perf><s_3pl>:   #Dir/LR
 [ł,perf,non3Ssub]:hè>  [ł,perf,non3Ssub]:      [ł,perf,non3Ssub]:äh>      [ł,perf,non3Ssub]<perf><s_3pl>:   #Dir/LR
 
 LEXICON refl(2)
-:jë   <refl>:
+:jë   <refl>:
+:	:
 
 
 LEXICON object(2)
-:sh{E}>   <o_1sg>:
+:sh{E}{¨}>   <o_1sg>:
 :sh>    <o_1sg>: # Dir/LR
 :ni>    <o_1pl>: 
 :n>     <o_2sg>:
-:khw{E}>  <o_2pl>:
-:khw>  <o_2pl>: # Dir/LR
-:khu>   <o_2pl>: # Dir/LR
-[3Ssub]:y{E}>     [3Ssub]<o_3sg>:
+:khw{E}{¨}>  <o_2pl>:
+#:khw>  <o_2pl>: # Dir/LR
+#:khu>   <o_2pl>: # Dir/LR
+[3Ssub]:y{E}{¨}>     [3Ssub]<o_3sg>:
 [3Ssub]:y>     [3Ssub]<o_3sg>: # Dir/LR
-[non3Ssub]:w{E}>     [non3Ssub]<o_3sg>:
+[non3Ssub]:w{E}{¨}>     [non3Ssub]<o_3sg>:
 [non3Ssub]:w>     [non3Ssub]<o_3sg>:
 :hu>    <o_3pl>:
-:jë>    <refl>:    #maura checking on schwa deletion here, should we make a separate lexicon for reflexive
+#:jë>    <refl>:    #maura checking on schwa deletion here, should we make a separate lexicon for reflexive
 
 LEXICON VerbTags
 <v><tv>:[ł]

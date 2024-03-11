@@ -4,7 +4,8 @@ Alphabet
 
 ̈    ̨   ̀    ̌   ̂
    
-%{E%}:ë %{E%}:0 ! ë that deletes before vowels and nasals
+%{E%}:e %{E%}:0 ! ë that deletes before vowels and nasals
+%{¨%}:̈  %{¨%}:0 ! the umlaut part of the ë
 
  %.
  %-
@@ -17,10 +18,19 @@ Sets
 Vowel = A E I O U
         a e i o u ;
 
+Nasal = N M
+        n m ;
+
 Rules
 
 "Remove suffix vowel with vowel-ending stem"
 i:0 <=> Vow %{VSUF%}:0 _ [ m | n ] ;
+
+"{E} as ë before vowels and nasals"
+%{E%}:0 <=> _ [ :Vowel ]/[ :0 | %{¨%}: ]* ;
+
+"{¨} as a diaeresis after a realised {E}"
+%{¨%}:̈  <=> %{E%}:e _ ;
 
 ! Resources:
 ! https://wiki.apertium.org/wiki/Starting_a_new_language_with_HFST#Enter_twol
