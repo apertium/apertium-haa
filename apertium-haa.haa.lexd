@@ -36,7 +36,7 @@ Punctuation
 
 
 PATTERN Verbs
-(subject(1) object?(1) subject(2) refl(1) VerbStem(1) subject(3) (VerbStem(2)[ł] VerbTags[ł]) subject(4) object?(2) refl(2))[^[3Ssub,non3Ssub],^[impf,perf]]
+(subject(1) object?(1) subject(2) object?(2) VerbStem(1) subject(3) (VerbStem(2)[ł] VerbTags[ł]) subject(4) object?(3))[^[3Ssub,non3Ssub],^[impf,perf]]
 
 
 
@@ -80,25 +80,22 @@ LEXICON subject(4)
 [ł,perf,non3Ssub]:he>  [ł,perf,non3Ssub]:      [ł,perf,non3Ssub]:äh>      [ł,perf,non3Ssub]<perf><s_3pl>:   #Dir/LR
 [ł,perf,non3Ssub]:hè>  [ł,perf,non3Ssub]:      [ł,perf,non3Ssub]:äh>      [ł,perf,non3Ssub]<perf><s_3pl>:   #Dir/LR
 
-LEXICON refl(2)
-:jë   <refl>:
-:	:
 
 
-LEXICON object(2)
-:sh{E}{¨}>   <o_1sg>:
-:sh>    <o_1sg>: # Dir/LR
-:ni>    <o_1pl>: 
-:n>     <o_2sg>:
-:khw{E}{¨}>  <o_2pl>:
-#:khw>  <o_2pl>: # Dir/LR
-#:khu>   <o_2pl>: # Dir/LR
-[3Ssub]:y{E}{¨}>     [3Ssub]<o_3sg>:
-[3Ssub]:y>     [3Ssub]<o_3sg>: # Dir/LR
-[non3Ssub]:w{E}{¨}>     [non3Ssub]<o_3sg>:
-[non3Ssub]:w>     [non3Ssub]<o_3sg>:
-:hu>    <o_3pl>:
-#:jë>    <refl>:    #maura checking on schwa deletion here, should we make a separate lexicon for reflexive
+LEXICON object(3)
+:sh{E}{¨}>        :      <o_1sg>:
+:sh>              :     <o_1sg>: # Dir/LR
+:ni>              :     <o_1pl>: 
+:n>               :     <o_2sg>:
+:khw{E}{¨}>       :     <o_2pl>:
+#:khw>            :     <o_2pl>: # Dir/LR
+#:khu>            :     <o_2pl>: # Dir/LR
+[3Ssub]:y{E}{¨}>  :     [3Ssub]<o_3sg>:
+[3Ssub]:y>        :     [3Ssub]<o_3sg>: # Dir/LR
+[non3Ssub]:w{E}{¨}> :   [non3Ssub]<o_3sg>:
+[non3Ssub]:w>       :   [non3Ssub]<o_3sg>:
+:hu>            :       <o_3pl>:
+:               :jë>    <refl>:    #maura checking on schwa deletion here, should we make a separate lexicon for reflexive
 
 LEXICON VerbTags
 <v><tv>:[ł]
