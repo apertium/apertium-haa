@@ -51,15 +51,16 @@ PATTERN Verbs
 
 
 LEXICON VerbStem(2)
-[ł,impf]:n>      nök’įį:’įį[ł,impf] #see
-[ł,impf]:n>      nök’įį:’įh[ł,impf] # Dir/LR
-[ł,perf]:n>      nök’įį:’į’[ł,perf]
-[ł,perf]:n>      nök’įį:’į[ł,perf] # Dir/LR
-[0,impf]:>       ëzrök:{Z}rök[0,impf] #do we need a morpheme boundary here? also, this verb is yell
+[ł,impf]:n>      nöh’įį:’įį[ł,impf] #see
+[ł,impf]:n>      nöh’įį:’įh[ł,impf] # Dir/LR
+[ł,perf]:n>      nöh’įį:’į’[ł,perf]
+[ł,perf]:n>      nöh’įį:’į[ł,perf] # Dir/LR
+[0,impf]:>       ëzrök:{Z}rök[0,impf] #yell
 [0,perf]:>       ëzrök:{Z}rök[0,perf] #need to disambiguate here, how?
-[0,impf]:>       idlòo:dlò{O}[0,impf] #laugh - second o is sometimes h
-[0,perf]:>       idlòo:dlòʼ[0,perf]
-[l,impf]:n>      nojät:jät[l,impf]
+[0,impf]:>       ëdlòo:dlò{O}[0,impf] #laugh - second o is sometimes h
+[0,impf]:>       idlòo:dlò{O}[0,impf] # Dir/LR
+[0,perf]:>       ëdlòo:dlòʼ[0,perf]
+[l,impf]:n>      nojät:jät[l,impf] #scare
 [l,impf]:n>      nojöt:jöt[l,impf] # Dir/LR
 
 #öktsey:tsey[ł] #make
