@@ -184,12 +184,13 @@ eyy:eyy         <det>:  #that
 LEXICON ProperNouns(2)
 Didą̀ʼ:Didą̀ʼ     <np>:   #RR grandchild
 Michael:Michael <np>:   #RR grandchild
+Didą̀:Didą̀       <np>:   #RR grandchild
 
 LEXICON FocusMarker(2)
 nöö:nöö         <foc>:  #our one focus marker- is foc a good tag?
 
 LEXICON Nouns(2)
-łùu:łùu         <n>:    #fish
+łuu:łuu         <n>:    #fish
 
 
 PATTERN Number
