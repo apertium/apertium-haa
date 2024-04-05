@@ -32,8 +32,14 @@ PATTERNS
 # NounRoot RegNounInfl
 Verbs
 Number
-Conjunctions(1) Conjunctions(2)
+Nouns
+ProperNouns
+Prepositions
+Determiners
+Adjectives
+Conjunctions(1) Conjunctions(2) #conjunctions(2) is coordinating conjunctions 
 Punctuation
+FocusMarker
 
 
 PATTERN Verbs
@@ -161,6 +167,30 @@ LEXICON VerbTags
 
 LEXICON Conjunctions(2)
 tsʼą̈̀ʼ:tsʼą̈̀ʼ <cnjcoo>:
+etsänn:etsänn <cnjcoo>: #also forms with etsän. is this a different word? 
+
+LEXICON Prepositions(2)
+haa:haa     <pr>:  #for
+hèe:hèe     <pr>:  #with   
+zhìt:zhìt   <pr>:  #in
+
+LEXICON Adjectives(2)
+tsöll:tsöll     <adj>:  #small
+hǫ̀zǫǫ:hǫ̀zǫǫ     <adj>:  #good
+
+LEXICON Determiners(2)
+eyy:eyy         <det>:  #that 
+
+LEXICON ProperNouns(2)
+Didą̀ʼ:Didą̀ʼ     <np>:   #RR grandchild
+Michael:Michael <np>:   #RR grandchild
+
+LEXICON FocusMarker(2)
+nöö:nöö         <foc>:  #our one focus marker- is foc a good tag?
+
+LEXICON Nouns(2)
+łùu:łùu         <n>:    #fish
+
 
 PATTERN Number
 Numeral [<num>:]
