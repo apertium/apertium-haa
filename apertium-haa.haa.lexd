@@ -52,10 +52,10 @@ PATTERN Verbs
 
 
 LEXICON VerbStem(2)
-[ł,impf]:n>      nöhʼįį:ʼįį[ł,impf] #see
-[ł,impf]:n>      nöhʼįį:ʼįh[ł,impf] # Dir/LR
-[ł,perf]:n>      nöhʼįį:ʼįʼ[ł,perf]
-[ł,perf]:n>      nöhʼįį:ʼį[ł,perf] # Dir/LR
+[ł,impf]:n>      noh’įį:’įį[ł,impf] #see
+[ł,impf]:n>      noh’įį:’įh[ł,impf] # Dir/LR
+[ł,perf]:n>      noh’įį:’į’[ł,perf]
+[ł,perf]:n>      noh’įį:’į[ł,perf] # Dir/LR
 [0,impf]:>       ëzrök:{Z}rök[0,impf] #yell
 [0,perf]:>       ëzrök:{Z}rök[0,perf] #need to disambiguate here, how?
 [0,impf]:>       ëdlòo:dlò{O}[0,impf] #laugh - second o is sometimes h
