@@ -57,7 +57,10 @@ PATTERN Verbs
 # house:house   # A noun
 
 
-LEXICON VerbStem(2)
+LEXICON VerbStem(5)
+#impf_cmarker    #perf_cmarker      theme       impf_stem       perf_stem       lemma?
+[ł]:>            [ł]:gh>            [ł]:n>      noh’įį:’įį[ł]   noh’įį:’į’[ł]           #see
+[ł]:>            [ł]:gh>            [ł]:n>      noh’įį:’įh[ł]   noh’įį:’į[ł]           #Dir/LR
 [ł,impf]:n>      noh’įį:’įį[ł,impf] #see
 [ł,impf]:n>      noh’įį:’įh[ł,impf] # Dir/LR
 [ł,perf]:n>      noh’įį:’į’[ł,perf]
