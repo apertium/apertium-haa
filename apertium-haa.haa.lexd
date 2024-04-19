@@ -35,6 +35,7 @@ Number
 Nouns
 ProperNouns
 Prepositions
+Aspect
 Determiners
 Adjectives
 Conjunctions(1) Conjunctions(2) #conjunctions(2) is coordinating conjunctions 
@@ -79,6 +80,7 @@ LEXICON VerbStem(3)
 [ł,perf]:     [ł,perf]:dh>     ohtseyy:tsąyy[ł,perf]
 [ł,perf]:     [ł,perf]:dh>     ohtseyy:tsąy[ł,perf]   #Dir/LR
 
+LEXICON Aspect(2)
 
 
 LEXICON subject(4)
