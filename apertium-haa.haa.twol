@@ -6,6 +6,7 @@ Alphabet
    
 %{E%}:e %{E%}:0 ! ë that deletes before vowels and nasals
 %{¨%}:̈  %{¨%}:0 ! the umlaut part of the ë
+%{gh%}:0        ! gh in gh perfective does not appear
 
  %.
  %-

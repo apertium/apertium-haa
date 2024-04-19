@@ -43,6 +43,8 @@ FocusMarker
 
 
 PATTERN Verbs
+#disjointPref plSubj  object  deicticSubj  refl   directive   aspect  gender/qualifier  theme    conjMarker      subj       cl   stem
+# --        subject(1) object(1) subject(2) subject(3) --       --        --         VerbStem(1) VerbStem(2)  subject(4)     VerbStem(3)
 (subject(1) object?(1) subject(2) object?(2) VerbStem(1) subject(3) (VerbStem(2)[ł] VerbTags[ł]) subject(4) object?(3))[^[3Ssub,non3Ssub],^[impf,perf]]
 
 
@@ -57,29 +59,26 @@ PATTERN Verbs
 # house:house   # A noun
 
 
-LEXICON VerbStem(2) #change to (5)
-#impf_cmarker    #perf_cmarker      theme       impf_stem       perf_stem       lemma?
-#[ł]:>            [ł]:gh>            [ł]:n>      noh’įį:’įį[ł]   noh’įį:’į’[ł]           #see
-#[ł]:>            [ł]:gh>            [ł]:n>      noh’įį:’įh[ł]   noh’įį:’į[ł]           #Dir/LR
-#[0]:>            [0]:>              [0]:>       ëzrök:{Z}rök[0] ëzrök:{Z}rök[0]        #yell, same root for perf/impf... 
-#[0]:>            [0]:n>             [0]:>       ëdlòo:dlò{O}[0] ëdlòo:dlòʼ[0]          #sometimes second o is h in impf
-#[l]:>            [l]:gh>            [l]:n>      nojät:jät[l]    nojät:jït[l]           #scare, root list says jït/jä̀t for perfective, but doesnʼt match paradigm 
-#[l]:>            [l]:gh>            [l]:n>      nojät:jöt[l]    nojät:jö̀t[l]           #Dir/LR 
-#[d]:>            [d]:gh>            [d]:>       jënąą:nąą[d]    jënąą:nąʼ[d]           #Drink 
-#[ł]:>            [ł]:dh>            [ł]:>       ohtseyy:tseyy[ł]  ohtseyy:tsąyy[ł]     #make 
-#[ł]:>            [ł]:dh>            [ł]:>       ohtseyy:tsey[ł]  ohtseyy:tsąy[ł]       #Dir/LR 
+LEXICON VerbStem(3) 
+[ł,impf]:n>   [ł,impf]:   noh’įį:’įį[ł,impf] #see
+[ł,impf]:n>   [ł,impf]:   noh’įį:’įh[ł,impf] # Dir/LR
+[ł,perf]:n>   [ł,impf]:   noh’įį:’į’[ł,perf]
+[ł,perf]:n>   [ł,impf]:   noh’įį:’į[ł,perf] # Dir/LR
+[0,impf]:    [0,impf]:   ëzrök:{Z}rök[0,impf] #yell
+[0,perf]:    [0,perf]:   ëzrök:{Z}rök[0,perf] #need to disambiguate here, how?
+[0,impf]:    [0,impf]:     ëdlòo:dlò{O}[0,impf] #laugh - second o is sometimes h
+[0,perf]:    [0,perf]:n>   ëdlòo:dlòʼ[0,perf]
+[l,impf]:n>   [l,impf]:       nojät:jät[l,impf] #scare
+[l,impf]:n>   [l,impf]:       nojöt:jöt[l,impf] # Dir/LR
+[l,perf]:n>   [l,perf]:{gh}>   nojät:jït[l,perf] 
+[l,perf]:n>   [l,perf]:{gh}>   nojät:jö̀t[l,perf] #Dir/LR 
+[d,impf]:     [d,impf]:        jënąą:nąą[d,impf] #drink
+[d,perf]:     [d,perf]:{gh}>   jënąą:nąʼ[d,perf]
+[ł,impf]:     [ł,impf]:        ohtseyy:tseyy[ł,impf] #make
+[ł,impf]:     [ł,impf]:        ohtseyy:tsey[ł,impf] #Dir/LR
+[ł,perf]:     [ł,perf]:dh>     ohtseyy:tsąyy[ł,perf]
+[ł,perf]:     [ł,perf]:dh>     ohtseyy:tsąy[ł,perf]   #Dir/LR
 
-[ł,impf]:n>      noh’įį:’įį[ł,impf] #see
-[ł,impf]:n>      noh’įį:’įh[ł,impf] # Dir/LR
-[ł,perf]:n>      noh’įį:’į’[ł,perf]
-[ł,perf]:n>      noh’įį:’į[ł,perf] # Dir/LR
-[0,impf]:>       ëzrök:{Z}rök[0,impf] #yell
-[0,perf]:>       ëzrök:{Z}rök[0,perf] #need to disambiguate here, how?
-[0,impf]:>       ëdlòo:dlò{O}[0,impf] #laugh - second o is sometimes h
-[0,perf]:>       ëdlòo:dlòʼ[0,perf]
-[l,impf]:n>      nojät:jät[l,impf] #scare
-[l,impf]:n>      nojöt:jöt[l,impf] # Dir/LR
-[d,impf]:>       jënąą:nąą[d,impf] #drink
 
 
 LEXICON subject(4)
