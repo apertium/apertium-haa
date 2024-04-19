@@ -57,10 +57,18 @@ PATTERN Verbs
 # house:house   # A noun
 
 
-LEXICON VerbStem(5)
+LEXICON VerbStem(2) #change to (5)
 #impf_cmarker    #perf_cmarker      theme       impf_stem       perf_stem       lemma?
-[ł]:>            [ł]:gh>            [ł]:n>      noh’įį:’įį[ł]   noh’įį:’į’[ł]           #see
-[ł]:>            [ł]:gh>            [ł]:n>      noh’įį:’įh[ł]   noh’įį:’į[ł]           #Dir/LR
+#[ł]:>            [ł]:gh>            [ł]:n>      noh’įį:’įį[ł]   noh’įį:’į’[ł]           #see
+#[ł]:>            [ł]:gh>            [ł]:n>      noh’įį:’įh[ł]   noh’įį:’į[ł]           #Dir/LR
+#[0]:>            [0]:>              [0]:>       ëzrök:{Z}rök[0] ëzrök:{Z}rök[0]        #yell, same root for perf/impf... 
+#[0]:>            [0]:n>             [0]:>       ëdlòo:dlò{O}[0] ëdlòo:dlòʼ[0]          #sometimes second o is h in impf
+#[l]:>            [l]:gh>            [l]:n>      nojät:jät[l]    nojät:jït[l]           #scare, root list says jït/jä̀t for perfective, but doesnʼt match paradigm 
+#[l]:>            [l]:gh>            [l]:n>      nojät:jöt[l]    nojät:jö̀t[l]           #Dir/LR 
+#[d]:>            [d]:gh>            [d]:>       jënąą:nąą[d]    jënąą:nąʼ[d]           #Drink 
+#[ł]:>            [ł]:dh>            [ł]:>       ohtseyy:tseyy[ł]  ohtseyy:tsąyy[ł]     #make 
+#[ł]:>            [ł]:dh>            [ł]:>       ohtseyy:tsey[ł]  ohtseyy:tsąy[ł]       #Dir/LR 
+
 [ł,impf]:n>      noh’įį:’įį[ł,impf] #see
 [ł,impf]:n>      noh’įį:’įh[ł,impf] # Dir/LR
 [ł,perf]:n>      noh’įį:’į’[ł,perf]
@@ -68,15 +76,10 @@ LEXICON VerbStem(5)
 [0,impf]:>       ëzrök:{Z}rök[0,impf] #yell
 [0,perf]:>       ëzrök:{Z}rök[0,perf] #need to disambiguate here, how?
 [0,impf]:>       ëdlòo:dlò{O}[0,impf] #laugh - second o is sometimes h
-[0,impf]:>       idlòo:dlò{O}[0,impf] # Dir/LR
 [0,perf]:>       ëdlòo:dlòʼ[0,perf]
 [l,impf]:n>      nojät:jät[l,impf] #scare
 [l,impf]:n>      nojöt:jöt[l,impf] # Dir/LR
 [d,impf]:>       jënąą:nąą[d,impf] #drink
-
-#öktsey:tsey[ł] #make
-#öktsey:tseyy[ł] # Dir/LR
-#dädökchʼee:chʼee[ł]
 
 
 LEXICON subject(4)
