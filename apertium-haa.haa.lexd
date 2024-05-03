@@ -192,6 +192,23 @@ LEXICON subject(4)
 [ł,opt,0cm,non3Ssub]:h{E}{¨}>  [ł,opt,0cm,non3Ssub]:           [ł,opt,0cm,non3Ssub]:uh>      [ł,opt,0cm,non3Ssub]<s_3pl>: 
 [ł,opt,0cm,non3Ssub]:h{E}{¨}>  [ł,opt,0cm,non3Ssub]:           [ł,opt,0cm,non3Ssub]:oh>      [ł,opt,0cm,non3Ssub]<s_3pl>: #Dir/LR
 
+[d,opt,0cm,non3Ssub]:          [d,opt,0cm,non3Ssub]:           [d,opt,0cm,non3Ssub]:ush>      [d,opt,0cm,non3Ssub]<s_1sg>: 
+[d,opt,0cm,non3Ssub]:          [d,opt,0cm,non3Ssub]:trʼ{E}{¨}> [d,opt,0cm,non3Ssub]:u>      [d,opt,0cm,non3Ssub]<s_1pl>:
+[d,opt,0cm,non3Ssub]:          [d,opt,0cm,non3Ssub]:           [d,opt,0cm,non3Ssub]:on>      [d,opt,0cm,non3Ssub]<s_2sg>:    
+[d,opt,0cm,non3Ssub]:          [d,opt,0cm,non3Ssub]:           [d,opt,0cm,non3Ssub]:äh>      [d,opt,0cm,non3Ssub]<s_2pl>:
+[d,opt,0cm,3Ssub]:             [d,opt,0cm,3Ssub]:              [d,opt,0cm,3Ssub]:u>         [d,opt,0cm,3Ssub]<s_3sg>: 
+[d,opt,0cm,non3Ssub]:h{E}{¨}>  [d,opt,0cm,non3Ssub]:           [d,opt,0cm,non3Ssub]:u>      [d,opt,0cm,non3Ssub]<s_3pl>: 
+
+[0cl,opt,0cm,non3Ssub]:          [0cl,opt,0cm,non3Ssub]:           [0cl,opt,0cm,non3Ssub]:uh>      [0cl,opt,0cm,non3Ssub]<s_1sg>: 
+[0cl,opt,0cm,non3Ssub]:          [0cl,opt,0cm,non3Ssub]:trʼ{E}{¨}> [0cl,opt,0cm,non3Ssub]:u>      [0cl,opt,0cm,non3Ssub]<s_1pl>:
+[0cl,opt,0cm,non3Ssub]:          [0cl,opt,0cm,non3Ssub]:           [0cl,opt,0cm,non3Ssub]:on>      [0cl,opt,0cm,non3Ssub]<s_2sg>:    
+[0cl,opt,0cm,non3Ssub]:          [0cl,opt,0cm,non3Ssub]:           [0cl,opt,0cm,non3Ssub]:ǫ>      [0cl,opt,0cm,non3Ssub]<s_2sg>: #Dir/LR
+[0cl,opt,0cm,non3Ssub]:          [0cl,opt,0cm,non3Ssub]:           [0cl,opt,0cm,non3Ssub]:äh>      [0cl,opt,0cm,non3Ssub]<s_2pl>:
+[0cl,opt,0cm,3Ssub]:             [0cl,opt,0cm,3Ssub]:              [0cl,opt,0cm,3Ssub]:u>         [0cl,opt,0cm,3Ssub]<s_3sg>: 
+[0cl,opt,0cm,non3Ssub]:h{E}{¨}>  [0cl,opt,0cm,non3Ssub]:           [0cl,opt,0cm,non3Ssub]:u>      [0cl,opt,0cm,non3Ssub]<s_3pl>: 
+
+
+
 
 
 LEXICON object(3)
