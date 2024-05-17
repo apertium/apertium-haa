@@ -7,6 +7,8 @@ Alphabet
 %{E%}:e %{E%}:0 ! ë that deletes before vowels and nasals
 %{¨%}:̈  %{¨%}:0 ! the umlaut part of the ë
 %{gh%}:0        ! gh in gh perfective does not appear
+%{Z%}:z %{Z%}:0 ! z sometimes deletes in yell 
+%{O%}:o %{O%}:h ! second o is sometimes h in laugh
 
  %.
  %-

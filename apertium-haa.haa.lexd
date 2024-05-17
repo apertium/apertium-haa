@@ -65,7 +65,7 @@ LEXICON VerbStem(2)
 [ł,perf,0cm]:n>         noh’įį:’į’[ł,perf,0cm]
 [ł,perf,0cm]:n>         noh’įį:’į[ł,perf,0cm] # Dir/LR
 [0cl,impf,0cm]:           ëzrök:{Z}rök[0cl,impf,0cm] #yell
-[0cl,perf,0cm]:           ëzrök:{Z}rök[0cl,perf,0cm] #need to disambiguate here, how?
+[0cl,perf,0cm]:           ëzrök:{Z}rök[0cl,perf,0cm] # same stem for perfective 
 #[0cl,incp,dh]:           ëzrök:{Z}rök[0cl,incp,dh]
 [0cl,impf,0cm]:           ëdlòo:dlò{O}[0cl,impf,0cm] #laugh - second o is sometimes h
 [0cl,perf,n]:             ëdlòo:dlòʼ[0cl,perf,n]
