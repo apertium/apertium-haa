@@ -7,8 +7,7 @@ Alphabet
 %{E%}:e %{E%}:0 ! ë that deletes before vowels and nasals
 %{¨%}:̈  %{¨%}:0 ! the umlaut part of the ë
 %{gh%}:0        ! gh in gh perfective does not appear
-%{Z%}:z %{Z%}:0 ! z sometimes deletes in yell 
-%{O%}:o %{O%}:h ! second o is sometimes h in laugh
+%{Z%}:z %{Z%}:s ! zr becomes sr after h
 
  %.
  %-
@@ -34,6 +33,9 @@ i:0 <=> Vow %{VSUF%}:0 _ [ m | n ] ;
 
 "{¨} as a diaeresis after a realised {E}"
 %{¨%}:̈  <=> %{E%}:e _ ;
+
+"Zr becomes sr after h"
+%{Z%}:s <=> :h %>: _ :r ; 
 
 ! Resources:
 ! https://wiki.apertium.org/wiki/Starting_a_new_language_with_HFST#Enter_twol
