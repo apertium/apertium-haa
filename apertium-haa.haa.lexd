@@ -30,7 +30,8 @@
 PATTERNS
 ## Example inflection pattern:
 # NounRoot RegNounInfl
-Verbs
+Verbs-Tv
+Verbs-Iv 
 Number
 Nouns
 ProperNouns
@@ -42,10 +43,15 @@ Punctuation
 FocusMarker
 
 
-PATTERN Verbs
+PATTERN Verbs-Tv
 #disjointPref plSubj  object  deicticSubj  refl   directive   aspect  gender/qualifier  theme       conjMarker,subj,cl      stem
 # --        subject(1) object(1) subject(2) object(2) --   aspect( 1)       --         VerbStem-Tv(1)       subject(3)      VerbStem-Tv(2)
 (subject(1) object?(1) subject(2) object?(2) aspect(1) VerbStem-Tv(1) subject(3) VerbStem-Tv(2) [ <v><tv>: ] aspect(2) subject(4) object?(3))[^[3Ssub,non3Ssub],^[impf,perf,incp,fut,opt],^[l,d,0cl,ł],^[0cm,dh,gh,n]]
+
+PATTERN Verbs-Iv
+#disjointPref plSubj  object  deicticSubj  refl   directive   aspect  gender/qualifier  theme       conjMarker,subj,cl      stem
+# --        subject(1) --     subject(2) object(2) --   aspect( 1)       --         VerbStem-Iv(1)       subject(3)      VerbStem-Iv(2)
+(subject(1) subject(2) object?(2) aspect(1) VerbStem-Iv(1) subject(3) VerbStem-Iv(2) [ <v><iv>: ] aspect(2) subject(4) object?(3))[^[3Ssub,non3Ssub],^[impf,perf,incp,fut,opt],^[l,d,0cl,ł],^[0cm,dh,gh,n]]
 
 
 
@@ -82,6 +88,10 @@ LEXICON VerbStem-Tv(2)
 [ł,perf,dh]:            ohtseyy:tsąyy[ł,perf,dh]
 [ł,perf,dh]:            ohtseyy:tsąy[ł,perf,dh]   #Dir/LR
 
+
+LEXICON VerbStem-Iv(2)
+[0cl,impf,0cm]:         ëkoo:koo[0cl,impf,0cm] #cough
+[0cl,impf,0cm]:         ëkoo:koh[0cl,impf,0cm] #Dir/LR
 #cough, cryweep1 are intv?
 
 LEXICON aspect(2)
