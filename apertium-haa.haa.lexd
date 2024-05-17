@@ -60,10 +60,10 @@ PATTERN Verbs
 
 
 LEXICON VerbStem(2) 
-[ł,impf,0cm]:n>        noh’įį:’įį[ł,impf,0cm] #see
-[ł,impf,0cm]:n>         noh’įį:’įh[ł,impf,0cm] # Dir/LR
-[ł,perf,0cm]:n>         noh’įį:’į’[ł,perf,0cm]
-[ł,perf,0cm]:n>         noh’įį:’į[ł,perf,0cm] # Dir/LR
+[ł,impf,0cm]:n>        nohʼįį:ʼįį[ł,impf,0cm] #see
+[ł,impf,0cm]:n>         nohʼįį:ʼįh[ł,impf,0cm] # Dir/LR
+[ł,perf,0cm]:n>         nohʼįį:ʼįʼ[ł,perf,0cm]
+[ł,perf,0cm]:n>         nohʼįį:ʼį[ł,perf,0cm] # Dir/LR
 [0cl,impf,0cm]:           ëzrök:{Z}rök[0cl,impf,0cm] #yell
 [0cl,perf,0cm]:           ëzrök:{Z}rök[0cl,perf,0cm] # same stem for perfective 
 #[0cl,incp,dh]:           ëzrök:{Z}rök[0cl,incp,dh]

@@ -1,108 +1,108 @@
-[0rSF5Cg-BZXf#0] ^ntrʼënohʼįį/*ntrʼënohʼįį$
+[0rSF5Cg-BZXf#0] ^ntrʼënohʼįį/nohʼįį<v><impf><s_1pl><o_2sg>$
 [/0rSF5Cg-BZXf]
-[1vFtSatR28tT#0] ^khwëną̈h/*khwëną̈h$^’/'<apos>$^įį/*įį$
-[/1vFtSatR28tT]
-[5907dl0MbWQX#0] ^ninökʼįį/nökʼįį<v><tv><perf><s_1sg>/nökʼįį<v><tv><perf><s_1sg><o_1pl>$
+[5907dl0MbWQX#0] ^ninökʼįį/nohʼįį<v><impf><s_1sg><o_1pl>$
 [/5907dl0MbWQX]
-[6tmg8NJhFbT7#0] ^khwëtrʼënohʼįį/*khwëtrʼënohʼįį$
+[6tmg8NJhFbT7#0] ^khwëtrʼënohʼįį/nohʼįį<v><impf><s_1pl><o_2pl>$
 [/6tmg8NJhFbT7]
-[7VOH5hGQgFOX#0] ^hunähʼįh/*hunähʼįh$
+[7VOH5hGQgFOX#0] ^hunähʼįh/nohʼįį<v><impf><s_2pl><o_3pl>$
 [/7VOH5hGQgFOX]
-[7XM1xEfbAyDk#0] ^khwënök/*khwënök$^’/'<apos>$^įį/*įį$
-[/7XM1xEfbAyDk]
-[8MOPKbJwUgcn#0] ^yënohʼįh/*yënohʼįh$
+[83Ou1hyyk51d#0] ^khwënökʼįh/nohʼįį<v><impf><s_1sg><o_2pl>$
+[/83Ou1hyyk51d]
+[8MOPKbJwUgcn#0] ^yënohʼįh/nohʼįį<v><impf><s_3sg><o_3sg>$
 [/8MOPKbJwUgcn]
-[90tLewKhB4QT#0] ^ntrʼënohʼįh/*ntrʼënohʼįh$
+[90tLewKhB4QT#0] ^ntrʼënohʼįh/nohʼįį<v><impf><s_1pl><o_2sg>$
 [/90tLewKhB4QT]
+[Bg13wTnotzxn#0] ^shënähʼįh/*shënähʼįh$
+[/Bg13wTnotzxn]
 [Bh86466xjuf3#0] ^ninök/*ninök$^-/-<guio>$^ʼįį/*ʼįį$
 [/Bh86466xjuf3]
-[BmdLNthxj_Lt#0] ^nökʼįį/*nökʼįį$
+[BmdLNthxj_Lt#0] ^nökʼįį/nohʼįį<v><impf><s_1sg>$
 [/BmdLNthxj_Lt]
-[CRENvkPbgu8N#0] ^khwëną̈h/*khwëną̈h$^’/'<apos>$^įh/*įh$
-[/CRENvkPbgu8N]
-[CV4-Tbf2_K-h#0] ^khwëtrʼënohʼįh/*khwëtrʼënohʼįh$
+[CV4-Tbf2_K-h#0] ^khwëtrʼënohʼįh/nohʼįį<v><impf><s_1pl><o_2pl>$
 [/CV4-Tbf2_K-h]
-[DWEy8z-UCDVS#0] ^hutrʼënohʼįh/*hutrʼënohʼįh$
+[DWEy8z-UCDVS#0] ^hutrʼënohʼįh/nohʼįį<v><impf><s_1pl><o_3pl>$
 [/DWEy8z-UCDVS]
-[DiEpnKnexnYZ#0] ^khwënohʼįh/*khwënohʼįh$
+[DiEpnKnexnYZ#0] ^khwënohʼįh/nohʼįį<v><impf><s_3sg><o_2pl>$
 [/DiEpnKnexnYZ]
-[E2_kJw-k5yvE#0] ^ninähʼįh/*ninähʼįh$
+[Do6mEv0t1Rkt#0] ^khwënökʼįį/nohʼįį<v><impf><s_1sg><o_2pl>$
+[/Do6mEv0t1Rkt]
+[E2_kJw-k5yvE#0] ^ninähʼįh/nohʼįį<v><impf><s_2pl><o_1pl>$
 [/E2_kJw-k5yvE]
-[E3-FkdJ4QhAW#0] ^ninähʼįį/*ninähʼįį$
+[E3-FkdJ4QhAW#0] ^ninähʼįį/nohʼįį<v><impf><s_2pl><o_1pl>$
 [/E3-FkdJ4QhAW]
-[Fxv3sLCbFPkd#0] ^shëtrʼënohʼįį/*shëtrʼënohʼįį$
+[Fxv3sLCbFPkd#0] ^shëtrʼënohʼįį/nohʼįį<v><impf><s_1pl><o_1sg>$
 [/Fxv3sLCbFPkd]
-[G2ye1UW2sh3x#0] ^nnökʼįį/nökʼįį<v><tv><perf><s_1sg><o_2sg>$
+[G2ye1UW2sh3x#0] ^nnökʼįį/nohʼįį<v><impf><s_1sg><o_2sg>$
 [/G2ye1UW2sh3x]
-[HZarrXgJn_uM#0] ^nnohʼįį/*nnohʼįį$
+[HZarrXgJn_uM#0] ^nnohʼįį/nohʼįį<v><impf><s_3sg><o_2sg>$
 [/HZarrXgJn_uM]
-[IMM6IVePebhB#0] ^shënähʼįį/*shënähʼįį$
+[IMM6IVePebhB#0] ^shënähʼįį/nohʼįį<v><impf><s_2pl><o_1sg>$
 [/IMM6IVePebhB]
-[IZir4sQUt-tb#0] ^nnohʼįh/*nnohʼįh$
+[IZir4sQUt-tb#0] ^nnohʼįh/nohʼįį<v><impf><s_3sg><o_2sg>$
 [/IZir4sQUt-tb]
 [JA8P9EJKbqW8#0] ^nnök/*nnök$^-/-<guio>$^ʼįh/*ʼįh$
 [/JA8P9EJKbqW8]
-[KCURgwV6wZxT#0] ^ninohʼįį/*ninohʼįį$
+[JtBINZ0kd9ad#0] ^ninähʼįh/*ninähʼįh$
+[/JtBINZ0kd9ad]
+[KBEu248caghq#0] ^khwënök/*khwënök$^-/-<guio>$^ʼįį/*ʼįį$
+[/KBEu248caghq]
+[KCURgwV6wZxT#0] ^ninohʼįį/nohʼįį<v><impf><s_3sg><o_1pl>$
 [/KCURgwV6wZxT]
-[LP9dEVFosfM2#0] ^shënäh/*shënäh$^’/'<apos>$^įh/*įh$
-[/LP9dEVFosfM2]
-[MYijAGC6RLkf#0] ^shënohʼįį/*shënohʼįį$
+[MYijAGC6RLkf#0] ^shënohʼįį/nohʼįį<v><impf><s_3sg><o_1sg>$
 [/MYijAGC6RLkf]
-[NY646bpKJj-q#0] ^huną̈hʼįį/*huną̈hʼįį$
+[NY646bpKJj-q#0] ^huną̈hʼįį/nohʼįį<v><impf><s_2sg><o_3pl>$
 [/NY646bpKJj-q]
 [NnHjRSOz7wuI#0] ^ninök/*ninök$^-/-<guio>$^ʼįh/*ʼįh$
 [/NnHjRSOz7wuI]
-[QdSd4mHybMrs#0] ^shëtrʼënohʼįh/*shëtrʼënohʼįh$
+[QdSd4mHybMrs#0] ^shëtrʼënohʼįh/nohʼįį<v><impf><s_1pl><o_1sg>$
 [/QdSd4mHybMrs]
-[STWDu3UJLQc-#0] ^khwënök/*khwënök$^-/-<guio>$^’/'<apos>$^įį/*įį$
-[/STWDu3UJLQc-]
-[TJ6iMl-uJlWZ#0] ^shëną̈h/*shëną̈h$^’/'<apos>$^įį/*įį$
-[/TJ6iMl-uJlWZ]
-[TQFWiyJjM-F-#0] ^nnökʼįh/nökʼįį<v><tv><perf><s_1sg><o_2sg>$
+[TQFWiyJjM-F-#0] ^nnökʼįh/nohʼįį<v><impf><s_1sg><o_2sg>$
 [/TQFWiyJjM-F-]
-[TnxmTycDzuo1#0] ^ninäh/*ninäh$^’/'<apos>$^įh/*įh$
-[/TnxmTycDzuo1]
 [UGY4ND_nyv_S#0] ^nök/*nök$^-/-<guio>$^ʼįį/*ʼįį$
 [/UGY4ND_nyv_S]
-[URiBox5yv18n#0] ^hunohʼįį/*hunohʼįį$
+[URiBox5yv18n#0] ^hunohʼįį/nohʼįį<v><impf><s_3sg><o_3pl>$
 [/URiBox5yv18n]
 [UZVRrTIQZKlF#0] ^nnök/*nnök$^-/-<guio>$^ʼįį/*ʼįį$
 [/UZVRrTIQZKlF]
-[VnHA2szrD41V#0] ^khwënök/*khwënök$^-/-<guio>$^’/'<apos>$^įh/*įh$
-[/VnHA2szrD41V]
-[Y23B6MkziXkB#0] ^khwënök/*khwënök$^’/'<apos>$^įh/*įh$
-[/Y23B6MkziXkB]
-[Y3LnnBgeqDsb#0] ^hutrʼënohʼįį/*hutrʼënohʼįį$
+[Y3LnnBgeqDsb#0] ^hutrʼënohʼįį/nohʼįį<v><impf><s_1pl><o_3pl>$
 [/Y3LnnBgeqDsb]
-[ajyf2dyMr6na#0] ^ninökʼįh/*ninökʼįh$
+[ajyf2dyMr6na#0] ^ninökʼįh/nohʼįį<v><impf><s_1sg><o_1pl>$
 [/ajyf2dyMr6na]
-[aoaelyVBSlfG#0] ^nohʼįį/*nohʼįį$
+[aoaelyVBSlfG#0] ^nohʼįį/nohʼįį<v><impf><s_3sg>$
 [/aoaelyVBSlfG]
-[cF0yIJy8AJU9#0] ^nökʼįh/*nökʼįh$
+[cF0yIJy8AJU9#0] ^nökʼįh/nohʼįį<v><impf><s_1sg>$
 [/cF0yIJy8AJU9]
-[eqZ6uRWcbGy_#0] ^hunohʼįh/*hunohʼįh$
+[eqZ6uRWcbGy_#0] ^hunohʼįh/nohʼįį<v><impf><s_3sg><o_3pl>$
 [/eqZ6uRWcbGy_]
-[fFPJN46Uegth#0] ^nohʼįh/*nohʼįh$
+[fFPJN46Uegth#0] ^nohʼįh/nohʼįį<v><impf><s_3sg>$
 [/fFPJN46Uegth]
-[fJfHld-iPDWd#0] ^hunähʼįį/*hunähʼįį$
+[fJfHld-iPDWd#0] ^hunähʼįį/nohʼįį<v><impf><s_2pl><o_3pl>$
 [/fJfHld-iPDWd]
 [gUYBfoD0KzPA#0] ^nök/*nök$^-/-<guio>$^ʼįh/*ʼįh$
 [/gUYBfoD0KzPA]
-[jC7SIXYLQ7oS#0] ^khwënohʼįį/*khwënohʼįį$
+[jC7SIXYLQ7oS#0] ^khwënohʼįį/nohʼįį<v><impf><s_3sg><o_2pl>$
 [/jC7SIXYLQ7oS]
-[jkHFny1FSbDC#0] ^ną̈hʼįh/*ną̈hʼįh$
+[jkHFny1FSbDC#0] ^ną̈hʼįh/nohʼįį<v><impf><s_2sg>$
 [/jkHFny1FSbDC]
-[jvh8vK4LGb1q#0] ^huną̈hʼįh/*huną̈hʼįh$
+[jvh8vK4LGb1q#0] ^huną̈hʼįh/nohʼįį<v><impf><s_2sg><o_3pl>$
 [/jvh8vK4LGb1q]
-[mWKb8iaCf4W6#0] ^shënohʼįh/*shënohʼįh$
+[kr_qx5d6n5rV#0] ^khwëną̈hʼįį/*khwëną̈hʼįį$
+[/kr_qx5d6n5rV]
+[mWKb8iaCf4W6#0] ^shënohʼįh/nohʼįį<v><impf><s_3sg><o_1sg>$
 [/mWKb8iaCf4W6]
-[ugEBVkUxkJ37#0] ^yënohʼįį/*yënohʼįį$
+[qItoM6-DjEqU#0] ^niną̈hʼįį/*niną̈hʼįį$
+[/qItoM6-DjEqU]
+[ugEBVkUxkJ37#0] ^yënohʼįį/nohʼįį<v><impf><s_3sg><o_3sg>$
 [/ugEBVkUxkJ37]
-[v0HXgPdtuNMh#0] ^ną̈hʼįį/*ną̈hʼįį$
+[v0HXgPdtuNMh#0] ^ną̈hʼįį/nohʼįį<v><impf><s_2sg>$
 [/v0HXgPdtuNMh]
-[viPlC1-OSOcY#0] ^ninohʼįh/*ninohʼįh$
+[vIAZAzVebSsn#0] ^khwënök/*khwënök$^-/-<guio>$^ʼįh/*ʼįh$
+[/vIAZAzVebSsn]
+[viPlC1-OSOcY#0] ^ninohʼįh/nohʼįį<v><impf><s_3sg><o_1pl>$
 [/viPlC1-OSOcY]
-[xoLbztlruDQy#0] ^niną̈h/*niną̈h$^’/'<apos>$^įį/*įį$
-[/xoLbztlruDQy]
-[zyF33voxCx34#0] ^shënähʼįh/*shënähʼįh$
+[xRxSGK3S-5Qv#0] ^shëną̈hʼįį/*shëną̈hʼįį$
+[/xRxSGK3S-5Qv]
+[zOA7Hd0IKBCW#0] ^khwëną̈hʼįh/*khwëną̈hʼįh$
+[/zOA7Hd0IKBCW]
+[zyF33voxCx34#0] ^shënähʼįh/nohʼįį<v><impf><s_2pl><o_1sg>$
 [/zyF33voxCx34]
