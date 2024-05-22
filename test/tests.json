@@ -1,7 +1,15 @@
 {
     "analysis": {
-        "input": "analysis-input.txt",
+        "input": "analysis-input.txt" ,
         "mode": "haa-disam"
+    },
+    "make-gen":{
+        "input" : "makegeneration-input.txt",
+        "mode": "haa-gener"
+    },
+    "drink-gen":{
+        "input" : "drinkgeneration-input.txt",
+        "mode": "haa-gener"
     },
     "generation": {
         "input": "generation-input.txt",
