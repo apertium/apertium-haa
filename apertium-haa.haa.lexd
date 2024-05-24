@@ -136,15 +136,15 @@ LEXICON subject(4)
 [l,impf,0cm,3Ssub]:            [0cl,impf,0cm,3Ssub]:              [0cl,impf,0cm,3Ssub]:o>               [0cl,impf,0cm,3Ssub]<s_3sg>: 
 [l,impf,0cm,non3Ssub]:h{E}{¨}> [0cl,impf,0cm,non3Ssub]:           [0cl,impf,0cm,non3Ssub]:o>            [0cl,impf,0cm,non3Ssub]<s_3pl>:
 
-[ł,perf,0cm,non3Ssub]:          [ł,perf,0cm,non3Ssub]:           [ł,perf,0cm,non3Ssub]:ök>      [ł,perf,0cm,non3Ssub]<s_1sg>:
-[ł,perf,0cm,non3Ssub]:          [ł,perf,0cm,non3Ssub]:trʼ{E}{¨}> [ł,perf,0cm,non3Ssub]:äh>      [ł,perf,0cm,non3Ssub]<s_1pl>:
-[ł,perf,0cm,non3Ssub]:          [ł,perf,0cm,non3Ssub]:           [ł,perf,0cm,non3Ssub]:äh>      [ł,perf,0cm,non3Ssub]<s_2sg>: 
-[ł,perf,0cm,non3Ssub]:          [ł,perf,0cm,non3Ssub]:           [ł,perf,0cm,non3Ssub]:ą̈h>      [ł,perf,0cm,non3Ssub]<s_2sg>:     #Dir/LR
-[ł,perf,0cm,non3Ssub]:          [ł,perf,0cm,non3Ssub]:           [ł,perf,0cm,non3Ssub]:äh>      [ł,perf,0cm,non3Ssub]<s_2pl>:
-[ł,perf,0cm,3Ssub]:             [ł,perf,0cm,3Ssub]:              [ł,perf,0cm,3Ssub]:äh>         [ł,perf,0cm,3Ssub]<s_3sg>: 
-[ł,perf,0cm,non3Ssub]:h{E}{¨}>  [ł,perf,0cm,non3Ssub]:           [ł,perf,0cm,non3Ssub]:äh>      [ł,perf,0cm,non3Ssub]<s_3pl>:
-[ł,perf,0cm,non3Ssub]:he>       [ł,perf,0cm,non3Ssub]:           [ł,perf,0cm,non3Ssub]:äh>      [ł,perf,0cm,non3Ssub]<s_3pl>:   #Dir/LR
-[ł,perf,0cm,non3Ssub]:hè>       [ł,perf,0cm,non3Ssub]:           [ł,perf,0cm,non3Ssub]:äh>      [ł,perf,0cm,non3Ssub]<s_3pl>:   #Dir/LR
+#[ł,perf,0cm,non3Ssub]:          [ł,perf,0cm,non3Ssub]:           [ł,perf,0cm,non3Ssub]:ök>      [ł,perf,0cm,non3Ssub]<s_1sg>:
+#[ł,perf,0cm,non3Ssub]:          [ł,perf,0cm,non3Ssub]:trʼ{E}{¨}> [ł,perf,0cm,non3Ssub]:äh>      [ł,perf,0cm,non3Ssub]<s_1pl>:
+#[ł,perf,0cm,non3Ssub]:          [ł,perf,0cm,non3Ssub]:           [ł,perf,0cm,non3Ssub]:äh>      [ł,perf,0cm,non3Ssub]<s_2sg>: 
+#[ł,perf,0cm,non3Ssub]:          [ł,perf,0cm,non3Ssub]:           [ł,perf,0cm,non3Ssub]:ą̈h>      [ł,perf,0cm,non3Ssub]<s_2sg>:     #Dir/LR
+#[ł,perf,0cm,non3Ssub]:          [ł,perf,0cm,non3Ssub]:           [ł,perf,0cm,non3Ssub]:äh>      [ł,perf,0cm,non3Ssub]<s_2pl>:
+#[ł,perf,0cm,3Ssub]:             [ł,perf,0cm,3Ssub]:              [ł,perf,0cm,3Ssub]:äh>         [ł,perf,0cm,3Ssub]<s_3sg>: 
+#[ł,perf,0cm,non3Ssub]:h{E}{¨}>  [ł,perf,0cm,non3Ssub]:           [ł,perf,0cm,non3Ssub]:äh>      [ł,perf,0cm,non3Ssub]<s_3pl>:
+#[ł,perf,0cm,non3Ssub]:he>       [ł,perf,0cm,non3Ssub]:           [ł,perf,0cm,non3Ssub]:äh>      [ł,perf,0cm,non3Ssub]<s_3pl>:   #Dir/LR
+#[ł,perf,0cm,non3Ssub]:hè>       [ł,perf,0cm,non3Ssub]:           [ł,perf,0cm,non3Ssub]:äh>      [ł,perf,0cm,non3Ssub]<s_3pl>:   #Dir/LR
 
 [ł,perf,dh,non3Ssub]:          [ł,perf,dh,non3Ssub]:           [ł,perf,dh,non3Ssub]:dhök>      [ł,perf,dh,non3Ssub]<s_1sg>:
 [ł,perf,dh,non3Ssub]:          [ł,perf,dh,non3Ssub]:trʼ{E}{¨}> [ł,perf,dh,non3Ssub]:äh>      [ł,perf,dh,non3Ssub]<s_1pl>:
@@ -157,21 +157,21 @@ LEXICON subject(4)
 [ł,perf,dh,non3Ssub]:h{E}{¨}>  [ł,perf,dh,non3Ssub]:           [ł,perf,dh,non3Ssub]:oh>      [ł,perf,dh,non3Ssub]<s_3pl>:
 [ł,perf,dh,non3Ssub]:h{E}{¨}>  [ł,perf,dh,non3Ssub]:           [ł,perf,dh,non3Ssub]:eh>      [ł,perf,dh,non3Ssub]<s_3pl>:  #Dir/LR
 
-[d,perf,0cm,non3Ssub]:         [d,perf,0cm,non3Ssub]:           [d,perf,0cm,non3Ssub]:ish>           [d,perf,0cm,non3Ssub]<s_1sg>: #is the s-deletion phonological?
-[d,perf,0cm,non3Ssub]:         [d,perf,0cm,non3Ssub]:           [d,perf,0cm,non3Ssub]:ih>            [d,perf,0cm,non3Ssub]<s_1sg>: # Dir/LR
-[d,perf,0cm,non3Ssub]:         [d,perf,0cm,non3Ssub]:trʼ{E}{¨}> [d,perf,0cm,non3Ssub]:j{E}{¨}>       [d,perf,0cm,non3Ssub]<s_1pl>:
-[d,perf,0cm,non3Ssub]:         [d,perf,0cm,non3Ssub]:           [d,perf,0cm,non3Ssub]:į>             [d,perf,0cm,non3Ssub]<s_2sg>:
-[d,perf,0cm,non3Ssub]:         [d,perf,0cm,non3Ssub]:           [d,perf,0cm,non3Ssub]:in>            [d,perf,0cm,non3Ssub]<s_2sg>: # Dir/LR
-[d,perf,0cm,non3Ssub]:         [d,perf,0cm,non3Ssub]:           [d,perf,0cm,non3Ssub]:äh>            [d,perf,0cm,non3Ssub]<s_2pl>:
-[d,perf,0cm,3Ssub]:            [d,perf,0cm,3Ssub]:              [d,perf,0cm,3Ssub]:j{E}{¨}>          [d,perf,0cm,3Ssub]<s_3sg>: 
-[d,perf,0cm,non3Ssub]:h{E}{¨}> [d,perf,0cm,non3Ssub]:           [d,perf,0cm,non3Ssub]:j{E}{¨}>       [d,perf,0cm,non3Ssub]<s_3pl>:
+#[d,perf,0cm,non3Ssub]:         [d,perf,0cm,non3Ssub]:           [d,perf,0cm,non3Ssub]:ish>           [d,perf,0cm,non3Ssub]<s_1sg>: #is the s-deletion phonological?
+#[d,perf,0cm,non3Ssub]:         [d,perf,0cm,non3Ssub]:           [d,perf,0cm,non3Ssub]:ih>            [d,perf,0cm,non3Ssub]<s_1sg>: # Dir/LR
+#[d,perf,0cm,non3Ssub]:         [d,perf,0cm,non3Ssub]:trʼ{E}{¨}> [d,perf,0cm,non3Ssub]:j{E}{¨}>       [d,perf,0cm,non3Ssub]<s_1pl>:
+#[d,perf,0cm,non3Ssub]:         [d,perf,0cm,non3Ssub]:           [d,perf,0cm,non3Ssub]:į>             [d,perf,0cm,non3Ssub]<s_2sg>:
+#[d,perf,0cm,non3Ssub]:         [d,perf,0cm,non3Ssub]:           [d,perf,0cm,non3Ssub]:in>            [d,perf,0cm,non3Ssub]<s_2sg>: # Dir/LR
+#[d,perf,0cm,non3Ssub]:         [d,perf,0cm,non3Ssub]:           [d,perf,0cm,non3Ssub]:äh>            [d,perf,0cm,non3Ssub]<s_2pl>:
+#[d,perf,0cm,3Ssub]:            [d,perf,0cm,3Ssub]:              [d,perf,0cm,3Ssub]:j{E}{¨}>          [d,perf,0cm,3Ssub]<s_3sg>: 
+#[d,perf,0cm,non3Ssub]:h{E}{¨}> [d,perf,0cm,non3Ssub]:           [d,perf,0cm,non3Ssub]:j{E}{¨}>       [d,perf,0cm,non3Ssub]<s_3pl>:
 
-[0cl,perf,0cm,non3Ssub]:          [0cl,perf,0cm,non3Ssub]:           [0cl,perf,0cm,non3Ssub]:i>       [0cl,perf,0cm,non3Ssub]<s_1sg>:
-[0cl,perf,0cm,non3Ssub]:          [0cl,perf,0cm,non3Ssub]:trʼ{E}{¨}> [0cl,perf,0cm,non3Ssub]:in>      [0cl,perf,0cm,non3Ssub]<s_1pl>:
-[0cl,perf,0cm,non3Ssub]:          [0cl,perf,0cm,non3Ssub]:           [0cl,perf,0cm,non3Ssub]:in>      [0cl,perf,0cm,non3Ssub]<s_2sg>: 
-[0cl,perf,0cm,non3Ssub]:          [0cl,perf,0cm,non3Ssub]:           [0cl,perf,0cm,non3Ssub]:ä>       [0cl,perf,0cm,non3Ssub]<s_2pl>:
-[0cl,perf,0cm,3Ssub]:             [0cl,perf,0cm,3Ssub]:              [0cl,perf,0cm,3Ssub]:in>         [0cl,perf,0cm,3Ssub]<s_3sg>: 
-[0cl,perf,0cm,non3Ssub]:h{E}{¨}>  [0cl,perf,0cm,non3Ssub]:           [0cl,perf,0cm,non3Ssub]:in>      [0cl,perf,0cm,non3Ssub]<s_3pl>:
+#[0cl,perf,0cm,non3Ssub]:          [0cl,perf,0cm,non3Ssub]:           [0cl,perf,0cm,non3Ssub]:i>       [0cl,perf,0cm,non3Ssub]<s_1sg>:
+#[0cl,perf,0cm,non3Ssub]:          [0cl,perf,0cm,non3Ssub]:trʼ{E}{¨}> [0cl,perf,0cm,non3Ssub]:in>      [0cl,perf,0cm,non3Ssub]<s_1pl>:
+#[0cl,perf,0cm,non3Ssub]:          [0cl,perf,0cm,non3Ssub]:           [0cl,perf,0cm,non3Ssub]:in>      [0cl,perf,0cm,non3Ssub]<s_2sg>: 
+#[0cl,perf,0cm,non3Ssub]:          [0cl,perf,0cm,non3Ssub]:           [0cl,perf,0cm,non3Ssub]:ä>       [0cl,perf,0cm,non3Ssub]<s_2pl>:
+#[0cl,perf,0cm,3Ssub]:             [0cl,perf,0cm,3Ssub]:              [0cl,perf,0cm,3Ssub]:in>         [0cl,perf,0cm,3Ssub]<s_3sg>: 
+#[0cl,perf,0cm,non3Ssub]:h{E}{¨}>  [0cl,perf,0cm,non3Ssub]:           [0cl,perf,0cm,non3Ssub]:in>      [0cl,perf,0cm,non3Ssub]<s_3pl>:
 
 [0cl,perf,n,non3Ssub]:          [0cl,perf,n,non3Ssub]:           [0cl,perf,n,non3Ssub]:ni>       [0cl,perf,n,non3Ssub]<s_1sg>:
 [0cl,perf,n,non3Ssub]:          [0cl,perf,n,non3Ssub]:           [0cl,perf,n,non3Ssub]:nin>      [0cl,perf,n,non3Ssub]<s_2sg>: 
@@ -179,13 +179,13 @@ LEXICON subject(4)
 [0cl,perf,n,3Ssub]:             [0cl,perf,n,3Ssub]:              [0cl,perf,n,3Ssub]:nin>         [0cl,perf,n,3Ssub]<s_3sg>: 
 [0cl,perf,n,non3Ssub]:h{E}{¨}>  [0cl,perf,n,non3Ssub]:           [0cl,perf,n,non3Ssub]:nin>      [0cl,perf,n,non3Ssub]<s_3pl>:
 
-[l,perf,0cm,non3Ssub]:          [l,perf,0cm,non3Ssub]:           [l,perf,0cm,non3Ssub]:ey>      [0cl,perf,0cm,non3Ssub]<s_1sg>:
-[l,perf,0cm,non3Ssub]:          [l,perf,0cm,non3Ssub]:trʼ{E}{¨}> [l,perf,0cm,non3Ssub]:ä>      [0cl,perf,0cm,non3Ssub]<s_1pl>:
-[l,perf,0cm,non3Ssub]:          [l,perf,0cm,non3Ssub]:           [l,perf,0cm,non3Ssub]:än>      [0cl,perf,0cm,non3Ssub]<s_2sg>:
-[l,perf,0cm,non3Ssub]:          [l,perf,0cm,non3Ssub]:           [l,perf,0cm,non3Ssub]:ą̈>      [0cl,perf,0cm,non3Ssub]<s_2sg>: # Dir/LR
-[l,perf,0cm,non3Ssub]:          [l,perf,0cm,non3Ssub]:           [l,perf,0cm,non3Ssub]:ä>      [0cl,perf,0cm,non3Ssub]<s_2pl>:
-[l,perf,0cm,3Ssub]:             [l,perf,0cm,3Ssub]:              [l,perf,0cm,3Ssub]:ä>         [0cl,perf,0cm,3Ssub]<s_3sg>: 
-[l,perf,0cm,non3Ssub]:h{E}{¨}>  [l,perf,0cm,non3Ssub]:           [l,perf,0cm,non3Ssub]:ä>      [0cl,perf,0cm,non3Ssub]<s_3pl>:
+#[l,perf,0cm,non3Ssub]:          [l,perf,0cm,non3Ssub]:           [l,perf,0cm,non3Ssub]:ey>      [0cl,perf,0cm,non3Ssub]<s_1sg>:
+#[l,perf,0cm,non3Ssub]:          [l,perf,0cm,non3Ssub]:trʼ{E}{¨}> [l,perf,0cm,non3Ssub]:ä>      [0cl,perf,0cm,non3Ssub]<s_1pl>:
+#[l,perf,0cm,non3Ssub]:          [l,perf,0cm,non3Ssub]:           [l,perf,0cm,non3Ssub]:än>      [0cl,perf,0cm,non3Ssub]<s_2sg>:
+#[l,perf,0cm,non3Ssub]:          [l,perf,0cm,non3Ssub]:           [l,perf,0cm,non3Ssub]:ą̈>      [0cl,perf,0cm,non3Ssub]<s_2sg>: # Dir/LR
+#[l,perf,0cm,non3Ssub]:          [l,perf,0cm,non3Ssub]:           [l,perf,0cm,non3Ssub]:ä>      [0cl,perf,0cm,non3Ssub]<s_2pl>:
+#[l,perf,0cm,3Ssub]:             [l,perf,0cm,3Ssub]:              [l,perf,0cm,3Ssub]:ä>         [0cl,perf,0cm,3Ssub]<s_3sg>: 
+#[l,perf,0cm,non3Ssub]:h{E}{¨}>  [l,perf,0cm,non3Ssub]:           [l,perf,0cm,non3Ssub]:ä>      [0cl,perf,0cm,non3Ssub]<s_3pl>:
 
 [ł,incp,dh,non3Ssub]:          [ł,incp,dh,non3Ssub]:           [ł,incp,dh,non3Ssub]:dhök>      [ł,incp,dh,non3Ssub]<s_1sg>:
 [ł,incp,dh,non3Ssub]:          [ł,incp,dh,non3Ssub]:trʼ{E}{¨}> [ł,incp,dh,non3Ssub]:oh>      [ł,incp,dh,non3Ssub]<s_1pl>:
