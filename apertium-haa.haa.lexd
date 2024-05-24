@@ -157,6 +157,13 @@ LEXICON subject(4)
 [ł,perf,dh,non3Ssub]:h{E}{¨}>  [ł,perf,dh,non3Ssub]:           [ł,perf,dh,non3Ssub]:oh>      [ł,perf,dh,non3Ssub]<s_3pl>:
 [ł,perf,dh,non3Ssub]:h{E}{¨}>  [ł,perf,dh,non3Ssub]:           [ł,perf,dh,non3Ssub]:eh>      [ł,perf,dh,non3Ssub]<s_3pl>:  #Dir/LR
 
+[ł,perf,gh,non3Ssub]:          [ł,perf,gh,non3Ssub]:           [ł,perf,gh,non3Ssub]:ök>        [ł,perf,gh,non3Ssub]<s_1sg>:
+[ł,perf,gh,non3Ssub]:          [ł,perf,gh,non3Ssub]:trʼ{E}{¨}> [ł,perf,gh,non3Ssub]:ą̈h>        [ł,perf,gh,non3Ssub]<s_1pl>:
+[ł,perf,gh,non3Ssub]:          [ł,perf,gh,non3Ssub]:           [ł,perf,gh,non3Ssub]:ą̈h>        [ł,perf,gh,non3Ssub]<s_2sg>:
+[ł,perf,gh,non3Ssub]:          [ł,perf,gh,non3Ssub]:           [ł,perf,gh,non3Ssub]:äh>        [ł,perf,gh,non3Ssub]<s_2pl>:
+[ł,perf,gh,3Ssub]:             [ł,perf,gh,3Ssub]:              [ł,perf,gh,3Ssub]:ą̈h>           [ł,perf,gh,3Ssub]<s_3sg>:
+[ł,perf,gh,non3Ssub]:h{E}{¨}>  [ł,perf,gh,non3Ssub]:           [ł,perf,gh,non3Ssub]:ą̈h>        [ł,perf,gh,non3Ssub]<s_3pl>:
+
 #[d,perf,0cm,non3Ssub]:         [d,perf,0cm,non3Ssub]:           [d,perf,0cm,non3Ssub]:ish>           [d,perf,0cm,non3Ssub]<s_1sg>: #is the s-deletion phonological?
 #[d,perf,0cm,non3Ssub]:         [d,perf,0cm,non3Ssub]:           [d,perf,0cm,non3Ssub]:ih>            [d,perf,0cm,non3Ssub]<s_1sg>: # Dir/LR
 #[d,perf,0cm,non3Ssub]:         [d,perf,0cm,non3Ssub]:trʼ{E}{¨}> [d,perf,0cm,non3Ssub]:j{E}{¨}>       [d,perf,0cm,non3Ssub]<s_1pl>:
@@ -165,6 +172,13 @@ LEXICON subject(4)
 #[d,perf,0cm,non3Ssub]:         [d,perf,0cm,non3Ssub]:           [d,perf,0cm,non3Ssub]:äh>            [d,perf,0cm,non3Ssub]<s_2pl>:
 #[d,perf,0cm,3Ssub]:            [d,perf,0cm,3Ssub]:              [d,perf,0cm,3Ssub]:j{E}{¨}>          [d,perf,0cm,3Ssub]<s_3sg>: 
 #[d,perf,0cm,non3Ssub]:h{E}{¨}> [d,perf,0cm,non3Ssub]:           [d,perf,0cm,non3Ssub]:j{E}{¨}>       [d,perf,0cm,non3Ssub]<s_3pl>:
+
+#[d,perf,dh,non3Ssub]:           [d,perf,dh,non3Ssub]:             [d,perf,dh,non3Ssub]:dhish>         [d,perf,dh,non3Ssub]<s_1sg>: MISSING FORM
+[d,perf,dh,non3Ssub]:           [d,perf,dh,non3Ssub]:trʼ{E}{¨}>   [d,perf,dh,non3Ssub]:èy>             [d,perf,dh,non3Ssub]<s_1pl>:
+[d,perf,dh,non3Ssub]:           [d,perf,dh,non3Ssub]:             [d,perf,dh,non3Ssub]:dhin>           [d,perf,dh,non3Ssub]<s_2sg>:
+#[d,perf,dh,non3Ssub]:           [d,perf,dh,non3Ssub]:             [d,perf,dh,non3Ssub]:dhay>           [d,perf,dh,non3Ssub]<s_2pl>: MISSING FORM
+[d,perf,dh,3Ssub]:              [d,perf,dh,3Ssub]:                [d,perf,dh,3Ssub]:èy>                [d,perf,dh,3Ssub]<s_3sg>: 
+[d,perf,dh,non3Ssub]:h{E}{¨}>   [d,perf,dh,non3Ssub]:             [d,perf,dh,non3Ssub]:èy>             [d,perf,dh,non3Ssub]<s_3pl>:
 
 #[0cl,perf,0cm,non3Ssub]:          [0cl,perf,0cm,non3Ssub]:           [0cl,perf,0cm,non3Ssub]:i>       [0cl,perf,0cm,non3Ssub]<s_1sg>:
 #[0cl,perf,0cm,non3Ssub]:          [0cl,perf,0cm,non3Ssub]:trʼ{E}{¨}> [0cl,perf,0cm,non3Ssub]:in>      [0cl,perf,0cm,non3Ssub]<s_1pl>:
