@@ -87,8 +87,8 @@ LEXICON VerbStem-Tv(2)
 [ł,impf,0cm]:           ohtseyy:tsey[ł,impf,0cm] #Dir/LR
 [ł,perf,dh]:            ohtseyy:tsąyy[ł,perf,dh]
 [ł,perf,dh]:            ohtseyy:tsąy[ł,perf,dh]   #Dir/LR
-[ł,impf,0cm]:           udohkät:kät[ł,impf,0cm]
-[ł,perf,gh]:           udohkät:ket[ł,perf,gh]
+[ł,impf,0cm]ud>:           udohkät:kät[ł,impf,0cm]
+[ł,perf,gh]ud>:           udohkät:ket[ł,perf,gh]
 
 
 LEXICON VerbStem-Iv(2)
