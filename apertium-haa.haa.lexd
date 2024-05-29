@@ -81,17 +81,22 @@ LEXICON VerbStem-Tv(2)
 [l,perf,gh]:n>          nojät:jït[l,perf,gh] 
 [l,perf,gh]:n>          nojät:jö̀t[l,perf,gh] # Dir/LR 
 [d,impf,0cm]:           jënąą:nąą[d,impf,0cm] #drink
-[d,perf,gh]:            jënąą:nąʼ[d,perf,gh]
+[d,perf,gh]:            jënąą:nąʼ[d,perf,gh] #this can also be conjugated in the 0cl gh-perf
 [d,incp,dh]:            jënąą:nąʼ[d,incp,dh]
+[d,fut,0cm]:              jënąą:naw[d,fut,0cm] #there is also sometimes a second w, as well as unclear nasality
 [ł,impf,0cm]:           ohtseyy:tseyy[ł,impf,0cm] #make
 [ł,impf,0cm]:           ohtseyy:tsey[ł,impf,0cm] # Dir/LR
 [ł,perf,dh]:            ohtseyy:tsąyy[ł,perf,dh]
 [ł,perf,dh]:            ohtseyy:tsąy[ł,perf,dh]   # Dir/LR
-[ł,impf,0cm]:ud>           udohkät:kät[ł,impf,0cm]
+[ł,impf,0cm]:ud>           udohkät:kät[ł,impf,0cm] #ask
 [l,perf,gh]:ud>           udohkät:ket[l,perf,gh]
-[d,impf,0cm]:             jënąą:nąą[d,impf,0cm] #drink
-[d,perf,gh]:              jënąą:nąʼ[d,perf,gh] #this root can also be conjugated with the 0cl gh-perfective
-[d,fut,0cm]:              jënąą:naw[d,fut,0cm] #there is also sometimes a second w, as well as unclear nasality
+[0cl,impf,0cm]:           ëtröö:tröö[0cl,impf,0cm] #cryweep
+[0cl,impf,0cm]:           ëtröö:tröh[0cl,impf,0cm] # Dir/LR
+[0cl,perf,n]:           ëtröö:trö̀ʼ[0cl,perf,n]
+[l,impf,0cm]:n>         jënochèe:chèe[l,impf,0cm] #turnover
+[l,perf,dh]:n>         jënochèe:chįį[l,perf,dh]
+[l,fut,0cm]:n>         jënochèe:chew[l,fut,0cm]
+
 
 
 LEXICON VerbStem-Iv(2)
