@@ -31,7 +31,7 @@ PATTERNS
 ## Example inflection pattern:
 # NounRoot RegNounInfl
 Verbs-Tv
-Verbs-Iv 
+Verbs-Iv
 Number
 Nouns
 ProperNouns
@@ -45,13 +45,13 @@ FocusMarker
 
 PATTERN Verbs-Tv
 #disjointPref plSubj  object  deicticSubj  refl   directive   aspect  gender/qualifier  theme       conjMarker,subj,cl      stem
-# --        subject(1) object(1) subject(2) object(2) --   aspect( 1)       --         VerbStem-Tv(1)       subject(3)      VerbStem-Tv(2)
-(subject(1) object?(1) subject(2) object?(2) aspect(1) VerbStem-Tv(1) subject(3) VerbStem-Tv(2) [ <v><tv>: ] aspect(2) subject(4) object?(3))[^[3Ssub,non3Ssub],^[impf,perf,incp,fut,opt],^[l,d,0cl,ł],^[0cm,dh,gh,n]]
+# --        subject(1) object(1) subject(2) object(2)  directive(1)  aspect( 1)       --         VerbStem-Tv(1)       subject(3)      VerbStem-Tv(2)
+(subject(1) object?(1) subject(2) object?(2) aspect(1) VerbStem-Tv(1) subject(3) VerbStem-Tv(2) [ <v><tv>: ] aspect(2) directive(2) subject(4) object?(3))[^[3Ssub,non3Ssub],^[impf,perf,incp,fut,opt,dir,nondir],^[l,d,0cl,ł],^[0cm,dh,gh,n]]
 
 PATTERN Verbs-Iv
 #disjointPref plSubj  object  deicticSubj  refl   directive   aspect  gender/qualifier  theme       conjMarker,subj,cl      stem
-# --        subject(1) --     subject(2) object(2) --   aspect( 1)       --         VerbStem-Iv(1)       subject(3)      VerbStem-Iv(2)
-(subject(1) subject(2) object?(2) aspect(1) VerbStem-Iv(1) subject(3) VerbStem-Iv(2) [ <v><iv>: ] aspect(2) subject(4) object?(3))[^[3Ssub,non3Ssub],^[impf,perf,incp,fut,opt],^[l,d,0cl,ł],^[0cm,dh,gh,n]]
+# --        subject(1) --     subject(2) object(2)  directive(1)   aspect( 1)       --         VerbStem-Iv(1)       subject(3)      VerbStem-Iv(2)
+(subject(1) subject(2) object?(2) aspect(1) VerbStem-Iv(1) subject(3) VerbStem-Iv(2) [ <v><iv>: ] aspect(2) directive(2) subject(4) object?(3))[^[3Ssub,non3Ssub],^[impf,perf,incp,fut,opt,dir,nondir],^[l,d,0cl,ł],^[0cm,dh,gh,n]]
 
 
 
@@ -66,43 +66,47 @@ PATTERN Verbs-Iv
 
 
 LEXICON VerbStem-Tv(2) 
-[ł,impf,0cm]:n>        nohʼįį:ʼįį[ł,impf,0cm] #see
-[ł,impf,0cm]:n>         nohʼįį:ʼįh[ł,impf,0cm] # Dir/LR
-[ł,perf,gh]:n>         nohʼįį:ʼįʼ[ł,perf,gh]
-[ł,perf,gh]:n>         nohʼįį:ʼį[ł,perf,gh] # Dir/LR
-[0cl,impf,0cm]:           ëzrök:{Z}rök[0cl,impf,0cm] #yell
-[0cl,perf,0cm]:           ëzrök:{Z}rök[0cl,perf,0cm] # same stem for perfective 
-#[0cl,incp,dh]:           ëzrök:{Z}rök[0cl,incp,dh]
-[0cl,impf,0cm]:           ëdlòo:dlòo[0cl,impf,0cm] #laugh - second o is sometimes h
-[0cl,impf,0cm]:           ëdlòo:dlòh[0cl,impf,0cm] # Dir/LR
-[0cl,perf,n]:             ëdlòo:dlòʼ[0cl,perf,n]
-[l,impf,0cm]:n>         nojät:jät[l,impf,0cm] #scare
-[l,impf,0cm]:n>         nojöt:jöt[l,impf,0cm] # Dir/LR
-[l,perf,gh]:n>          nojät:jït[l,perf,gh] 
-[l,perf,gh]:n>          nojät:jö̀t[l,perf,gh] # Dir/LR 
-[d,impf,0cm]:           jënąą:nąą[d,impf,0cm] #drink
-[d,perf,gh]:            jënąą:nąʼ[d,perf,gh] #this can also be conjugated in the 0cl gh-perf
-[d,incp,dh]:            jënąą:nąʼ[d,incp,dh]
-[d,fut,0cm]:              jënąą:naw[d,fut,0cm] #there is also sometimes a second w, as well as unclear nasality
-[ł,impf,0cm]:           ohtseyy:tseyy[ł,impf,0cm] #make
-[ł,impf,0cm]:           ohtseyy:tsey[ł,impf,0cm] # Dir/LR
-[ł,perf,dh]:            ohtseyy:tsąyy[ł,perf,dh]
-[ł,perf,dh]:            ohtseyy:tsąy[ł,perf,dh]   # Dir/LR
-[ł,impf,0cm]:ud>           udohkät:kät[ł,impf,0cm] #ask
-[l,perf,gh]:ud>           udohkät:ket[l,perf,gh]
-[0cl,impf,0cm]:           ëtröö:tröö[0cl,impf,0cm] #cryweep
-[0cl,impf,0cm]:           ëtröö:tröh[0cl,impf,0cm] # Dir/LR
-[0cl,perf,n]:           ëtröö:trö̀ʼ[0cl,perf,n]
-[l,impf,0cm]:j{E}n>         jënochèe:chèe[l,impf,0cm] #turnover
-[l,perf,dh]:j{E}n>         jënochèe:chįį[l,perf,dh]
-[l,fut,0cm]:j{E}n>         jënochèe:chew[l,fut,0cm]
-
-
+[ł,impf,0cm,nondir]:n>        nohʼįį:ʼįį[ł,impf,0cm] #see
+[ł,impf,0cm,nondir]:n>         nohʼįį:ʼįh[ł,impf,0cm] # Dir/LR
+[ł,perf,gh,nondir]:n>         nohʼįį:ʼįʼ[ł,perf,gh]
+[ł,perf,gh,nondir]:n>         nohʼįį:ʼį[ł,perf,gh] # Dir/LR
+[0cl,impf,0cm,nondir]:           ëzrök:{Z}rök[0cl,impf,0cm] #yell
+[0cl,perf,0cm,nondir]:           ëzrök:{Z}rök[0cl,perf,0cm] # same stem for perfective 
+#[0cl,incp,dh,nondir]:           ëzrök:{Z}rök[0cl,incp,dh]
+[0cl,impf,0cm,nondir]:           ëdlòo:dlòo[0cl,impf,0cm] #laugh - second o is sometimes h
+[0cl,impf,0cm,nondir]:           ëdlòo:dlòh[0cl,impf,0cm] # Dir/LR
+[0cl,perf,n,nondir]:             ëdlòo:dlòʼ[0cl,perf,n]
+[l,impf,0cm,nondir]:n>         nojät:jät[l,impf,0cm] #scare
+[l,impf,0cm,nondir]:n>         nojöt:jöt[l,impf,0cm] # Dir/LR
+[l,perf,gh,nondir]:n>          nojät:jït[l,perf,gh] 
+[l,perf,gh,nondir]:n>          nojät:jö̀t[l,perf,gh] # Dir/LR 
+[d,impf,0cm,nondir]:           jënąą:nąą[d,impf,0cm] #drink
+[d,perf,gh,nondir]:            jënąą:nąʼ[d,perf,gh] #this can also be conjugated in the 0cl gh-perf
+[d,incp,dh,nondir]:            jënąą:nąʼ[d,incp,dh]
+[d,fut,0cm,nondir]:              jënąą:naw[d,fut,0cm] #there is also sometimes a second w, as well as unclear nasality
+[ł,impf,0cm,nondir]:           ohtseyy:tseyy[ł,impf,0cm] #make
+[ł,impf,0cm,nondir]:           ohtseyy:tsey[ł,impf,0cm] # Dir/LR
+[ł,perf,dh,nondir]:            ohtseyy:tsąyy[ł,perf,dh]
+[ł,perf,dh,nondir]:            ohtseyy:tsąy[ł,perf,dh]   # Dir/LR
+[ł,impf,0cm,dir]:d>           udohkät:kät[ł,impf,0cm] #ask
+[l,perf,gh,dir]:d>           udohkät:ket[l,perf,gh]
+[0cl,impf,0cm,nondir]:           ëtröö:tröö[0cl,impf,0cm] #cryweep
+[0cl,impf,0cm,nondir]:           ëtröö:tröh[0cl,impf,0cm] # Dir/LR
+[0cl,perf,n,nondir]:           ëtröö:trö̀ʼ[0cl,perf,n]
+[l,impf,0cm,nondir]:n>         jënochèe:chèe[l,impf,0cm] #turnover - missing jë prefix, what is it?
+[l,perf,dh,nondir]:n>         jënochèe:chįį[l,perf,dh]
+[l,fut,0cm,nondir]:n>         jënochèe:chew[l,fut,0cm]
 
 LEXICON VerbStem-Iv(2)
 [0cl,impf,0cm]:         ëkoo:koo[0cl,impf,0cm] #cough
 [0cl,impf,0cm]:         ëkoo:koh[0cl,impf,0cm] # Dir/LR
 #cough, cryweep1 are intv?
+
+
+LEXICON directive(2)
+[nondir]:       [nondir]<nondir>:
+[dir]:u>        [dir]<dir>:
+
 
 LEXICON aspect(2)
 [impf]:        [impf]<impf>:
