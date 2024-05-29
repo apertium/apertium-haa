@@ -4,8 +4,7 @@ Alphabet
 
 ̈    ̨   ̀    ̌   ̂
    
-%{E%}:e %{E%}:0 ! ë that deletes before vowels and nasals
-%{¨%}:̈  %{¨%}:0 ! the umlaut part of the ë
+%{E%}:ë %{E%}:0 ! ë that inserts before non-vowels and non-nasal consonants
 %{gh%}:0        ! gh in gh perfective does not appear
 %{Z%}:z %{Z%}:s ! zr becomes sr after h
 
@@ -28,11 +27,8 @@ Rules
 "Remove suffix vowel with vowel-ending stem"
 i:0 <=> Vow %{VSUF%}:0 _ [ m | n ] ;
 
-"{E} as ë before vowels and nasals"
+"{E} as 0 before vowels and nasals"
 %{E%}:0 <=> _ [ :Vowel ]/[ :0 | %{¨%}: ]* ;
-
-"{¨} as a diaeresis after a realised {E}"
-%{¨%}:̈  <=> %{E%}:e _ ;
 
 "Zr becomes sr after h"
 %{Z%}:s <=> :h %>: _ :r ; 
