@@ -84,6 +84,28 @@ ninähʼįh        #2psee1p
 hunähʼįį        #2psee3p
 hunähʼįh        #2psee3p
 
+nök-ʼįʼ         #1saw
+nökʼįʼ          #1saw
+nnök-ʼįʼ        #1saw2
+nnökʼįʼ         #1saw2
+khwënök-ʼįʼ     #1saw2p
+khwënökʼįʼ      #1saw2p
+wënök-ʼįʼ       #1saw3
+wënökʼįʼ        #1saw3
+hunök-ʼįʼ       #1saw3p
+hunökʼįʼ        #1saw3p
+trʼënähʼįʼ      #1psaw
+ntrʼënähʼįʼ     #1psaw2
+khwëtrʼënähʼįʼ  #1psaw2p
+wëtrʼënähʼįʼ    #1psaw3
+hutrʼënähʼįʼ    #1psaw3p
+ną̈hʼįʼ          #2saw
+nähʼįʼ          #3saw
+hënähʼįʼ        #3psaw
+shënähʼįʼ       #3saw1
+shëhënähʼįʼ     #3psaw1
+
+
 
 
 
