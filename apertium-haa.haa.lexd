@@ -93,9 +93,9 @@ LEXICON VerbStem-Tv(2)
 [0cl,impf,0cm]:           ëtröö:tröö[0cl,impf,0cm] #cryweep
 [0cl,impf,0cm]:           ëtröö:tröh[0cl,impf,0cm] # Dir/LR
 [0cl,perf,n]:           ëtröö:trö̀ʼ[0cl,perf,n]
-[l,impf,0cm]:n>         jënochèe:chèe[l,impf,0cm] #turnover
-[l,perf,dh]:n>         jënochèe:chįį[l,perf,dh]
-[l,fut,0cm]:n>         jënochèe:chew[l,fut,0cm]
+[l,impf,0cm]:j{E}n>         jënochèe:chèe[l,impf,0cm] #turnover
+[l,perf,dh]:j{E}n>         jënochèe:chįį[l,perf,dh]
+[l,fut,0cm]:j{E}n>         jënochèe:chew[l,fut,0cm]
 
 
 
