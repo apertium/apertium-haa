@@ -28,7 +28,7 @@ Rules
 i:0 <=> Vow %{VSUF%}:0 _ [ m | n ] ;
 
 "{E} as 0 before vowels and nasals"
-%{E%}:0 <=> _ [ :Vowel ]/[ :0 | %{¨%}: ]* ;
+%{E%}:0 <=> _ [ :Vowel ]/[ :0 ]* ;
 
 "Zr becomes sr after h"
 %{Z%}:s <=> :h %>: _ :r ; 
