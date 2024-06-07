@@ -119,7 +119,7 @@ LEXICON VerbStem-Tv(2)
 [l,fut,0cm,nondir]:chʼ>        chʼodzöö:odzöh[l,fut,0cm,nondir] # Dir/LR
 [l,impf,0cm,nondir]:           nozrèe:zrèe[l,impf,0cm,nondir] #HuntAround - missing perambulative "nä"
 [l,perf,dh,nondir]:            nozrèe:zrèʼ[l,impf,dh,nondir]
-[l,fut,0cm,nondir]:            nozrèe:zrèe[l,impf,fut,nondir]
+[l,fut,0cm,nondir]:            nozrèe:zrèe[l,impf,fut,nondir]            
 
 
 LEXICON VerbStem-Iv(2)
