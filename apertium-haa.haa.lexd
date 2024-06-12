@@ -45,13 +45,13 @@ FocusMarker
 
 PATTERN Verbs-Tv
 #disjunctPref plSubj  object  deicticSubj  refl   directive   aspect  gender/qualifier  theme       conjMarker,subj,cl      stem
-# --        subject(1) object(1) subject(2) object(2)  directive(1)  aspect( 1)       --         VerbStem-Tv(1)       subject(3)      VerbStem-Tv(2)
-(subject(1) object?(1) subject(2) object?(2) aspect(1) VerbStem-Tv(1) subject(3) VerbStem-Tv(2) [ <v><tv>: ] aspect(2) directive(2) subject(4) object?(3))[^[3Ssub,non3Ssub],^[impf,perf,incp,fut,opt,dir,nondir],^[l,d,0cl,ł],^[0cm,dh,gh,n]]
+# --        subject(1) object(1) subject(2) object(2)  directive  aspect( 1)       --         VerbStem-Tv(1)       subject(3)      VerbStem-Tv(2)
+           (subject(1) object?(1) subject(2) object?(2) directive aspect(1) VerbStem-Tv(1) subject(3) VerbStem-Tv(2) [ <v><tv>: ] aspect(2) subject(4) object?(3))[^[3Ssub,non3Ssub],^[impf,perf,incp,fut,opt,dir,nondir,sg,pl],^[l,d,0cl,ł],^[0cm,dh,gh,n]]
 
 PATTERN Verbs-Iv
 #disjunctPref plSubj  object  deicticSubj  refl   directive   aspect  gender/qualifier  theme       conjMarker,subj,cl      stem
-# --        subject(1) --     subject(2) object(2)  directive(1)   aspect( 1)       --         VerbStem-Iv(1)       subject(3)      VerbStem-Iv(2)
-(subject(1) subject(2) object?(2) aspect(1) VerbStem-Iv(1) subject(3) VerbStem-Iv(2) [ <v><iv>: ] aspect(2) directive(2) subject(4) object?(3))[^[3Ssub,non3Ssub],^[impf,perf,incp,fut,opt,dir,nondir],^[l,d,0cl,ł],^[0cm,dh,gh,n]]
+# --        subject(1) --     subject(2) object(2)  directive   aspect( 1)       --         VerbStem-Iv(1)       subject(3)      VerbStem-Iv(2)
+           (subject(1) subject(2) object?(2) directive aspect(1) VerbStem-Iv(1) subject(3) VerbStem-Iv(2) [ <v><iv>: ] aspect(2) subject(4) object?(3))[^[3Ssub,non3Ssub],^[impf,perf,incp,fut,opt,dir,nondir,sg,pl],^[l,d,0cl,ł],^[0cm,dh,gh,n]]
 
 
 
@@ -66,71 +66,57 @@ PATTERN Verbs-Iv
 
 
 LEXICON VerbStem-Tv(2) 
-[ł,impf,0cm,sg,pl]:n>          nohʼįį:ʼįį[ł,impf,0cm,nondir] #see
-[ł,impf,0cm,sg,pl]:n>          nohʼįį:ʼįh[ł,impf,0cm,nondir] # Dir/LR
-[ł,perf,gh,sg,pl]:n>           nohʼįį:ʼįʼ[ł,perf,gh,nondir]
-[ł,perf,gh,sg,pl]:n>           nohʼįį:ʼį[ł,perf,gh,nondir] # Dir/LR
-[ł,fut,0cm,sg,pl]:n>           nohʼįį:ʼį̀ww[ł,fut,0cm,nondir]
-[0cl,impf,0cm,sg,pl]:          ëzrök:{Z}rök[0cl,impf,0cm,nondir] #yell
-[0cl,perf,0cm,sg,pl]:          ëzrök:{Z}rök[0cl,perf,0cm,nondir] # same stem for perfective 
-[0cl,fut,0cm,sg,pl]:           ëzrök:{Z}rök[0cl,fut,0cm,nondir]
-#[0cl,incp,dh,sg,pl]:          ëzrök:{Z}rök[0cl,incp,dh,nondir]
-[0cl,impf,0cm,sg,pl]:          ëdlòo:dlòo[0cl,impf,0cm,nondir] #laugh - second o is sometimes h
-[0cl,impf,0cm,sg,pl]:          ëdlòo:dlòh[0cl,impf,0cm,nondir] # Dir/LR
-[0cl,perf,n,sg,pl]:            ëdlòo:dlòʼ[0cl,perf,n,nondir]
-[0cl,fut,0cm,sg,pl]:           ëdlòo:dlòo[0cl,fut,0cm,nondir] 
-[0cl,fut,0cm,sg,pl]:           ëdlòo:dlòh[0cl,fut,0cm,nondir] # Dir/LR
-[l,impf,0cm,sg,pl]:n>          nojät:jät[l,impf,0cm,nondir] #scare
-[l,impf,0cm,sg,pl]:n>          nojöt:jöt[l,impf,0cm,nondir] # Dir/LR
-[l,perf,gh,sg,pl]:n>           nojät:jät[l,perf,gh,nondir]
-[l,perf,gh,sg,pl]:n>           nojät:jït[l,perf,gh,nondir] # Dir/LR
-[l,perf,gh,sg,pl]:n>           nojät:jö̀t[l,perf,gh,nondir] # Dir/LR 
-[l,fut,0cm,sg,pl]:n>           nojät:jät[l,fut,0cm,nondir] 
-[l,fut,0cm,sg,pl]:n>           nojöt:jöt[l,fut,0cm,nondir] # Dir/LR
-[d,impf,0cm,sg,pl]:            jënąą:nąą[d,impf,0cm,nondir] #drink
-[d,perf,gh,sg,pl]:             jënąą:nąʼ[d,perf,gh,nondir] #this can also be conjugated in the 0cl gh-perf
-[d,incp,dh,sg,pl]:             jënąą:nąʼ[d,incp,dh,nondir]
-[d,fut,0cm,sg,pl]:             jënąą:naw[d,fut,0cm,nondir] #there is also sometimes a second w, as well as unclear nasality
-[ł,impf,0cm,sg,pl]:            ohtseyy:tseyy[ł,impf,0cm,nondir] #make
-[ł,impf,0cm,sg,pl]:            ohtseyy:tsey[ł,impf,0cm,nondir] # Dir/LR
-[ł,perf,dh,sg,pl]:             ohtseyy:tsąyy[ł,perf,dh,nondir]
-[ł,perf,dh,sg,pl]:             ohtseyy:tsąy[ł,perf,dh,nondir]   # Dir/LR
-[ł,fut,0cm,sg,pl]:             ohtseyy:tseyy[ł,fut,0cm,nondir]
-[ł,impf,0cm,sg,pl]:d>             udohkät:kät[ł,impf,0cm,dir] #ask
-[l,perf,gh,sg,pl]:d>              udohkät:ket[l,perf,gh,dir]
-[ł,fut,0cm,sg,pl]:d>              udohkät:kät[ł,fut,0cm,dir] #d is sometimes j, add phonology rule?
-[0cl,impf,0cm,sg,pl]:          ëtröö:tröö[0cl,impf,0cm,nondir] #cryweep
-[0cl,impf,0cm,sg,pl]:          ëtröö:tröh[0cl,impf,0cm,nondir] # Dir/LR
-[0cl,perf,n,sg,pl]:            ëtröö:trö̀ʼ[0cl,perf,n,nondir]
-[0cl,fut,0cm,sg,pl]:           ëtröö:tröö[0cl,fut,0cm,nondir] 
-[0cl,fut,0cm,sg,pl]:           ëtröö:tröh[0cl,fut,0cm,nondir] # Dir/LR
-[l,impf,0cm,sg,pl]:n>          jënochèe:chèe[l,impf,0cm,nondir] #turnover - missing jë prefix, what is it?
-[l,perf,dh,sg,pl]:n>           jënochèe:chįį[l,perf,dh,nondir]
-[l,fut,0cm,sg,pl]:n>           jënochèe:chew[l,fut,0cm,nondir]
-[ł,impf,0cm,sg,pl]:n>          nohsreww:{Z}reww[ł,impf,0cm,nondir] #comb
-[ł,impf,0cm,sg,pl]:n>          nohsreww:{Z}rew[ł,impf,0cm,nondir] # Dir/LR
-#[ł,perf,??,sg,pl]:n>          nohsreww:{Z}rew'[ł,perf,??,nondir] not enough data to determine perfective conj marking
-[ł,fut,0cm,sg,pl]:n>           nohsreww:{Z}reww[ł,fut,0cm,nondir]
-[ł,fut,0cm,sg,pl]:n>           nohsreww:{Z}rew[ł,fut,0cm,nondir] # Dir/LR
-[l,impf,0cm,sg,pl]:chʼ>        chʼodzöö:odzöö[l,impf,0cm,nondir] #dance, what is this ch?
-[l,impf,0cm,sg,pl]:chʼ>        chʼodzöö:odzöh[l,impf,0cm,nondir] # Dir/LR
-[l,perf,gh,sg,pl]:chʼ>         chʼodzöö:odzö̀ʼ[l,perf,gh,nondir]
-[l,fut,0cm,sg,pl]:chʼ>         chʼodzöö:odzöö[l,fut,0cm,nondir]
-[l,fut,0cm,sg,pl]:chʼ>         chʼodzöö:odzöh[l,fut,0cm,nondir] # Dir/LR
-[l,impf,0cm,sg,pl]:            nozrèe:zrèe[l,impf,0cm,nondir] #HuntAround - missing perambulative "nä"
-[l,perf,dh,sg,pl]:             nozrèe:zrèʼ[l,impf,dh,nondir]
-[l,fut,0cm,sg,pl]:             nozrèe:zrèe[l,impf,fut,nondir]            
+[ł,impf,0cm,nondir,sg,pl]:n>              nohʼįį:ʼįį[ł,impf,0cm,nondir,sg,pl] #see
+[ł,impf,0cm,nondir,sg,pl]:n>              nohʼįį:ʼįh[ł,impf,0cm,nondir,sg,pl] # Dir/LR
+[ł,perf,gh,nondir,sg,pl]:n>               nohʼįį:ʼįʼ[ł,perf,gh,nondir,sg,pl]
+[ł,perf,gh,nondir,sg,pl]:n>               nohʼįį:ʼį[ł,perf,gh,nondir,sg,pl] # Dir/LR
+[ł,fut,0cm,nondir,sg,pl]:n>               nohʼįį:ʼį̀ww[ł,fut,0cm,nondir,sg,pl]
+[0cl,impf,perf,fut,0cm,nondir,sg,pl]:     ëzrök:{Z}rök[0cl,impf,0cm,nondir,sg,pl] #yell
+#[0cl,incp,dh,nondir,sg,pl]:              ëzrök:{Z}rök[0cl,incp,dh,nondir,sg,pl]
+[0cl,impf,fut,0cm,nondir,sg,pl]:          ëdlòo:dlòo[0cl,impf,0cm,nondir,sg,pl] #laugh - second o is sometimes h
+[0cl,impf,fut,0cm,nondir,sg,pl]:          ëdlòo:dlòh[0cl,impf,0cm,nondir,sg,pl] # Dir/LR
+[0cl,perf,n,nondir,sg,pl]:                ëdlòo:dlòʼ[0cl,perf,n,nondir,sg,pl]
+[l,impf,fut,0cm,nondir,sg,pl]:n>          nojät:jät[l,impf,0cm,nondir,sg,pl] #scare
+[l,impf,fut,0cm,nondir,sg,pl]:n>          nojöt:jöt[l,impf,0cm,nondir,sg,pl] # Dir/LR
+[l,perf,gh,nondir,sg,pl]:n>           nojät:jät[l,perf,gh,nondir,sg,pl]
+[l,perf,gh,nondir,sg,pl]:n>           nojät:jït[l,perf,gh,nondir,sg,pl] # Dir/LR
+[l,perf,gh,nondir,sg,pl]:n>           nojät:jö̀t[l,perf,gh,nondir,sg,pl] # Dir/LR 
+[d,impf,0cm,nondir,sg,pl]:            jënąą:nąą[d,impf,0cm,nondir,sg,pl] #drink
+[d,perf,gh,nondir,sg,pl]:             jënąą:nąʼ[d,perf,gh,nondir,sg,pl] #this can also be conjugated in the 0cl gh-perf
+#[d,incp,dh,nondir,sg,pl]:            jënąą:nąʼ[d,incp,dh,nondir,sg,pl]
+[d,fut,0cm,nondir,sg,pl]:             jënąą:naw[d,fut,0cm,nondir,sg,pl] #there is also sometimes a second w, as well as unclear nasality
+[ł,impf,fut,0cm,nondir,sg,pl]:            ohtseyy:tseyy[ł,impf,0cm,nondir,sg,pl] #make
+[ł,impf,0cm,nondir,sg,pl]:            ohtseyy:tsey[ł,impf,0cm,nondir,sg,pl] # Dir/LR
+[ł,perf,dh,nondir,sg,pl]:             ohtseyy:tsąyy[ł,perf,dh,nondir,sg,pl]
+[ł,perf,dh,nondir,sg,pl]:             ohtseyy:tsąy[ł,perf,dh,nondir,sg,pl]   # Dir/LR
+[ł,impf,fut,0cm,dir,sg,pl]:d>             udohkät:kät[ł,impf,0cm,dir,sg,pl] #ask - d is sometimes j, add phonology rule?
+[l,perf,gh,dir,sg,pl]:d>              udohkät:ket[l,perf,gh,dir,sg,pl]
+[0cl,impf,fut,0cm,nondir,sg,pl]:          ëtröö:tröö[0cl,impf,0cm,nondir,sg,pl] #cryweep
+[0cl,impf,fut,0cm,nondir,sg,pl]:          ëtröö:tröh[0cl,impf,0cm,nondir,sg,pl] # Dir/LR
+[0cl,perf,n,nondir,sg,pl]:            ëtröö:trö̀ʼ[0cl,perf,n,nondir,sg,pl]
+[l,impf,0cm,nondir,sg,pl]:n>          jënochèe:chèe[l,impf,0cm,nondir,sg,pl] #turnover - missing jë prefix, what is it?
+[l,perf,dh,nondir,sg,pl]:n>           jënochèe:chįį[l,perf,dh,nondir,sg,pl]
+[l,fut,0cm,nondir,sg,pl]:n>           jënochèe:chew[l,fut,0cm,nondir,sg,pl]
+[ł,impf,fut,0cm,nondir,sg,pl]:n>          nohsreww:{Z}reww[ł,impf,0cm,nondir,sg,pl] #comb
+[ł,impf,fut,0cm,nondir,sg,pl]:n>          nohsreww:{Z}rew[ł,impf,0cm,nondir,sg,pl] # Dir/LR
+#[ł,perf,??,nondir,sg,pl]:n>          nohsreww:{Z}rew'[ł,perf,??,nondir,sg,pl] not enough data to determine perfective conj marking
+[l,impf,fut,0cm,nondir,sg,pl]:chʼ>        chʼodzöö:odzöö[l,impf,0cm,nondir,sg,pl] #dance, what is this ch?
+[l,impf,fut,0cm,nondir,sg,pl]:chʼ>        chʼodzöö:odzöh[l,impf,0cm,nondir,sg,pl] # Dir/LR
+[l,perf,gh,nondir,sg,pl]:chʼ>         chʼodzöö:odzö̀ʼ[l,perf,gh,nondir,sg,pl]
+[l,impf,fut,0cm,nondir,sg,pl]:            nozrèe:zrèe[l,impf,0cm,nondir,sg,pl] #HuntAround - missing perambulative "nä"
+[l,perf,dh,nondir,sg,pl]:             nozrèe:zrèʼ[l,impf,dh,nondir,sg,pl]
+         
 
 
 LEXICON VerbStem-Iv(2)
-[0cl,impf,0cm]:         ëkoo:koo[0cl,impf,0cm] #cough
-[0cl,impf,0cm]:         ëkoo:koh[0cl,impf,0cm] # Dir/LR
+[0cl,impf,0cm,nondir,sg,pl]:         ëkoo:koo[0cl,impf,0cm,nondir,sg,pl] #cough
+[0cl,impf,0cm,nondir,sg,pl]:         ëkoo:koh[0cl,impf,0cm,nondir,sg,pl] # Dir/LR
 #cough, cryweep1 are intv?
 
 
-LEXICON directive(2)
-[nondir]:       [nondir]<nondir>:
-[dir]:u>        [dir]<dir>:
+LEXICON directive
+[nondir]:       
+[dir]:u>        
 
 
 LEXICON aspect(2)
