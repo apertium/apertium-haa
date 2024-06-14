@@ -85,7 +85,7 @@ LEXICON VerbStem-Tv(3)
 [d,perf,gh,nondir,sg,pl]:                 [d,perf,gh,nondir,sg,pl]:                 jënąą:nąʼ[d,perf,gh,nondir,sg,pl] #this can also be conjugated in the 0cl gh-perf
 #[d,incp,dh,nondir,sg,pl]:                [d,incp,dh,nondir,sg,pl]:                 jënąą:nąʼ[d,incp,dh,nondir,sg,pl]
 [d,fut,0cm,nondir,sg,pl]:                 [d,fut,0cm,nondir,sg,pl]:                 jënąą:naw[d,fut,0cm,nondir,sg,pl] #there is also sometimes a second w, as well as unclear nasality
-[ł,impf,fut,0cm,nondir,sg,pl]:            [ł,impf,fut,0cm,nondir,sg,pl]:            ohtseyy:tseyy[ł,impf,fut,0cm,nondir,sg,pl] #make
+[ł,impf,fut,0cm,nondir]:            [ł,impf,fut,0cm,nondir]:            ohtseyy:tseyy[ł,impf,fut,0cm,nondir] #make
 [ł,impf,0cm,nondir,sg,pl]:                [ł,impf,0cm,nondir,sg,pl]:                ohtseyy:tsey[ł,impf,0cm,nondir,sg,pl] # Dir/LR
 [ł,perf,dh,nondir,sg,pl]:                 [ł,perf,dh,nondir,sg,pl]:                 ohtseyy:tsąyy[ł,perf,dh,nondir,sg,pl]
 [ł,perf,dh,nondir,sg,pl]:                 [ł,perf,dh,nondir,sg,pl]:                 ohtseyy:tsąy[ł,perf,dh,nondir,sg,pl]   # Dir/LR
