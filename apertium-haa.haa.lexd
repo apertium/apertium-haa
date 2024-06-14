@@ -103,7 +103,7 @@ LEXICON VerbStem-Tv(3)
 [l,impf,fut,0cm,nondir,sg,pl]:            [l,impf,fut,0cm,nondir,sg,pl]:            chʼodzöö:odzöh[l,impf,fut,0cm,nondir,sg,pl] # Dir/LR
 [l,perf,gh,nondir,sg,pl]:                 [l,perf,gh,nondir,sg,pl]:                 chʼodzöö:odzö̀ʼ[l,perf,gh,nondir,sg,pl]
 [l,impf,fut,0cm,nondir,sg,pl]:            [l,impf,fut,0cm,nondir,sg,pl]:            nozrèe:zrèe[l,impf,fut,0cm,nondir,sg,pl] #HuntAround - missing perambulative "nä"
-[l,perf,dh,nondir,sg,pl]:                 [l,perf,dh,nondir,sg,pl]:                 nozrèe:zrèʼ[l,impf,dh,nondir,sg,pl]
+[l,perf,dh,nondir,sg,pl]:                 [l,perf,dh,nondir,sg,pl]:                 nozrèe:zrèʼ[l,perf,dh,nondir,sg,pl]
 [0cl,impf,0cm,nondir,sg]:                 [0cl,impf,0cm,nondir,sg]:n>               nähaa:haa[0cl,impf,0cm,nondir,sg] #GoComeArrive(sg)
 [0cl,perf,n,nondir,sg]:                   [0cl,perf,n,nondir,sg]:n>                 nähaa:zhaa[0cl,perf,n,nondir,sg]
 [0cl,fut,0cm,nondir,sg]:                  [0cl,fut,0cm,nondir,sg]:n>                nähaa:haw[0cl,fut,0cm,nondir,sg]
