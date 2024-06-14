@@ -104,7 +104,14 @@ LEXICON VerbStem-Tv(3)
 [l,perf,gh,nondir,sg,pl]:                 [l,perf,gh,nondir,sg,pl]:                 chʼodzöö:odzö̀ʼ[l,perf,gh,nondir,sg,pl]
 [l,impf,fut,0cm,nondir,sg,pl]:            [l,impf,fut,0cm,nondir,sg,pl]:            nozrèe:zrèe[l,impf,fut,0cm,nondir,sg,pl] #HuntAround - missing perambulative "nä"
 [l,perf,dh,nondir,sg,pl]:                 [l,perf,dh,nondir,sg,pl]:                 nozrèe:zrèʼ[l,impf,dh,nondir,sg,pl]
-         
+[0cl,impf,0cm,nondir,sg]:                 [0cl,impf,0cm,nondir,sg]:n>               nähaa:haa[0cl,impf,0cm,nondir,sg] #GoComeArrive(sg)
+[0cl,perf,n,nondir,sg]:                   [0cl,perf,n,nondir,sg]:n>                 nähaa:zhaa[0cl,perf,n,nondir,sg]
+[0cl,fut,0cm,nondir,sg]:                  [0cl,fut,0cm,nondir,sg]:n>                nähaa:haw[0cl,fut,0cm,nondir,sg]
+#[0cl,impf,0cm,nondir,pl]:                 [0cl,impf,0cm,nondir,pl]:n>               nähaa:jèww[0cl,impf,0cm,nondir,pl] #no elicited forms in the impf
+[0cl,perf,n,nondir,pl]:                   [0cl,perf,n,nondir,pl]:n>                 nähaa:jeww[0cl,perf,n,nondir,pl]
+[0cl,fut,0cm,nondir,pl]:                  [0cl,fut,0cm,nondir,pl]:n>                nähaa:dä̀w[0cl,fut,0cm,nondir,pl]
+
+
 
 
 LEXICON VerbStem-Iv(2)
@@ -328,40 +335,40 @@ LEXICON subject(4)
 [l,fut,0cm,3Ssub,sg]:             [l,fut,0cm,3Ssub,sg]:               [l,fut,0cm,3Ssub,sg]:ä>           [l,fut,0cm,3Ssub,sg]<s_3sg>:
 [l,fut,0cm,non3Ssub,pl]:h{E}>     [l,fut,0cm,non3Ssub,pl]:            [l,fut,0cm,non3Ssub,pl]:ä>        [l,fut,0cm,non3Ssub,pl]<s_3pl>:
 
-[ł,opt,0cm,non3Ssub]:          [ł,opt,0cm,non3Ssub]:           [ł,opt,0cm,non3Ssub]:ok>      [ł,opt,0cm,non3Ssub]<s_1sg>:
-[ł,opt,0cm,non3Ssub]:          [ł,opt,0cm,non3Ssub]:           [ł,opt,0cm,non3Ssub]:uk>      [ł,opt,0cm,non3Ssub]<s_1sg>: #Dir/LR
-[ł,opt,0cm,non3Ssub]:          [ł,opt,0cm,non3Ssub]:trʼ{E}> [ł,opt,0cm,non3Ssub]:uh>      [ł,opt,0cm,non3Ssub]<s_1pl>:
-[ł,opt,0cm,non3Ssub]:          [ł,opt,0cm,non3Ssub]:trʼ{E}> [ł,opt,0cm,non3Ssub]:oh>      [ł,opt,0cm,non3Ssub]<s_1pl>: #Dir/LR
-[ł,opt,0cm,non3Ssub]:          [ł,opt,0cm,non3Ssub]:           [ł,opt,0cm,non3Ssub]:ǫh>      [ł,opt,0cm,non3Ssub]<s_2sg>:    
-[ł,opt,0cm,non3Ssub]:          [ł,opt,0cm,non3Ssub]:           [ł,opt,0cm,non3Ssub]:äh>      [ł,opt,0cm,non3Ssub]<s_2pl>:
-[ł,opt,0cm,3Ssub]:             [ł,opt,0cm,3Ssub]:              [ł,opt,0cm,3Ssub]:uh>         [ł,opt,0cm,3Ssub]<s_3sg>: 
-[ł,opt,0cm,3Ssub]:             [ł,opt,0cm,3Ssub]:              [ł,opt,0cm,3Ssub]:oh>         [ł,opt,0cm,3Ssub]<s_3sg>:  #Dir/LR
-[ł,opt,0cm,non3Ssub]:h{E}>  [ł,opt,0cm,non3Ssub]:           [ł,opt,0cm,non3Ssub]:uh>      [ł,opt,0cm,non3Ssub]<s_3pl>: 
-[ł,opt,0cm,non3Ssub]:h{E}>  [ł,opt,0cm,non3Ssub]:           [ł,opt,0cm,non3Ssub]:oh>      [ł,opt,0cm,non3Ssub]<s_3pl>: #Dir/LR
+[ł,opt,0cm,non3Ssub,sg]:          [ł,opt,0cm,non3Ssub,sg]:           [ł,opt,0cm,non3Ssub,sg]:ok>      [ł,opt,0cm,non3Ssub,sg]<s_1sg>:
+[ł,opt,0cm,non3Ssub,sg]:          [ł,opt,0cm,non3Ssub,sg]:           [ł,opt,0cm,non3Ssub,sg]:uk>      [ł,opt,0cm,non3Ssub,sg]<s_1sg>: #Dir/LR
+[ł,opt,0cm,non3Ssub,pl]:          [ł,opt,0cm,non3Ssub,pl]:trʼ{E}>    [ł,opt,0cm,non3Ssub,pl]:uh>      [ł,opt,0cm,non3Ssub,pl]<s_1pl>:
+[ł,opt,0cm,non3Ssub,pl]:          [ł,opt,0cm,non3Ssub,pl]:trʼ{E}>    [ł,opt,0cm,non3Ssub,pl]:oh>      [ł,opt,0cm,non3Ssub,pl]<s_1pl>: #Dir/LR
+[ł,opt,0cm,non3Ssub,sg]:          [ł,opt,0cm,non3Ssub,sg]:           [ł,opt,0cm,non3Ssub,sg]:ǫh>      [ł,opt,0cm,non3Ssub,sg]<s_2sg>:    
+[ł,opt,0cm,non3Ssub,pl]:          [ł,opt,0cm,non3Ssub,pl]:           [ł,opt,0cm,non3Ssub,pl]:äh>      [ł,opt,0cm,non3Ssub,pl]<s_2pl>:
+[ł,opt,0cm,3Ssub,sg]:             [ł,opt,0cm,3Ssub,sg]:              [ł,opt,0cm,3Ssub,sg]:uh>         [ł,opt,0cm,3Ssub,sg]<s_3sg>: 
+[ł,opt,0cm,3Ssub,sg]:             [ł,opt,0cm,3Ssub,sg]:              [ł,opt,0cm,3Ssub,sg]:oh>         [ł,opt,0cm,3Ssub,sg]<s_3sg>:  #Dir/LR
+[ł,opt,0cm,non3Ssub,pl]:h{E}>     [ł,opt,0cm,non3Ssub,pl]:           [ł,opt,0cm,non3Ssub,pl]:uh>      [ł,opt,0cm,non3Ssub,pl]<s_3pl>: 
+[ł,opt,0cm,non3Ssub,pl]:h{E}>     [ł,opt,0cm,non3Ssub,pl]:           [ł,opt,0cm,non3Ssub,pl]:oh>      [ł,opt,0cm,non3Ssub,pl]<s_3pl>: #Dir/LR
 
-[0cl,opt,0cm,non3Ssub]:          [0cl,opt,0cm,non3Ssub]:           [0cl,opt,0cm,non3Ssub]:uh>      [0cl,opt,0cm,non3Ssub]<s_1sg>: 
-[0cl,opt,0cm,non3Ssub]:          [0cl,opt,0cm,non3Ssub]:trʼ{E}> [0cl,opt,0cm,non3Ssub]:u>       [0cl,opt,0cm,non3Ssub]<s_1pl>:
-[0cl,opt,0cm,non3Ssub]:          [0cl,opt,0cm,non3Ssub]:           [0cl,opt,0cm,non3Ssub]:on>      [0cl,opt,0cm,non3Ssub]<s_2sg>:    
-[0cl,opt,0cm,non3Ssub]:          [0cl,opt,0cm,non3Ssub]:           [0cl,opt,0cm,non3Ssub]:ǫ>       [0cl,opt,0cm,non3Ssub]<s_2sg>: #Dir/LR
-[0cl,opt,0cm,non3Ssub]:          [0cl,opt,0cm,non3Ssub]:           [0cl,opt,0cm,non3Ssub]:äh>      [0cl,opt,0cm,non3Ssub]<s_2pl>:
-[0cl,opt,0cm,3Ssub]:             [0cl,opt,0cm,3Ssub]:              [0cl,opt,0cm,3Ssub]:u>          [0cl,opt,0cm,3Ssub]<s_3sg>: 
-[0cl,opt,0cm,non3Ssub]:h{E}>  [0cl,opt,0cm,non3Ssub]:           [0cl,opt,0cm,non3Ssub]:u>       [0cl,opt,0cm,non3Ssub]<s_3pl>: 
+[0cl,opt,0cm,non3Ssub,sg]:          [0cl,opt,0cm,non3Ssub,sg]:           [0cl,opt,0cm,non3Ssub,sg]:uh>      [0cl,opt,0cm,non3Ssub,sg]<s_1sg>: 
+[0cl,opt,0cm,non3Ssub,pl]:          [0cl,opt,0cm,non3Ssub,pl]:trʼ{E}>    [0cl,opt,0cm,non3Ssub,pl]:u>       [0cl,opt,0cm,non3Ssub,pl]<s_1pl>:
+[0cl,opt,0cm,non3Ssub,sg]:          [0cl,opt,0cm,non3Ssub,sg]:           [0cl,opt,0cm,non3Ssub,sg]:on>      [0cl,opt,0cm,non3Ssub,sg]<s_2sg>:    
+[0cl,opt,0cm,non3Ssub,sg]:          [0cl,opt,0cm,non3Ssub,sg]:           [0cl,opt,0cm,non3Ssub,sg]:ǫ>       [0cl,opt,0cm,non3Ssub,sg]<s_2sg>: #Dir/LR
+[0cl,opt,0cm,non3Ssub,pl]:          [0cl,opt,0cm,non3Ssub,pl]:           [0cl,opt,0cm,non3Ssub,pl]:äh>      [0cl,opt,0cm,non3Ssub,pl]<s_2pl>:
+[0cl,opt,0cm,3Ssub,sg]:             [0cl,opt,0cm,3Ssub,sg]:              [0cl,opt,0cm,3Ssub,sg]:u>          [0cl,opt,0cm,3Ssub,sg]<s_3sg>: 
+[0cl,opt,0cm,non3Ssub,pl]:h{E}>     [0cl,opt,0cm,non3Ssub,pl]:           [0cl,opt,0cm,non3Ssub,pl]:u>       [0cl,opt,0cm,non3Ssub,pl]<s_3pl>: 
 
-[d,opt,0cm,non3Ssub]:          [d,opt,0cm,non3Ssub]:           [d,opt,0cm,non3Ssub]:ush>     [d,opt,0cm,non3Ssub]<s_1sg>: 
-[d,opt,0cm,non3Ssub]:          [d,opt,0cm,non3Ssub]:trʼ{E}> [d,opt,0cm,non3Ssub]:u>       [d,opt,0cm,non3Ssub]<s_1pl>:
-[d,opt,0cm,non3Ssub]:          [d,opt,0cm,non3Ssub]:           [d,opt,0cm,non3Ssub]:on>      [d,opt,0cm,non3Ssub]<s_2sg>: 
-[d,opt,0cm,non3Ssub]:          [d,opt,0cm,non3Ssub]:           [d,opt,0cm,non3Ssub]:ǫ>       [d,opt,0cm,non3Ssub]<s_2sg>: # Dir/LR 
-[d,opt,0cm,non3Ssub]:          [d,opt,0cm,non3Ssub]:           [d,opt,0cm,non3Ssub]:äh>      [d,opt,0cm,non3Ssub]<s_2pl>:
-[d,opt,0cm,3Ssub]:             [d,opt,0cm,3Ssub]:              [d,opt,0cm,3Ssub]:u>          [d,opt,0cm,3Ssub]<s_3sg>: 
-[d,opt,0cm,non3Ssub]:h{E}>  [d,opt,0cm,non3Ssub]:           [d,opt,0cm,non3Ssub]:u>       [d,opt,0cm,non3Ssub]<s_3pl>: 
+[d,opt,0cm,non3Ssub,sg]:          [d,opt,0cm,non3Ssub,sg]:           [d,opt,0cm,non3Ssub,sg]:ush>     [d,opt,0cm,non3Ssub,sg]<s_1sg>: 
+[d,opt,0cm,non3Ssub,pl]:          [d,opt,0cm,non3Ssub,pl]:trʼ{E}>    [d,opt,0cm,non3Ssub,pl]:u>       [d,opt,0cm,non3Ssub,pl]<s_1pl>:
+[d,opt,0cm,non3Ssub,sg]:          [d,opt,0cm,non3Ssub,sg]:           [d,opt,0cm,non3Ssub,sg]:on>      [d,opt,0cm,non3Ssub,sg]<s_2sg>: 
+[d,opt,0cm,non3Ssub,sg]:          [d,opt,0cm,non3Ssub,sg]:           [d,opt,0cm,non3Ssub,sg]:ǫ>       [d,opt,0cm,non3Ssub,sg]<s_2sg>: # Dir/LR 
+[d,opt,0cm,non3Ssub,pl]:          [d,opt,0cm,non3Ssub,pl]:           [d,opt,0cm,non3Ssub,pl]:äh>      [d,opt,0cm,non3Ssub,pl]<s_2pl>:
+[d,opt,0cm,3Ssub,sg]:             [d,opt,0cm,3Ssub,sg]:              [d,opt,0cm,3Ssub,sg]:u>          [d,opt,0cm,3Ssub,sg]<s_3sg>: 
+[d,opt,0cm,non3Ssub,pl]:h{E}>     [d,opt,0cm,non3Ssub,pl]:           [d,opt,0cm,non3Ssub,pl]:u>       [d,opt,0cm,non3Ssub,pl]<s_3pl>: 
 
-[l,opt,0cm,non3Ssub]:          [l,opt,0cm,non3Ssub]:           [l,opt,0cm,non3Ssub]:oy>      [l,opt,0cm,non3Ssub]<s_1sg>: 
-[l,opt,0cm,non3Ssub]:          [l,opt,0cm,non3Ssub]:trʼ{E}> [l,opt,0cm,non3Ssub]:u>       [l,opt,0cm,non3Ssub]<s_1pl>:
-[l,opt,0cm,non3Ssub]:          [l,opt,0cm,non3Ssub]:           [l,opt,0cm,non3Ssub]:on>      [l,opt,0cm,non3Ssub]<s_2sg>: 
-[d,opt,0cm,non3Ssub]:          [d,opt,0cm,non3Ssub]:           [d,opt,0cm,non3Ssub]:ǫ>       [d,opt,0cm,non3Ssub]<s_2sg>: # Dir/LR 
-[l,opt,0cm,non3Ssub]:          [l,opt,0cm,non3Ssub]:           [l,opt,0cm,non3Ssub]:äh>      [l,opt,0cm,non3Ssub]<s_2pl>:
-[l,opt,0cm,3Ssub]:             [l,opt,0cm,3Ssub]:              [l,opt,0cm,3Ssub]:u>          [l,opt,0cm,3Ssub]<s_3sg>: 
-[l,opt,0cm,non3Ssub]:h{E}>     [l,opt,0cm,non3Ssub]:           [l,opt,0cm,non3Ssub]:u>       [l,opt,0cm,non3Ssub]<s_3pl>: 
+[l,opt,0cm,non3Ssub,sg]:          [l,opt,0cm,non3Ssub,sg]:           [l,opt,0cm,non3Ssub,sg]:oy>      [l,opt,0cm,non3Ssub,sg]<s_1sg>: 
+[l,opt,0cm,non3Ssub,pl]:          [l,opt,0cm,non3Ssub,pl]:trʼ{E}>    [l,opt,0cm,non3Ssub,pl]:u>       [l,opt,0cm,non3Ssub,pl]<s_1pl>:
+[l,opt,0cm,non3Ssub,sg]:          [l,opt,0cm,non3Ssub,sg]:           [l,opt,0cm,non3Ssub,sg]:on>      [l,opt,0cm,non3Ssub,sg]<s_2sg>: 
+[d,opt,0cm,non3Ssub,sg]:          [d,opt,0cm,non3Ssub,sg]:           [d,opt,0cm,non3Ssub,sg]:ǫ>       [d,opt,0cm,non3Ssub,sg]<s_2sg>: # Dir/LR 
+[l,opt,0cm,non3Ssub,pl]:          [l,opt,0cm,non3Ssub,pl]:           [l,opt,0cm,non3Ssub,pl]:äh>      [l,opt,0cm,non3Ssub,pl]<s_2pl>:
+[l,opt,0cm,3Ssub,sg]:             [l,opt,0cm,3Ssub,sg]:              [l,opt,0cm,3Ssub,sg]:u>          [l,opt,0cm,3Ssub,sg]<s_3sg>: 
+[l,opt,0cm,non3Ssub,pl]:h{E}>     [l,opt,0cm,non3Ssub,pl]:           [l,opt,0cm,non3Ssub,pl]:u>       [l,opt,0cm,non3Ssub,pl]<s_3pl>: 
 
 
 
