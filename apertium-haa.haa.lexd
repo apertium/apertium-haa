@@ -114,7 +114,7 @@ LEXICON VerbStem-Tv(3)
 
 
 
-LEXICON VerbStem-Iv(2)
+LEXICON VerbStem-Iv(3)
 [0cl,impf,0cm,nondir,sg,pl]:              [0cl,impf,0cm,nondir,sg,pl]:              ëkoo:koo[0cl,impf,0cm,nondir,sg,pl] #cough
 [0cl,impf,0cm,nondir,sg,pl]:              [0cl,impf,0cm,nondir,sg,pl]:              ëkoo:koh[0cl,impf,0cm,nondir,sg,pl] # Dir/LR
 #cough, cryweep1 are intv?      
