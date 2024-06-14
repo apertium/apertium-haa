@@ -155,13 +155,13 @@ LEXICON subject(4)
 [d,impf,0cm,3Ssub,sg]:            [d,impf,0cm,3Ssub,sg]:              [d,impf,0cm,3Ssub,sg]:j{E}>             [d,impf,0cm,3Ssub,sg]<s_3sg>: 
 [d,impf,0cm,non3Ssub,pl]:h{E}>    [d,impf,0cm,non3Ssub,pl]:           [d,impf,0cm,non3Ssub,pl]:j{E}>          [d,impf,0cm,non3Ssub,pl]<s_3pl>:
 
-[l,impf,0cm,non3Ssub,sg]:         [0cl,impf,0cm,non3Ssub,sg]:           [0cl,impf,0cm,non3Ssub,sg]:ey>           [0cl,impf,0cm,non3Ssub,sg]<s_1sg>:
-[l,impf,0cm,non3Ssub,pl]:         [0cl,impf,0cm,non3Ssub,pl]:trʼ{E}>    [0cl,impf,0cm,non3Ssub,pl]:o>            [0cl,impf,0cm,non3Ssub,pl]<s_1pl>:
-[l,impf,0cm,non3Ssub,sg]:         [0cl,impf,0cm,non3Ssub,sg]:           [0cl,impf,0cm,non3Ssub,sg]:än>           [0cl,impf,0cm,non3Ssub,sg]<s_2sg>: 
-[l,impf,0cm,non3Ssub,sg]:         [0cl,impf,0cm,non3Ssub,sg]:           [0cl,impf,0cm,non3Ssub,sg]:ą̈>            [0cl,impf,0cm,non3Ssub,sg]<s_2sg>: # Dir/LR
-[l,impf,0cm,non3Ssub,pl]:         [0cl,impf,0cm,non3Ssub,pl]:           [0cl,impf,0cm,non3Ssub,pl]:ä>            [0cl,impf,0cm,non3Ssub,pl]<s_2pl>:
-[l,impf,0cm,3Ssub,sg]:            [0cl,impf,0cm,3Ssub,sg]:              [0cl,impf,0cm,3Ssub,sg]:o>               [0cl,impf,0cm,3Ssub,sg]<s_3sg>: 
-[l,impf,0cm,non3Ssub,pl]:h{E}>    [0cl,impf,0cm,non3Ssub,pl]:           [0cl,impf,0cm,non3Ssub,pl]:o>            [0cl,impf,0cm,non3Ssub,pl]<s_3pl>:
+[l,impf,0cm,non3Ssub,sg]:         [l,impf,0cm,non3Ssub,sg]:             [l,impf,0cm,non3Ssub,sg]:ey>           [l,impf,0cm,non3Ssub,sg]<s_1sg>:
+[l,impf,0cm,non3Ssub,pl]:         [l,impf,0cm,non3Ssub,pl]:trʼ{E}>      [l,impf,0cm,non3Ssub,pl]:o>            [l,impf,0cm,non3Ssub,pl]<s_1pl>:
+[l,impf,0cm,non3Ssub,sg]:         [l,impf,0cm,non3Ssub,sg]:             [l,impf,0cm,non3Ssub,sg]:än>           [l,impf,0cm,non3Ssub,sg]<s_2sg>: 
+[l,impf,0cm,non3Ssub,sg]:         [l,impf,0cm,non3Ssub,sg]:             [l,impf,0cm,non3Ssub,sg]:ą̈>            [l,impf,0cm,non3Ssub,sg]<s_2sg>: # Dir/LR
+[l,impf,0cm,non3Ssub,pl]:         [l,impf,0cm,non3Ssub,pl]:             [l,impf,0cm,non3Ssub,pl]:ä>            [l,impf,0cm,non3Ssub,pl]<s_2pl>:
+[l,impf,0cm,3Ssub,sg]:            [l,impf,0cm,3Ssub,sg]:                [l,impf,0cm,3Ssub,sg]:o>               [l,impf,0cm,3Ssub,sg]<s_3sg>: 
+[l,impf,0cm,non3Ssub,pl]:h{E}>    [l,impf,0cm,non3Ssub,pl]:             [l,impf,0cm,non3Ssub,pl]:o>            [l,impf,0cm,non3Ssub,pl]<s_3pl>:
 
 #[ł,perf,0cm,non3Ssub,sg]:          [ł,perf,0cm,non3Ssub,sg]:           [ł,perf,0cm,non3Ssub,sg]:ök>      [ł,perf,0cm,non3Ssub,sg]<s_1sg>:
 #[ł,perf,0cm,non3Ssub,pl]:          [ł,perf,0cm,non3Ssub,pl]:trʼ{E}>    [ł,perf,0cm,non3Ssub,pl]:äh>      [ł,perf,0cm,non3Ssub,pl]<s_1pl>:
