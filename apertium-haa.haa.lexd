@@ -66,11 +66,11 @@ PATTERN Verbs-Iv
 
 
 LEXICON VerbStem-Tv(3) 
-[ł,impf,0cm,nondir,sg,pl]:                [ł,impf,0cm,nondir,sg,pl]:n>              nohʼįį:ʼįį[ł,impf,0cm,nondir,sg,pl] #see
-[ł,impf,0cm,nondir,sg,pl]:                [ł,impf,0cm,nondir,sg,pl]:n>              nohʼįį:ʼįh[ł,impf,0cm,nondir,sg,pl] # Dir/LR
-[ł,perf,gh,nondir,sg,pl]:                 [ł,perf,gh,nondir,sg,pl]:n>               nohʼįį:ʼįʼ[ł,perf,gh,nondir,sg,pl]
-[ł,perf,gh,nondir,sg,pl]:                 [ł,perf,gh,nondir,sg,pl]:n>               nohʼįį:ʼį[ł,perf,gh,nondir,sg,pl] # Dir/LR
-[ł,fut,0cm,nondir,sg,pl]:                 [ł,fut,0cm,nondir,sg,pl]:n>               nohʼįį:ʼį̀ww[ł,fut,0cm,nondir,sg,pl]
+[ł,impf,0cm,nondir]:                [ł,impf,0cm,nondir,sg,pl]:n>              nohʼįį:ʼįį[ł,impf,0cm,nondir,sg,pl] #see
+[ł,impf,0cm,nondir]:                [ł,impf,0cm,nondir,sg,pl]:n>              nohʼįį:ʼįh[ł,impf,0cm,nondir,sg,pl] # Dir/LR
+[ł,perf,gh,nondir]:                 [ł,perf,gh,nondir,sg,pl]:n>               nohʼįį:ʼįʼ[ł,perf,gh,nondir,sg,pl]
+[ł,perf,gh,nondir]:                 [ł,perf,gh,nondir,sg,pl]:n>               nohʼįį:ʼį[ł,perf,gh,nondir,sg,pl] # Dir/LR
+[ł,fut,0cm,nondir]:                 [ł,fut,0cm,nondir,sg,pl]:n>               nohʼįį:ʼį̀ww[ł,fut,0cm,nondir,sg,pl]
 [0cl,impf,perf,fut,0cm,nondir,sg,pl]:     [0cl,impf,perf,fut,0cm,nondir,sg,pl]:     ëzrök:{Z}rök[0cl,impf,perf,fut,0cm,nondir,sg,pl] #yell
 #[0cl,incp,dh,nondir,sg,pl]:              [0cl,incp,dh,nondir,sg,pl]:               ëzrök:{Z}rök[0cl,incp,dh,nondir,sg,pl]
 [0cl,impf,fut,0cm,nondir,sg,pl]:          [0cl,impf,fut,0cm,nondir,sg,pl]:          ëdlòo:dlòo[0cl,impf,fut,0cm,nondir,sg,pl] #laugh
