@@ -34,14 +34,14 @@ PATTERNS
 Verbs-Tv
 Verbs-Iv
 Number
-Nouns
-ProperNouns
-Prepositions
-Determiners
-Adjectives
-Conjunctions(1) Conjunctions(2) #conjunctions(2) is coordinating conjunctions 
+Nouns [<n>:]
+ProperNouns(1) [<np>:] ProperNouns(2)
+Prepositions [<pr>:]
+Determiners(1) [<det>:] Determiners(2)
+Adjectives [<adj>:]
+Conjunctions(1) Conjunctions(2) 
 Punctuation
-FocusMarker
+ModalWord [<mod>:]
 
 
 PATTERN Verbs-Tv
@@ -105,12 +105,12 @@ LEXICON VerbStem-Tv(3)
 [l,perf,gh]:                 [l,perf,gh]:                 chʼodzöö:odzö̀ʼ[l,perf,gh]
 [l,impf,fut,0cm]:            [l,impf,fut,0cm]:            nozrèe:zrèe[l,impf,fut,0cm] #HuntAround - missing perambulative "nä"
 [l,perf,dh]:                 [l,perf,dh]:                 nozrèe:zrèʼ[l,perf,dh]
-[0cl,impf,0cm,,sg]:                 [0cl,impf,0cm,,sg]:n>               nähaa:haa[0cl,impf,0cm,,sg] #GoComeArrive(sg)
-[0cl,perf,n,,sg]:                   [0cl,perf,n,,sg]:n>                 nähaa:zhaa[0cl,perf,n,,sg]
-[0cl,fut,0cm,,sg]:                  [0cl,fut,0cm,,sg]:n>                nähaa:haw[0cl,fut,0cm,,sg]
-#[0cl,impf,0cm,,pl]:                 [0cl,impf,0cm,,pl]:n>               nähaa:jèww[0cl,impf,0cm,,pl] #no elicited forms in the impf
-[0cl,perf,n,,pl]:                   [0cl,perf,n,,pl]:n>                 nähaa:jeww[0cl,perf,n,,pl]
-[0cl,fut,0cm,,pl]:                  [0cl,fut,0cm,,pl]:n>                nähaa:dä̀w[0cl,fut,0cm,,pl]
+[0cl,impf,0cm,sg]:                 [0cl,impf,0cm,sg]:n>               nähaa:haa[0cl,impf,0cm,sg] #GoComeArrive(sg)
+[0cl,perf,n,sg]:                   [0cl,perf,n,sg]:n>                 nähaa:zhaa[0cl,perf,n,sg]
+[0cl,fut,0cm,sg]:                  [0cl,fut,0cm,sg]:n>                nähaa:haw[0cl,fut,0cm,sg]
+#[0cl,impf,0cm,pl]:                 [0cl,impf,0cm,pl]:n>               nähaa:jèww[0cl,impf,0cm,pl] #no elicited forms in the impf
+[0cl,perf,n,pl]:                   [0cl,perf,n,pl]:n>                 nähaa:jeww[0cl,perf,n,pl]
+[0cl,fut,0cm,pl]:                  [0cl,fut,0cm,pl]:n>                nähaa:dä̀w[0cl,fut,0cm,pl]
 
 
 
@@ -393,28 +393,28 @@ LEXICON Conjunctions(2)
 tsʼą̈̀ʼ:tsʼą̈̀ʼ <cnjcoo>:
 etsänn:etsänn <cnjcoo>: #also forms with etsän. is this a different word? 
 
-LEXICON Prepositions(2)
-haa:haa     <pr>:  #for
-hèe:hèe     <pr>:  #with   
-zhìt:zhìt   <pr>:  #in
+LEXICON Prepositions
+haa:haa       #for
+hèe:hèe       #with   
+zhìt:zhìt     #in
 
-LEXICON Adjectives(2)
-tsöll:tsöll     <adj>:  #small
-hǫ̀zǫǫ:hǫ̀zǫǫ     <adj>:  #good
+LEXICON Adjectives
+tsöll:tsöll       #small
+hǫ̀zǫǫ:hǫ̀zǫǫ       #good
 
 LEXICON Determiners(2)
-eyy:eyy         <det>:  #that 
+eyy:eyy         <dem>:  #that 
 
 LEXICON ProperNouns(2)
-Didą̀ʼ:Didą̀ʼ     <np>:   #RR grandchild
-Michael:Michael <np>:   #RR grandchild
-Didą̀:Didą̀       <np>:   #RR grandchild
+Didą̀ʼ:Didą̀ʼ     <ant>:   #RR grandchild
+Michael:Michael <ant>:   #RR grandchild
+Didą̀:Didą̀       <ant>:   #RR grandchild
 
-LEXICON FocusMarker(2)
-nöö:nöö         <foc>:  #our one focus marker- is foc a good tag?
+LEXICON ModalWord
+nöö:nöö          #our one focus marker- is foc a good tag?
 
-LEXICON Nouns(2)
-łuu:łuu         <n>:    #fish
+LEXICON Nouns
+łuu:łuu           #fish
 
 
 PATTERN Number
