@@ -68,43 +68,43 @@ PATTERN Verbs-Iv
 
 LEXICON VerbStem-Tv(3) 
 [ł,impf,0cm,nondir]:                [ł,impf,0cm,nondir]:n>              nohʼįį:ʼįį[ł,impf,0cm,nondir] #see
-[ł,impf,0cm,nondir]:                [ł,impf,0cm,nondir,sg,pl]:n>              nohʼįį:ʼįh[ł,impf,0cm,nondir,sg,pl] # Dir/LR
+[ł,impf,0cm,nondir]:                [ł,impf,0cm,nondir]:n>              nohʼįį:ʼįh[ł,impf,0cm,nondir] # Dir/LR
 [ł,perf,gh,nondir]:                 [ł,perf,gh,nondir]:n>               nohʼįį:ʼįʼ[ł,perf,gh,nondir]
-[ł,perf,gh,nondir]:                 [ł,perf,gh,nondir,sg,pl]:n>               nohʼįį:ʼį[ł,perf,gh,nondir,sg,pl] # Dir/LR
-[ł,fut,0cm,nondir]:                 [ł,fut,0cm,nondir,sg,pl]:n>               nohʼįį:ʼį̀ww[ł,fut,0cm,nondir,sg,pl]
-[0cl,impf,perf,fut,0cm,nondir,sg,pl]:     [0cl,impf,perf,fut,0cm,nondir,sg,pl]:     ëzrök:{Z}rök[0cl,impf,perf,fut,0cm,nondir,sg,pl] #yell
-#[0cl,incp,dh,nondir,sg,pl]:              [0cl,incp,dh,nondir,sg,pl]:               ëzrök:{Z}rök[0cl,incp,dh,nondir,sg,pl]
-[0cl,impf,fut,0cm,nondir,sg,pl]:          [0cl,impf,fut,0cm,nondir,sg,pl]:          ëdlòo:dlòo[0cl,impf,fut,0cm,nondir,sg,pl] #laugh
-[0cl,impf,fut,0cm,nondir,sg,pl]:          [0cl,impf,fut,0cm,nondir,sg,pl]:          ëdlòo:dlòh[0cl,impf,fut,0cm,nondir,sg,pl] # Dir/LR
-[0cl,perf,n,nondir,sg,pl]:                [0cl,perf,n,nondir,sg,pl]:                ëdlòo:dlòʼ[0cl,perf,n,nondir,sg,pl]
-[l,impf,perf,fut,0cm,nondir,sg,pl]:       [l,impf,perf,fut,0cm,nondir,sg,pl]:n>     nojät:jät[l,impf,perf,fut,0cm,nondir,sg,pl] #scare
-[l,impf,fut,0cm,nondir,sg,pl]:            [l,impf,fut,0cm,nondir,sg,pl]:n>          nojöt:jöt[l,impf,fut,0cm,nondir,sg,pl] # Dir/LR
-[l,perf,gh,nondir,sg,pl]:                 [l,perf,gh,nondir,sg,pl]:n>               nojät:jït[l,perf,gh,nondir,sg,pl] # Dir/LR
-[l,perf,gh,nondir,sg,pl]:                 [l,perf,gh,nondir,sg,pl]:n>               nojät:jö̀t[l,perf,gh,nondir,sg,pl] # Dir/LR 
-[d,impf,0cm,nondir,sg,pl]:                [d,impf,0cm,nondir,sg,pl]:                jënąą:nąą[d,impf,0cm,nondir,sg,pl] #drink
-[d,perf,gh,nondir,sg,pl]:                 [d,perf,gh,nondir,sg,pl]:                 jënąą:nąʼ[d,perf,gh,nondir,sg,pl] #this can also be conjugated in the 0cl gh-perf
-#[d,incp,dh,nondir,sg,pl]:                [d,incp,dh,nondir,sg,pl]:                 jënąą:nąʼ[d,incp,dh,nondir,sg,pl]
-[d,fut,0cm,nondir,sg,pl]:                 [d,fut,0cm,nondir,sg,pl]:                 jënąą:naw[d,fut,0cm,nondir,sg,pl] #there is also sometimes a second w, as well as unclear nasality
+[ł,perf,gh,nondir]:                 [ł,perf,gh,nondir]:n>               nohʼįį:ʼį[ł,perf,gh,nondir] # Dir/LR
+[ł,fut,0cm,nondir]:                 [ł,fut,0cm,nondir]:n>               nohʼįį:ʼį̀ww[ł,fut,0cm,nondir]
+[0cl,impf,perf,fut,0cm,nondir]:     [0cl,impf,perf,fut,0cm,nondir]:     ëzrök:{Z}rök[0cl,impf,perf,fut,0cm,nondir] #yell
+#[0cl,incp,dh,nondir]:              [0cl,incp,dh,nondir]:               ëzrök:{Z}rök[0cl,incp,dh,nondir]
+[0cl,impf,fut,0cm,nondir]:          [0cl,impf,fut,0cm,nondir]:          ëdlòo:dlòo[0cl,impf,fut,0cm,nondir] #laugh
+[0cl,impf,fut,0cm,nondir]:          [0cl,impf,fut,0cm,nondir]:          ëdlòo:dlòh[0cl,impf,fut,0cm,nondir] # Dir/LR
+[0cl,perf,n,nondir]:                [0cl,perf,n,nondir]:                ëdlòo:dlòʼ[0cl,perf,n,nondir]
+[l,impf,perf,fut,0cm,nondir]:       [l,impf,perf,fut,0cm,nondir]:n>     nojät:jät[l,impf,perf,fut,0cm,nondir] #scare
+[l,impf,fut,0cm,nondir]:            [l,impf,fut,0cm,nondir]:n>          nojöt:jöt[l,impf,fut,0cm,nondir] # Dir/LR
+[l,perf,gh,nondir]:                 [l,perf,gh,nondir]:n>               nojät:jït[l,perf,gh,nondir] # Dir/LR
+[l,perf,gh,nondir]:                 [l,perf,gh,nondir]:n>               nojät:jö̀t[l,perf,gh,nondir] # Dir/LR 
+[d,impf,0cm,nondir]:                [d,impf,0cm,nondir]:                jënąą:nąą[d,impf,0cm,nondir] #drink
+[d,perf,gh,nondir]:                 [d,perf,gh,nondir]:                 jënąą:nąʼ[d,perf,gh,nondir] #this can also be conjugated in the 0cl gh-perf
+#[d,incp,dh,nondir]:                [d,incp,dh,nondir]:                 jënąą:nąʼ[d,incp,dh,nondir]
+[d,fut,0cm,nondir]:                 [d,fut,0cm,nondir]:                 jënąą:naw[d,fut,0cm,nondir] #there is also sometimes a second w, as well as unclear nasality
 [ł,impf,fut,0cm,nondir]:            [ł,impf,fut,0cm,nondir]:            ohtseyy:tseyy[ł,impf,fut,0cm,nondir] #make
-[ł,impf,0cm,nondir,sg,pl]:                [ł,impf,0cm,nondir,sg,pl]:                ohtseyy:tsey[ł,impf,0cm,nondir,sg,pl] # Dir/LR
-[ł,perf,dh,nondir,sg,pl]:                 [ł,perf,dh,nondir,sg,pl]:                 ohtseyy:tsąyy[ł,perf,dh,nondir,sg,pl]
-[ł,perf,dh,nondir,sg,pl]:                 [ł,perf,dh,nondir,sg,pl]:                 ohtseyy:tsąy[ł,perf,dh,nondir,sg,pl]   # Dir/LR
-[ł,impf,fut,0cm,dir,sg,pl]:u>             [ł,impf,fut,0cm,dir,sg,pl]:d>             udohkät:kät[ł,impf,fut,0cm,dir,sg,pl] #ask - d is sometimes j, add phonology rule?
-[l,perf,gh,dir,sg,pl]:u>                  [l,perf,gh,dir,sg,pl]:d>                  udohkät:ket[l,perf,gh,dir,sg,pl]
-[0cl,impf,fut,0cm,nondir,sg,pl]:          [0cl,impf,fut,0cm,nondir,sg,pl]:          ëtröö:tröö[0cl,impf,fut,0cm,nondir,sg,pl] #cryweep
-[0cl,impf,fut,0cm,nondir,sg,pl]:          [0cl,impf,fut,0cm,nondir,sg,pl]:          ëtröö:tröh[0cl,impf,fut,0cm,nondir,sg,pl] # Dir/LR
-[0cl,perf,n,nondir,sg,pl]:                [0cl,perf,n,nondir,sg,pl]:                ëtröö:trö̀ʼ[0cl,perf,n,nondir,sg,pl]
-[l,impf,0cm,nondir,sg,pl]:                [l,impf,0cm,nondir,sg,pl]:n>              jënochèe:chèe[l,impf,0cm,nondir,sg,pl] #turnover - missing jë prefix, what is it?
-[l,perf,dh,nondir,sg,pl]:                 [l,perf,dh,nondir,sg,pl]:n>               jënochèe:chįį[l,perf,dh,nondir,sg,pl]
-[l,fut,0cm,nondir,sg,pl]:                 [l,fut,0cm,nondir,sg,pl]:n>               jënochèe:chew[l,fut,0cm,nondir,sg,pl]
-[ł,impf,fut,0cm,nondir,sg,pl]:            [ł,impf,fut,0cm,nondir,sg,pl]:n>          nohsreww:{Z}reww[ł,impf,fut,0cm,nondir,sg,pl] #comb
-[ł,impf,fut,0cm,nondir,sg,pl]:            [ł,impf,fut,0cm,nondir,sg,pl]:n>          nohsreww:{Z}rew[ł,impf,fut,0cm,nondir,sg,pl] # Dir/LR
-#[ł,perf,??,nondir,sg,pl]:                [ł,perf,??,nondir,sg,pl]:n>               nohsreww:{Z}rew'[ł,perf,??,nondir,sg,pl] not enough data to determine perfective conj marking
-[l,impf,fut,0cm,nondir,sg,pl]:            [l,impf,fut,0cm,nondir,sg,pl]:            chʼodzöö:odzöö[l,impf,fut,0cm,nondir,sg,pl] #dance - missing ch' prefix
-[l,impf,fut,0cm,nondir,sg,pl]:            [l,impf,fut,0cm,nondir,sg,pl]:            chʼodzöö:odzöh[l,impf,fut,0cm,nondir,sg,pl] # Dir/LR
-[l,perf,gh,nondir,sg,pl]:                 [l,perf,gh,nondir,sg,pl]:                 chʼodzöö:odzö̀ʼ[l,perf,gh,nondir,sg,pl]
-[l,impf,fut,0cm,nondir,sg,pl]:            [l,impf,fut,0cm,nondir,sg,pl]:            nozrèe:zrèe[l,impf,fut,0cm,nondir,sg,pl] #HuntAround - missing perambulative "nä"
-[l,perf,dh,nondir,sg,pl]:                 [l,perf,dh,nondir,sg,pl]:                 nozrèe:zrèʼ[l,perf,dh,nondir,sg,pl]
+[ł,impf,0cm,nondir]:                [ł,impf,0cm,nondir]:                ohtseyy:tsey[ł,impf,0cm,nondir] # Dir/LR
+[ł,perf,dh,nondir]:                 [ł,perf,dh,nondir]:                 ohtseyy:tsąyy[ł,perf,dh,nondir]
+[ł,perf,dh,nondir]:                 [ł,perf,dh,nondir]:                 ohtseyy:tsąy[ł,perf,dh,nondir]   # Dir/LR
+[ł,impf,fut,0cm,dir]:u>             [ł,impf,fut,0cm,dir]:d>             udohkät:kät[ł,impf,fut,0cm,dir] #ask - d is sometimes j, add phonology rule?
+[l,perf,gh,dir]:u>                  [l,perf,gh,dir]:d>                  udohkät:ket[l,perf,gh,dir]
+[0cl,impf,fut,0cm,nondir]:          [0cl,impf,fut,0cm,nondir]:          ëtröö:tröö[0cl,impf,fut,0cm,nondir] #cryweep
+[0cl,impf,fut,0cm,nondir]:          [0cl,impf,fut,0cm,nondir]:          ëtröö:tröh[0cl,impf,fut,0cm,nondir] # Dir/LR
+[0cl,perf,n,nondir]:                [0cl,perf,n,nondir]:                ëtröö:trö̀ʼ[0cl,perf,n,nondir]
+[l,impf,0cm,nondir]:                [l,impf,0cm,nondir]:n>              jënochèe:chèe[l,impf,0cm,nondir] #turnover - missing jë prefix, what is it?
+[l,perf,dh,nondir]:                 [l,perf,dh,nondir]:n>               jënochèe:chįį[l,perf,dh,nondir]
+[l,fut,0cm,nondir]:                 [l,fut,0cm,nondir]:n>               jënochèe:chew[l,fut,0cm,nondir]
+[ł,impf,fut,0cm,nondir]:            [ł,impf,fut,0cm,nondir]:n>          nohsreww:{Z}reww[ł,impf,fut,0cm,nondir] #comb
+[ł,impf,fut,0cm,nondir]:            [ł,impf,fut,0cm,nondir]:n>          nohsreww:{Z}rew[ł,impf,fut,0cm,nondir] # Dir/LR
+#[ł,perf,??,nondir]:                [ł,perf,??,nondir]:n>               nohsreww:{Z}rew'[ł,perf,??,nondir] not enough data to determine perfective conj marking
+[l,impf,fut,0cm,nondir]:            [l,impf,fut,0cm,nondir]:            chʼodzöö:odzöö[l,impf,fut,0cm,nondir] #dance - missing ch' prefix
+[l,impf,fut,0cm,nondir]:            [l,impf,fut,0cm,nondir]:            chʼodzöö:odzöh[l,impf,fut,0cm,nondir] # Dir/LR
+[l,perf,gh,nondir]:                 [l,perf,gh,nondir]:                 chʼodzöö:odzö̀ʼ[l,perf,gh,nondir]
+[l,impf,fut,0cm,nondir]:            [l,impf,fut,0cm,nondir]:            nozrèe:zrèe[l,impf,fut,0cm,nondir] #HuntAround - missing perambulative "nä"
+[l,perf,dh,nondir]:                 [l,perf,dh,nondir]:                 nozrèe:zrèʼ[l,perf,dh,nondir]
 [0cl,impf,0cm,nondir,sg]:                 [0cl,impf,0cm,nondir,sg]:n>               nähaa:haa[0cl,impf,0cm,nondir,sg] #GoComeArrive(sg)
 [0cl,perf,n,nondir,sg]:                   [0cl,perf,n,nondir,sg]:n>                 nähaa:zhaa[0cl,perf,n,nondir,sg]
 [0cl,fut,0cm,nondir,sg]:                  [0cl,fut,0cm,nondir,sg]:n>                nähaa:haw[0cl,fut,0cm,nondir,sg]
@@ -116,8 +116,8 @@ LEXICON VerbStem-Tv(3)
 
 
 LEXICON VerbStem-Iv(3)
-[0cl,impf,0cm,nondir,sg,pl]:              [0cl,impf,0cm,nondir,sg,pl]:              ëkoo:koo[0cl,impf,0cm,nondir,sg,pl] #cough
-[0cl,impf,0cm,nondir,sg,pl]:              [0cl,impf,0cm,nondir,sg,pl]:              ëkoo:koh[0cl,impf,0cm,nondir,sg,pl] # Dir/LR
+[0cl,impf,0cm,nondir]:              [0cl,impf,0cm,nondir]:              ëkoo:koo[0cl,impf,0cm,nondir] #cough
+[0cl,impf,0cm,nondir]:              [0cl,impf,0cm,nondir]:              ëkoo:koh[0cl,impf,0cm,nondir] # Dir/LR
 #cough, cryweep1 are intv?      
 
 
