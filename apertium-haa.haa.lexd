@@ -91,8 +91,10 @@ LEXICON VerbStem-Tv(3)
 [ł,perf,dh]:                 [ł,perf,dh]:                 ohtseyy:tsąy[ł,perf,dh]   # Dir/LR
 [ł,impf,fut,0cm]:u>             [ł,impf,fut,0cm]:d>             udohkät:kät[ł,impf,fut,0cm] #ask - d is sometimes j, add phonology rule?
 [l,perf,gh]:u>                  [l,perf,gh]:d>                  udohkät:ket[l,perf,gh]
-[0cl,impf,fut,0cm]:          [0cl,impf,fut,0cm]:          ëtröö:tröö[0cl,impf,fut,0cm] #cryweep
-[0cl,impf,fut,0cm]:          [0cl,impf,fut,0cm]:          ëtröö:tröh[0cl,impf,fut,0cm] # Dir/LR
+[0cl,impf,0cm]:              [0cl,impf,0cm]:              ëtröö:tröö[0cl,impf,0cm] #cryweep
+[0cl,impf,0cm]:               [0cl,impf,0cm]:               ëtröö:tröh[0cl,impf,0cm] # Dir/LR
+[0cl,fut,0cm]:               [0cl,fut,0cm]:               ëtröö:tröö[0cl,fut,0cm] #cryweep
+[0cl,fut,0cm]:               [0cl,fut,0cm]:               ëtröö:tröh[0cl,fut,0cm] # Dir/LR
 [0cl,perf,n]:                [0cl,perf,n]:                ëtröö:trö̀ʼ[0cl,perf,n]
 [l,impf,0cm]:                [l,impf,0cm]:n>              jënochèe:chèe[l,impf,0cm] #turnover - missing jë prefix, what is it?
 [l,perf,dh]:                 [l,perf,dh]:n>               jënochèe:chįį[l,perf,dh]
