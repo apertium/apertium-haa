@@ -85,7 +85,7 @@ Adjectives [<adj>:]
 Conjunctions(1) Conjunctions(2) 
 Punctuation
 ModalWord [<mod>:]
-
+Adverbs [<adv>:]
 
 PATTERN Verbs-Tv
 #disjunctPref plSubj      object   deicticSubj   refl       directive    aspect    gender/qualifier  theme           conjMarker,subj,cl      stem
@@ -477,7 +477,10 @@ nöö:nö̀ö         #Dir/LR tone spread version of focus marker
 LEXICON Nouns
 łuu:łuu           #fish
 tsʼeyy:tsʼeyy     #porcupine
+tʼąychànn:tʼąychànn #frypan
 
+LEXICON Adverbs 
+chąą:chąą        #also, really, during, then
 
 PATTERN Number
 Numeral [<num>:]
