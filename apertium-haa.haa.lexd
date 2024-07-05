@@ -21,6 +21,49 @@
 # <pl>     # Plural
 # <sg>     # Singular
 
+
+#Filter documentation 
+
+#[3Ssub,non3Ssub] - The 3rd person object marker changes
+# if the subject of the verb is 3rd person singular or not.
+
+# 3Ssub - This denotes a 3rd person singular subject, 
+# so the different 3rd person object marker is used
+# non3Ssub - This denotes a non 3rd person singular subject, 
+# so the more common 3rd person object marker is used.
+
+# [impf,perf,incp,fut,opt] - These filters are used to match the
+# correct aspect to the correct verb stem and subject
+# Impf - imperfective
+# perf - perfective
+# incp - inceptive
+# fut - future
+# opt - optative
+
+# [sg,pl] - some stems change based on whether the subject is singular
+# or plural, these filters select the correct stem and subject marker accordingly
+# sg - singular subject
+# pl - plural subject
+
+# [l,d,0cl,ł] - verbs in Han are sorted into different classifications that have different 
+# subject marker morphology. The classifications are largely arbitrary
+# l - contrasts with barred l 
+# d 
+# 0cl - the 0 classifier filter is marked 0cl to distinguish from 0cm, the 0 conjugation marker
+# ł - barred l
+
+# [0cm,dh,gh,n] - Verbs in Han are sorted into different event classes that take different 
+# morphology (specifically, forms of the person markers). 
+# WDR calls these classes conjugation markers. Usually, perfective and imperfective
+# stems are each assigned a conjugation marker. More information on Han event classes
+# can be found in the guide to WDR paradigms
+# 0cm - default conjugation marker for imperfectives , "cm" added to contrast with 0cl
+# dh - accomplishments, semelfactives (with perfectives and imperfectives)
+# gh - achievements (with perfectives)
+# n - states, activities (with perfectives)
+
+
+
 # Other symbols
 # >        # Morpheme boundary
 
