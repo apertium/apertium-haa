@@ -86,6 +86,7 @@ Conjunctions(1) Conjunctions(2)
 Punctuation
 ModalWord [<mod>:]
 Adverbs [<adv>:]
+Pronoun [<prn>:]
 
 PATTERN Verbs-Tv
 #disjunctPref plSubj      object   deicticSubj   refl       directive    aspect    gender/qualifier  theme           conjMarker,subj,cl      stem
@@ -449,6 +450,7 @@ LEXICON object(3)
 :hu>              :       <o_3pl>:
 :                 :jë>    <refl>:    #maura checking on schwa deletion here, should we make a separate lexicon for reflexive
 
+
 LEXICON Conjunctions(2)
 tsʼą̈̀ʼ:tsʼą̈̀ʼ <cnjcoo>:
 etsänn:etsänn <cnjcoo>: #also forms with etsän. is this a different word? 
@@ -457,6 +459,8 @@ LEXICON Prepositions
 haa:haa       #for
 hèe:hèe       #with   
 zhìt:zhìt     #in
+kayy:kayy     #on
+ezheyy:ezheyy #there
 
 LEXICON Adjectives
 tsöll:tsöll       #small
@@ -475,12 +479,17 @@ nöö:nöö          #our one focus marker- is foc a good tag?
 nöö:nö̀ö         #Dir/LR tone spread version of focus marker 
 
 LEXICON Nouns
-łuu:łuu           #fish
-tsʼeyy:tsʼeyy     #porcupine
-tʼąychànn:tʼąychànn #frypan
+łuu:łuu              #fish
+tsʼeyy:tsʼeyy        #porcupine
+tʼąychànn:tʼąychànn  #frypan
+jeyy:jeyy            #blueberry
+
+LEXICON Pronouns
+jë:jë             #his
 
 LEXICON Adverbs 
 chąą:chąą        #also, really, during, then
+
 
 PATTERN Number
 Numeral [<num>:]
