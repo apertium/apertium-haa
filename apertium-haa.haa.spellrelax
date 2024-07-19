@@ -24,9 +24,9 @@
 	! .o. [ [ b | d | l | h | z | r | j | g | ʼ | t | s | c | k | ł | w | m | n | y ]* [ e (->) e  ̀ ( ( [ a | e | i | o | u ] ( [  ̨ |  ̈ ]* ) ) ( [ b | d | l | h | z | r | j | g | ʼ | t | s | c | k | ł | w | m | n | y ]+ [ a | e | i | o | u ] [ ? -  ̀ ] ) ) ] ?* ]
 
 	! simplified rule allowing low tone on first syllable of a word
-	.o. [ [ b | d | l | h | z | r | j | g | ʼ | t | s | c | k | ł | w | m | n | y ]* [ a  ̨ (->) a  ̨  ] ?* ]
+	.o. [ [ b | d | l | h | z | r | j | g | ʼ | t | s | c | k | ł | w | m | n | y ]* [ a  ̨ (->) a  ̨  ̀  ] ?* ]
 	
-	.o. [ [ b | d | l | h | z | r | j | g | ʼ | t | s | c | k | ł | w | m | n | y ]* [ e (->) e ] ?* ]
+	.o. [ [ b | d | l | h | z | r | j | g | ʼ | t | s | c | k | ł | w | m | n | y ]* [ e (->) e ̀  ] ?* ]
 
 
 ]
