@@ -86,7 +86,7 @@ Conjunctions(1) Conjunctions(2)
 Punctuation
 ModalWord [<mod>:]
 Adverbs [<adv>:]
-Pronoun [<prn>:]
+Pronoun(1) [<prn>:] Pronoun(2)
 
 PATTERN Verbs-Tv
 #disjunctPref plSubj      object   deicticSubj   refl       directive    aspect    gender/qualifier  theme           conjMarker,subj,cl      stem
@@ -491,9 +491,9 @@ wëdzey:wëdzey        #caribou
 shär:shär            #bear
 tthechuu:tthechuu    #river
 
-LEXICON Pronouns
-jë:jë             #his
-hu:hu             #their
+LEXICON Pronoun(2)
+jë:jë  <pers>:             #his
+hu:hu  <pers>:             #their
 
 LEXICON Adverbs 
 chąą:chąą        #also, really, during, then

@@ -18,9 +18,17 @@
 
 	.o. [ ?* [ e  ̈ (->) ë ] ?* ]
 
-	.o. [ [ b | d | l | h | z | r | j | g | ʼ | t | s | c | k | ł | w | m | n | y ]* [ a  ̨ (->) a  ̨  ̀ ( ( [ a | e | i | o | u ] ( [  ̨ |  ̈ ]* ) ) ( [ b | d | l | h | z | r | j | g | ʼ | t | s | c | k | ł | w | m | n | y ]+ [ a | e | i | o | u ] [ ? -  ̀ ] ) ) ] ?* ]
+   ! attempt at spellrelax rule that would allow low tone on first syllable if the second syllable isn't low tone
+	! .o. [ [ b | d | l | h | z | r | j | g | ʼ | t | s | c | k | ł | w | m | n | y ]* [ a  ̨ (->) a  ̨  ̀ ( ( [ a | e | i | o | u ] ( [  ̨ |  ̈ ]* ) ) ( [ b | d | l | h | z | r | j | g | ʼ | t | s | c | k | ł | w | m | n | y ]+ [ a | e | i | o | u ] [ ? -  ̀ ] ) ) ] ?* ]
+   !
+	! .o. [ [ b | d | l | h | z | r | j | g | ʼ | t | s | c | k | ł | w | m | n | y ]* [ e (->) e  ̀ ( ( [ a | e | i | o | u ] ( [  ̨ |  ̈ ]* ) ) ( [ b | d | l | h | z | r | j | g | ʼ | t | s | c | k | ł | w | m | n | y ]+ [ a | e | i | o | u ] [ ? -  ̀ ] ) ) ] ?* ]
 
-	.o. [ [ b | d | l | h | z | r | j | g | ʼ | t | s | c | k | ł | w | m | n | y ]* [ e (->) e  ̀ ( ( [ a | e | i | o | u ] ( [  ̨ |  ̈ ]* ) ) ( [ b | d | l | h | z | r | j | g | ʼ | t | s | c | k | ł | w | m | n | y ]+ [ a | e | i | o | u ] [ ? -  ̀ ] ) ) ] ?* ]
+	! simplified rule allowing low tone on first syllable of a word
+	.o. [ [ b | d | l | h | z | r | j | g | ʼ | t | s | c | k | ł | w | m | n | y ]* [ a  ̨ (->) a  ̨  ] ?* ]
+	
+	.o. [ [ b | d | l | h | z | r | j | g | ʼ | t | s | c | k | ł | w | m | n | y ]* [ e (->) e ] ?* ]
+
+
 ]
 
 
