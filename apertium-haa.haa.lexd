@@ -170,6 +170,8 @@ LEXICON VerbStem-Tv(3)
 #[0cl,impf,0cm,pl]:          [0cl,impf,0cm,pl]:n>               nähaa:jèww[0cl,impf,0cm,pl] #no elicited forms in the impf
 [0cl,perf,n,pl]:             [0cl,perf,n,pl]:n>                 nähaa:jeww[0cl,perf,n,pl]
 [0cl,fut,0cm,pl]:            [0cl,fut,0cm,pl]:n>                nähaa:dä̀w[0cl,fut,0cm,pl]
+#working guesser for 0cl 0cm
+#[0cl,0cm]<GUESSER0cl0cm>:                   [0cl,0cm]:                       /([a-zʼ\̈\̀\̨])+/[0cl,0cm]
 
 
 
@@ -202,7 +204,8 @@ LEXICON subject(4)
 
 [0cl,impf,0cm,non3Ssub,sg]:         [0cl,impf,0cm,non3Ssub,sg]:           [0cl,impf,0cm,non3Ssub,sg]:ih>           [0cl,impf,0cm,non3Ssub,sg]<s_1sg>:
 [0cl,impf,0cm,non3Ssub,pl]:         [0cl,impf,0cm,non3Ssub,pl]:trʼ{E}>    [0cl,impf,0cm,non3Ssub,pl]:{E}>          [0cl,impf,0cm,non3Ssub,pl]<s_1pl>:
-[0cl,impf,0cm,non3Ssub,sg]:         [0cl,impf,0cm,non3Ssub,sg]:           [0cl,impf,0cm,non3Ssub,sg]:į>            [0cl,impf,0cm,non3Ssub,sg]<s_2sg>: 
+[0cl,impf,0cm,non3Ssub,sg]:         [0cl,impf,0cm,non3Ssub,sg]:           [0cl,impf,0cm,non3Ssub,sg]:į>            [0cl,impf,0cm,non3Ssub,sg]<s_2sg>:
+[0cl,impf,0cm,non3Ssub,sg]:         [0cl,impf,0cm,non3Ssub,sg]:           [0cl,impf,0cm,non3Ssub,sg]:in>            [0cl,impf,0cm,non3Ssub,sg]<s_2sg>: # Dir/LR
 [0cl,impf,0cm,non3Ssub,pl]:         [0cl,impf,0cm,non3Ssub,pl]:           [0cl,impf,0cm,non3Ssub,pl]:äh>           [0cl,impf,0cm,non3Ssub,pl]<s_2pl>:
 [0cl,impf,0cm,3Ssub,sg]:            [0cl,impf,0cm,3Ssub,sg]:              [0cl,impf,0cm,3Ssub,sg]:{E}>             [0cl,impf,0cm,3Ssub,sg]<s_3sg>: 
 [0cl,impf,0cm,non3Ssub,pl]:h{E}>    [0cl,impf,0cm,non3Ssub,pl]:           [0cl,impf,0cm,non3Ssub,pl]:{E}>          [0cl,impf,0cm,non3Ssub,pl]<s_3pl>:
