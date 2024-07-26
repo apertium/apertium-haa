@@ -164,12 +164,12 @@ LEXICON VerbStem-Tv(3)
 [l,impf,0cm]:                [l,impf,0cm]:                nozrèe:zrèe[l,impf,0cm] #HuntAround - missing perambulative "nä"
 [l,fut,0cm]:                 [l,fut,0cm]:                 nozrèe:zrèe[l,fut,0cm]
 [l,perf,dh]:                 [l,perf,dh]:                 nozrèe:zrèʼ[l,perf,dh]
-[0cl,impf,0cm,sg]:                 [0cl,impf,0cm,sg]:n>               nähaa:haa[0cl,impf,0cm,sg] #GoComeArrive(sg)
-[0cl,perf,n,sg]:                   [0cl,perf,n,sg]:n>                 nähaa:zhaa[0cl,perf,n,sg]
-[0cl,fut,0cm,sg]:                  [0cl,fut,0cm,sg]:n>                nähaa:haw[0cl,fut,0cm,sg]
-#[0cl,impf,0cm,pl]:                 [0cl,impf,0cm,pl]:n>               nähaa:jèww[0cl,impf,0cm,pl] #no elicited forms in the impf
-[0cl,perf,n,pl]:                   [0cl,perf,n,pl]:n>                 nähaa:jeww[0cl,perf,n,pl]
-[0cl,fut,0cm,pl]:                  [0cl,fut,0cm,pl]:n>                nähaa:dä̀w[0cl,fut,0cm,pl]
+[0cl,impf,0cm,sg]:           [0cl,impf,0cm,sg]:n>               nähaa:haa[0cl,impf,0cm,sg] #GoComeArrive(sg)
+[0cl,perf,n,sg]:             [0cl,perf,n,sg]:n>                 nähaa:zhaa[0cl,perf,n,sg]
+[0cl,fut,0cm,sg]:            [0cl,fut,0cm,sg]:n>                nähaa:haw[0cl,fut,0cm,sg]
+#[0cl,impf,0cm,pl]:          [0cl,impf,0cm,pl]:n>               nähaa:jèww[0cl,impf,0cm,pl] #no elicited forms in the impf
+[0cl,perf,n,pl]:             [0cl,perf,n,pl]:n>                 nähaa:jeww[0cl,perf,n,pl]
+[0cl,fut,0cm,pl]:            [0cl,fut,0cm,pl]:n>                nähaa:dä̀w[0cl,fut,0cm,pl]
 
 
 
@@ -455,6 +455,7 @@ LEXICON Conjunctions(2)
 tsʼą̈̀ʼ:tsʼą̈̀ʼ <cnjcoo>:
 etsänn:etsänn <cnjcoo>: #also forms with etsän. is this a different word? 
 
+
 LEXICON Prepositions
 haa:haa       #for
 hèe:hèe       #with   
@@ -463,23 +464,28 @@ kayy:kayy     #on
 ezheyy:ezheyy #there
 tłänn:tłänn   #after
 
+
 LEXICON Adjectives
 tsöll:tsöll       #small
 hǫzǫǫ:hǫzǫǫ       #good
 choo:choo         #big
 
+
 LEXICON Determiners(2)
 eyy:eyy         <dem>:  #that
 chʼèe:chʼèe     <ind>:  #a
+
 
 LEXICON ProperNouns(2)
 Didą̀ʼ:Didą̀ʼ     <ant>:   #RR grandchild
 Michael:Michael <ant>:   #RR grandchild
 Didą̀:Didą̀       <ant>:   #RR grandchild
 
+
 LEXICON ModalWord
 nöö:nöö          #our one focus marker- is foc a good tag?
 nöö:nö̀ö         #Dir/LR tone spread version of focus marker 
+
 
 LEXICON Nouns
 łuu:łuu              #fish
@@ -498,10 +504,11 @@ LEXICON Pronoun(2)
 jë:jë  <pers>:             #his
 hu:hu  <pers>:             #their
 
+
 LEXICON Adverbs 
 chąą:chąą        #also, really, during, then
 łąą̈:łąą̈          #really
-
+shö̀k:shö̀k        #all the time
 
 PATTERN Number
 Numeral [<num>:]
