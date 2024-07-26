@@ -465,11 +465,12 @@ tłänn:tłänn   #after
 
 LEXICON Adjectives
 tsöll:tsöll       #small
-hǫ̀zǫǫ:hǫ̀zǫǫ       #good
+hǫzǫǫ:hǫzǫǫ       #good
 choo:choo         #big
 
 LEXICON Determiners(2)
-eyy:eyy         <dem>:  #that 
+eyy:eyy         <dem>:  #that
+chʼèe:chʼèe     <ind>:  #a
 
 LEXICON ProperNouns(2)
 Didą̀ʼ:Didą̀ʼ     <ant>:   #RR grandchild
@@ -490,6 +491,8 @@ zhoo:zhoo            #house
 wëdzey:wëdzey        #caribou
 shär:shär            #bear
 tthechuu:tthechuu    #river
+khayy:khayy          #winter
+
 
 LEXICON Pronoun(2)
 jë:jë  <pers>:             #his
@@ -497,6 +500,7 @@ hu:hu  <pers>:             #their
 
 LEXICON Adverbs 
 chąą:chąą        #also, really, during, then
+łąą̈              #really
 
 
 PATTERN Number
