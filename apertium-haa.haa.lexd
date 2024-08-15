@@ -455,8 +455,9 @@ LEXICON object(3)
 
 
 LEXICON Conjunctions(2)
-tsʼą̈̀ʼ:tsʼą̈̀ʼ <cnjcoo>:
-etsänn:etsänn <cnjcoo>: #also forms with etsän. is this a different word? 
+tsʼą̈̀ʼ:tsʼą̈̀ʼ <cnjcoo>: #and
+etsänn:etsänn <cnjcoo>: #also forms with etsän. is this a different word?
+tʼoo:tʼoo    <cnjcoo>:  #but
 
 
 LEXICON Prepositions
@@ -466,6 +467,8 @@ zhìt:zhìt     #in
 kayy:kayy     #on
 ezheyy:ezheyy #there
 tłänn:tłänn   #after
+huwèe:huwèe   #with them
+ghat:ghat     #by
 
 
 LEXICON Adjectives
@@ -486,8 +489,9 @@ Didą̀:Didą̀       <ant>:   #RR grandchild
 
 
 LEXICON ModalWord
-nöö:nöö          #our one focus marker- is foc a good tag?
+nöö:nöö         #our one focus marker- is foc a good tag?
 nöö:nö̀ö         #Dir/LR tone spread version of focus marker 
+kǒo:kǒo         #negation
 
 
 LEXICON Nouns
@@ -502,6 +506,8 @@ shär:shär            #bear
 tthechuu:tthechuu    #river
 khayy:khayy          #winter
 chuu:chuu            #water
+jëjee:jëjee          #man
+tthök:tthök          #fence
 
 
 LEXICON Pronoun(2)
