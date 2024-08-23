@@ -170,7 +170,7 @@ LEXICON VerbStem-Tv(3)
 #[0cl,impf,0cm,pl]:          [0cl,impf,0cm,pl]:n>               nähaa:jèww[0cl,impf,0cm,pl] #no elicited forms in the impf
 [0cl,perf,n,pl]:             [0cl,perf,n,pl]:n>                 nähaa:jeww[0cl,perf,n,pl]
 [0cl,fut,0cm,pl]:            [0cl,fut,0cm,pl]:n>                nähaa:dä̀w[0cl,fut,0cm,pl]
-#working guesser for 0cl 0cm
+#working guessers for 0cl 0cm, d 0cm
 #[0cl,0cm]<GUESSER0cl0cm>:                   [0cl,0cm]:                       /([a-zʼ\̈\̀\̨])+/[0cl,0cm]
 #[d,0cm]<GUESSERd0cm>:                   [d,0cm]:                       /([a-zʼ\̈\̀\̨])+/[d,0cm]
 
