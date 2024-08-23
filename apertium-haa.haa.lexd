@@ -87,6 +87,7 @@ Punctuation
 ModalWord [<mod>:]
 Adverbs [<adv>:]
 Pronoun(1) [<prn>:] Pronoun(2)
+Numeral
 
 PATTERN Verbs-Tv
 #disjunctPref plSubj      object   deicticSubj   refl       directive    aspect    gender/qualifier  theme           conjMarker,subj,cl      stem
@@ -170,9 +171,13 @@ LEXICON VerbStem-Tv(3)
 #[0cl,impf,0cm,pl]:          [0cl,impf,0cm,pl]:n>               nähaa:jèww[0cl,impf,0cm,pl] #no elicited forms in the impf
 [0cl,perf,n,pl]:             [0cl,perf,n,pl]:n>                 nähaa:jeww[0cl,perf,n,pl]
 [0cl,fut,0cm,pl]:            [0cl,fut,0cm,pl]:n>                nähaa:dä̀w[0cl,fut,0cm,pl]
+
 #working guessers for 0cl 0cm, d 0cm
 #[0cl,0cm]<GUESSER0cl0cm>:                   [0cl,0cm]:                       /([a-zʼ\̈\̀\̨])+/[0cl,0cm]
 #[d,0cm]<GUESSERd0cm>:                   [d,0cm]:                       /([a-zʼ\̈\̀\̨])+/[d,0cm]
+#[l,0cm]<GUESSERl0cm>:                   [l,0cm]:                       /([a-zʼ\̈\̀\̨])+/[l,0cm]
+#[ł,0cm]<GUESSERł0cm>:                   [ł,0cm]:                       /([a-zʼ\̈\̀\̨])+/[ł,0cm]
+
 
 
 
@@ -467,6 +472,7 @@ hèe:hèe       #with
 zhìt:zhìt     #in
 kayy:kayy     #on
 ezheyy:ezheyy #there
+ëzheyy:ëzheyy #Dir/LR
 tłänn:tłänn   #after
 huwèe:huwèe   #with them
 ghat:ghat     #by
@@ -491,7 +497,6 @@ Didą̀:Didą̀       <ant>:   #RR grandchild
 
 LEXICON ModalWord
 nöö:nöö         #our one focus marker- is foc a good tag?
-nöö:nö̀ö         #Dir/LR tone spread version of focus marker 
 kǒo:kǒo         #negation
 
 
@@ -509,6 +514,7 @@ khayy:khayy          #winter
 chuu:chuu            #water
 jëjee:jëjee          #man
 tthök:tthök          #fence
+juu:juu              #island
 
 
 LEXICON Pronoun(2)
@@ -521,6 +527,9 @@ chąą:chąą        #also, really, during, then
 łą̈̀ą̈:łą̈̀ą̈          #really
 shö̀k:shö̀k        #all the time
 tlʼaa:tlʼaa      #down
+
+LEXICON Numeral
+nä̀nkąyy:nä̀nkąyy  #two
 
 PATTERN Number
 Numeral [<num>:]

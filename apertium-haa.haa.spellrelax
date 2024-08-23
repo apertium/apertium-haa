@@ -36,6 +36,8 @@
 
 	.o. [ [ b | d | l | h | z | r | j | g | ʼ | t | s | c | k | ł | w | m | n | y ]* [ o  (->) o   ̀  ] ?* ]
 
+	.o. [ [ b | d | l | h | z | r | j | g | ʼ | t | s | c | k | ł | w | m | n | y ]* [ o  ̈ (->) o  ̈  ̀  ] ?* ]
+
 	.o. [ [ b | d | l | h | z | r | j | g | ʼ | t | s | c | k | ł | w | m | n | y ]* [ u  (->) u   ̀  ] ?* ]
 
 ]
