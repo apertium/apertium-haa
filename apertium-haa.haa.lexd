@@ -92,7 +92,7 @@ Numeral
 PATTERN Verbs-Tv
 #disjunctPref plSubj      object   deicticSubj   refl       directive    aspect    gender/qualifier  theme           conjMarker,subj,cl      stem
 # --          subject(1) object(1)  subject(2) object(2)  VerbStem-Tv(1) aspect(1)       --          VerbStem-Tv(2)       subject(3)      VerbStem-Tv(3)
-             (subject(1) object?(1) subject(2) object?(2) VerbStem-Tv(1) aspect(1) VerbStem-Tv(2) subject(3) VerbStem-Tv(3) [ <v><tv>: ] aspect(2) subject(4) object?(3))[^[3Ssub,non3Ssub],^[impf,perf,incp,fut,opt],^[sg,pl],^[l,d,0cl,ł],^[0cm,dh,gh,n]]
+            (subject(1) object?(1) subject(2) object?(2) VerbStem-Tv(1) aspect(1) VerbStem-Tv(2) subject(3) VerbStem-Tv(3) [ <v><tv>: ] aspect(2) subject(4) object?(3))[^[3Ssub,non3Ssub],^[impf,perf,incp,fut,opt],^[sg,pl],^[l,d,0cl,ł],^[0cm,dh,gh,n]]
 
 PATTERN Verbs-Iv
 #disjunctPref plSubj  object  deicticSubj  refl   directive   aspect  gender/qualifier  theme       conjMarker,subj,cl      stem
@@ -462,7 +462,8 @@ LEXICON object(3)
 
 LEXICON Conjunctions(2)
 tsʼą̈̀ʼ:tsʼą̈̀ʼ <cnjcoo>: #and
-etsänn:etsänn <cnjcoo>: #also forms with etsän. is this a different word?
+etsänn:etsänn <cnjcoo>: #and
+etsän:etsän  <cnjcoo>: #Dir/LR and (likely incorrect)
 tʼoo:tʼoo    <cnjcoo>:  #but
 
 
@@ -495,9 +496,11 @@ Michael:Michael <ant>:   #RR grandchild
 Didą̀:Didą̀       <ant>:   #RR grandchild
 
 
-LEXICON ModalWord
-nöö:nöö         #our one focus marker- is foc a good tag?
-kǒo:kǒo         #negation
+LEXICON ModalWord (2)
+nöö:nöö      :   #our one focus marker- is foc a good tag?
+kǒo:kǒo      :   #negation
+įh:įh      <plural>:  #pluralizer
+in:in      <plural>:  #pluralizer
 
 
 LEXICON Nouns
@@ -513,8 +516,14 @@ tthechuu:tthechuu    #river
 khayy:khayy          #winter
 chuu:chuu            #water
 jëjee:jëjee          #man
+trʼinjàa:trʼinjàa    #woman
+trʼìnjàa:trʼìnjàa    #Dir/LR
 tthök:tthök          #fence
 juu:juu              #island
+chʼìtseyy:chʼìtseyy  #metal,stove
+chitseyy:chitseyy    #Dir/LR
+ëtsʼänn:ëtsʼänn      #duck
+chäghänn:chäghänn    #woman, old
 
 
 LEXICON Pronoun(2)
@@ -524,6 +533,8 @@ hu:hu  <pers>:             #their
 
 LEXICON Adverbs 
 chąą:chąą        #also, really, during, then
+#łää with falling tone, non-nasal
+#falling tone nasal
 łą̈̀ą̈:łą̈̀ą̈          #really
 shö̀k:shö̀k        #all the time
 tlʼaa:tlʼaa      #down
