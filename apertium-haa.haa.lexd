@@ -92,7 +92,7 @@ Numeral
 PATTERN Verbs-Tv
 #disjunctPref plSubj      object   deicticSubj   refl       directive    aspect    gender/qualifier  theme           conjMarker,subj,cl      stem
 # --          subject(1) object(1)  subject(2) object(2)  VerbStem-Tv(1) aspect(1)       --          VerbStem-Tv(2)       subject(3)      VerbStem-Tv(3)
-            (subject(1) object?(1) subject(2) object?(2) VerbStem-Tv(1) aspect(1) VerbStem-Tv(2) subject(3) VerbStem-Tv(3) [ <v><tv>: ] aspect(2) subject(4) object?(3))[^[3Ssub,non3Ssub],^[impf,perf,incp,fut,opt],^[sg,pl],^[l,d,0cl,ł],^[0cm,dh,gh,n]]
+            (subject(1) object?(1) subject(2) object?(2) VerbStem-Tv(1) aspect(1) VerbStem-Tv(2) subject(3) [ :{NOV} ] VerbStem-Tv(3) [ <v><tv>: ] aspect(2) subject(4) object?(3))[^[3Ssub,non3Ssub],^[impf,perf,incp,fut,opt],^[sg,pl],^[l,d,0cl,ł],^[0cm,dh,gh,n]]
 
 PATTERN Verbs-Iv
 #disjunctPref plSubj  object  deicticSubj  refl   directive   aspect  gender/qualifier  theme       conjMarker,subj,cl      stem
@@ -172,20 +172,40 @@ LEXICON VerbStem-Tv(3)
 [0cl,perf,n,pl]:             [0cl,perf,n,pl]:n>                 nähaa:jeww[0cl,perf,n,pl]
 [0cl,fut,0cm,pl]:            [0cl,fut,0cm,pl]:n>                nähaa:dä̀w[0cl,fut,0cm,pl]
 
-#working guessers for 0cl 0cm, d 0cm
+#working guessers TV
+[0cl,0cm]<GUESSER0cl0cm>:               [0cl,0cm]:                     /([a-zʼ\̈\̀\̨])+/[0cl,0cm]   
+[d,0cm]<GUESSERd0cm>:                   [d,0cm]:                       /([a-zʼ\̈\̀\̨])+/[d,0cm]
+[l,0cm]<GUESSERl0cm>:                   [l,0cm]:                       /([a-zʼ\̈\̀\̨])+/[l,0cm]
+[ł,0cm]<GUESSERł0cm>:                   [ł,0cm]:                       /([a-zʼ\̈\̀\̨])+/[ł,0cm]
+
+#PROBLEM1: how to make guessed forms less likely than forms already in Transducer
+#SOLUTION: add a deprioritizing weight to all guesser lines
+
+#PROBLEM2: h- and n- initial stems are very uncommon, better to assume those consonants as ends of prefixes (when possible)
+#SOLUTION: split each guesser line into 2 lines, one with h- and n- as the only two possible stem-initial letters, the other with all letters but h- and n- possible, deprioritize the h- and n- only line
+
+#PROBLEM3: donʼt guess vowel-initial stems (as there are none in the list of roots)
+#SOLUTION: an archiphoneme at the beginning of the stem column (3rd) in the guesser, always mapped to 0 in twol, but a twol rule that removes forms where a vowel immediately follows that archiphoneme from the transducer
+#NOTE: addressed by adding {NOV} in TV pattern, however, this will make it impossible to ever add a vowel-initial verb stem. we added {NOV} to pattern, instead of in lexicon, because thereʼs no way to specify that the {NOV} is only on one side of the colon
+#another possible solution: modify the guesser regx to only accept vowel intial stems
+
+#PROBLEM4: be better about guessing transitivity correctly
+#SOLUTION: context and disambiguation rules
+
+#PROBLEM5:  because p3 is (seems to be?) null in 0cl, we always get analyses where the guesser assumes the full form is the stem, with the null morpheme prefixed
+#SOLUTION: deprioritize these forms using weights
+
+LEXICON VerbStem-Iv(3)
+[0cl,impf,0cm]:              [0cl,impf,0cm]:              ëkoo:koo[0cl,impf,0cm] #cough
+[0cl,impf,0cm]:              [0cl,impf,0cm]:              ëkoo:koh[0cl,impf,0cm] # Dir/LR
+#cough, cryweep1 are intv? 
+#working guessers IV 
 #[0cl,0cm]<GUESSER0cl0cm>:                   [0cl,0cm]:                       /([a-zʼ\̈\̀\̨])+/[0cl,0cm]
 #[d,0cm]<GUESSERd0cm>:                   [d,0cm]:                       /([a-zʼ\̈\̀\̨])+/[d,0cm]
 #[l,0cm]<GUESSERl0cm>:                   [l,0cm]:                       /([a-zʼ\̈\̀\̨])+/[l,0cm]
 #[ł,0cm]<GUESSERł0cm>:                   [ł,0cm]:                       /([a-zʼ\̈\̀\̨])+/[ł,0cm]
 
 
-
-
-
-LEXICON VerbStem-Iv(3)
-[0cl,impf,0cm]:              [0cl,impf,0cm]:              ëkoo:koo[0cl,impf,0cm] #cough
-[0cl,impf,0cm]:              [0cl,impf,0cm]:              ëkoo:koh[0cl,impf,0cm] # Dir/LR
-#cough, cryweep1 are intv?      
 
 
 LEXICON aspect(2)

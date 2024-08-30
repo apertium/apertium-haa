@@ -8,6 +8,7 @@ Alphabet
 %{¨%}:̈  %{¨%}:0 ! ë that inserts before non-vowels and non-nasal consonants
 %{gh%}:0        ! gh in gh perfective does not appear
 %{Z%}:z %{Z%}:s ! zr becomes sr after h
+%{NOV%}:0       ! limits vowels from guessed forms
 
  %.
  %-
@@ -37,6 +38,9 @@ i:0 <=> Vow %{VSUF%}:0 _ [ m | n ] ;
 
 "Zr becomes sr after h"
 %{Z%}:s <=> :h %>: _ :r ; 
+
+"restrict guessed forms with vowel-initial stems"
+Vowel:Vowel /<= %{NOV%}: _ ; 
 
 
 ! Resources:
