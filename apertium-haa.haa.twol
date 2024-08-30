@@ -2,7 +2,7 @@ Alphabet
  A B C D E G H I J K L Ł M N O P R S T U W Y Z 
  a b c d e g h i j k l ł m n o p r s t u w y z
 
-̈    ̨   ̀    ̌   ̂
+̈    ̨   ̀    ̌   ̂ ʼ
    
 %{E%}:e %{E%}:0 ! ë that inserts before non-vowels and non-nasal consonants
 %{¨%}:̈  %{¨%}:0 ! ë that inserts before non-vowels and non-nasal consonants
@@ -24,6 +24,10 @@ Vowel = A E I O U
 Nasal = N M
         n m ;
 
+Cons =  B C D G H J K L Ł M N P R S T W Y Z ʼ
+        b c d g h j k l ł m n p r s t w y z ;
+
+
 Rules
 
 "Remove suffix vowel with vowel-ending stem"
@@ -41,6 +45,10 @@ i:0 <=> Vow %{VSUF%}:0 _ [ m | n ] ;
 
 "restrict guessed forms with vowel-initial stems"
 Vowel:Vowel /<= %{NOV%}: _ ; 
+
+"no hC- or nC- initial stems guessed by guesser"
+C1:C1 /<= %{NOV%}: _ Cons:Cons ;
+        where C1 in ( h n ) ;
 
 
 ! Resources:
