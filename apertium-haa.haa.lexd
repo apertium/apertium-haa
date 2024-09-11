@@ -173,10 +173,10 @@ LEXICON VerbStem-Tv(3)
 [0cl,fut,0cm,pl]:            [0cl,fut,0cm,pl]:n>                nähaa:dä̀w[0cl,fut,0cm,pl]
 
 #working guessers TV
-[0cl,0cm]<GUESSER0cl0cm>:               [0cl,0cm]:                     /([a-zʼ\̈\̀\̨])+/[0cl,0cm]   
-[d,0cm]<GUESSERd0cm>:                   [d,0cm]:                       /([a-zʼ\̈\̀\̨])+/[d,0cm]
-[l,0cm]<GUESSERl0cm>:                   [l,0cm]:                       /([a-zʼ\̈\̀\̨])+/[l,0cm]
-[ł,0cm]<GUESSERł0cm>:                   [ł,0cm]:                       /([a-zʼ\̈\̀\̨])+/[ł,0cm]
+#[0cl,0cm]<GUESSER0cl0cm>:               [0cl,0cm]:                     /([a-zʼ\̈\̀\̨])+/[0cl,0cm]   
+#[d,0cm]<GUESSERd0cm>:                   [d,0cm]:                       /([a-zʼ\̈\̀\̨])+/[d,0cm]
+#[l,0cm]<GUESSERl0cm>:                   [l,0cm]:                       /([a-zʼ\̈\̀\̨])+/[l,0cm]
+#[ł,0cm]<GUESSERł0cm>:                   [ł,0cm]:                       /([a-zʼ\̈\̀\̨])+/[ł,0cm]
 
 #PROBLEM1: how to make guessed forms less likely than forms already in Transducer
 #SOLUTION: add a deprioritizing weight to all guesser lines
@@ -192,7 +192,7 @@ LEXICON VerbStem-Tv(3)
 #PROBLEM4: be better about guessing transitivity correctly
 #SOLUTION: context and disambiguation rules
 
-#PROBLEM5:  because p3 is (seems to be?) null in 0cl, we always get analyses where the guesser assumes the full form is the stem, with the null morpheme prefixed
+#PROBLEM5:  because 3sg is (seems to be?) null in 0cl, we always get analyses where the guesser assumes the full form is the stem, with the null morpheme prefixed
 #SOLUTION: deprioritize these forms using weights
 
 LEXICON VerbStem-Iv(3)
