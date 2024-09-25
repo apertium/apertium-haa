@@ -1,11 +1,56 @@
 # Morphological Transducer for Han
-# test
 
+# Tags below
+#
+# not exhaustive list - please add if anything is missing
+# see also https://wiki.apertium.org/wiki/Tagset
+#
 # Part of speech categories
 # <n>      # Noun
 # <v>      # Verb
 # <adj>    # Adjective
 # <num>    # Numeral
+# <cnjcoo> # coordinating conjunction
+# <cnjsub> # subordinating conjunction
+# <det>    # determiner
+# <np>     # proper noun
+# <mod>    # "modal word"
+# <pr>     # preposition
+# <prn>    # pronoun
+# <adv>    # adverb
+
+# determiner subcategories
+# <dem>    # demonstrative
+# <ind>    # indefinite
+
+# proper noun subcategories
+# <ant>    # anthroponym (personal name)
+# <cog>    # cogonem (family name)
+
+# pronoun subcategories
+# <pers>   # personal
+
+# Verb grammatical tags
+# - subject person
+# <s_1sg>
+# <s_2sg>
+# <s_3sg>
+# <s_1pl>
+# <s_2pl>
+# <s_3pl>
+# - object person
+# <o_1sg>
+# <o_2sg>
+# <o_3sg>
+# <o_1pl>
+# <o_2pl>
+# <o_3pl>
+# <refl>   # reflexive
+# - aspect
+# <impf>   # imperfect
+# <perf>   # perfect
+# <incp>   # inceptive
+# <fut>    # future (optative?)
 
 # <sent>   # Sentence-ending punctuation
 # <guio>   # Hyphen
@@ -519,7 +564,7 @@ Didą̀:Didą̀       <ant>:   #RR grandchild
 LEXICON ModalWord (2)
 nöö:nöö      :   #our one focus marker- is foc a good tag?
 kǒo:kǒo      :   #negation
-įh:įh      <plural>:  #pluralizer
+įh:įh      <plural>:  #pluralizer  # maybe don't want a separate tag for this?  discuss -JNW
 in:in      <plural>:  #pluralizer
 
 
