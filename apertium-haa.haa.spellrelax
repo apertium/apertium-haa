@@ -10,12 +10,12 @@
 	! accept 'u' for 'wë'
 	.o. [ ?* [ w e ̈ (->) u ] ?* ]
 
+   ! allow either order of ogonek and diaresis
 	.o. [ ?* [  ̨  ̈    (->)  ̈  ̨  ] ?* ]
 
+   ! accept already composed unicode character versions of character + diacritic
 	.o. [ ?* [ i  ̨ (->) į ] ?* ]
-
 	.o. [ ?* [ o  ̈ (->) ö ] ?* ]
-
 	.o. [ ?* [ e  ̈ (->) ë ] ?* ]
 
    ! attempt at spellrelax rule that would allow low tone on first syllable if the second syllable isn't low tone
