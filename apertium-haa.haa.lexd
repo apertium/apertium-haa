@@ -210,6 +210,12 @@ LEXICON VerbStem-Tv(3)
 [l,impf,0cm]:                [l,impf,0cm]:                nozrèe:zrèe[l,impf,0cm] #HuntAround - missing perambulative "nä"
 [l,fut,0cm]:                 [l,fut,0cm]:                 nozrèe:zrèe[l,fut,0cm]
 [l,perf,dh]:                 [l,perf,dh]:                 nozrèe:zrèʼ[l,perf,dh]
+[0cl,impf,0cm,sg]:           [0cl,impf,0cm,sg]:n>               nähaa:haa[0cl,impf,0cm,sg] #GoComeArrive(sg)
+[0cl,perf,n,sg]:             [0cl,perf,n,sg]:n>                 nähaa:zhaa[0cl,perf,n,sg]
+[0cl,fut,0cm,sg]:            [0cl,fut,0cm,sg]:n>                nähaa:haw[0cl,fut,0cm,sg]
+#[0cl,impf,0cm,pl]:          [0cl,impf,0cm,pl]:n>               nähaa:jèww[0cl,impf,0cm,pl] #no elicited forms in the impf
+[0cl,perf,n,pl]:             [0cl,perf,n,pl]:n>                 nähaa:jeww[0cl,perf,n,pl]
+[0cl,fut,0cm,pl]:            [0cl,fut,0cm,pl]:n>                nähaa:dä̀w[0cl,fut,0cm,pl]
 
 #working guessers TV
 #[0cl,0cm]<GUESSER0cl0cm>:               [0cl,0cm]:                     /([a-zʼ\̈\̀\̨])+/[0cl,0cm]   
@@ -243,13 +249,6 @@ LEXICON VerbStem-Iv(3)
 #[d,0cm]<GUESSERd0cm>:                   [d,0cm]:                       /([a-zʼ\̈\̀\̨])+/[d,0cm]
 #[l,0cm]<GUESSERl0cm>:                   [l,0cm]:                       /([a-zʼ\̈\̀\̨])+/[l,0cm]
 #[ł,0cm]<GUESSERł0cm>:                   [ł,0cm]:                       /([a-zʼ\̈\̀\̨])+/[ł,0cm]
-
-[0cl,impf,0cm,sg]:           [0cl,impf,0cm,sg]:n>               nähaa:haa[0cl,impf,0cm,sg] #GoComeArrive(sg)
-[0cl,perf,n,sg]:             [0cl,perf,n,sg]:n>                 nähaa:zhaa[0cl,perf,n,sg]
-[0cl,fut,0cm,sg]:            [0cl,fut,0cm,sg]:n>                nähaa:haw[0cl,fut,0cm,sg]
-#[0cl,impf,0cm,pl]:          [0cl,impf,0cm,pl]:n>               nähaa:jèww[0cl,impf,0cm,pl] #no elicited forms in the impf
-[0cl,perf,n,pl]:             [0cl,perf,n,pl]:n>                 nähaa:jeww[0cl,perf,n,pl]
-[0cl,fut,0cm,pl]:            [0cl,fut,0cm,pl]:n>                nähaa:dä̀w[0cl,fut,0cm,pl]
 
 
 
@@ -570,6 +569,7 @@ in:in      <plural>:  #pluralizer
 
 
 LEXICON Nouns
+#noun:noun           #approximent translations
 łuu:łuu              #fish
 tsʼeyy:tsʼeyy        #porcupine
 tʼąychànn:tʼąychànn  #frypan
