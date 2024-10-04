@@ -26,6 +26,8 @@
 	.o. [ ?* [ a  ̈ (->) ä ] ?* ]
 	.o. [ ?* [ a  ̈  ̀ (->)  ] ?* ]
 	.o. [ ?* [ o  ̈  ̨ (->)  ] ?* ]
+	! note that rules aren't needed for characters ä + ̀  , because ä is already covered.
+	! we would need one for à + ̈  , if that's attested, because even though we have à, the order is different, and the reordering rule is not applied on top of these, but is instead simultaneous
 
    ! attempt at spellrelax rule that would allow low tone on first syllable if the second syllable isn't low tone
 	! .o. [ [ b | d | l | h | z | r | j | g | ʼ | t | s | c | k | ł | w | m | n | y ]* [ a  ̨ (->) a  ̨  ̀ ( ( [ a | e | i | o | u ] ( [  ̨ |  ̈ ]* ) ) ( [ b | d | l | h | z | r | j | g | ʼ | t | s | c | k | ł | w | m | n | y ]+ [ a | e | i | o | u ] [ ? -  ̀ ] ) ) ] ?* ]
