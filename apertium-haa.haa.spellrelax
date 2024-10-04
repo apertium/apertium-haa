@@ -15,6 +15,7 @@
 
    ! accept already composed unicode character versions of character + diacritic
 	.o. [ ?* [ i  ̨ (->) į ] ?* ]
+	.o. [ ?* [ i  ̀ (->) ì ] ?* ]
 	.o. [ ?* [ o  ̈ (->) ö ] ?* ]
 	.o. [ ?* [ e  ̈ (->) ë ] ?* ]
 
