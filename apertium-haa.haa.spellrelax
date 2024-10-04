@@ -15,9 +15,17 @@
 
    ! accept already composed unicode character versions of character + diacritic
 	.o. [ ?* [ i  ̨ (->) į ] ?* ]
+	.o. [ ?* [ a  ̨ (->) ą ] ?* ]
+	.o. [ ?* [ o  ̨ (->) ǫ ] ?* ]
+	.o. [ ?* [ a  ̀ (->) à ] ?* ]
+	.o. [ ?* [ e  ̀ (->) è ] ?* ]
 	.o. [ ?* [ i  ̀ (->) ì ] ?* ]
+	.o. [ ?* [ o  ̀ (->) ò ] ?* ]
 	.o. [ ?* [ o  ̈ (->) ö ] ?* ]
 	.o. [ ?* [ e  ̈ (->) ë ] ?* ]
+	.o. [ ?* [ a  ̈ (->) ä ] ?* ]
+	.o. [ ?* [ a  ̈  ̀ (->)  ] ?* ]
+	.o. [ ?* [ o  ̈  ̨ (->)  ] ?* ]
 
    ! attempt at spellrelax rule that would allow low tone on first syllable if the second syllable isn't low tone
 	! .o. [ [ b | d | l | h | z | r | j | g | ʼ | t | s | c | k | ł | w | m | n | y ]* [ a  ̨ (->) a  ̨  ̀ ( ( [ a | e | i | o | u ] ( [  ̨ |  ̈ ]* ) ) ( [ b | d | l | h | z | r | j | g | ʼ | t | s | c | k | ł | w | m | n | y ]+ [ a | e | i | o | u ] [ ? -  ̀ ] ) ) ] ?* ]
