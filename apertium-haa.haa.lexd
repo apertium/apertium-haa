@@ -556,16 +556,9 @@ chʼèe:chʼèe     <ind>:  #a
 
 
 LEXICON ProperNouns(2)
-Didą̀ʼ:Didą̀ʼ           <ant>:   #RR grandchild
-Michael:Michael       <ant>:   #RR grandchild
-Didą̀:Didą̀             <ant>:   #RR grandchild
-Willem:Willem         <ant>:
-Bert:Bert             <ant>:
-Eagle:Eagle           <top>:
-Fairbanks:Fairbanks   <top>:
-Jody:Jody             <ant>:
-Ethel:Ethel           <ant>:
-John:John             <ant>:
+Didą̀ʼ:Didą̀ʼ     <ant>:   #RR grandchild
+Michael:Michael <ant>:   #RR grandchild
+Didą̀:Didą̀       <ant>:   #RR grandchild
 
 
 LEXICON ModalWord (2)
@@ -577,6 +570,17 @@ in:in      <plural>:  #pluralizer
 
 LEXICON Nouns
 #noun:noun           #approximent translations (model to follow)
+chaww:chaww          #three
+dą̈̀htl’ah:dą̈̀htl’ah    #paper
+ddhäw:ddhäw          #mountain
+dhö̀ö:dhö̀ö            #skin, covering
+dleyy:dleyy          #squirrel
+drinn:drinn          #day
+dzänn:dzänn          #muskrat
+gah:gah              #rabbit
+hintsi’:hintsi’      #loves
+iww:iww              #beads
+
 łuu:łuu              #fish
 tsʼeyy:tsʼeyy        #porcupine
 tʼąychànn:tʼąychànn  #frypan
@@ -593,7 +597,7 @@ trʼinjàa:trʼinjàa    #woman
 trʼìnjàa:trʼìnjàa    #Dir/LR
 tthök:tthök          #fence
 juu:juu              #island
-chʼìtseyy:chʼìtseyy  #metal,stove
+chʼìtseyy:chʼìtseyy  #metal, stove
 chitseyy:chitseyy    #Dir/LR
 ëtsʼänn:ëtsʼänn      #duck
 chäghänn:chäghänn    #woman, old
