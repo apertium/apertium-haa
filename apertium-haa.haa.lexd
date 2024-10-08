@@ -159,8 +159,8 @@ PATTERN Verbs-Iv
 LEXICON VerbStem-Tv(3) 
 [ł,impf,0cm]:                [ł,impf,0cm]:n>              nohʼįį:ʼįį[ł,impf,0cm] #see
 [ł,impf,0cm]:                [ł,impf,0cm]:n>              nohʼįį:ʼįh[ł,impf,0cm] # Dir/LR
-[ł,perf,gh]:                 [ł,perf,gh]:n>               nohʼįį:ʼįʼ[ł,perf,gh]
-[ł,perf,gh]:                 [ł,perf,gh]:n>               nohʼįį:ʼį[ł,perf,gh] # Dir/LR
+[ł,perf,n]:                  [ł,perf,n]:n>                nohʼįį:ʼį̀ʼ[ł,perf,n]
+[ł,perf,n]:                  [ł,perf,n]:n>                nohʼįį:ʼį[ł,perf,n] # Dir/LR
 [ł,fut,0cm]:                 [ł,fut,0cm]:n>               nohʼįį:ʼį̀ww[ł,fut,0cm]
 [0cl,impf,0cm]:              [0cl,impf,0cm]:              ëzrök:{Z}rök[0cl,impf,0cm] #yell
 [0cl,perf,0cm]:              [0cl,perf,0cm]:              ëzrök:{Z}rök[0cl,perf,0cm]
@@ -559,6 +559,13 @@ LEXICON ProperNouns(2)
 Didą̀ʼ:Didą̀ʼ     <ant>:   #RR grandchild
 Michael:Michael <ant>:   #RR grandchild
 Didą̀:Didą̀       <ant>:   #RR grandchild
+Willem:Willem         <ant>:
+Bert:Bert             <ant>:
+Eagle:Eagle           <top>:
+Fairbanks:Fairbanks   <top>:
+Jody:Jody             <ant>:
+Ethel:Ethel           <ant>:
+John:John             <ant>:
 
 
 LEXICON ModalWord (2)
