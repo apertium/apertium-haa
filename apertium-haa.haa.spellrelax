@@ -12,6 +12,8 @@
 
    ! allow either order of ogonek and diaresis
 	.o. [ ?* [  ̨  ̈    (->)  ̈  ̨  ] ?* ]
+   ! allow either order of ogonek and grave
+	.o. [ ?* [  ̨  ̀    (->)  ̀  ̨  ] ?* ]
 
    ! accept already composed unicode character versions of character + diacritic
 	.o. [ ?* [ i  ̨ (->) į ] ?* ]
@@ -26,6 +28,9 @@
 	.o. [ ?* [ a  ̈ (->) ä ] ?* ]
 	.o. [ ?* [ a  ̈  ̀ (->)  ] ?* ]
 	.o. [ ?* [ o  ̈  ̨ (->)  ] ?* ]
+	.o. [ ?* [ o  ̈  ̨ (->)  ] ?* ]
+	.o. [ ?* [ i  ̨  ̀ (->)  ] ?* ]
+	.o. [ ?* [ e  ̨  ̀ (->) ę̀ ] ?* ]
 	! note that rules aren't needed for characters ä + ̀  , because ä is already covered.
 	! we would need one for à + ̈  , if that's attested, because even though we have à, the order is different, and the reordering rule is not applied on top of these, but is instead simultaneous
 
