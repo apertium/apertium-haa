@@ -549,6 +549,8 @@ tsöll:tsöll       # "small"
 hǫzǫǫ:hǫzǫǫ       # "good"
 choo:choo         # "big"
 shòo:shòo         # "happy"
+zų̀ʼ:zų̀ʼ           # "beautiful"
+zų̀ʼ:zùʼ           # "beautiful" Dir/LR  FIXME: Err/Orth
 
 
 LEXICON Determiners(2)
@@ -593,6 +595,7 @@ hèw:hèw              # "trap"
 tsàʼ:tsàʼ            # "beaver"
 töö:töö              # "night"
 tąyy:tąyy            # "path"
+kʼä̀hmäʼ:kʼä̀hmäʼ      # "morning" FIXME: CHECK
 
 łuu:łuu              #fish
 tsʼeyy:tsʼeyy        #porcupine
@@ -724,6 +727,7 @@ shö̀k:shö̀k        #all the time
 hätèyy:hätèyy    #sometimes
 hätèe:hätèe      #Dir/LR
 tlʼaa:tlʼaa      #down
+wëzhèe:wëzhèe    # "during"  FIXME: CHECK
 
 LEXICON Numeral
 nä̀nkąyy:nä̀nkąyy  #two
