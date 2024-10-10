@@ -545,20 +545,22 @@ ghat:ghat     #by
 
 
 LEXICON Adjectives
-tsöll:tsöll       #small
-hǫzǫǫ:hǫzǫǫ       #good
-choo:choo         #big
+tsöll:tsöll       # "small"
+hǫzǫǫ:hǫzǫǫ       # "good"
+choo:choo         # "big"
+shòo:shòo         # "happy"
 
 
 LEXICON Determiners(2)
-eyy:eyy         <dem>:  #that
-chʼèe:chʼèe     <ind>:  #a
+eyy:eyy               <dem>:  # "that"
+chʼèe:chʼèe           <ind>:  # "a"
+hontlʼät:hontlʼät     <qnt>:  # "lots, a lot"
 
 
 LEXICON ProperNouns(2)
-Didą̀ʼ:Didą̀ʼ     <ant>:   #RR grandchild
-Michael:Michael <ant>:   #RR grandchild
-Didą̀:Didą̀       <ant>:   #RR grandchild
+Didą̀ʼ:Didą̀ʼ           <ant>:   #RR grandchild
+Michael:Michael       <ant>:   #RR grandchild
+Didą̀:Didą̀             <ant>:   #RR grandchild
 Willem:Willem         <ant>:
 Bert:Bert             <ant>:
 Eagle:Eagle           <top>:
@@ -587,6 +589,10 @@ dzänn:dzänn          #muskrat
 gah:gah              #rabbit
 hintsi’:hintsi’      #loves
 iww:iww              #beads
+hèw:hèw              # "trap"
+tsàʼ:tsàʼ            # "beaver"
+töö:töö              # "night"
+tąyy:tąyy            # "path"
 
 łuu:łuu              #fish
 tsʼeyy:tsʼeyy        #porcupine
@@ -705,8 +711,9 @@ trʼinìnn\ tsöll:trʼinìnn\ tsöll  #baby
 
 
 LEXICON Pronoun(2)
-jë:jë  <pers>:             #his
-hu:hu  <pers>:             #their
+jë:jë               <pers>:             # "his"
+hu:hu               <pers>:             # "their"
+jìi:jìi             <itg>:              # "what"
 
 
 LEXICON Adverbs 
