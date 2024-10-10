@@ -1,0 +1,11 @@
+#!/usr/bin/bash
+
+cd ..
+
+echo arcs: $(hfst-fst2txt haa.autogen.hfst | wc -l);
+echo analysis-form pairs: $(hfst-expand -c0 haa.autogen.hfst | wc -l);
+echo compiled generator: $(du -h haa.autogen.hfst);
+echo compiled analyser: $(du -h haa.automorf.hfst);
+echo
+hyperfine 'hfst-expand -c0 haa.autogen.hfst > /dev/null'
+hyperfine 'coverage-hfst ../corpus-haa/haa.stories.misc.txt haa.automorf.hfst'
