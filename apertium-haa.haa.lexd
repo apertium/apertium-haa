@@ -132,7 +132,7 @@ Punctuation
 ModalWord [<mod>:]
 Adverbs [<adv>:]
 Pronoun(1) [<prn>:] Pronoun(2)
-Numeral
+Numeral [<num>:]
 
 PATTERN Verbs-Tv
 #disjunctPref plSubj      object   deicticSubj   refl       directive    aspect    gender/qualifier  theme           conjMarker,subj,cl      stem
@@ -595,7 +595,7 @@ hèw:hèw              # "trap"
 tsàʼ:tsàʼ            # "beaver"
 töö:töö              # "night"
 tąyy:tąyy            # "path"
-kʼä̀hmäʼ:kʼä̀hmäʼ      # "morning" FIXME: CHECK
+kʼä̀hmä̀ʼ:kʼä̀hmä̀ʼ      # "morning" FIXME: CHECK
 
 łuu:łuu              #fish
 tsʼeyy:tsʼeyy        #porcupine
