@@ -213,15 +213,22 @@ LEXICON VerbStem-Tv(3)
 [0cl,impf,0cm,sg]:           [0cl,impf,0cm,sg]:n>               nähaa:haa[0cl,impf,0cm,sg] #GoComeArrive(sg)
 [0cl,perf,n,sg]:             [0cl,perf,n,sg]:n>                 nähaa:zhaa[0cl,perf,n,sg]
 [0cl,fut,0cm,sg]:            [0cl,fut,0cm,sg]:n>                nähaa:haw[0cl,fut,0cm,sg]
-#[0cl,impf,0cm,pl]:          [0cl,impf,0cm,pl]:n>               nähaa:jèww[0cl,impf,0cm,pl] #no elicited forms in the impf
+[0cl,impf,0cm,pl]:          [0cl,impf,0cm,pl]:n>               nähaa:jèww[0cl,impf,0cm,pl] #no elicited forms in the impf
 [0cl,perf,n,pl]:             [0cl,perf,n,pl]:n>                 nähaa:jeww[0cl,perf,n,pl]
 [0cl,fut,0cm,pl]:            [0cl,fut,0cm,pl]:n>                nähaa:dä̀w[0cl,fut,0cm,pl]
 
 #working guessers TV
-#[0cl,0cm]<GUESSER0cl0cm>:               [0cl,0cm]:                     /([a-zʼ\̈\̀\̨])+/[0cl,0cm]   
-#[d,0cm]<GUESSERd0cm>:                   [d,0cm]:                       /([a-zʼ\̈\̀\̨])+/[d,0cm]
-#[l,0cm]<GUESSERl0cm>:                   [l,0cm]:                       /([a-zʼ\̈\̀\̨])+/[l,0cm]
-#[ł,0cm]<GUESSERł0cm>:                   [ł,0cm]:                       /([a-zʼ\̈\̀\̨])+/[ł,0cm]
+#[0cl,0cm]<GUESSER_0cl_0cm>:               [0cl,0cm]:                     /([a-zʼ\̈\̀\̨])+/[0cl,0cm]   
+#[d,0cm]<GUESSER_d_0cm>:                   [d,0cm]:                       /([a-zʼ\̈\̀\̨])+/[d,0cm]
+#[l,0cm]<GUESSER_l_0cm>:                   [l,0cm]:                       /([a-zʼ\̈\̀\̨])+/[l,0cm]
+#[ł,0cm]<GUESSER_ł_0cm>:                   [ł,0cm]:                       /([a-zʼ\̈\̀\̨])+/[ł,0cm]
+#
+#[0cl,0cm]<GUESSER_0cl_0cm_nthm>:          [0cl,0cm]:n>                   /([a-zʼ\̈\̀\̨])+/[0cl,0cm]   
+#[d,0cm]<GUESSER_d_0cm_nthm>:              [d,0cm]:n>                     /([a-zʼ\̈\̀\̨])+/[d,0cm]
+#[l,0cm]<GUESSER_l_0cm_nthm>:              [l,0cm]:n>                     /([a-zʼ\̈\̀\̨])+/[l,0cm]
+#[ł,0cm]<GUESSER_ł_0cm_nthm>:              [ł,0cm]:n>                     /([a-zʼ\̈\̀\̨])+/[ł,0cm]
+
+
 
 #PROBLEM1: how to make guessed forms less likely than forms already in Transducer
 #SOLUTION: add a deprioritizing weight to all guesser lines
