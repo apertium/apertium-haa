@@ -555,10 +555,23 @@ LEXICON Adjectives
 tsöll:tsöll       # "small"
 hǫzǫǫ:hǫzǫǫ       # "good"
 choo:choo         # "big"
+choo:choh         # Dir/LR
 shòo:shòo         # "happy"
 zų̀ʼ:zų̀ʼ           # "beautiful"
 zų̀ʼ:zùʼ           # "beautiful" Dir/LR  FIXME: Err/Orth
 gʼąyy:gʼąyy       # dried
+nzoo:nzoo         # nice
+dhaww:dhaww       # hot
+khänn:khänn       # fast
+hondòrr:hondòrr   # terrible
+dorr:dorr         # ugly
+tlät:tlät         # fat
+nähshi:nähshi     # silly
+dhëberr:dhëberr   # boiled
+dhëchʼee:dhëchʼee # fried
+tʼäww:tʼäww       # red, raw
+tʼöö:tʼöö         # cooked
+ghörr:ghörr       #round
 
 LEXICON Determiners(2)
 eyy:eyy               <dem>:  # "that"
