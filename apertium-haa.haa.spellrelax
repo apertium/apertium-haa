@@ -29,7 +29,6 @@
 	.o. [ ?* [ a  ̈  ̀ (->)  ] ?* ]
 	.o. [ ?* [ a  ̨  ̈  ̀  (->)  ] ?* ]
 	.o. [ ?* [ o  ̨  ̈  (->)  ] ?* ]
-	.o. [ ?* [ o  ̨  ̈  (->)  ] ?* ]
 	.o. [ ?* [ i  ̨  ̀ (->)  ] ?* ]
 	.o. [ ?* [ e  ̨  ̀ (->) ę̀ ] ?* ]
 	! note that rules aren't needed for characters ä + ̀  , because ä is already covered.
