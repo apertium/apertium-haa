@@ -613,138 +613,178 @@ in:in      <plural>:  #pluralizer
 
 
 LEXICON Nouns
-#noun:noun           #approximent translations (model to follow)
-chaww:chaww          #three
-dą̈̀htl’ah:dą̈̀htl’ah    #paper
-ddhäw:ddhäw          #mountain
-dhö̀ö:dhö̀ö            #skin, covering
-dleyy:dleyy          #squirrel
-drinn:drinn          #day
-dzänn:dzänn          #muskrat
-gah:gah              #rabbit
-hintsi’:hintsi’      #loves
-iww:iww              #beads
-hèw:hèw              # "trap"
-tsàʼ:tsàʼ            # "beaver"
-töö:töö              # "night"
-tąyy:tąyy            # "path"
-kʼä̀hmä̀ʼ:kʼä̀hmä̀ʼ      # "morning" FIXME: CHECK
-
-łuu:łuu              #fish
-tsʼeyy:tsʼeyy        #porcupine
-tʼąychànn:tʼąychànn  #frypan
-jeyy:jeyy            #blueberry
-chaa:chaa            #boy
-zhoo:zhoo            #house
-wëdzey:wëdzey        #caribou
-shär:shär            #bear
-tthechuu:tthechuu    #river
-khayy:khayy          #winter
-chuu:chuu            #water
-jëjee:jëjee          #man
-jëjee\ įh:jëjee\ įh  #people
-trʼinjàa:trʼinjàa    #woman
-trʼinjàa:trʼìnjàa    #Dir/LR
-tthök:tthök          #fence
-juu:juu              #island
-chʼìtseyy:chʼìtseyy  #metal, stove
-chʼìtseyy:chitseyy   #Dir/LR
-ëtsʼänn:ëtsʼänn      #duck
-chäghänn:chäghänn    #woman, old
-trʼinìnn:trʼinìnn    #child
-trʼinkee:trʼinkee    #children
-nägöö:nägöö          #fox
-trʼechoo:trʼechoo    #boat
-tsʼat:tsʼat          #hat
-sraa:sraa            #sun
-jǫ̀rr\ baa:jǫ̀rr\ baa  #blue jay
-lëjii:lëjii          #tea
-männ:männ            #lake
-shih:shih            #food
-tölut:tölut          #hard snow road
-thay:thay            #belt
-tthee:tthee          #rock
-zhùr:zhùr            #wolf
-sree:sree            #knife
-tloo:tloo            #salve
-känträn:känträn      #slipper, moccasin
-naä̀ghayy:nä̀ghayy     #frog
-khaytsʼą̈̀ʼ:khaytsʼą̈̀ʼ  #autumn
-łą̌yy:łą̌yy            #dog
-kʼàyʼ:kʼàyʼ          #willow
-tʼëgaa:tʼëgaa        #girl
-tsʼoo:tsʼoo          #spruce tree
-tthʼàk\ ghörr:tthʼàk\ ghörr    #dish
-koy:koy              #vomit
-jëjezhuu:jëjezhuu    #native person
-nunn:nunn            #animal
-nìnjuu\ gah:nìnjuu\ gah     #cat
-jëjuu:jëjuu          #moose
-tsàʼ:tsàʼ            #beaver
-łąyy\ choh:łąyy\ choh #horse
-shä̀tsöö:shä̀tsöö      #mouse
-jëbee:jëbee          #sheep
-tsiww:tsiww          #marten
-chugah:chugah        #bird
-tätrą̀ʼ:tätrą̀ʼ        #raven
-dey:dey              #(spruce) grouse
-tsegàʼ:tsegàʼ        #snipe
-khah:khah            #goose
-jew:jew              #crane
-chʼë̀zhànn:chʼë̀zhànn  #eagle
-chehłuu:chehłuu      #burbot fish
-łuu\ choo:łuu\ choo #king salmon
-theyy:theyy          #chum, dog salmon
-nehjèʼ:nehjèʼ        #man, old
-trʼinìnn\ tsöll:trʼinìnn\ tsöll  #baby
-
-
-#CHAPTER 4
-lë̀seww:lë̀seww                   #salt
-ǹląyy\ tlorr:ǹląyy\ tlorr       #meat and gravy, stew
-ǹląyy:ǹląyy                     #meat
-ǹląyy\ gąyy:ǹląyy\ gąyy         #dried meat
-dzèh                            #chewing gum
-łèw:łèw                         #bread, flour
-łèw\ gąyy:łèw\ gąyy             #crackers, pilot bread 
-songą̀yy:songą̀yy                 #sugar
-chʼëghö̀rr:chʼëghö̀rr             #eggs
-jěyy:jěyy                       #berries
-nintlʼät:nintlʼät               #low bush cranberries
-trʼänttheww:trʼänttheww         #high bush cranberries
-ninchǫ̀ʼ:ninchǫ̀ʼ                 #rose hips
-łuu\ gʼąyy:łuu\ gʼąyy           #dried fish
-łuu\ tʼaa:łuu\ tʼaa             #salmon, fish belly
-łuu\ nä̀nʼ:łuu\ nä̀nʼ             #fish backbone
-łèw\ tʼöö:łèw\ tʼöö             #fry bread (lit. cooked bread)
-łèw\ tʼöö:łèw\ dhëchʼee         #Dir/LR
-chin:chin                       #bucket
-chuu\ chin:chuu\ chin           #cup
-chin\ wëchèʼ\ hònlįh:chin\ wëchèʼ\ hònlįh      #dipper
-itseyy\ gùk:itseyy\ gùk         #fork
-kʼä̀htsäww:kʼä̀htsäww             #spoon
-chʼìtsèyy\ tlʼaa:chʼìtsèyy\ tlʼaa     #oven
+#noun:noun                                                  #approximent translations (model to follow)
+chaww:chaww                                                 #three
+dą̈̀htl’ah:dą̈̀htl’ah                                           #paper  ### New dictionary refers to this as "bills" and "book" and "credit" and "debt" and 2 other def.s(pg34), how to best proceed? -RB
+ddhäw:ddhäw                                                 #mountain
+dhö̀ö:dhö̀ö                                                   #skin, covering
+dleyy:dleyy                                                 #squirrel
+drinn:drinn                                                 #day
+dzänn:dzänn                                                 #muskrat
+gah:gah                                                     #rabbit
+hintsi’:hintsi’                                             #loves
+iww:iww                                                     #beads
+hèw:hèw                                                     # "trap"
+tsàʼ:tsàʼ                                                   # "beaver"
+töö:töö                                                     # "night"
+tąyy:tąyy                                                   # "path"
+kʼä̀hmä̀ʼ:kʼä̀hmä̀ʼ                                             # "morning" FIXME: CHECK # is the "FIXME" message a concern? -RB
+łuu:łuu                                                     #fish
+tsʼeyy:tsʼeyy                                               #porcupine
+tʼąychànn:tʼąychànn                                         #frypan
+jeyy:jeyy                                                   #blueberry
+chaa:chaa                                                   #boy
+zhoo:zhoo                                                   #house
+wëdzey:wëdzey                                               #caribou
+shär:shär                                                   #bear
+tthechuu:tthechuu                                           #river
+khayy:khayy                                                 #winter
+chuu:chuu                                                   #water
+jëjee:jëjee                                                 #man
+jëjee\ įh:jëjee\ įh                                         #people
+trʼinjàa:trʼinjàa                                           #woman
+trʼinjàa:trʼìnjàa                                           #Dir/LR
+tthök:tthök                                                 #fence
+juu:juu                                                     #island
+chʼìtseyy:chʼìtseyy                                         #metal, stove
+chʼìtseyy:chitseyy                                          #Dir/LR
+ëtsʼänn:ëtsʼänn                                             #duck
+chäghänn:chäghänn                                           #woman, old
+trʼinìnn:trʼinìnn                                           #child
+trʼinkee:trʼinkee                                           #children
+nägöö:nägöö                                                 #fox
+trʼechoo:trʼechoo                                           #boat
+tsʼat:tsʼat                                                 #hat
+sraa:sraa                                                   #sun
+jǫ̀rr\ baa:jǫ̀rr\ baa                                         #blue jay
+lëjii:lëjii                                                 #tea
+männ:männ                                                   #lake
+shih:shih                                                   #food
+tölut:tölut                                                 #hard snow road
+thay:thay                                                   #belt
+tthee:tthee                                                 #rock
+zhùr:zhùr                                                   #wolf
+sree:sree                                                   #knife
+tloo:tloo                                                   #salve
+känträn:känträn                                             #slipper, moccasin
+naä̀ghayy:nä̀ghayy                                            #frog
+khaytsʼą̈̀ʼ:khaytsʼą̈̀ʼ                                         #autumn
+łą̌yy:łą̌yy                                                   #dog
+kʼàyʼ:kʼàyʼ                                                 #willow
+tʼëgaa:tʼëgaa                                               #girl
+tsʼoo:tsʼoo                                                 #spruce tree
+tthʼàk\ ghörr:tthʼàk\ ghörr                                 #dish
+koy:koy                                                     #vomit
+jëjezhuu:jëjezhuu                                           #native person
+nunn:nunn                                                   #animal
+nìnjuu\ gah:nìnjuu\ gah                                     #cat
+jëjuu:jëjuu                                                 #moose
+tsàʼ:tsàʼ                                                   #beaver
+łąyy\ choh:łąyy\ choh                                       #horse
+shä̀tsöö:shä̀tsöö                                             #mouse
+jëbee:jëbee                                                 #sheep
+tsiww:tsiww                                                 #marten
+chugah:chugah                                               #bird
+tätrą̀ʼ:tätrą̀ʼ                                               #raven
+dey:dey                                                     #(spruce) grouse
+tsegàʼ:tsegàʼ                                               #snipe
+khah:khah                                                   #goose
+jew:jew                                                     #crane
+chʼë̀zhànn:chʼë̀zhànn                                         #eagle
+chehłuu:chehłuu                                             #burbot fish
+łuu\ choo:łuu\ choo                                         #king salmon
+theyy:theyy                                                 #chum, dog salmon
+nehjèʼ:nehjèʼ                                               #man, old
+trʼinìnn\ tsöll:trʼinìnn\ tsöll                             #baby
+lë̀seww:lë̀seww                                               #salt
+ǹląyy\ tlorr:ǹląyy\ tlorr                                   #meat and gravy, stew
+ǹląyy:ǹląyy                                                 #meat
+ǹląyy\ gąyy:ǹląyy\ gąyy                                     #dried meat
+dzèh                                                        #chewing gum
+łèw:łèw                                                     #bread, flour
+łèw\ gąyy:łèw\ gąyy                                         #crackers, pilot bread 
+songą̀yy:songą̀yy                                             #sugar
+chʼëghö̀rr:chʼëghö̀rr                                         #eggs
+jěyy:jěyy                                                   #berries
+nintlʼät:nintlʼät                                           #low bush cranberries
+trʼänttheww:trʼänttheww                                     #high bush cranberries
+ninchǫ̀ʼ:ninchǫ̀ʼ                                             #rose hips
+łuu\ gʼąyy:łuu\ gʼąyy                                       #dried fish
+łuu\ tʼaa:łuu\ tʼaa                                         #salmon, fish belly
+łuu\ nä̀nʼ:łuu\ nä̀nʼ                                         #fish backbone
+łèw\ tʼöö:łèw\ tʼöö                                         #fry bread (lit. cooked bread)
+łèw\ tʼöö:łèw\ dhëchʼee                                     #Dir/LR
+chin:chin                                                   #bucket
+chuu\ chin:chuu\ chin                                       #cup
+chin\ wëchèʼ\ hònlįh:chin\ wëchèʼ\ hònlįh                   #dipper
+itseyy\ gùk:itseyy\ gùk                                     #fork
+kʼä̀htsäww:kʼä̀htsäww                                         #spoon
+chʼìtsèyy\ tlʼaa:chʼìtsèyy\ tlʼaa                           #oven
 chʼìtsèyy\ tlʼaa\ tʼàychènn:chʼìtsèyy\ tlʼaa\ tʼàychènn     #ovenpan
-lëjìi\ chin:lëjìi\ chin         #tea kettle
-wëkayy\ chʼiʼaww:wëkayy\ chʼiʼaww   #table
-wëkayy\ däʼdrètthit:wëkayy\ däʼdrètthit     #chair
+lëjìi\ chin:lëjìi\ chin                                     #tea kettle
+wëkayy\ chʼiʼaww:wëkayy\ chʼiʼaww                           #table
+wëkayy\ däʼdrètthit:wëkayy\ däʼdrètthit                     #chair
 
 
-#####################################################
-###          N E W    D I C T I O N A R Y         ###
-#####################################################
-### TS entries 
+# New Dictionary - Section D -d
+#noun
+dä̀’ä̀lann\ ch’į’àa’:dä̀’ä̀lann\ ch’į’àa’                       #stone axe
+dä̀baww:dä̀baww                                               #door
+dä̀baww\ tthì’:dä̀baww\ tthì’                                 #door knob
+dä̀baww\ tthè’:dä̀baww\ tthè’                                 #Dir/LR
+däbä̀ww’:däbä̀ww’                                             #lips
+dä̀’ëlànn:dä̀’ëlànn                                           #old timer
+dä̀’ë̀lenn:dä̀’ë̀lenn                                           #Dir/LR
+däghà:däghà                                                 #whiskers
+däghä̀nn’:däghä̀nn’                                           #rib cage
+dähdräw:dähdräw                                             #cache
+dähk’et:dähk’et                                             #bed 
+dähk’èt:dähk’èt                                             #Dir/LR
+dähmènn’:dähmènn’                                           #baby swing 
+dähsroo:dähsroo                                             #canvas
+dähsroo:dähsroo                                             #towel
+dähsroo\ tr’ey:dähsroo\ tr’ey                               #canvas canoe
+dähsroo\ tsöll:dähsroo\ tsöll                               #wash rag
+Dä̀htl’ah\ Choo:Dä̀htl’ah\ Choo                               #Bible
+dähtsaa:dähtsaa                                             #rack cache
+dähtsah:dähtsah                                             #Dir/LR
+dahzhää’:dahzhää’                                           #snow on branches
+dähzhrùu’:dähzhrùu’                                         #roof
+dä’idhoo:dä’idhoo                                           #scraper for skin (stone)
+dä̀’idhoo:dä̀’idhoo                                           #Dir/LR 
+däk’aww:däk’aww                                             #rock ptarmigan
+dänoją̀’\ jëjee\ įh:dänoją̀’\ jëjee\ įh                       #people of long ago
+dänoją̀’\ jëjee\ ęh:dänoją̀’\ jëjee\ ęh                       #Dir/LR
+Dänzhìt\ hwëch’inn:Dänzhìt\ hwëch’inn                       #Circle City People
+Dänzhèt\ hwëch’enn:Dänzhèt\ hwëch’enn                       #Dir/LR
+dä̀tleh:dä̀tleh                                               #soap
+dä̀tlèh:dä̀tlèh                                               #Dir/LR
+dä̀tleh\ tth’àk\ choo:dä̀tleh\ tth’àk\ choo                   #wash tub
+dät’ö̀h:dät’ö̀h                                               #white-fronted goose 
+dats’enn:dats’enn                                           #humpback whitefish
+dą̈̀htl’ah\ chu’:dą̈̀htl’ah\ chu’                               #ink
+dą̈̀htl’ah\ tąy’:dą̈̀htl’ah\ tąy’                               #pen #also referred to as ’pencil’ (pg 34)
+dąyy:dąyy                                                   #late spring
+däw:däw                                                     #blood
+däw\ nghä̀w:däw nghä̀w                                        #blood clot 
+däww:däww                                                   #log splitter #again, has numerous definitions (pg 34)
+daydhoo:daydhoo                                             #scraper for skin (stone)
+dàydhoo:dàydhoo                                             #Dir/LR
+däzhìi’:däzhìi’                                             #breath
+däzhurr:däzhurr                                             #voice  #variant that I want to double check with someone - RB
+däzrąyy:däzrąyy                                             #spades (cards)
+ddhäw\ dächänn:ddhäw\ dächänn                               #foothills
+ddhäw\ dägorr:ddhäw\ dägorr                                 #mountain pass
+ddhäw\ däteyy:ddhäw\ däteyy                                 #Dir/LR #not sure about this one - RB
+ddhäw\ k’aww:ddhäw\ k’aww                                   #mountain ridge
+ddhäw\ t’òrr’:ddhäw\ t’òrr’                                 #bare mountain
+dëfą̀ą\ ek:dëfą̀ą\ ek                                         #shirt of mixed colors
+dä̀fąą\ ek:dä̀fąą\ ek                                         #Dir/LR
+dëfą̈̀ą̈\ el:dëfą̈̀ą̈\ ek                                         #Dir/LR     #again, not sure about this one, does this have to do with the usage being French? -RB 
 
 
-### RB entries
 
-# Section D -d
 
-dä̀’ä̀lann\ ch’į’àa’:dä̀’ä̀lann\ ch’į’àa’       #stone axe
-dä̀baww:dä̀baww       #door
-dä̀baww\ tthì’:dä̀baww\ tthì’     #door knob
-dä̀baww\ tthè’:dä̀baww\ tthè’     #Dir/LR
-#Entries
 
 
 LEXICON Pronoun(2)
@@ -754,17 +794,27 @@ jìi:jìi             <itg>:              # "what"
 
 
 LEXICON Adverbs 
-chąą:chąą        #also, really, during, then
-łä̂ä:łä̂ä          #really
-łą̈̂ą̈:łą̈̂ą̈          #Dir/LR
-shö̀k:shö̀k        #all the time
-hätèyy:hätèyy    #sometimes
-hätèe:hätèe      #Dir/LR
-tlʼaa:tlʼaa      #down
-wëzhèe:wëzhèe    # "during"  FIXME: CHECK
+chąą:chąą                   #also, really, during, then
+łä̂ä:łä̂ä                     #really
+łą̈̂ą̈:łą̈̂ą̈                     #Dir/LR
+shö̀k:shö̀k                   #all the time
+hätèyy:hätèyy               #sometimes
+hätèe:hätèe                 #Dir/LR
+tlʼaa:tlʼaa                 #down
+wëzhèe:wëzhèe               # "during"  FIXME: CHECK
+
+#New Dictionary Section D-d
+dädöö\ khayy:dädöö\ khayy   #next year
+
 
 LEXICON Numeral
-nä̀nkąyy:nä̀nkąyy  #two
+nä̀nkąyy:nä̀nkąyy             #two
+
+#New Dictionary Section D-d 
+dänn:dänn                   #four
+dänn\ jechan:dänn\ jechan   #forty
+
+
 
 PATTERN Number
 Numeral [<num>:]
