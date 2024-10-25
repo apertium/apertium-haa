@@ -122,7 +122,7 @@ PATTERNS
 Verbs-Tv
 Verbs-Iv
 Number
-Nouns [<n>:]
+Nouns
 ProperNouns(1) [<np>:] ProperNouns(2)
 Prepositions [<pr>:]
 Determiners(1) [<det>:] Determiners(2)
@@ -133,6 +133,10 @@ ModalWord [<mod>:]
 Adverbs [<adv>:]
 Pronoun(1) [<prn>:] Pronoun(2)
 Numeral [<num>:]
+
+PATTERN Nouns
+NounPrefixes?(1) NounRoot [<n>:] NounPrefixes?(2)
+
 
 PATTERN Verbs-Tv
 #disjunctPref plSubj      object   deicticSubj   refl       directive    aspect    gender/qualifier  theme           conjMarker,subj,cl      stem
@@ -532,6 +536,22 @@ LEXICON object(3)
 :                 :jë>    <refl>:    #maura checking on schwa deletion here, should we make a separate lexicon for reflexive
 
 
+LEXICON NounPrefixes(2)
+:sh{E}{¨}>      <px1sg>:
+:sh>            <px1sg>: # Dir/LR
+:ni>            <px1pl>: 
+:n>             <px2sg>:
+:khw{E}{¨}>     <px2pl>:
+#:khw>          <px2pl>: # Dir/LR
+#:khu>          <px2pl>: # Dir/LR
+:y{E}{¨}>       <px3sg>: #Dir/LR 
+:y>             <px3sg>: # Dir/LR
+:w{E}{¨}>       <px3sg>: 
+:w>             <px3sg>: #Dir/LR 
+:hu>            <px3pl>:
+
+
+
 LEXICON Conjunctions(2)
 tsʼą̈̀ʼ:tsʼą̈̀ʼ <cnjcoo>: #and
 etsänn:etsänn <cnjcoo>: #and
@@ -612,7 +632,7 @@ įh:įh      <plural>:  #pluralizer  # maybe don't want a separate tag for thi
 in:in      <plural>:  #pluralizer
 
 
-LEXICON Nouns
+LEXICON NounRoot
 #noun:noun                                                  #approximent translations (model to follow)
 chaww:chaww                                                 #three
 dą̈̀htl’ah:dą̈̀htl’ah                                           #paper  ### New dictionary refers to this as "bills" and "book" and "credit" and "debt" and 2 other def.s(pg34), how to best proceed? -RB
