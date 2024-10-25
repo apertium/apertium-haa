@@ -713,7 +713,7 @@ ninchǫ̀ʼ:ninchǫ̀ʼ                                             #rose hips
 łuu\ tʼaa:łuu\ tʼaa                                         #salmon, fish belly
 łuu\ nä̀nʼ:łuu\ nä̀nʼ                                         #fish backbone
 łèw\ tʼöö:łèw\ tʼöö                                         #fry bread (lit. cooked bread)
-łèw\ tʼöö:łèw\ dhëchʼee                                     #fry bread
+łèw\ tʼöö:łèw\ dhëchʼee                                     #fry bread  # FIXME: either include Dir/LR or make the left side the same as the right side
 chin:chin                                                   #bucket
 chuu\ chin:chuu\ chin                                       #cup
 chin\ wëchèʼ\ hònlįh:chin\ wëchèʼ\ hònlįh                   #dipper
@@ -734,12 +734,12 @@ dä̀baww\ tthì’:dä̀baww\ tthì’                                 #doo
 dä̀baww\ tthè’:dä̀baww\ tthè’                                 #Dir/LR
 däbä̀ww’:däbä̀ww’                                             #lips
 dä̀’ëlànn:dä̀’ëlànn                                           #old timer
-dä̀’ë̀lenn:dä̀’ë̀lenn                                           #Dir/LR
+dä̀’ë̀lenn:dä̀’ë̀lenn                                           #Dir/LR # FIXME: Dir/LR entries should have the same left side as the primary entry
 däghà:däghà                                                 #whiskers
 däghä̀nn’:däghä̀nn’                                           #rib cage
 dähdräw:dähdräw                                             #cache
 dähk’et:dähk’et                                             #bed 
-dähk’èt:dähk’èt                                             #Dir/LR
+dähk’èt:dähk’èt                                             #Dir/LR # FIXME: Dir/LR entries should have the same left side as the primary entry
 dähmènn’:dähmènn’                                           #baby swing 
 dähsroo:dähsroo                                             #canvas
 dähsroo:dähsroo                                             #towel
@@ -747,18 +747,18 @@ dähsroo\ tr’ey:dähsroo\ tr’ey                               #canvas cano
 dähsroo\ tsöll:dähsroo\ tsöll                               #wash rag
 Dä̀htl’ah\ Choo:Dä̀htl’ah\ Choo                               #Bible
 dähtsaa:dähtsaa                                             #rack cache
-dähtsah:dähtsah                                             #Dir/LR
+dähtsah:dähtsah                                             #Dir/LR # FIXME: Dir/LR entries should have the same left side as the primary entry
 dahzhää’:dahzhää’                                           #snow on branches
 dähzhrùu’:dähzhrùu’                                         #roof
 dä’idhoo:dä’idhoo                                           #scraper for skin (stone)
-dä̀’idhoo:dä̀’idhoo                                           #Dir/LR 
+dä̀’idhoo:dä̀’idhoo                                           #Dir/LR # FIXME: Dir/LR entries should have the same left side as the primary entry
 däk’aww:däk’aww                                             #rock ptarmigan
 dänoją̀’\ jëjee\ įh:dänoją̀’\ jëjee\ įh                       #people of long ago
-dänoją̀’\ jëjee\ ęh:dänoją̀’\ jëjee\ ęh                       #Dir/LR
-Dänzhìt\ hwëch’inn:Dänzhìt\ hwëch’inn                       #Circle City People
-Dänzhèt\ hwëch’enn:Dänzhèt\ hwëch’enn                       #Dir/LR
+dänoją̀’\ jëjee\ ęh:dänoją̀’\ jëjee\ ęh                       #Dir/LR # FIXME: Dir/LR entries should have the same left side as the primary entry
+Dänzhìt\ hwëch’inn:Dänzhìt\ hwëch’inn                       #Circle City People # FIXME: is this not compositional?  if so, it should probably be a proper noun and a common noun
+Dänzhèt\ hwëch’enn:Dänzhèt\ hwëch’enn                       #Dir/LR # FIXME: Dir/LR entries should have the same left side as the primary entry
 dä̀tleh:dä̀tleh                                               #soap
-dä̀tlèh:dä̀tlèh                                               #Dir/LR
+dä̀tlèh:dä̀tlèh                                               #Dir/LR # FIXME: Dir/LR entries should have the same left side as the primary entry
 dä̀tleh\ tth’àk\ choo:dä̀tleh\ tth’àk\ choo                   #wash tub
 dät’ö̀h:dät’ö̀h                                               #white-fronted goose 
 dats’enn:dats’enn                                           #humpback whitefish
@@ -775,11 +775,11 @@ däzhurr:däzhurr                                             #voice  #variant
 däzrąyy:däzrąyy                                             #spades (cards)
 ddhäw\ dächänn:ddhäw\ dächänn                               #foothills
 ddhäw\ dägorr:ddhäw\ dägorr                                 #mountain pass
-ddhäw\ däteyy:ddhäw\ däteyy                                 #Dir/LR #not sure about this one - RB
+ddhäw\ däteyy:ddhäw\ däteyy                                 #Dir/LR #not sure about this one - RB  # FIXME: why is this Dir/LR?  There doesn't seem to be a primary entry
 ddhäw\ k’aww:ddhäw\ k’aww                                   #mountain ridge
 ddhäw\ t’òrr’:ddhäw\ t’òrr’                                 #bare mountain
 dëfą̀ą\ ek:dëfą̀ą\ ek                                         #shirt of mixed colors
-dä̀fąą\ ek:dä̀fąą\ ek                                         #Dir/LR
+dä̀fąą\ ek:dä̀fąą\ ek                                         #Dir/LR # FIXME: Dir/LR entries should have the same left side as the primary entry
 dëfą̈̀ą̈\ el:dëfą̈̀ą̈\ ek                                         #Dir/LR     #again, not sure about this one, does this have to do with the usage being French? -RB 
 
 
@@ -797,15 +797,15 @@ jìi:jìi             <itg>:              # "what"
 LEXICON Adverbs 
 chąą:chąą                   #also, really, during, then
 łä̂ä:łä̂ä                     #really
-łą̈̂ą̈:łą̈̂ą̈                     #Dir/LR
+łą̈̂ą̈:łą̈̂ą̈                     #Dir/LR # FIXME: Dir/LR entries should have the same left side as the primary entry
 shö̀k:shö̀k                   #all the time
 hätèyy:hätèyy               #sometimes
-hätèe:hätèe                 #Dir/LR
+hätèe:hätèe                 #Dir/LR  # FIXME: Dir/LR entries should have the same left side as the primary entry
 tlʼaa:tlʼaa                 #down
 wëzhèe:wëzhèe               # "during"  FIXME: CHECK
 
 #New Dictionary Section D-d
-dädöö\ khayy:dädöö\ khayy   #next year
+dädöö\ khayy:dädöö\ khayy   #next year  # FIXME: is this not compositional?
 
 
 LEXICON Numeral
