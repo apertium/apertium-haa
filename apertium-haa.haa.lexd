@@ -62,6 +62,14 @@
 # <lpar>   # Left parenthesis
 # <rpar>   # Right parenthesis
 
+# Noun grammatical tags
+# <px1sg>	
+# <px1pl> 
+# <px2sg>
+# <px2pl>
+# <px3sg>
+# <px3pl>
+
 # Number morphology
 # <pl>     # Plural
 # <sg>     # Singular
