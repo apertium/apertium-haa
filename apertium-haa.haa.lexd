@@ -143,6 +143,9 @@ Pronoun(1) [<prn>:] Pronoun(2)
 Numeral [<num>:]
 
 PATTERN Nouns
+# NounPrefixes(1) NounRoot[possessed] [<n>:] NounPrefixes(2)  #for possessed tag prefixes
+# NounRoot[bare] [<n>:] #for bare nouns standing alone
+
 NounPrefixes?(1) NounRoot [<n>:] NounPrefixes?(2)
 
 
@@ -638,7 +641,7 @@ įh:įh      <plural>:  #pluralizer  # maybe don't want a separate tag for thi
 in:in      <plural>:  #pluralizer
 
 
-LEXICON NounRoot
+LEXICON NounRoot #[bare,possessed]
 #noun:noun                                                  #approximent translations (model to follow)
 chaww:chaww                                                 #three
 dą̈̀htl’ah:dą̈̀htl’ah                                           #paper  ### New dictionary refers to this as "bills" and "book" and "credit" and "debt" and 2 other def.s(pg34), how to best proceed? -RB
@@ -695,7 +698,8 @@ tloo:tloo                                                   #salve
 känträn:känträn                                             #slipper, moccasin
 naä̀ghayy:nä̀ghayy                                            #frog
 khaytsʼą̈̀ʼ:khaytsʼą̈̀ʼ                                         #autumn
-łą̌yy:łą̌yy                                                   #dog
+łą̌yy:łą̌yy #[-possessed]                                       #dog
+lìngʼ:lìngʼ #[-bare]                                          #dog possessed form
 kʼàyʼ:kʼàyʼ                                                 #willow
 tʼëgaa:tʼëgaa                                               #girl
 tsʼoo:tsʼoo                                                 #spruce tree
