@@ -558,6 +558,9 @@ LEXICON NounPrefixes(2)
 :w{E}{¨}>       <px3sg>: 
 :w>             <px3sg>: #Dir/LR 
 :hu>            <px3pl>:
+:j{E}{¨}>       <pxrefl>:
+:j>             <pxrefl>: #Dir/LR
+
 # TODO: add reflexive jë/j?
 
 
@@ -681,6 +684,7 @@ ëtsʼänn:ëtsʼänn                                             #duck
 chäghänn:chäghänn                                           #woman, old
 trʼinìnn:trʼinìnn                                           #child
 trʼinkee:trʼinkee                                           #children
+trʼinkèe:trʼinkèe                                           #Dir/LR #rewrite low-tone with keyboard
 nägöö:nägöö                                                 #fox
 trʼechoo:trʼechoo                                           #boat
 tsʼat:tsʼat                                                 #hat
