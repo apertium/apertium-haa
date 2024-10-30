@@ -558,7 +558,7 @@ LEXICON NounPrefixes(2)
 :w{E}{¨}>       <px3sg>: 
 :w>             <px3sg>: #Dir/LR 
 :hu>            <px3pl>:
-
+# TODO: add reflexive jë/j?
 
 
 LEXICON Conjunctions(2)
@@ -698,7 +698,7 @@ tloo:tloo                                                   #salve
 känträn:känträn                                             #slipper, moccasin
 naä̀ghayy:nä̀ghayy                                            #frog
 khaytsʼą̈̀ʼ:khaytsʼą̈̀ʼ                                         #autumn
-łą̌yy:łą̌yy #[-possessed]                                       #dog
+łą̌yy:łą̌yy #[-possessed]                                       #dog bare form
 lìngʼ:lìngʼ #[-bare]                                          #dog possessed form
 kʼàyʼ:kʼàyʼ                                                 #willow
 tʼëgaa:tʼëgaa                                               #girl
