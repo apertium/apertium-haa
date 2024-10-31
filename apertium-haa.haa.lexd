@@ -69,6 +69,7 @@
 # <px2pl>
 # <px3sg>
 # <px3pl>
+# <pxrefl>
 
 # Number morphology
 # <pl>     # Plural
@@ -143,10 +144,10 @@ Pronoun(1) [<prn>:] Pronoun(2)
 Numeral [<num>:]
 
 PATTERN Nouns
-# NounPrefixes(1) NounRoot[possessed] [<n>:] NounPrefixes(2)  #for possessed tag prefixes
-# NounRoot[bare] [<n>:] #for bare nouns standing alone
+NounPrefixes(1) NounRoot[possessed] [<n>:] NounPrefixes(2)  #for possessed tag prefixes
+NounRoot[bare] [<n>:] #for bare nouns standing alone
 
-NounPrefixes?(1) NounRoot [<n>:] NounPrefixes?(2)
+#NounPrefixes?(1) NounRoot [<n>:] NounPrefixes?(2)
 
 
 PATTERN Verbs-Tv
@@ -553,13 +554,13 @@ LEXICON NounPrefixes(2)
 :ni>            <px1pl>: 
 :n>             <px2sg>:
 :khw{E}{¨}>     <px2pl>:
-:y{E}{¨}>       <px3sg>: #Dir/LR 
-:y>             <px3sg>: # Dir/LR
+:y{E}{¨}>       <px3sg_s3sg>:
+:y>             <px3sg_s3sg>: # Dir/LR
 :w{E}{¨}>       <px3sg>: 
-:w>             <px3sg>: #Dir/LR 
+:w>             <px3sg>: # Dir/LR 
 :hu>            <px3pl>:
 :j{E}{¨}>       <pxrefl>:
-:j>             <pxrefl>: #Dir/LR
+:j>             <pxrefl>: # Dir/LR
 
 # TODO: add reflexive jë/j?
 
@@ -644,7 +645,7 @@ įh:įh      <plural>:  #pluralizer  # maybe don't want a separate tag for thi
 in:in      <plural>:  #pluralizer
 
 
-LEXICON NounRoot #[bare,possessed]
+LEXICON NounRoot[bare,possessed]
 #noun:noun                                                  #approximent translations (model to follow)
 chaww:chaww                                                 #three
 dą̈̀htl’ah:dą̈̀htl’ah                                           #paper  ### New dictionary refers to this as "bills" and "book" and "credit" and "debt" and 2 other def.s(pg34), how to best proceed? -RB
@@ -684,7 +685,8 @@ ëtsʼänn:ëtsʼänn                                             #duck
 chäghänn:chäghänn                                           #woman, old
 trʼinìnn:trʼinìnn                                           #child
 trʼinkee:trʼinkee                                           #children
-trʼinkèe:trʼinkèe                                           #Dir/LR #rewrite low-tone with keyboard
+
+trʼinkee:trʼinkèe                                           #Dir/LR #rewrite low-tone with keyboard
 nägöö:nägöö                                                 #fox
 trʼechoo:trʼechoo                                           #boat
 tsʼat:tsʼat                                                 #hat
@@ -702,8 +704,8 @@ tloo:tloo                                                   #salve
 känträn:känträn                                             #slipper, moccasin
 naä̀ghayy:nä̀ghayy                                            #frog
 khaytsʼą̈̀ʼ:khaytsʼą̈̀ʼ                                         #autumn
-łą̌yy:łą̌yy #[-possessed]                                       #dog bare form
-lìngʼ:lìngʼ #[-bare]                                          #dog possessed form
+łą̌yy:łą̌yy[-possessed]                                       #dog bare form
+łą̌yy:lìngʼ[-bare]                                           #dog possessed form
 kʼàyʼ:kʼàyʼ                                                 #willow
 tʼëgaa:tʼëgaa                                               #girl
 tsʼoo:tsʼoo                                                 #spruce tree
@@ -815,7 +817,7 @@ ddhäw\ t’òrr’:ddhäw\ t’òrr’                                 #bar
 dëfą̀ą\ ek:dëfą̀ą\ ek                                         #shirt of mixed colors
 dä̀fąą\ ek:dä̀fąą\ ek                                         #Dir/LR # FIXME: Dir/LR entries should have the same left side as the primary entry
 dëfą̈̀ą̈\ el:dëfą̈̀ą̈\ ek                                         #Dir/LR     #again, not sure about this one, does this have to do with the usage being French? -RB 
-
+choo:choo[-bare]                                            #younger brother
 
 # New Dictionary - Section N - n
 
