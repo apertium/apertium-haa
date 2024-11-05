@@ -573,24 +573,23 @@ tʼoo:tʼoo    <cnjcoo>:  #but
 
 
 LEXICON Prepositions
-haa:haa       #for
-hèe:hèe       #with   
-zhìt:zhìt     #in
-kayy:kayy     #on
-ezheyy:ezheyy #there
-ëzheyy:ëzheyy #Dir/LR
-tłänn:tłänn   #after
-huwèe:huwèe   #with them
-ghat:ghat     #by
-
-#CHAPTER 4
-het:het       #near
-tsʼą̈̀ʼ:tsʼą̈̀ʼ   #to, towards
-kʼǫ̈ǫ̈:kʼǫ̈ǫ̈     #over
-nnenn:nnenn   #over
+haa:haa         #for
+hèe:hèe         #with   
+zhìt:zhìt       #in
+kayy:kayy       #on
+ezheyy:ezheyy   #there
+ëzheyy:ëzheyy   #Dir/LR
+tłänn:tłänn     #after
+tłänn:tłä̀nn     #Dir/LR
+huwèe:huwèe     #with them
+ghat:ghat       #by
+het:het         #near
+tsʼą̈̀ʼ:tsʼą̈̀ʼ     #to, towards
+kʼǫ̈ǫ̈:kʼǫ̈ǫ̈       #over
+nnenn:nnenn     #over   #what is the distinciton between these two? - RB
 tsʼänn:tsʼänn   #from, away from
 kʼämën:kʼämën   #around
-nä̀zheyy:nä̀zheyy   #down, below, under
+nä̀zheyy:nä̀zheyy #down, below, under
 hǫkayy:hǫkayy   #delicious
 
 
@@ -819,10 +818,6 @@ dä̀fąą\ ek:dä̀fąą\ ek                                         #Dir
 dëfą̈̀ą̈\ el:dëfą̈̀ą̈\ ek                                         #Dir/LR     #again, not sure about this one, does this have to do with the usage being French? -RB 
 choo:choo[-bare]                                            #younger brother
 
-# New Dictionary - Section N - n
-
-
-
 
 LEXICON Pronoun(2)
 jë:jë               <pers>:             # "his"
@@ -840,21 +835,14 @@ hätèe:hätèe                 #Dir/LR  # FIXME: Dir/LR entries should have
 tlʼaa:tlʼaa                 #down
 wëzhèe:wëzhèe               # "during"  FIXME: CHECK
 
-#New Dictionary Section D-d
-dädöö\ khayy:dädöö\ khayy   #next year  # FIXME: is this not compositional?
-
 
 LEXICON Numeral
 nä̀nkąyy:nä̀nkąyy             #two
 
-#New Dictionary Section D-d 
-dänn:dänn                   #four
-dänn\ jechan:dänn\ jechan   #forty
-
-
 
 PATTERN Number
 Numeral [<num>:]
+
 
 LEXICON Numeral
 /([0123456789])+/
