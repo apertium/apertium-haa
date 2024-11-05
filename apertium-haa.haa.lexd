@@ -645,7 +645,23 @@ in:in      <plural>:  #pluralizer
 
 
 LEXICON NounRoot[bare,possessed]
-#noun:noun                                                  #approximent translations (model to follow)
+äjee:äjee[-bare]                                            #older sister possessed form 
+ajee\ tthit:ajee\ tthit[-bare]                              #oldest sister possessed form 
+äk’ayy:äk’ayy[-bare]                                        #aunt possessed form 
+chà’:chà’[-bare]                                            #father possessed form
+choo:choo[-bare]                                            #younger brother possessed form
+chòo\ hąyts’änn:chòo\ hąts’änn[-bare]                       #youngest brother possessed form
+e’ee:e’ee[-bare]                                            #uncle possessed form
+gaa:gaa[-bare]                                              #child possessed form
+jaa:jaa[-bare]                                              #friend possessed form
+jèww:jèww[-bare]                                            #younger sister possessed form
+jèww\ hąyts’änn:jèww\ hąyts’änn[-bare]                      #youngest sister
+nąą:nąą[-bare]                                              #mother possessed form
+ondayy:ondayy[-bare]                                        #older brother possessed form
+ondayy\ tthit:ondayy\ tthit[-bare]                          #oldest brother possessed form
+tseyy:tseyy[-bare]                                          #grandfather possessed form
+tsǫǫ:tsǫǫ[-bare]                                            #grandmother possessed form
+zhoh\ k’öö:zhoh\ k’öö[-bare]                                #family possessed form
 chaww:chaww                                                 #three
 dą̈̀htl’ah:dą̈̀htl’ah                                           #paper  ### New dictionary refers to this as "bills" and "book" and "credit" and "debt" and 2 other def.s(pg34), how to best proceed? -RB
 ddhäw:ddhäw                                                 #mountain
@@ -684,8 +700,7 @@ ëtsʼänn:ëtsʼänn                                             #duck
 chäghänn:chäghänn                                           #woman, old
 trʼinìnn:trʼinìnn                                           #child
 trʼinkee:trʼinkee                                           #children
-
-trʼinkee:trʼinkèe                                           #Dir/LR #rewrite low-tone with keyboard
+trʼinkee:trʼinkèe                                           #Dir/LR
 nägöö:nägöö                                                 #fox
 trʼechoo:trʼechoo                                           #boat
 tsʼat:tsʼat                                                 #hat
