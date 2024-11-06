@@ -19,16 +19,23 @@
 # <prn>    # pronoun
 # <adv>    # adverb
 
+# verb subcategories
+# <tv>     # transitive
+# <iv>     # intransitive
+
 # determiner subcategories
 # <dem>    # demonstrative
 # <ind>    # indefinite
+# <qnt>    # quantifying
 
 # proper noun subcategories
 # <ant>    # anthroponym (personal name)
 # <cog>    # cogonem (family name)
+# <top>    # toponym (place name)
 
 # pronoun subcategories
 # <pers>   # personal
+# <itg>    # interrogative
 
 # Verb grammatical tags
 # - subject person
@@ -63,6 +70,7 @@
 # <rpar>   # Right parenthesis
 
 # Noun grammatical tags
+## possession
 # <px1sg>	
 # <px1pl> 
 # <px2sg>
@@ -70,6 +78,9 @@
 # <px3sg>
 # <px3pl>
 # <pxrefl>
+
+# Preposition tags
+# FIXME
 
 # Number morphology
 # <pl>     # Plural
@@ -179,7 +190,7 @@ LEXICON VerbStem-Tv(3)
 [ł,perf,n]:                  [ł,perf,n]:n>                nohʼįį:ʼį[ł,perf,n] # Dir/LR
 [ł,fut,0cm]:                 [ł,fut,0cm]:n>               nohʼįį:ʼį̀ww[ł,fut,0cm]
 [0cl,impf,0cm]:              [0cl,impf,0cm]:              ëzrök:{Z}rök[0cl,impf,0cm] #yell
-[0cl,perf,0cm]:              [0cl,perf,0cm]:              ëzrök:{Z}rök[0cl,perf,0cm]
+[0cl,perf,0cm]:              [0cl,perf,0cm]:              ëzrök:{Z}rök[0cl,perf,0cm]   # FIXME: should be n instead of 0cm?
 [0cl,fut,0cm]:               [0cl,fut,0cm]:               ëzrök:{Z}rök[0cl,fut,0cm]
 #[0cl,incp,dh]:              [0cl,incp,dh]:               ëzrök:{Z}rök[0cl,incp,dh]
 [0cl,fut,0cm]:               [0cl,fut,0cm]:               ëdlòo:dlòo[0cl,fut,0cm] #laugh
@@ -189,7 +200,7 @@ LEXICON VerbStem-Tv(3)
 [0cl,perf,n]:                [0cl,perf,n]:                ëdlòo:dlòʼ[0cl,perf,n]
 [l,impf,0cm]:                [l,impf,0cm]:n>              nojät:jät[l,impf,0cm] #scare
 [l,fut,0cm]:                 [l,fut,0cm]:n>               nojät:jät[l,fut,0cm] #scare
-[l,perf,0cm]:                [l,perf,0cm]:n>              nojät:jät[l,perf,0cm] #scare
+[l,perf,0cm]:                [l,perf,0cm]:n>              nojät:jät[l,perf,0cm] #scare     # FIXME: should be n instead of 0cm?
 [l,impf,fut,0cm]:            [l,impf,fut,0cm]:n>          nojöt:jöt[l,impf,fut,0cm] # Dir/LR
 [l,perf,gh]:                 [l,perf,gh]:n>               nojät:jït[l,perf,gh] # Dir/LR
 [l,perf,gh]:                 [l,perf,gh]:n>               nojät:jö̀t[l,perf,gh] # Dir/LR 
@@ -204,9 +215,9 @@ LEXICON VerbStem-Tv(3)
 [ł,perf,dh]:                 [ł,perf,dh]:                 ohtseyy:tsąy[ł,perf,dh]   # Dir/LR
 [ł,impf,0cm]:u>              [ł,impf,0cm]:d>              udohkät:kät[ł,impf,0cm] #ask - d is sometimes j, add phonology rule?
 [ł,fut,0cm]:u>               [ł,fut,0cm]:d>               udohkät:kät[ł,fut,0cm]
-[l,perf,gh]:u>                  [l,perf,gh]:d>                  udohkät:ket[l,perf,gh]
+[l,perf,gh]:u>               [l,perf,gh]:d>               udohkät:ket[l,perf,gh]
 [0cl,impf,0cm]:              [0cl,impf,0cm]:              ëtröö:tröö[0cl,impf,0cm] #cryweep
-[0cl,impf,0cm]:               [0cl,impf,0cm]:               ëtröö:tröh[0cl,impf,0cm] # Dir/LR
+[0cl,impf,0cm]:              [0cl,impf,0cm]:              ëtröö:tröh[0cl,impf,0cm] # Dir/LR
 [0cl,fut,0cm]:               [0cl,fut,0cm]:               ëtröö:tröö[0cl,fut,0cm] #cryweep
 [0cl,fut,0cm]:               [0cl,fut,0cm]:               ëtröö:tröh[0cl,fut,0cm] # Dir/LR
 [0cl,perf,n]:                [0cl,perf,n]:                ëtröö:trö̀ʼ[0cl,perf,n]
@@ -226,12 +237,12 @@ LEXICON VerbStem-Tv(3)
 [l,impf,0cm]:                [l,impf,0cm]:                nozrèe:zrèe[l,impf,0cm] #HuntAround - missing perambulative "nä"
 [l,fut,0cm]:                 [l,fut,0cm]:                 nozrèe:zrèe[l,fut,0cm]
 [l,perf,dh]:                 [l,perf,dh]:                 nozrèe:zrèʼ[l,perf,dh]
-[0cl,impf,0cm,sg]:           [0cl,impf,0cm,sg]:n>               nähaa:haa[0cl,impf,0cm,sg] #GoComeArrive(sg)
-[0cl,perf,n,sg]:             [0cl,perf,n,sg]:n>                 nähaa:zhaa[0cl,perf,n,sg]
-[0cl,fut,0cm,sg]:            [0cl,fut,0cm,sg]:n>                nähaa:haw[0cl,fut,0cm,sg]
-[0cl,impf,0cm,pl]:          [0cl,impf,0cm,pl]:n>               nähaa:jèww[0cl,impf,0cm,pl] #no elicited forms in the impf
-[0cl,perf,n,pl]:             [0cl,perf,n,pl]:n>                 nähaa:jeww[0cl,perf,n,pl]
-[0cl,fut,0cm,pl]:            [0cl,fut,0cm,pl]:n>                nähaa:dä̀w[0cl,fut,0cm,pl]
+[0cl,impf,0cm,sg]:           [0cl,impf,0cm,sg]:n>         nähaa:haa[0cl,impf,0cm,sg] #GoComeArrive(sg)
+[0cl,perf,n,sg]:             [0cl,perf,n,sg]:n>           nähaa:zhaa[0cl,perf,n,sg]
+[0cl,fut,0cm,sg]:            [0cl,fut,0cm,sg]:n>          nähaa:haw[0cl,fut,0cm,sg]
+[0cl,impf,0cm,pl]:           [0cl,impf,0cm,pl]:n>         nähaa:jèww[0cl,impf,0cm,pl] #no elicited forms in the impf
+[0cl,perf,n,pl]:             [0cl,perf,n,pl]:n>           nähaa:jeww[0cl,perf,n,pl]
+[0cl,fut,0cm,pl]:            [0cl,fut,0cm,pl]:n>          nähaa:dä̀w[0cl,fut,0cm,pl]
 
 #working guessers TV
 [0cl,0cm]<GUESSER_0cl_0cm>:               [0cl,0cm]:                     /([a-zʼ\̈\̀\̨])+/[0cl,0cm]    # Use/Guesser
@@ -277,8 +288,8 @@ LEXICON VerbStem-Iv(3)
 
 
 LEXICON aspect(2)
-[impf]:        [impf]<impf>:
-[perf]:        [perf]<perf>:
+[impf]:           [impf]<impf>:
+[perf]:           [perf]<perf>:
 [incp]:ch{E}{¨}>  [incp]<incp>:
 [incp]:t{E}{¨}>   [incp]<incp>:
 [fut]:ch{E}{¨}>   [fut]<fut>:
@@ -534,18 +545,18 @@ LEXICON subject(4)
 
 LEXICON object(3)
 :sh{E}{¨}>           :       <o_1sg>:
-:sh>              :       <o_1sg>: # Dir/LR
-:ni>              :       <o_1pl>: 
-:n>               :       <o_2sg>:
+:sh>                 :       <o_1sg>: # Dir/LR
+:ni>                 :       <o_1pl>: 
+:n>                  :       <o_2sg>:
 :khw{E}{¨}>          :       <o_2pl>:
-#:khw>            :       <o_2pl>: # Dir/LR
-#:khu>            :       <o_2pl>: # Dir/LR
+#:khw>                :       <o_2pl>: # Dir/LR
+#:khu>                :       <o_2pl>: # Dir/LR
 [3Ssub]:y{E}{¨}>     :       [3Ssub]<o_3sg>:               #The 3Ssub filter helps condition which 3sg object form appears
-[3Ssub]:y>        :       [3Ssub]<o_3sg>: # Dir/LR
+[3Ssub]:y>           :       [3Ssub]<o_3sg>: # Dir/LR
 [non3Ssub]:w{E}{¨}>  :       [non3Ssub]<o_3sg>:
-[non3Ssub]:w>     :       [non3Ssub]<o_3sg>:
-:hu>              :       <o_3pl>:
-:                 :jë>    <refl>:    #maura checking on schwa deletion here, should we make a separate lexicon for reflexive
+[non3Ssub]:w>        :       [non3Ssub]<o_3sg>:
+:hu>                 :       <o_3pl>:
+:                    :jë>    <refl>:    #maura checking on schwa deletion here, should we make a separate lexicon for reflexive
 
 
 LEXICON NounPrefixes(2)
@@ -565,45 +576,45 @@ LEXICON NounPrefixes(2)
 # TODO: add reflexive jë/j?
 
 LEXICON PrepositionPrefixes(2)
-:sh{E}{¨}>      <io_1sg>:               #me
-:sh>            <io_1sg>: # Dir/LR      #me
-:ni>            <io_1pl>:               #us
-:n>             <io_2sg>:               #you
-:khw{E}{¨}>     <io_2pl>:               #y'all
-:y{E}{¨}>       <io_3sg_s3sg>: #do we still want these other tags?
+:sh{E}{¨}>      <io_1sg>:               # "me"
+:sh>            <io_1sg>: # Dir/LR      # "me"
+:ni>            <io_1pl>:               # "us"
+:n>             <io_2sg>:               # "you"
+:khw{E}{¨}>     <io_2pl>:               # "y'all"
+:y{E}{¨}>       <io_3sg_s3sg>: # "do we still want these other tags?
 :y>             <io_3sg_s3sg>: # Dir/LR
-:w{E}{¨}>       <io_3sg>:               #her/him/it
-:w>             <io_3sg>: # Dir/LR      #her/him/it
-:hu>            <io_3pl>:               #them
-:j{E}{¨}>       <io_refl>:              #-self/-selves
-:j>             <io_refl>: # Dir/LR     #-self/-selves
+:w{E}{¨}>       <io_3sg>:               # "her/him/it"
+:w>             <io_3sg>: # Dir/LR      # "her/him/it"
+:hu>            <io_3pl>:               # "them"
+:j{E}{¨}>       <io_refl>:              # "-self/-selves"
+:j>             <io_refl>: # Dir/LR     # "-self/-selves"
 
 LEXICON Conjunctions(2)
-tsʼą̈̀ʼ:tsʼą̈̀ʼ <cnjcoo>: #and
-etsänn:etsänn <cnjcoo>: #and
-etsän:etsän  <cnjcoo>: #Dir/LR and (likely incorrect)
-tʼoo:tʼoo    <cnjcoo>:  #but
+tsʼą̈̀ʼ:tsʼą̈̀ʼ     <cnjcoo>: # "and"
+etsänn:etsänn   <cnjcoo>: # "and"
+etsän:etsän     <cnjcoo>: # Dir/LR and (likely incorrect)
+tʼoo:tʼoo       <cnjcoo>: # "but"
 
 
 LEXICON Prepositions
-haa:haa         #for
-hèe:hèe         #with   
-zhìt:zhìt       #in
-kayy:kayy       #on
-ezheyy:ezheyy   #there
-ezheyy:ëzheyy   #Dir/LR
-tłänn:tłänn     #after
-tłänn:tłä̀nn     #Dir/LR
-huwèe:huwèe     #with them
-ghat:ghat       #by
-het:het         #near
-tsʼą̈̀ʼ:tsʼą̈̀ʼ     #to, towards
-kʼǫ̈ǫ̈:kʼǫ̈ǫ̈       #over
-nnenn:nnenn     #over   #what is the distinciton between these two? - RB
-tsʼänn:tsʼänn   #from, away from
-kʼämën:kʼämën   #around
-nä̀zheyy:nä̀zheyy #down, below, under
-hǫkayy:hǫkayy   #delicious
+haa:haa         # "for"
+hèe:hèe         # "with"
+zhìt:zhìt       # "in"
+kayy:kayy       # "on"
+ezheyy:ezheyy   # "there"
+ezheyy:ëzheyy   # "there" Dir/LR
+tłänn:tłänn     # "after"
+tłänn:tłä̀nn     # "after" Dir/LR
+huwèe:huwèe     # "with them"  FIXME: already possessed?
+ghat:ghat       # "by"
+het:het         # "near"
+tsʼą̈̀ʼ:tsʼą̈̀ʼ     # "to, towards"
+kʼǫ̈ǫ̈:kʼǫ̈ǫ̈       # "over"
+nnenn:nnenn     # "over"   #what is the distinciton between these two? - RB
+tsʼänn:tsʼänn   # "from, away from"
+kʼämën:kʼämën   # "around"
+nä̀zheyy:nä̀zheyy # "down, below, under"
+hǫkayy:hǫkayy   # "delicious"  FIXME: is this a preposition?
 
 
 
@@ -611,23 +622,23 @@ LEXICON Adjectives
 tsöll:tsöll       # "small"
 hǫzǫǫ:hǫzǫǫ       # "good"
 choo:choo         # "big"
-choo:choh         # Dir/LR
+choo:choh         # "big" Dir/LR
 shòo:shòo         # "happy"
 zų̀ʼ:zų̀ʼ           # "beautiful"
 zų̀ʼ:zùʼ           # "beautiful" Dir/LR  FIXME: Err/Orth
-gʼąyy:gʼąyy       # dried
-nzoo:nzoo         # nice
-dhaww:dhaww       # hot
-khänn:khänn       # fast
-hondòrr:hondòrr   # terrible
-dorr:dorr         # ugly
-tlät:tlät         # fat
-nähshi:nähshi     # silly
-dhëberr:dhëberr   # boiled
-dhëchʼee:dhëchʼee # fried
-tʼäww:tʼäww       # red, raw
-tʼöö:tʼöö         # cooked
-ghörr:ghörr       #round
+gʼąyy:gʼąyy       # "dried"
+nzoo:nzoo         # "nice"
+dhaww:dhaww       # "hot"
+khänn:khänn       # "fast"
+hondòrr:hondòrr   # "terrible"
+dorr:dorr         # "ugly"
+tlät:tlät         # "fat"
+nähshi:nähshi     # "silly"
+dhëberr:dhëberr   # "boiled"
+dhëchʼee:dhëchʼee # "fried"
+tʼäww:tʼäww       # "red, raw"
+tʼöö:tʼöö         # "cooked"
+ghörr:ghörr       # "round"
 
 
 
