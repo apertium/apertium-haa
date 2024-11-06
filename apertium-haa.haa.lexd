@@ -564,20 +564,19 @@ LEXICON NounPrefixes(2)
 
 # TODO: add reflexive jë/j?
 
-#TODO; add to Preposition pattern
 LEXICON PrepositionPrefixes(2)
-:sh{E}{¨}>      <px1sg>:
-:sh>            <px1sg>: # Dir/LR
-:ni>            <px1pl>: 
-:n>             <px2sg>:
-:khw{E}{¨}>     <px2pl>:
-:y{E}{¨}>       <px3sg_s3sg>:
-:y>             <px3sg_s3sg>: # Dir/LR
-:w{E}{¨}>       <px3sg>: 
-:w>             <px3sg>: # Dir/LR 
-:hu>            <px3pl>:
-:j{E}{¨}>       <pxrefl>:
-:j>             <pxrefl>: # Dir/LR
+:sh{E}{¨}>      <io_1sg>:               #me
+:sh>            <io_1sg>: # Dir/LR      #me
+:ni>            <io_1pl>:               #us
+:n>             <io_2sg>:               #you
+:khw{E}{¨}>     <io_2pl>:               #y'all
+:y{E}{¨}>       <io_3sg_s3sg>: #do we still want these other tags?
+:y>             <io_3sg_s3sg>: # Dir/LR
+:w{E}{¨}>       <io_3sg>:               #her/him/it
+:w>             <io_3sg>: # Dir/LR      #her/him/it
+:hu>            <io_3pl>:               #them
+:j{E}{¨}>       <io_refl>:              #-self/-selves
+:j>             <io_refl>: # Dir/LR     #-self/-selves
 
 LEXICON Conjunctions(2)
 tsʼą̈̀ʼ:tsʼą̈̀ʼ <cnjcoo>: #and
