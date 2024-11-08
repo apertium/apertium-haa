@@ -1,3 +1,10 @@
+[0Zjy00wUf_-j#0] "<wënök>"
+	"*wënök"
+"<->"
+	"-" guio
+"<ʼįʼ>"
+	"*ʼįʼ"
+[/0Zjy00wUf_-j]
 [0rSF5Cg-BZXf#0] "<ntrʼënohʼįį>"
 	"nohʼįį" v tv impf s_1pl o_2sg
 [/0rSF5Cg-BZXf]
@@ -10,6 +17,12 @@
 [7VOH5hGQgFOX#0] "<hunähʼįh>"
 	"nohʼįį" v tv impf s_2pl o_3pl
 [/7VOH5hGQgFOX]
+[7hGmMSSH1wvZ#0] "<wëtrʼënähʼįʼ>"
+	"*wëtrʼënähʼįʼ"
+[/7hGmMSSH1wvZ]
+[7itaWLRjCavL#0] "<hënähʼįʼ>"
+	"*hënähʼįʼ"
+[/7itaWLRjCavL]
 [83Ou1hyyk51d#0] "<khwënökʼįh>"
 	"nohʼįį" v tv impf s_1sg o_2pl
 [/83Ou1hyyk51d]
@@ -20,7 +33,7 @@
 	"nohʼįį" v tv impf s_1pl o_2sg
 [/90tLewKhB4QT]
 [Bg13wTnotzxn#0] "<shënähʼįh>"
-	"*shënähʼįh"
+	"nohʼįį" v tv impf s_2pl o_1sg
 [/Bg13wTnotzxn]
 [Bh86466xjuf3#0] "<ninök>"
 	"*ninök"
@@ -32,9 +45,19 @@
 [BmdLNthxj_Lt#0] "<nökʼįį>"
 	"nohʼįį" v tv impf s_1sg
 [/BmdLNthxj_Lt]
+[C6QWM6y1kUa1#0] "<shëhënähʼįʼ>"
+	"*shëhënähʼįʼ"
+[/C6QWM6y1kUa1]
 [CV4-Tbf2_K-h#0] "<khwëtrʼënohʼįh>"
 	"nohʼįį" v tv impf s_1pl o_2pl
 [/CV4-Tbf2_K-h]
+[CoFXA10kJ_2b#0] "<nök>"
+	"*nök"
+"<->"
+	"-" guio
+"<ʼįʼ>"
+	"*ʼįʼ"
+[/CoFXA10kJ_2b]
 [DWEy8z-UCDVS#0] "<hutrʼënohʼįh>"
 	"nohʼįį" v tv impf s_1pl o_3pl
 [/DWEy8z-UCDVS]
@@ -50,15 +73,35 @@
 [E3-FkdJ4QhAW#0] "<ninähʼįį>"
 	"nohʼįį" v tv impf s_2pl o_1pl
 [/E3-FkdJ4QhAW]
+[EFT0ACVsCCJL#0] "<hutrʼënähʼįʼ>"
+	"*hutrʼënähʼįʼ"
+[/EFT0ACVsCCJL]
+[EvQa2KU4A2Qo#0] "<hunökʼįʼ>"
+	"*hunökʼįʼ"
+[/EvQa2KU4A2Qo]
 [Fxv3sLCbFPkd#0] "<shëtrʼënohʼįį>"
 	"nohʼįį" v tv impf s_1pl o_1sg
 [/Fxv3sLCbFPkd]
 [G2ye1UW2sh3x#0] "<nnökʼįį>"
 	"nohʼįį" v tv impf s_1sg o_2sg
 [/G2ye1UW2sh3x]
+[Gy_V5tYrSTM9#0] "<nnök>"
+	"*nnök"
+"<->"
+	"-" guio
+"<ʼįʼ>"
+	"*ʼįʼ"
+[/Gy_V5tYrSTM9]
 [HZarrXgJn_uM#0] "<nnohʼįį>"
 	"nohʼįį" v tv impf s_3sg o_2sg
 [/HZarrXgJn_uM]
+[HnlaD6CWG7Tz#0] "<khwënök>"
+	"*khwënök"
+"<->"
+	"-" guio
+"<ʼįʼ>"
+	"*ʼįʼ"
+[/HnlaD6CWG7Tz]
 [IMM6IVePebhB#0] "<shënähʼįį>"
 	"nohʼįį" v tv impf s_2pl o_1sg
 [/IMM6IVePebhB]
@@ -72,8 +115,11 @@
 "<ʼįh>"
 	"*ʼįh"
 [/JA8P9EJKbqW8]
+[JLVUsAUYVVKY#0] "<ntrʼënähʼįʼ>"
+	"*ntrʼënähʼįʼ"
+[/JLVUsAUYVVKY]
 [JtBINZ0kd9ad#0] "<ninähʼįh>"
-	"*ninähʼįh"
+	"nohʼįį" v tv impf s_2pl o_1pl
 [/JtBINZ0kd9ad]
 [KBEu248caghq#0] "<khwënök>"
 	"*khwënök"
@@ -101,6 +147,9 @@
 [QdSd4mHybMrs#0] "<shëtrʼënohʼįh>"
 	"nohʼįį" v tv impf s_1pl o_1sg
 [/QdSd4mHybMrs]
+[SU8Q81GYPWLG#0] "<nökʼįʼ>"
+	"*nökʼįʼ"
+[/SU8Q81GYPWLG]
 [TQFWiyJjM-F-#0] "<nnökʼįh>"
 	"nohʼįį" v tv impf s_1sg o_2sg
 [/TQFWiyJjM-F-]
@@ -121,15 +170,24 @@
 "<ʼįį>"
 	"*ʼįį"
 [/UZVRrTIQZKlF]
+[XFnT67Ji-zFE#0] "<nnökʼįʼ>"
+	"*nnökʼįʼ"
+[/XFnT67Ji-zFE]
 [Y3LnnBgeqDsb#0] "<hutrʼënohʼįį>"
 	"nohʼįį" v tv impf s_1pl o_3pl
 [/Y3LnnBgeqDsb]
+[aU40XtK9DBXf#0] "<nähʼįʼ>"
+	"*nähʼįʼ"
+[/aU40XtK9DBXf]
 [ajyf2dyMr6na#0] "<ninökʼįh>"
 	"nohʼįį" v tv impf s_1sg o_1pl
 [/ajyf2dyMr6na]
 [aoaelyVBSlfG#0] "<nohʼįį>"
 	"nohʼįį" v tv impf s_3sg
 [/aoaelyVBSlfG]
+[aotnkfcVjOIi#0] "<trʼënähʼįʼ>"
+	"*trʼënähʼįʼ"
+[/aotnkfcVjOIi]
 [cF0yIJy8AJU9#0] "<nökʼįh>"
 	"nohʼįį" v tv impf s_1sg
 [/cF0yIJy8AJU9]
@@ -149,6 +207,9 @@
 "<ʼįh>"
 	"*ʼįh"
 [/gUYBfoD0KzPA]
+[gwiPTolCJaKY#0] "<wënökʼįʼ>"
+	"*wënökʼįʼ"
+[/gwiPTolCJaKY]
 [jC7SIXYLQ7oS#0] "<khwënohʼįį>"
 	"nohʼįį" v tv impf s_3sg o_2pl
 [/jC7SIXYLQ7oS]
@@ -159,14 +220,30 @@
 	"nohʼįį" v tv impf s_2sg o_3pl
 [/jvh8vK4LGb1q]
 [kr_qx5d6n5rV#0] "<khwëną̈hʼįį>"
-	"*khwëną̈hʼįį"
+	"nohʼįį" v tv impf s_2sg o_2pl
 [/kr_qx5d6n5rV]
+[lCNpH1s3aPyF#0] "<hunök>"
+	"*hunök"
+"<->"
+	"-" guio
+"<ʼįʼ>"
+	"*ʼįʼ"
+[/lCNpH1s3aPyF]
 [mWKb8iaCf4W6#0] "<shënohʼįh>"
 	"nohʼįį" v tv impf s_3sg o_1sg
 [/mWKb8iaCf4W6]
+[nqAlo5Sj1w1R#0] "<khwënökʼįʼ>"
+	"*khwënökʼįʼ"
+[/nqAlo5Sj1w1R]
+[q-qc79GPF_FG#0] "<shënähʼįʼ>"
+	"*shënähʼįʼ"
+[/q-qc79GPF_FG]
 [qItoM6-DjEqU#0] "<niną̈hʼįį>"
-	"*niną̈hʼįį"
+	"nohʼįį" v tv impf s_2sg o_1pl
 [/qItoM6-DjEqU]
+[tKABctpWoEiT#0] "<ną̈hʼįʼ>"
+	"*ną̈hʼįʼ"
+[/tKABctpWoEiT]
 [ugEBVkUxkJ37#0] "<yënohʼįį>"
 	"nohʼįį" v tv impf s_3sg o_3sg
 [/ugEBVkUxkJ37]
@@ -184,11 +261,14 @@
 	"nohʼįį" v tv impf s_3sg o_1pl
 [/viPlC1-OSOcY]
 [xRxSGK3S-5Qv#0] "<shëną̈hʼįį>"
-	"*shëną̈hʼįį"
+	"nohʼįį" v tv impf s_2sg o_1sg
 [/xRxSGK3S-5Qv]
 [zOA7Hd0IKBCW#0] "<khwëną̈hʼįh>"
-	"*khwëną̈hʼįh"
+	"nohʼįį" v tv impf s_2sg o_2pl
 [/zOA7Hd0IKBCW]
+[zoe44Eu7sVcj#0] "<khwëtrʼënähʼįʼ>"
+	"*khwëtrʼënähʼįʼ"
+[/zoe44Eu7sVcj]
 [zyF33voxCx34#0] "<shënähʼįh>"
 	"nohʼįį" v tv impf s_2pl o_1sg
 [/zyF33voxCx34]
