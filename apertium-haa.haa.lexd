@@ -190,7 +190,7 @@ LEXICON VerbStem-Tv(3)
 [ł,perf,n]:                  [ł,perf,n]:n>                nohʼįį:ʼį[ł,perf,n] # Dir/LR
 [ł,fut,0cm]:                 [ł,fut,0cm]:n>               nohʼįį:ʼį̀ww[ł,fut,0cm]
 [0cl,impf,0cm]:              [0cl,impf,0cm]:              ëzrök:{Z}rök[0cl,impf,0cm] #yell
-[0cl,perf,0cm]:              [0cl,perf,0cm]:              ëzrök:{Z}rök[0cl,perf,0cm]   # FIXME: should be n instead of 0cm?
+[0cl,perf,0cm]:              [0cl,perf,0cm]:              ëzrök:{Z}rök[0cl,perf,n]
 [0cl,fut,0cm]:               [0cl,fut,0cm]:               ëzrök:{Z}rök[0cl,fut,0cm]
 #[0cl,incp,dh]:              [0cl,incp,dh]:               ëzrök:{Z}rök[0cl,incp,dh]
 [0cl,fut,0cm]:               [0cl,fut,0cm]:               ëdlòo:dlòo[0cl,fut,0cm] #laugh
@@ -200,7 +200,7 @@ LEXICON VerbStem-Tv(3)
 [0cl,perf,n]:                [0cl,perf,n]:                ëdlòo:dlòʼ[0cl,perf,n]
 [l,impf,0cm]:                [l,impf,0cm]:n>              nojät:jät[l,impf,0cm] #scare
 [l,fut,0cm]:                 [l,fut,0cm]:n>               nojät:jät[l,fut,0cm] #scare
-[l,perf,0cm]:                [l,perf,0cm]:n>              nojät:jät[l,perf,0cm] #scare     # FIXME: should be n instead of 0cm?
+[l,perf,0cm]:                [l,perf,0cm]:n>              nojät:jät[l,perf,n] #scare
 [l,impf,fut,0cm]:            [l,impf,fut,0cm]:n>          nojöt:jöt[l,impf,fut,0cm] # Dir/LR
 [l,perf,gh]:                 [l,perf,gh]:n>               nojät:jït[l,perf,gh] # Dir/LR
 [l,perf,gh]:                 [l,perf,gh]:n>               nojät:jö̀t[l,perf,gh] # Dir/LR 
