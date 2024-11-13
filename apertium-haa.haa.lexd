@@ -184,6 +184,12 @@ PATTERN Verbs-Iv
 
 
 LEXICON VerbStem-Tv(3) 
+
+[verb-type,aspect,gh/]
+
+# [zero,impf,n]                [zero,impf,n]                ëtthee:tthee[zero,impf,n] #bark
+# [zero,impf,gh]               [zero,impf,gh]               dä̀chųh:chųh[zero,impf,0cm] #count
+# [?,impf,0cm]:                [?,impf,0cm]:                Onjdhän:njdhän[?,impf,0cm] #want #has "O" in prefix position, what to do?
 [ł,impf,0cm]:                [ł,impf,0cm]:n>              nohʼįį:ʼįį[ł,impf,0cm] #see
 [ł,impf,0cm]:                [ł,impf,0cm]:n>              nohʼįį:ʼįh[ł,impf,0cm] # Dir/LR
 [ł,perf,n]:                  [ł,perf,n]:n>                nohʼįį:ʼį̀ʼ[ł,perf,n]
@@ -277,6 +283,8 @@ LEXICON VerbStem-Tv(3)
 LEXICON VerbStem-Iv(3)
 [0cl,impf,0cm]:              [0cl,impf,0cm]:              ëkoo:koo[0cl,impf,0cm] #cough
 [0cl,impf,0cm]:              [0cl,impf,0cm]:              ëkoo:koh[0cl,impf,0cm] # Dir/LR
+# [x,impf,0cm]:              [x,impf,0cm]:                ëtröö:tröö[x,impf,0cm] #cryweep1 #not sure about verb’s base (x)
+
 #cough, cryweep1 are intv? 
 #working guessers IV 
 #[0cl,0cm]<GUESSER0cl0cm>:                   [0cl,0cm]:                       /([a-zʼ\̈\̀\̨])+/[0cl,0cm]
