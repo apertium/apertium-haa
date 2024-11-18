@@ -217,9 +217,9 @@ LEXICON VerbStem-Tv(3)
 [ł,impf,0cm]:                [ł,impf,0cm]:                ohtseyy:tsey[ł,impf,0cm] # Dir/LR
 [ł,perf,dh]:                 [ł,perf,dh]:                 ohtseyy:tsąyy[ł,perf,dh]
 [ł,perf,dh]:                 [ł,perf,dh]:                 ohtseyy:tsąy[ł,perf,dh]   # Dir/LR
-[ł,impf,0cm]:u>              [ł,impf,0cm]:d>              udohkät:kät[ł,impf,0cm] #ask - d is sometimes j, add phonology rule?
-[ł,fut,0cm]:u>               [ł,fut,0cm]:d>               udohkät:kät[ł,fut,0cm]
-[l,perf,gh]:u>               [l,perf,gh]:d>               udohkät:ket[l,perf,gh]
+[ł,impf,0cm]<dir>:u>              [ł,impf,0cm]:d>              udohkät:kät[ł,impf,0cm] #ask - d is sometimes j, add phonology rule?
+[ł,fut,0cm]<dir>:u>               [ł,fut,0cm]:d>               udohkät:kät[ł,fut,0cm]
+[l,perf,gh]<dir>:u>               [l,perf,gh]:d>               udohkät:ket[l,perf,gh]
 [0cl,impf,0cm]:              [0cl,impf,0cm]:              ëtröö:tröö[0cl,impf,0cm] #cryweep
 [0cl,impf,0cm]:              [0cl,impf,0cm]:              ëtröö:tröh[0cl,impf,0cm] # Dir/LR
 [0cl,fut,0cm]:               [0cl,fut,0cm]:               ëtröö:tröö[0cl,fut,0cm] #cryweep
