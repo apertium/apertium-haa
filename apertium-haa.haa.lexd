@@ -164,7 +164,7 @@ NounRoot[bare] [<n>:] #for bare nouns standing alone
 PATTERN Verbs-Tv
 #disjunctPref plSubj      object   deicticSubj   refl       directive    aspect    gender/qualifier  theme           conjMarker,subj,cl      stem
 # --          subject(1) object(1)  subject(2) object(2)  VerbStem-Tv(1) aspect(1)       --          VerbStem-Tv(2)       subject(3)      VerbStem-Tv(3)
-            (subject(1) object?(1) subject(2) object?(2) VerbStem-Tv(1) aspect(1) VerbStem-Tv(2) subject(3) [ :{NOV} ] VerbStem-Tv(3) [ <v><tv>: ] aspect(2) subject(4) object?(3))[^[3Ssub,non3Ssub],^[impf,perf,incp,fut,opt],^[sg,pl],^[l,d,0cl,ł],^[0cm,dh,gh,n]]
+            (subject(1) object?(1) subject(2) object?(2) :VerbStem-Tv(1) aspect(1) VerbStem-Tv(2) subject(3) [ :{NOV} ] VerbStem-Tv(3) [ <v><tv>: ] VerbStem-Tv(1): aspect(2) subject(4) object?(3))[^[3Ssub,non3Ssub],^[impf,perf,incp,fut,opt],^[sg,pl],^[l,d,0cl,ł],^[0cm,dh,gh,n]]
 
 PATTERN Verbs-Iv
 #disjunctPref plSubj  object  deicticSubj  refl   directive   aspect  gender/qualifier  theme       conjMarker,subj,cl      stem
