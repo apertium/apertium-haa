@@ -1,5 +1,7 @@
 [BmdLNthxj_Lt]
 "<nökʼįį>"
+	"nohʼįį" v tv impf s_1sg [/option]
+"<nökʼįį>"
 	"nökʼįį" v tv perf s_1sg [/option]
 [/BmdLNthxj_Lt]
 [G2ye1UW2sh3x]

@@ -9,6 +9,7 @@ Alphabet
 %{gh%}:0        ! gh in gh perfective does not appear
 %{Z%}:z %{Z%}:s ! zr becomes sr after h
 %{NOV%}:0       ! limits vowels from guessed forms
+%{%-%}:%- %{%-%}:0  ! for - between e.g. k and ʼ
 
  %.
  %-
@@ -26,6 +27,9 @@ Nasal = N M
 
 Cons =  B C D G H J K L Ł M N P R S T W Y Z ʼ
         b c d g h j k l ł m n p r s t w y z ;
+
+Ejectives = K
+            k ;
 
 
 Rules
@@ -49,6 +53,9 @@ Vowel:Vowel /<= %{NOV%}: _ ;
 "no hC- or nC- initial stems guessed by guesser"
 C1:C1 /<= %{NOV%}: _ Cons:Cons ;
         where C1 in ( h n ) ;
+
+"{-} as - only after ejective consonants"
+%{%-%}:%- <=> Ejectives:/:0* _ ;
 
 
 ! Resources:

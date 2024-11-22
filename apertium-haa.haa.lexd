@@ -192,6 +192,11 @@ LEXICON VerbStem-Tv(3)
 [ł,perf,n]:                  [ł,perf,n]:n>                nohʼįį:ʼį̀ʼ[ł,perf,n]
 [ł,perf,n]:                  [ł,perf,n]:n>                nohʼįį:ʼį[ł,perf,n] # Dir/LR
 [ł,fut,0cm]:                 [ł,fut,0cm]:n>               nohʼįį:ʼį̀ww[ł,fut,0cm]
+[ł,impf,0cm]:                [ł,impf,0cm]:n>              nohʼįį:{-}ʼįį[ł,impf,0cm] #see # Dir/LR
+[ł,impf,0cm]:                [ł,impf,0cm]:n>              nohʼįį:{-}ʼįh[ł,impf,0cm] # Dir/LR
+[ł,perf,n]:                  [ł,perf,n]:n>                nohʼįį:{-}ʼį̀ʼ[ł,perf,n] # Dir/LR
+[ł,perf,n]:                  [ł,perf,n]:n>                nohʼįį:{-}ʼį[ł,perf,n] # Dir/LR
+[ł,fut,0cm]:                 [ł,fut,0cm]:n>               nohʼįį:{-}ʼį̀ww[ł,fut,0cm] # Dir/LR
 [0cl,impf,0cm]:              [0cl,impf,0cm]:              ëzrök:{Z}rök[0cl,impf,0cm] #yell
 [0cl,perf,0cm]:              [0cl,perf,0cm]:              ëzrök:{Z}rök[0cl,perf,n]
 [0cl,fut,0cm]:               [0cl,fut,0cm]:               ëzrök:{Z}rök[0cl,fut,0cm]
