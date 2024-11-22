@@ -14,5 +14,10 @@
     "generation": {
         "input": "generation-input.txt",
         "mode": "haa-gener"
+    },
+
+    "bark-analysis":{
+        "input": "bark-input.txt",
+        "mode": "haa-disam"
     }
 }
