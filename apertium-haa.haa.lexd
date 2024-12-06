@@ -163,8 +163,8 @@ NounRoot[bare] [<n>:] #for bare nouns standing alone
 
 PATTERN Verbs-Tv
 #disjunctPref plSubj      object   deicticSubj   refl       directive    aspect    gender/qualifier  theme           conjMarker,subj,cl      stem
-# --          subject(1) object(1)  subject(2) object(2)  VerbStem-Tv(1) aspect(1)       --          VerbStem-Tv(2)       subject(3)      VerbStem-Tv(3)
-            (subject(1) object?(1) subject(2) object?(2) :VerbStem-Tv(1) aspect(1) VerbStem-Tv(2) subject(3) [ :{NOV} ] VerbStem-Tv(3) [ <v><tv>: ] VerbStem-Tv(1): aspect(2) subject(4) object?(3))[^[3Ssub,non3Ssub],^[impf,perf,incp,fut,opt],^[sg,pl],^[l,d,0cl,ł],^[0cm,dh,gh,n]]
+# --          subject(1) object(1)  subject(2) object(2)  VerbStem-Tv(2) aspect(1)       --          VerbStem-Tv(2)       subject(3)      VerbStem-Tv(4)
+            (subject(1) object?(1) subject(2) object?(2) :VerbStem-Tv(2) aspect(1) VerbStem-Tv(3) subject(3) [ :{NOV} ] VerbStem-Tv(4) [ <v><tv>: ] VerbStem-Tv(2): aspect(2) subject(4) object?(3))[^[3Ssub,non3Ssub],^[impf,perf,incp,fut,opt],^[sg,pl],^[l,d,0cl,ł],^[0cm,dh,gh,n]]
 
 PATTERN Verbs-Iv
 #disjunctPref plSubj  object  deicticSubj  refl   directive   aspect  gender/qualifier  theme       conjMarker,subj,cl      stem
@@ -183,8 +183,9 @@ PATTERN Verbs-Iv
 # house:house   # A noun
 
 
-LEXICON VerbStem-Tv(3) 
+LEXICON VerbStem-Tv(4) 
 
+[l,impf,0cm]:nä>                         [l,impf,0cm]:                [l,impf,0cm]:                nä’aww:’àww[l,impf,0cm] #eat
 [ł,impf,0cm]:                           [ł,impf,0cm]:                [ł,impf,0cm]:n>              nohʼįį:ʼįį[ł,impf,0cm] #see
 [ł,impf,0cm]:                           [ł,impf,0cm]:                [ł,impf,0cm]:n>              nohʼįį:ʼįh[ł,impf,0cm] # Dir/LR
 [ł,perf,n]:                             [ł,perf,n]:                  [ł,perf,n]:n>                nohʼįį:ʼį̀ʼ[ł,perf,n]
@@ -251,15 +252,15 @@ LEXICON VerbStem-Tv(3)
 [0cl,fut,0cm,pl]:                       [0cl,fut,0cm,pl]:            [0cl,fut,0cm,pl]:n>          nähaa:dä̀w[0cl,fut,0cm,pl]
 
 #working guessers TV
-[0cl,0cm]<GUESSER_0cl_0cm>:               [0cl,0cm]:                     /([a-zʼ\̈\̀\̨])+/[0cl,0cm]    # Use/Guesser
-[d,0cm]<GUESSER_d_0cm>:                   [d,0cm]:                       /([a-zʼ\̈\̀\̨])+/[d,0cm]      # Use/Guesser
-[l,0cm]<GUESSER_l_0cm>:                   [l,0cm]:                       /([a-zʼ\̈\̀\̨])+/[l,0cm]      # Use/Guesser
-[ł,0cm]<GUESSER_ł_0cm>:                   [ł,0cm]:                       /([a-zʼ\̈\̀\̨])+/[ł,0cm]      # Use/Guesser
+[0cl,0cm]:            [0cl,0cm]<GUESSER_0cl_0cm>:               [0cl,0cm]:                     /([a-zʼ\̈\̀\̨])+/[0cl,0cm]    # Use/Guesser
+[d,0cm]:            [d,0cm]<GUESSER_d_0cm>:                   [d,0cm]:                       /([a-zʼ\̈\̀\̨])+/[d,0cm]      # Use/Guesser
+[l,0cm]:            [l,0cm]<GUESSER_l_0cm>:                   [l,0cm]:                       /([a-zʼ\̈\̀\̨])+/[l,0cm]      # Use/Guesser
+[ł,0cm]:            [ł,0cm]<GUESSER_ł_0cm>:                   [ł,0cm]:                       /([a-zʼ\̈\̀\̨])+/[ł,0cm]      # Use/Guesser
 
-[0cl,0cm]<GUESSER_0cl_0cm_nthm>:          [0cl,0cm]:n>                   /([a-zʼ\̈\̀\̨])+/[0cl,0cm]    # Use/Guesser
-[d,0cm]<GUESSER_d_0cm_nthm>:              [d,0cm]:n>                     /([a-zʼ\̈\̀\̨])+/[d,0cm]      # Use/Guesser
-[l,0cm]<GUESSER_l_0cm_nthm>:              [l,0cm]:n>                     /([a-zʼ\̈\̀\̨])+/[l,0cm]      # Use/Guesser
-[ł,0cm]<GUESSER_ł_0cm_nthm>:              [ł,0cm]:n>                     /([a-zʼ\̈\̀\̨])+/[ł,0cm]      # Use/Guesser
+[0cl,0cm]:             [0cl,0cm]<GUESSER_0cl_0cm_nthm>:          [0cl,0cm]:n>                   /([a-zʼ\̈\̀\̨])+/[0cl,0cm]    # Use/Guesser
+[d,0cm]:            [d,0cm]<GUESSER_d_0cm_nthm>:              [d,0cm]:n>                     /([a-zʼ\̈\̀\̨])+/[d,0cm]      # Use/Guesser
+[l,0cm]:            [l,0cm]<GUESSER_l_0cm_nthm>:              [l,0cm]:n>                     /([a-zʼ\̈\̀\̨])+/[l,0cm]      # Use/Guesser
+[ł,0cm]:            [ł,0cm]<GUESSER_ł_0cm_nthm>:              [ł,0cm]:n>                     /([a-zʼ\̈\̀\̨])+/[ł,0cm]      # Use/Guesser
 
 
 
