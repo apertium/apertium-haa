@@ -1,17 +1,24 @@
-Han: `apertium-haa`
+Hän: `apertium-haa`
 ===============================================================================
 
-This is an Apertium monolingual language package for Han. What
+This is an Apertium monolingual language package for Hän. What
 you can use this language package for:
 
 * Morphological analysis of Han
 * Morphological generation of Han
 * Part-of-speech tagging of Han
 
+Responsibilities
+-------------------------------------------------------------------------------
+
+While licensed under a free/open-source license that permits commercial uses,
+it is expected that anything created using this resource be made available to
+Hän communities free of charge.
+
 Requirements
 -------------------------------------------------------------------------------
 
-You will need the following software installed:
+To use this software, you will need the following software installed:
 
 * autoconf
 * automake
