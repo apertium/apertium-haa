@@ -169,7 +169,7 @@ PATTERN Verbs-Tv
 PATTERN Verbs-Iv
 #disjunctPref plSubj  object  deicticSubj  refl   directive   aspect  gender/qualifier  theme       conjMarker,subj,cl      stem
 # --        subject(1) --     subject(2) object(2)  directive   aspect(1)       --         VerbStem-Iv(1)       subject(3)      VerbStem-Iv(2)
-           (subject(1) subject(2) object?(2)  VerbStem-Iv(1) aspect(1) VerbStem-Iv(2) subject(3) VerbStem-Iv(3) [ <v><iv>: ] aspect(2) subject(4) object?(3))[^[3Ssub,non3Ssub],^[impf,perf,incp,fut,opt],^[sg,pl],^[l,d,0cl,ł],^[0cm,dh,gh,n]]
+           (subject(1) subject(2) object?(2)  VerbStem-Iv(2) aspect(1) VerbStem-Iv(3) subject(3) VerbStem-Iv(4) [ <v><iv>: ] aspect(2) subject(4) object?(3))[^[3Ssub,non3Ssub],^[impf,perf,incp,fut,opt],^[sg,pl],^[l,d,0cl,ł],^[0cm,dh,gh,n]]
 
 
 
@@ -244,12 +244,6 @@ LEXICON VerbStem-Tv(4)
 [l,impf,0cm]:                           [l,impf,0cm]:                [l,impf,0cm]:                nozrèe:zrèe[l,impf,0cm] #HuntAround - missing perambulative "nä"
 [l,fut,0cm]:                            [l,fut,0cm]:                 [l,fut,0cm]:                 nozrèe:zrèe[l,fut,0cm]
 [l,perf,dh]:                            [l,perf,dh]:                 [l,perf,dh]:                 nozrèe:zrèʼ[l,perf,dh]
-[0cl,impf,0cm,sg]:                      [0cl,impf,0cm,sg]:           [0cl,impf,0cm,sg]:n>         nähaa:haa[0cl,impf,0cm,sg] #GoComeArrive(sg)
-[0cl,perf,n,sg]:                        [0cl,perf,n,sg]:             [0cl,perf,n,sg]:n>           nähaa:zhaa[0cl,perf,n,sg]
-[0cl,fut,0cm,sg]:                       [0cl,fut,0cm,sg]:            [0cl,fut,0cm,sg]:n>          nähaa:haw[0cl,fut,0cm,sg]
-[0cl,impf,0cm,pl]:                      [0cl,impf,0cm,pl]:           [0cl,impf,0cm,pl]:n>         nähaa:jèww[0cl,impf,0cm,pl] #no elicited forms in the impf
-[0cl,perf,n,pl]:                        [0cl,perf,n,pl]:             [0cl,perf,n,pl]:n>           nähaa:jeww[0cl,perf,n,pl]
-[0cl,fut,0cm,pl]:                       [0cl,fut,0cm,pl]:            [0cl,fut,0cm,pl]:n>          nähaa:dä̀w[0cl,fut,0cm,pl]
 
 #working guessers TV
 [0cl,0cm]:            [0cl,0cm]<GUESSER_0cl_0cm>:               [0cl,0cm]:                     /([a-zʼ\̈\̀\̨])+/[0cl,0cm]    # Use/Guesser
@@ -281,17 +275,26 @@ LEXICON VerbStem-Tv(4)
 #PROBLEM5:  because 3sg is (seems to be?) null in 0cl, we always get analyses where the guesser assumes the full form is the stem, with the null morpheme prefixed
 #SOLUTION: deprioritize these forms using weights
 
-LEXICON VerbStem-Iv(3)
-[0cl,impf,0cm]:              [0cl,impf,0cm]:              ëkoo:koo[0cl,impf,0cm] #cough
-[0cl,impf,0cm]:              [0cl,impf,0cm]:              ëkoo:koh[0cl,impf,0cm] # Dir/LR
-# [x,impf,0cm]:              [x,impf,0cm]:                ëtröö:tröö[x,impf,0cm] #cryweep1 #not sure about verb’s base (x)
+LEXICON VerbStem-Iv(4)
+[0cl,impf,0cm]:              [0cl,impf,0cm]:              [0cl,impf,0cm]:              ëkoo:koo[0cl,impf,0cm] #cough
+[0cl,impf,0cm]:              [0cl,impf,0cm]:              [0cl,impf,0cm]:              ëkoo:koh[0cl,impf,0cm] # Dir/LR
+
+[0cl,impf,0cm,sg]:           [0cl,impf,0cm,sg]:           [0cl,impf,0cm,sg]:n>         nähaa:haa[0cl,impf,0cm,sg] #GoComeArrive(sg)
+[0cl,perf,n,sg]:             [0cl,perf,n,sg]:             [0cl,perf,n,sg]:n>           nähaa:zhaa[0cl,perf,n,sg]
+[0cl,fut,0cm,sg]:            [0cl,fut,0cm,sg]:            [0cl,fut,0cm,sg]:n>          nähaa:haw[0cl,fut,0cm,sg]
+[0cl,impf,0cm,pl]:           [0cl,impf,0cm,pl]:           [0cl,impf,0cm,pl]:n>         nähaa:jèww[0cl,impf,0cm,pl] #no elicited forms in the impf
+[0cl,perf,n,pl]:             [0cl,perf,n,pl]:             [0cl,perf,n,pl]:n>           nähaa:jeww[0cl,perf,n,pl]
+[0cl,fut,0cm,pl]:            [0cl,fut,0cm,pl]:            [0cl,fut,0cm,pl]:n>          nähaa:dä̀w[0cl,fut,0cm,pl]
+
 
 #cough, cryweep1 are intv? 
+# [x,impf,0cm]:              [x,impf,0cm]:                ëtröö:tröö[x,impf,0cm] #cryweep1 #not sure about verb’s base (x)
+
 #working guessers IV 
-#[0cl,0cm]<GUESSER0cl0cm>:                   [0cl,0cm]:                       /([a-zʼ\̈\̀\̨])+/[0cl,0cm]
-#[d,0cm]<GUESSERd0cm>:                   [d,0cm]:                       /([a-zʼ\̈\̀\̨])+/[d,0cm]
-#[l,0cm]<GUESSERl0cm>:                   [l,0cm]:                       /([a-zʼ\̈\̀\̨])+/[l,0cm]
-#[ł,0cm]<GUESSERł0cm>:                   [ł,0cm]:                       /([a-zʼ\̈\̀\̨])+/[ł,0cm]
+[0cl,0cm]:            [0cl,0cm]<GUESSER0cl0cm>:           [0cl,0cm]:                   /([a-zʼ\̈\̀\̨])+/[0cl,0cm]   # Use/Guesser
+[d,0cm]:              [d,0cm]<GUESSERd0cm>:               [d,0cm]:                     /([a-zʼ\̈\̀\̨])+/[d,0cm]     # Use/Guesser
+[l,0cm]:              [l,0cm]<GUESSERl0cm>:               [l,0cm]:                     /([a-zʼ\̈\̀\̨])+/[l,0cm]     # Use/Guesser
+[ł,0cm]:              [ł,0cm]<GUESSERł0cm>:               [ł,0cm]:                     /([a-zʼ\̈\̀\̨])+/[ł,0cm]     # Use/Guesser
 
 
 
