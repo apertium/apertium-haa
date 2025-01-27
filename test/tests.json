@@ -1,7 +1,7 @@
 {
     "analysis": {
         "input": "analysis-input.txt" ,
-        "mode": "haa-disam"
+        "mode": "haa-morph"
     },
     "make-gen":{
         "input" : "makegeneration-input.txt",
@@ -18,6 +18,6 @@
 
     "bark-analysis":{
         "input": "bark-input.txt",
-        "mode": "haa-disam"
+        "mode": "haa-morph"
     }
 }
