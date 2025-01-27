@@ -15,6 +15,10 @@
    ! allow either order of ogonek and grave
 	.o. [ ?* [  ̨  ̀    (->)  ̀  ̨  ] ?* ]
 
+   ! allow unaccented characters for accented characters
+	.o. [ ?* [  ̀   (->) 0 ] ?* ]
+
+
    ! accept already composed unicode character versions of character + diacritic
 	.o. [ ?* [ i  ̨ (->) į ] ?* ]
 	.o. [ ?* [ a  ̨ (->) ą ] ?* ]
