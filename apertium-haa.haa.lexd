@@ -185,6 +185,9 @@ PATTERN Verbs-Iv
 
 LEXICON VerbStem-Tv(4) 
 
+#CURRENT ORDER OF COLUMNS
+
+#disjunct                               directive                    theme                        stem
 [l,impf,0cm]:nä>                         [l,impf,0cm]:                [l,impf,0cm]:                nä’aww:’àww[l,impf,0cm] #eat
 [ł,impf,0cm]:                           [ł,impf,0cm]:                [ł,impf,0cm]:n>              nohʼįį:ʼįį[ł,impf,0cm] #see
 [ł,impf,0cm]:                           [ł,impf,0cm]:                [ł,impf,0cm]:n>              nohʼįį:ʼįh[ł,impf,0cm] # Dir/LR
