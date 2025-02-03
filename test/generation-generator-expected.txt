@@ -10,7 +10,7 @@
 [/0qJQevGZdSzn]
 [1-AHV3wTiXAx#0] nitrʼënähʼį̀ʼ
 [/1-AHV3wTiXAx]
-[1cuTb-IXLTDX#0] wtrʼënähʼį̀ʼ/wëtrʼënähʼį̀ʼ
+[1cuTb-IXLTDX#0] wëtrʼënähʼį̀ʼ
 [/1cuTb-IXLTDX]
 [2MZTLsPLbP3m#0] nnähʼįį
 [/2MZTLsPLbP3m]
@@ -30,7 +30,7 @@
 [/6rtsV-Plw2YO]
 [7GDLcFCsGzbw#0] shëtrʼënähʼį̀ʼ
 [/7GDLcFCsGzbw]
-[7GY9VAnwEYJV#0] hëwnohʼįį/hëwënohʼįį
+[7GY9VAnwEYJV#0] hëwënohʼįį
 [/7GY9VAnwEYJV]
 [7LT2v-8tFpsr#0] ninökʼįį
 [/7LT2v-8tFpsr]
@@ -38,13 +38,13 @@
 [/9Xseb9ORUSbE]
 [AUzCLHnLondS#0] ninähʼį̀ʼ
 [/AUzCLHnLondS]
-[BNxppETtddj7#0] wnökʼį̀ʼ/wënökʼį̀ʼ
+[BNxppETtddj7#0] wënökʼį̀ʼ
 [/BNxppETtddj7]
 [BWQOcbi-3ZNH#0] hëhunähʼį̀ʼ
 [/BWQOcbi-3ZNH]
 [CgpdTt7GBxUL#0] hunohʼįį
 [/CgpdTt7GBxUL]
-[CpELHLOtHH3S#0] hëwnähʼį̀ʼ/hëwënähʼį̀ʼ
+[CpELHLOtHH3S#0] hëwënähʼį̀ʼ
 [/CpELHLOtHH3S]
 [DUtOWurHpPO5#0] ntrʼënohʼįį
 [/DUtOWurHpPO5]
@@ -62,21 +62,21 @@
 [/M5RDlrQbdgY3]
 [MaxDwCSsFzH4#0] hëninähʼį̀ʼ
 [/MaxDwCSsFzH4]
-[NsPo-h-jWEwx#0] wtrʼënohʼįį/wëtrʼënohʼįį
+[NsPo-h-jWEwx#0] wëtrʼënohʼįį
 [/NsPo-h-jWEwx]
 [OKdu6lUisd8b#0] nnähʼį̀ʼ
 [/OKdu6lUisd8b]
-[OfrxBSxOobZU#0] wnähʼįį/wënähʼįį
+[OfrxBSxOobZU#0] wënähʼįį
 [/OfrxBSxOobZU]
-[PT6-XXWrL6BZ#0] wną̈hʼįį/wëną̈hʼįį
+[PT6-XXWrL6BZ#0] wëną̈hʼįį
 [/PT6-XXWrL6BZ]
 [RAnk01xGpQ7T#0] khwënähʼį̀ʼ
 [/RAnk01xGpQ7T]
 [SC39R3rBlZBs#0] nnähʼį̀ʼ
 [/SC39R3rBlZBs]
-[T-oyERk225S5#0] wnähʼį̀ʼ/wënähʼį̀ʼ
+[T-oyERk225S5#0] wënähʼį̀ʼ
 [/T-oyERk225S5]
-[TgqQTyqx_wpH#0] wnökʼįį/wënökʼįį
+[TgqQTyqx_wpH#0] wënökʼįį
 [/TgqQTyqx_wpH]
 [VHnYWXXc_BkK#0] khwëtrʼënohʼįį
 [/VHnYWXXc_BkK]
@@ -100,7 +100,7 @@
 [/iBMKFWE3vxRr]
 [ju7q1U6L5aIk#0] hunähʼį̀ʼ
 [/ju7q1U6L5aIk]
-[lHTfYGOoIwqp#0] wnähʼį̀ʼ/wënähʼį̀ʼ
+[lHTfYGOoIwqp#0] wënähʼį̀ʼ
 [/lHTfYGOoIwqp]
 [maJsNrpAcqSL#0] shënähʼį̀ʼ
 [/maJsNrpAcqSL]
