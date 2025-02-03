@@ -250,16 +250,15 @@ LEXICON VerbStem-Tv(5)
 [l,perf,dh]:                            [l,perf,dh]:                [l,perf,dh]:                    [l,perf,dh]:                 nozrèe:zrèʼ[l,perf,dh]
 
 #working guessers TV
-[0cl,0cm]:          [0cl,0cm]<GUESSER_0cl_0cm>:              [0cl,0cm]: [0cl,0cm]:                     /([a-zʼ\̈\̀\̨])+/[0cl,0cm]    # Use/Guesser
-[d,0cm]:            [d,0cm]<GUESSER_d_0cm>:                  [d,0cm]: [d,0cm]:                       /([a-zʼ\̈\̀\̨])+/[d,0cm]      # Use/Guesser
-[l,0cm]:            [l,0cm]<GUESSER_l_0cm>:                  [l,0cm]:  [l,0cm]:                       /([a-zʼ\̈\̀\̨])+/[l,0cm]      # Use/Guesser
-[ł,0cm]:            [ł,0cm]<GUESSER_ł_0cm>:                  [ł,0cm]: [ł,0cm]:                       /([a-zʼ\̈\̀\̨])+/[ł,0cm]      # Use/Guesser
+[0cl,0cm]:          [0cl,0cm]<GUESSER_0cl_0cm>:              [0cl,0cm]:     [0cl,0cm]:                     /([a-zʼ\̈\̀\̨])+/[0cl,0cm]    # Use/Guesser
+[d,0cm]:            [d,0cm]<GUESSER_d_0cm>:                  [d,0cm]:       [d,0cm]:                       /([a-zʼ\̈\̀\̨])+/[d,0cm]      # Use/Guesser
+[l,0cm]:            [l,0cm]<GUESSER_l_0cm>:                  [l,0cm]:       [l,0cm]:                       /([a-zʼ\̈\̀\̨])+/[l,0cm]      # Use/Guesser
+[ł,0cm]:            [ł,0cm]<GUESSER_ł_0cm>:                  [ł,0cm]:       [ł,0cm]:                       /([a-zʼ\̈\̀\̨])+/[ł,0cm]      # Use/Guesser
 
-[0cl,0cm]:             [0cl,0cm]<GUESSER_0cl_0cm_nthm>:         [0cl,0cm]: [0cl,0cm]:n>                   /([a-zʼ\̈\̀\̨])+/[0cl,0cm]    # Use/Guesser
-[d,0cm]:            [d,0cm]<GUESSER_d_0cm_nthm>:             [d,0cm]: [d,0cm]:n>                     /([a-zʼ\̈\̀\̨])+/[d,0cm]      # Use/Guesser
-[l,0cm]:            [l,0cm]<GUESSER_l_0cm_nthm>:              [l,0cm]: [l,0cm]:n>                     /([a-zʼ\̈\̀\̨])+/[l,0cm]      # Use/Guesser
-[ł,0cm]:            [ł,0cm]<GUESSER_ł_0cm_nthm>:             [ł,0cm]: [ł,0cm]:n>                     /([a-zʼ\̈\̀\̨])+/[ł,0cm]      # Use/Guesser
-#clean up later
+[0cl,0cm]:          [0cl,0cm]<GUESSER_0cl_0cm_nthm>:         [0cl,0cm]:     [0cl,0cm]:n>                   /([a-zʼ\̈\̀\̨])+/[0cl,0cm]    # Use/Guesser
+[d,0cm]:            [d,0cm]<GUESSER_d_0cm_nthm>:             [d,0cm]:       [d,0cm]:n>                     /([a-zʼ\̈\̀\̨])+/[d,0cm]      # Use/Guesser
+[l,0cm]:            [l,0cm]<GUESSER_l_0cm_nthm>:             [l,0cm]:       [l,0cm]:n>                     /([a-zʼ\̈\̀\̨])+/[l,0cm]      # Use/Guesser
+[ł,0cm]:            [ł,0cm]<GUESSER_ł_0cm_nthm>:             [ł,0cm]:       [ł,0cm]:n>                     /([a-zʼ\̈\̀\̨])+/[ł,0cm]      # Use/Guesser
 
 
 #PROBLEM1: how to make guessed forms less likely than forms already in Transducer
@@ -295,10 +294,10 @@ LEXICON VerbStem-Iv(5)
 # [x,impf,0cm]:              [x,impf,0cm]:                ëtröö:tröö[x,impf,0cm] #cryweep1 #not sure about verb’s base (x)
 
 #working guessers IV 
-[0cl,0cm]:            [0cl,0cm]<GUESSER0cl0cm>:          [0cl,0cm]: [0cl,0cm]:                   /([a-zʼ\̈\̀\̨])+/[0cl,0cm]   # Use/Guesser
-[d,0cm]:              [d,0cm]<GUESSERd0cm>:              [d,0cm]: [d,0cm]:                     /([a-zʼ\̈\̀\̨])+/[d,0cm]     # Use/Guesser
-[l,0cm]:              [l,0cm]<GUESSERl0cm>:              [l,0cm]: [l,0cm]:                     /([a-zʼ\̈\̀\̨])+/[l,0cm]     # Use/Guesser
-[ł,0cm]:              [ł,0cm]<GUESSERł0cm>:              [ł,0cm]: [ł,0cm]:                     /([a-zʼ\̈\̀\̨])+/[ł,0cm]     # Use/Guesser
+[0cl,0cm]:            [0cl,0cm]<GUESSER0cl0cm>:          [0cl,0cm]:     [0cl,0cm]:                   /([a-zʼ\̈\̀\̨])+/[0cl,0cm]   # Use/Guesser
+[d,0cm]:              [d,0cm]<GUESSERd0cm>:              [d,0cm]:       [d,0cm]:                     /([a-zʼ\̈\̀\̨])+/[d,0cm]     # Use/Guesser
+[l,0cm]:              [l,0cm]<GUESSERl0cm>:              [l,0cm]:       [l,0cm]:                     /([a-zʼ\̈\̀\̨])+/[l,0cm]     # Use/Guesser
+[ł,0cm]:              [ł,0cm]<GUESSERł0cm>:              [ł,0cm]:       [ł,0cm]:                     /([a-zʼ\̈\̀\̨])+/[ł,0cm]     # Use/Guesser
 
 
 
@@ -570,7 +569,7 @@ LEXICON object(3)
 [3Ssub]:y{E}{¨}>     :       [3Ssub]<o_3sg>:               #The 3Ssub filter helps condition which 3sg object form appears
 [3Ssub]:y>           :       [3Ssub]<o_3sg>: # Dir/LR
 [non3Ssub]:w{E}{¨}>  :       [non3Ssub]<o_3sg>:
-[non3Ssub]:w>        :       [non3Ssub]<o_3sg>:
+[non3Ssub]:w>        :       [non3Ssub]<o_3sg>: # Dir/LR
 :hu>                 :       <o_3pl>:
 :                    :jë>    <refl>:    #maura checking on schwa deletion here, should we make a separate lexicon for reflexive
 
