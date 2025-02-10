@@ -22,7 +22,7 @@
     },
 
     "hunt-around2-analysis":{
-        "input": "hunt-around-input.txt",
+        "input": "hunt-around2-input.txt",
         "mode": "haa-morph"
     }
 }
