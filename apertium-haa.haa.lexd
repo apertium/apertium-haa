@@ -189,14 +189,14 @@ LEXICON VerbStem-Tv(5)
 #disjunct                               directive                   gender/qualifier                theme                        stem
 
 
-# [l,impf,0cm]:                           [l,impf,0cm]:               [l,impf,0cm]:                   [l,impf,0cm]:                nënä̀tąyy:tąyy[l,impf,0cm] #visit, keep visiting 
-[l,perf,dh]:nä>                         [l,perf,dh]:                [l,perf,dh]:                    [l,perf,dh]:                 nädhozrèe:ozrèe[l,perf,dh] #hunt around 2 #nä - iterative prefix
+# [l,impf,0cm]:                           [l,impf,0cm]:               [l,impf,0cm]:                   [l,impf,0cm]:                nënä̀tąyy:tąyy[l,impf,0cm] #visit, keep visiting  
+[l,perf,dh]:nä>                         [l,perf,dh]:                [l,perf,dh]:                    [l,perf,dh]:                 nädhozrèe:ozrèe[l,perf,dh] #hunt around
 # [0cl,perf,dh]:                          [0cl,perf,dh]:              [0cl,perf,dh]:                  [0cl,perf,dh]:               ä’netl’ǫǫ:tl’ǫǫ[0cl,perf,dh] #tie, sew #not completely confident on lemma or prefixes
 # [0cl,impf,0cm]:                         [0cl,impf,0cm]:             [0cl,impf,0cm]:                 [0cl,impf,0cm]:              ä̀htyënètl’ùt:[0cl,impf,0cm] #tie, sew 
 [ł,impf,0cm]:                           [ł,impf,0cm]:               [ł,impf,0cm]:j{E}{¨}>           [ł,impf,0cm]:                jënohtlòt:nohtlòt[ł,impf,0cm] #boil liquid caus.
-[l,impf,0cm]:nä>                        [l,impf,0cm]:               [l,impf,0cm]:                   [l,impf,0cm]:                nä’aww:’àww[l,impf,0cm] #eat
-[ł,impf,0cm]:                           [ł,impf,0cm]:               [ł,impf,0cm]:                   [ł,impf,0cm]:n>              nohʼįį:ʼįį[ł,impf,0cm] #see
-[ł,impf,0cm]:                           [ł,impf,0cm]:               [ł,impf,0cm]:                   [ł,impf,0cm]:n>              nohʼįį:ʼįh[ł,impf,0cm] # Dir/LR
+[l,impf,0cm]:nä>                        [l,impf,0cm]:               [l,impf,0cm]:                   [l,impf,0cm]:                nä’aww:’àww[l,impf,0cm] # "eat" Lemma/3sg-impf
+[ł,impf,0cm]:                           [ł,impf,0cm]:               [ł,impf,0cm]:                   [ł,impf,0cm]:n>              nohʼįį:ʼįį[ł,impf,0cm] # "see" Lemma/3sg-impf
+[ł,impf,0cm]:                           [ł,impf,0cm]:               [ł,impf,0cm]:                   [ł,impf,0cm]:n>              nohʼįį:ʼįh[ł,impf,0cm] # "see" Lemma/3sg-impf Dir/LR
 [ł,perf,n]:                             [ł,perf,n]:                 [ł,perf,n]:                     [ł,perf,n]:n>                nohʼįį:ʼį̀ʼ[ł,perf,n]
 [ł,perf,n]:                             [ł,perf,n]:                 [ł,perf,n]:                     [ł,perf,n]:n>                nohʼįį:ʼį[ł,perf,n] # Dir/LR
 [ł,fut,0cm]:                            [ł,fut,0cm]:                [ł,fut,0cm]:                    [ł,fut,0cm]:n>               nohʼįį:ʼį̀ww[ł,fut,0cm]
@@ -634,7 +634,6 @@ nnenn:nnenn     # "over"   #what is the distinciton between these two? - RB
 tsʼänn:tsʼänn   # "from, away from"
 kʼämën:kʼämën   # "around"
 nä̀zheyy:nä̀zheyy # "down, below, under"
-hǫkayy:hǫkayy   # "delicious"  FIXME: is this a preposition?
 
 
 
@@ -659,7 +658,7 @@ dhëchʼee:dhëchʼee # "fried"
 tʼäww:tʼäww       # "red, raw"
 tʼöö:tʼöö         # "cooked"
 ghörr:ghörr       # "round"
-
+hǫkayy:hǫkayy   # "delicious"
 
 
 LEXICON Determiners(2)
