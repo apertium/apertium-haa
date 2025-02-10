@@ -19,5 +19,10 @@
     "bark-analysis":{
         "input": "bark-input.txt",
         "mode": "haa-morph"
+    },
+
+    "hunt-around2-analysis":{
+        "input": "hunt-around-input.txt",
+        "mode": "haa-morph"
     }
 }
