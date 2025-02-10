@@ -24,5 +24,10 @@
     "hunt-around2-analysis":{
         "input": "hunt-around2-input.txt",
         "mode": "haa-morph"
+    },
+
+    "keep-visiting-analysis":{
+        "input": "keep-visitng-input.txt",
+        "mode": "haa-morph"
     }
 }
