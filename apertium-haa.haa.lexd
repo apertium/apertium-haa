@@ -710,23 +710,23 @@ in:in      <plural>:    #pluralizer
 LEXICON NounRoot[bare,possessed]
 # root                                                      gloss                           bare?       +poss?      commands    comments
 
-äjee:äjee[-bare]                                            # "older sister"                            possessed 
-ajee\ tthit:ajee\ tthit[-bare]                              # "oldest sister"                           possessed 
-äk’ayy:äk’ayy[-bare]                                        # "aunt"                                    possessed 
-chà’:chà’[-bare]                                            # "father"                                  possessed
-choo:choo[-bare]                                            # "younger brother"                         possessed
-chòo\ hąyts’änn:chòo\ hąts’änn[-bare]                       # "youngest brother"                        possessed
-e’ee:e’ee[-bare]                                            # "uncle"                                   possessed
-gaa:gaa[-bare]                                              # "child"                                   possessed
-jaa:jaa[-bare]                                              # "friend"                                  possessed
-jèww:jèww[-bare]                                            # "younger sister"                          possessed
-jèww\ hąyts’änn:jèww\ hąyts’änn[-bare]                      # "youngest sister"                         possessed
-nąą:nąą[-bare]                                              # "mother"                                  possessed 
-ondayy:ondayy[-bare]                                        # "older brother"                           possessed 
-ondayy\ tthit:ondayy\ tthit[-bare]                          # "oldest brother"                          possessed 
-tseyy:tseyy[-bare]                                          # "grandfather"                             possessed 
-tsǫǫ:tsǫǫ[-bare]                                            # "grandmother"                             possessed 
-zhoh\ k’öö:zhoh\ k’öö[-bare]                                # "family"                                  possessed
+äjee:äjee[-bare]                                            # "older sister"                =           possessed 
+ajee\ tthit:ajee\ tthit[-bare]                              # "oldest sister"               =           possessed 
+äk’ayy:äk’ayy[-bare]                                        # "aunt"                        =           possessed 
+chà’:chà’[-bare]                                            # "father"                      =           possessed
+choo:choo[-bare]                                            # "younger brother"             =           possessed
+chòo\ hąyts’änn:chòo\ hąts’änn[-bare]                       # "youngest brother"            =           possessed
+e’ee:e’ee[-bare]                                            # "uncle"                       =           possessed
+gaa:gaa[-bare]                                              # "child"                       =           possessed
+jaa:jaa[-bare]                                              # "friend"                      =           possessed
+jèww:jèww[-bare]                                            # "younger sister"              =           possessed
+jèww\ hąyts’änn:jèww\ hąyts’änn[-bare]                      # "youngest sister"             =           possessed
+nąą:nąą[-bare]                                              # "mother"                      =           possessed 
+ondayy:ondayy[-bare]                                        # "older brother"               =           possessed 
+ondayy\ tthit:ondayy\ tthit[-bare]                          # "oldest brother"              =           possessed 
+tseyy:tseyy[-bare]                                          # "grandfather"                 =           possessed 
+tsǫǫ:tsǫǫ[-bare]                                            # "grandmother"                 =           possessed 
+zhoh\ k’öö:zhoh\ k’öö[-bare]                                # "family"                      -           possessed
 chaww:chaww                                                 # "three"                       bare        possessed
 dą̈̀htl’ah:dą̈̀htl’ah                                           # "paper"                       bare        possessed                New dictionary refers to this as "bills" and "book" and "credit" and "debt" and 2 other def.s(pg34), how to best proceed? -RB
 ddhäw:ddhäw                                                 # "mountain"                    bare        possessed
@@ -783,8 +783,8 @@ tloo:tloo                                                   # "salve"           
 känträn:känträn                                             # "slipper, moccasin"           bare        possessed
 naä̀ghayy:nä̀ghayy                                            # "frog"                        bare        possessed
 khaytsʼą̈̀ʼ:khaytsʼą̈̀ʼ                                         # "autumn"                      bare        possessed
-łą̌yy:łą̌yy[-possessed]                                       # "dog bare form"               bare        possessed
-łą̌yy:lìngʼ[-bare]                                           # "dog possessed form"          bare        possessed
+łą̌yy:łą̌yy[-possessed]                                       # "dog"                         bare        -
+łą̌yy:lìngʼ[-bare]                                           # "dog"                         -           possessed
 kʼàyʼ:kʼàyʼ                                                 # "willow"                      bare        possessed
 tʼëgaa:tʼëgaa                                               # "girl"                        bare        possessed
 tsʼoo:tsʼoo                                                 # "spruce tree"                 bare        possessed
@@ -842,61 +842,62 @@ wëkayy\ däʼdrètthit:wëkayy\ däʼdrètthit                     # "cha
 
 
 # New Dictionary - Section D -d
-#noun
-dä̀’ä̀lann\ ch’į’àa’:dä̀’ä̀lann\ ch’į’àa’                       #stone axe
-dä̀baww:dä̀baww                                               #door
-dä̀baww\ tthì’:dä̀baww\ tthì’                                 #door knob
-dä̀baww\ tthè’:dä̀baww\ tthè’                                 #Dir/LR
-däbä̀ww’:däbä̀ww’                                             #lips
-dä̀’ëlànn:dä̀’ëlànn                                           #old timer
-dä̀’ë̀lenn:dä̀’ë̀lenn                                           #Dir/LR # FIXME: Dir/LR entries should have the same left side as the primary entry
-däghà:däghà                                                 #whiskers
-däghä̀nn’:däghä̀nn’                                           #rib cage
-dähdräw:dähdräw                                             #cache
-dähk’et:dähk’et                                             #bed 
-dähk’èt:dähk’èt                                             #Dir/LR # FIXME: Dir/LR entries should have the same left side as the primary entry
-dähmènn’:dähmènn’                                           #baby swing 
-dähsroo:dähsroo                                             #canvas
-dähsroo:dähsroo                                             #towel
-dähsroo\ tr’ey:dähsroo\ tr’ey                               #canvas canoe
-dähsroo\ tsöll:dähsroo\ tsöll                               #wash rag
-Dä̀htl’ah\ Choo:Dä̀htl’ah\ Choo                               #Bible
-dähtsaa:dähtsaa                                             #rack cache
-dähtsah:dähtsah                                             #Dir/LR # FIXME: Dir/LR entries should have the same left side as the primary entry
-dahzhää’:dahzhää’                                           #snow on branches
-dähzhrùu’:dähzhrùu’                                         #roof
-dä’idhoo:dä’idhoo                                           #scraper for skin (stone)
-dä̀’idhoo:dä̀’idhoo                                           #Dir/LR # FIXME: Dir/LR entries should have the same left side as the primary entry
-däk’aww:däk’aww                                             #rock ptarmigan
-dänoją̀’\ jëjee\ įh:dänoją̀’\ jëjee\ įh                       #people of long ago
-dänoją̀’\ jëjee\ ęh:dänoją̀’\ jëjee\ ęh                       #Dir/LR # FIXME: Dir/LR entries should have the same left side as the primary entry
-Dänzhìt\ hwëch’inn:Dänzhìt\ hwëch’inn                       #Circle City People # FIXME: is this not compositional?  if so, it should probably be a proper noun and a common noun
-Dänzhèt\ hwëch’enn:Dänzhèt\ hwëch’enn                       #Dir/LR # FIXME: Dir/LR entries should have the same left side as the primary entry
-dä̀tleh:dä̀tleh                                               #soap
-dä̀tlèh:dä̀tlèh                                               #Dir/LR # FIXME: Dir/LR entries should have the same left side as the primary entry
-dä̀tleh\ tth’àk\ choo:dä̀tleh\ tth’àk\ choo                   #wash tub
-dät’ö̀h:dät’ö̀h                                               #white-fronted goose 
-dats’enn:dats’enn                                           #humpback whitefish
-dą̈̀htl’ah\ chu’:dą̈̀htl’ah\ chu’                               #ink
-dą̈̀htl’ah\ tąy’:dą̈̀htl’ah\ tąy’                               #pen #also referred to as ’pencil’ (pg 34)
-dąyy:dąyy                                                   #late spring
-däw:däw                                                     #blood
-däw\ nghä̀w:däw\ nghä̀w                                       #blood clot 
-däww:däww                                                   #log splitter #again, has numerous definitions (pg 34)
-daydhoo:daydhoo                                             #scraper for skin (stone)
-dàydhoo:dàydhoo                                             #Dir/LR
-däzhìi’:däzhìi’                                             #breath
-däzhurr:däzhurr                                             #voice  #variant that I want to double check with someone - RB
-däzrąyy:däzrąyy                                             #spades (cards)
-ddhäw\ dächänn:ddhäw\ dächänn                               #foothills
-ddhäw\ dägorr:ddhäw\ dägorr                                 #mountain pass
-ddhäw\ däteyy:ddhäw\ däteyy                                 #Dir/LR #not sure about this one - RB  # FIXME: why is this Dir/LR?  There doesn't seem to be a primary entry
-ddhäw\ k’aww:ddhäw\ k’aww                                   #mountain ridge
-ddhäw\ t’òrr’:ddhäw\ t’òrr’                                 #bare mountain
-dëfą̀ą\ ek:dëfą̀ą\ ek                                         #shirt of mixed colors
-dä̀fąą\ ek:dä̀fąą\ ek                                         #Dir/LR # FIXME: Dir/LR entries should have the same left side as the primary entry
-dëfą̈̀ą̈\ el:dëfą̈̀ą̈\ ek                                         #Dir/LR     #again, not sure about this one, does this have to do with the usage being French? -RB 
-choo:choo[-bare]                                            #younger brother
+# root                                                      gloss                           bare?       +poss?      commands    comments
+
+dä̀’ä̀lann\ ch’į’àa’:dä̀’ä̀lann\ ch’į’àa’                       # "stone axe"                   bare        possessed
+dä̀baww:dä̀baww                                               # "door"                        bare        possessed
+dä̀baww\ tthì’:dä̀baww\ tthì’                                 # "door knob"                   bare        possessed
+dä̀baww\ tthè’:dä̀baww\ tthè’                                 # "door knob"                   bare        possessed   Dir/LR 
+däbä̀ww’:däbä̀ww’                                             # "lips"                        bare        possessed
+dä̀’ëlànn:dä̀’ëlànn                                           # "old timer"                   bare        possessed
+dä̀’ëlànn:dä̀’ë̀lenn                                           # "old tiemr"                   bare        possessed   Dir/LR
+däghà:däghà                                                 # "whiskers"                    bare        possessed
+däghä̀nn’:däghä̀nn’                                           # "rib cage"                    bare        possessed
+dähdräw:dähdräw                                             # "cache"                       bare        possessed
+dähk’et:dähk’et                                             # "bed"                         bare        possessed
+dähk’et:dähk’èt                                             # "bed"                         bare        possessed   Dir/LR
+dähmènn’:dähmènn’                                           # "baby swing"                  bare        possessed
+dähsroo:dähsroo                                             # "canvas"                      bare        possessed
+dähsroo:dähsroo                                             # "towel"                       bare        possessed
+dähsroo\ tr’ey:dähsroo\ tr’ey                               # "canvas canoe"                bare        possessed
+dähsroo\ tsöll:dähsroo\ tsöll                               # "wash rag"                    bare        possessed
+Dä̀htl’ah\ Choo:Dä̀htl’ah\ Choo                               # "Bible"                       bare        possessed
+dähtsaa:dähtsaa                                             # "rack cache"                  bare        possessed
+dähtsaa:dähtsah                                             # "rack cache"                  bare        possessed   Dir/LR
+dahzhää’:dahzhää’                                           # "snow on branches"            bare        possessed
+dähzhrùu’:dähzhrùu’                                         # "roof"                        bare        possessed
+dä’idhoo:dä’idhoo                                           # "scraper for skin (stone)"    bare        possessed
+dä’idhoo:dä̀’idhoo                                           # "scraper for skin (stone)     bare        possessed   Dir/LR
+däk’aww:däk’aww                                             # "rock ptarmigan"              bare        possessed
+dänoją̀’\ jëjee\ įh:dänoją̀’\ jëjee\ įh                       # "people of long ago"          bare        possessed
+dänoją̀’\ jëjee\ įh:dänoją̀’\ jëjee\ ęh                       # "people of long ago"          bare        possessed   Dir/LR
+Dänzhìt\ hwëch’inn:Dänzhìt\ hwëch’inn   ### move to Proper? # "Circle City People           bare        possessed # FIXME: is this not compositional?  if so, it should probably be a proper noun and a common noun
+Dänzhìt\ hwëch’inn:Dänzhèt\ hwëch’enn  ###                  # "Circle City People"          bare        possessed   Dir/LR
+dä̀tleh:dä̀tleh                                               # "soap"                        bare        possessed
+dä̀tleh:dä̀tlèh                                               # "soap"                        bare        possessed   Dir/LR
+dä̀tleh\ tth’àk\ choo:dä̀tleh\ tth’àk\ choo                   # "wash tub"                    bare        possessed
+dät’ö̀h:dät’ö̀h                                               # "white-fronted goose"         bare        possessed
+dats’enn:dats’enn                                           # "humpback whitefish"          bare        possessed
+dą̈̀htl’ah\ chu’:dą̈̀htl’ah\ chu’                               # "ink"                         bare        possessed
+dą̈̀htl’ah\ tąy’:dą̈̀htl’ah\ tąy’                               # "pen, pencil"                 bare        possessed
+dąyy:dąyy                                                   # "late spring"                 bare        possessed
+däw:däw                                                     # "blood"                       bare        possessed
+däw\ nghä̀w:däw\ nghä̀w                                       # "blood clot"                  bare        possessed
+däww:däww                                                   # "log splitter"                bare        possessed           #again, has numerous definitions (pg 34)
+daydhoo:daydhoo                                             # "scraper for skin (stone)"    bare        possessed
+dàydhoo:dàydhoo                                             # "scraper for skin (stone)"    bare        possessed   Dir/LR
+däzhìi’:däzhìi’                                             # "breath"                      bare        possessed
+däzhurr:däzhurr                                             # "voice"                       bare        possessed           #variant that I want to double check with someone - RB
+däzrąyy:däzrąyy                                             # "spades (cards)"              bare        possessed
+ddhäw\ dächänn:ddhäw\ dächänn                               # "foothills"                   bare        possessed
+ddhäw\ dägorr:ddhäw\ dägorr                                 # "mountain pass"               bare        possessed
+ddhäw\ däteyy:ddhäw\ däteyy      #####  definition? #####   # Dir/LR #not sure about this one - RB  # FIXME: why is this Dir/LR?  There doesn't seem to be a primary entry
+ddhäw\ k’aww:ddhäw\ k’aww                                   # "mountain ridge"              bare        possessed
+ddhäw\ t’òrr’:ddhäw\ t’òrr’                                 # "bare mountain"               bare        possessed
+dëfą̀ą\ ek:dëfą̀ą\ ek                                         # "shirt of mixed colors"       bare        possessed
+dëfą̀ą\ ek:dä̀fąą\ ek                                         # "shirt of mixed colors"       bare        possessed   Dir/LR
+dëfą̀ą\ ek:dëfą̈̀ą̈\ ek                                         # "shirt of mixed colors"       bare        possessed   Dir/LR     #again, not sure about this one, does this have to do with the usage being French? -RB 
+choo:choo[-bare]                                            # "younger brother"             bare        possessed
 
 
 LEXICON Pronoun(2)
