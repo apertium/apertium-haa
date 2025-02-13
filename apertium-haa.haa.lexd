@@ -627,7 +627,7 @@ tʼoo:tʼoo       <cnjcoo>:               # "but"
 
 
 LEXICON Prepositions
-# preposition    gloss           commands        comments
+# preposition    gloss          commands        comments
 
 haa:haa         # "for"
 hèe:hèe         # "with"
@@ -676,7 +676,7 @@ hǫkayy:hǫkayy       # "delicious"
 
 
 LEXICON Determiners(2)
-# determiner            pattern     gloss               commands    comments
+# determiner            tag         gloss               commands    comments
 
 eyy:eyy                  <dem>:     # "that"
 chʼèe:chʼèe              <ind>:     # "a"
@@ -684,7 +684,7 @@ hontlʼät:hontlʼät        <qnt>:     # "lots, a lot"
 
 
 LEXICON ProperNouns(2)
-# proper noun           pattern     comments          
+# proper noun           tag         comments          
 
 Didą̀ʼ:Didą̀ʼ             <ant>:      #RR grandchild
 Michael:Michael         <ant>:      #RR grandchild
@@ -872,7 +872,7 @@ däk’aww:däk’aww                                             # "rock ptar
 dänoją̀’\ jëjee\ įh:dänoją̀’\ jëjee\ įh                       # "people of long ago"          bare        possessed
 dänoją̀’\ jëjee\ įh:dänoją̀’\ jëjee\ ęh                       # "people of long ago"          bare        possessed   Dir/LR
 Dänzhìt\ hwëch’inn:Dänzhìt\ hwëch’inn   ### move to Proper? # "Circle City People           bare        possessed # FIXME: is this not compositional?  if so, it should probably be a proper noun and a common noun
-Dänzhìt\ hwëch’inn:Dänzhèt\ hwëch’enn  ###                  # "Circle City People"          bare        possessed   Dir/LR
+Dänzhìt\ hwëch’inn:Dänzhèt\ hwëch’enn  ###  move to Proper? # "Circle City People"          bare        possessed   Dir/LR
 dä̀tleh:dä̀tleh                                               # "soap"                        bare        possessed
 dä̀tleh:dä̀tlèh                                               # "soap"                        bare        possessed   Dir/LR
 dä̀tleh\ tth’àk\ choo:dä̀tleh\ tth’àk\ choo                   # "wash tub"                    bare        possessed
@@ -891,7 +891,7 @@ däzhurr:däzhurr                                             # "voice"       
 däzrąyy:däzrąyy                                             # "spades (cards)"              bare        possessed
 ddhäw\ dächänn:ddhäw\ dächänn                               # "foothills"                   bare        possessed
 ddhäw\ dägorr:ddhäw\ dägorr                                 # "mountain pass"               bare        possessed
-ddhäw\ däteyy:ddhäw\ däteyy      #####  definition? #####   # Dir/LR #not sure about this one - RB  # FIXME: why is this Dir/LR?  There doesn't seem to be a primary entry
+ddhäw\ däteyy:ddhäw\ däteyy ####  missing definition ####   # Dir/LR #not sure about this one - RB  # FIXME: why is this Dir/LR?  There doesn't seem to be a primary entry
 ddhäw\ k’aww:ddhäw\ k’aww                                   # "mountain ridge"              bare        possessed
 ddhäw\ t’òrr’:ddhäw\ t’òrr’                                 # "bare mountain"               bare        possessed
 dëfą̀ą\ ek:dëfą̀ą\ ek                                         # "shirt of mixed colors"       bare        possessed
@@ -901,24 +901,28 @@ choo:choo[-bare]                                            # "younger brother" 
 
 
 LEXICON Pronoun(2)
+# pronoun           tag                 gloss           commands
+
 jë:jë               <pers>:             # "his"
 hu:hu               <pers>:             # "their"
 jìi:jìi             <itg>:              # "what"
 
 
 LEXICON Adverbs 
-chąą:chąą                   #also, really, during, then
-łä̂ä:łä̂ä                     #really
-łą̈̂ą̈:łą̈̂ą̈                     #Dir/LR # FIXME: Dir/LR entries should have the same left side as the primary entry
-shö̀k:shö̀k                   #all the time
-hätèyy:hätèyy               #sometimes
-hätèe:hätèe                 #Dir/LR  # FIXME: Dir/LR entries should have the same left side as the primary entry
-tlʼaa:tlʼaa                 #down
+# adverb                    gloss                           commands
+
+chąą:chąą                   # "also, really, during, then"
+łä̂ä:łä̂ä                     # "really"
+łä̂ä:łą̈̂ą̈                     # "really"                      Dir/LR
+shö̀k:shö̀k                   # "all the time"
+hätèyy:hätèyy               # "sometimes"
+hätèyy:hätèe                # "sometimes"                   Dir/LR
+tlʼaa:tlʼaa                 # "down"
 wëzhèe:wëzhèe               # "during"  FIXME: CHECK
 
 
 LEXICON Numeral
-nä̀nkąyy:nä̀nkąyy             #two
+nä̀nkąyy:nä̀nkąyy             # "two"
 
 
 PATTERN Number
