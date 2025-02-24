@@ -1,0 +1,7 @@
+^udohkät<v><tv><dir><impf><s_3sg>$
+^udohkät<v><tv><dir><impf><s_1sg>$
+^udohkät<v><tv><dir><impf><s_2sg>$
+^udohkät<v><tv><dir><impf><s_3sg><o_3sg>$
+^udohkät<v><tv><dir><impf><s_1pl>$
+
+

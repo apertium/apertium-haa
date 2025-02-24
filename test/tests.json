@@ -7,6 +7,12 @@
         "input" : "makegeneration-input.txt",
         "mode": "haa-gener"
     },
+
+    "ask-gen":{
+        "input": "ask-generator-input.txt",
+        "mode": "haa-gener"
+    },
+
     "drink-gen":{
         "input" : "drinkgeneration-input.txt",
         "mode": "haa-gener"
