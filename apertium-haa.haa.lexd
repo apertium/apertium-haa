@@ -289,7 +289,7 @@ LEXICON VerbStem-Iv(5)
 [0cl,impf,0cm]:             [0cl,impf,0cm]:             [0cl,impf,0cm]:             [0cl,impf,0cm]:             ëkoo:koo[0cl,impf,0cm]              # "cough"                   Lemma ...etc.
 [0cl,impf,0cm]:             [0cl,impf,0cm]:             [0cl,impf,0cm]:             [0cl,impf,0cm]:             ëkoo:koh[0cl,impf,0cm]              # "cough"                   Lemma           Dir/LR
 
-[0cl,impf,0cm,sg]:          [0cl,impf,0cm,sg]:          [0cl,impf,0cm,sg]:          [0cl,impf,0cm,sg]:n>        nähaa:haa[0cl,impf,0cm,sg]          # "oComeArrive(sg)"        Lemma
+[0cl,impf,0cm,sg]:          [0cl,impf,0cm,sg]:          [0cl,impf,0cm,sg]:          [0cl,impf,0cm,sg]:n>        nähaa:haa[0cl,impf,0cm,sg]          # "GoComeArrive(sg)"        Lemma
 [0cl,perf,n,sg]:            [0cl,perf,n,sg]:            [0cl,perf,n,sg]:            [0cl,perf,n,sg]:n>          nähaa:zhaa[0cl,perf,n,sg]           # "GoComeArrive(sg)"        Lemma
 [0cl,fut,0cm,sg]:           [0cl,fut,0cm,sg]:           [0cl,fut,0cm,sg]:           [0cl,fut,0cm,sg]:n>         nähaa:haw[0cl,fut,0cm,sg]           # "GoComeArrive(sg)"        Lemma
 [0cl,impf,0cm,pl]:          [0cl,impf,0cm,pl]:          [0cl,impf,0cm,pl]:          [0cl,impf,0cm,pl]:n>        nähaa:jèww[0cl,impf,0cm,pl]         # "GoComeArrive(sg)"        Lemma   #no elicited forms in the impf
