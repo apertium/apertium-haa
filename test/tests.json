@@ -27,7 +27,7 @@
     },
 
     "keep-visiting-analysis":{
-        "input": "keep-visitng-input.txt",
+        "input": "keep-visiting-input.txt",
         "mode": "haa-morph"
     }
 }
