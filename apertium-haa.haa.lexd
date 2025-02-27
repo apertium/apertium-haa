@@ -240,18 +240,18 @@ LEXICON VerbStem-Tv(5)
 [l,impf,0cm]:               [l,impf,0cm]:               [l,impf,0cm]:               [l,impf,0cm]:n>             jënochèe:chèe[l,impf,0cm]           # "turn over"               Lemma/3sg-impf - missing jë prefix, what is it?
 [l,perf,dh]:                [l,perf,dh]:                [l,perf,dh]:                [l,perf,dh]:n>              jënochèe:chįį[l,perf,dh]            # "turn over"               Lemma/3sg-impf    1sg-impf is jënochèe --ANOturnOver1
 [l,fut,0cm]:                [l,fut,0cm]:                [l,fut,0cm]:                [l,fut,0cm]:n>              jënochèe:chew[l,fut,0cm]            # "turn over"               Lemma/3sg-impf
-[ł,impf,0cm]:               [ł,impf,0cm]:               [ł,impf,0cm]:               [ł,impf,0cm]:n>             nohsreww:{Z}reww[ł,impf,0cm]        # "comb"                    Lemma/3sg-impf
+[ł,impf,0cm]:               [ł,impf,0cm]:               [ł,impf,0cm]:               [ł,impf,0cm]:n>             nohsreww:{Z}reww[ł,impf,0cm]        # "comb"                    Lemma/3sg-impf    1sg-ipmf nöksreww (TM) or nöksrew (RR/EBU; 3sg lemma uses TM sole elicted 3sg form) --CombBrush1
 [ł,fut,0cm]:                [ł,fut,0cm]:                [ł,fut,0cm]:                [ł,fut,0cm]:n>              nohsreww:{Z}reww[ł,fut,0cm]         # "comb"                    Lemma/3sg-impf
 [ł,impf,0cm]:               [ł,impf,0cm]:               [ł,impf,0cm]:               [ł,impf,0cm]:n>             nohsreww:{Z}rew[ł,impf,0cm]         # "comb"                    Lemma/3sg-impf  Dir/LR
 [ł,fut,0cm]:                [ł,fut,0cm]:                [ł,fut,0cm]:                [ł,fut,0cm]:n>              nohsreww:{Z}rew[ł,fut,0cm]          # "comb"                    Lemma/3sg-impf
 ##[ł,perf,??]:                [ł,perf,??]:                [ł,perf,??]:                  [ł,perf,??]:n>            nohsreww:{Z}rew'[ł,perf,??]       # "comb"                    Lemma/3sg-impf not enough data to determine perfective conj marking
 [l,impf,0cm]:               [l,impf,0cm]:               [l,impf,0cm]:               [l,impf,0cm]:               chʼodzöö:odzöö[l,impf,0cm]          # "dance"                   Lemma/3sg-impf - missing ch' prefix
-[l,fut,0cm]:                [l,fut,0cm]:                [l,fut,0cm]:                [l,fut,0cm]:                chʼodzöö:odzöö[l,fut,0cm]           # "dance"                   Lemma/3sg-impf
+[l,fut,0cm]:                [l,fut,0cm]:                [l,fut,0cm]:                [l,fut,0cm]:                chʼodzöö:odzöö[l,fut,0cm]           # "dance"                   Lemma/3sg-impf    1sg-impf is chʼeydzöö --Dance
 [l,impf,0cm]:               [l,impf,0cm]:               [l,impf,0cm]:               [l,impf,0cm]:               chʼodzöö:odzöh[l,impf,0cm]          # "dance"                   Lemma/3sg-impf  Dir/LR
 [l,fut,0cm]:                [l,fut,0cm]:                [l,fut,0cm]:                [l,fut,0cm]:                chʼodzöö:odzöh[l,fut,0cm]           # "dance"                   Lemma/3sg-impf
 [l,perf,gh]:                [l,perf,gh]:                [l,perf,gh]:                [l,perf,gh]:                chʼodzöö:odzö̀ʼ[l,perf,gh]           # "dance"                   Lemma/3sg-impf
 [l,impf,0cm]:               [l,impf,0cm]:               [l,impf,0cm]:               [l,impf,0cm]:               nozrèe:zrèe[l,impf,0cm]             # "hunt around"             Lemma/3sg-impf - missing perambulative "nä"
-[l,fut,0cm]:                [l,fut,0cm]:                [l,fut,0cm]:                [l,fut,0cm]:                nozrèe:zrèe[l,fut,0cm]              # "hunt around"             Lemma/3sg-impf
+[l,fut,0cm]:                [l,fut,0cm]:                [l,fut,0cm]:                [l,fut,0cm]:                nozrèe:zrèe[l,fut,0cm]              # "hunt around"             Lemma/3sg-impf    1sg-impf is neyzrèe --HuntAround2
 [l,perf,dh]:                [l,perf,dh]:                [l,perf,dh]:                [l,perf,dh]:                nozrèe:zrèʼ[l,perf,dh]              # "hunt around"             Lemma/3sg-impf
 
 #working guessers TV
