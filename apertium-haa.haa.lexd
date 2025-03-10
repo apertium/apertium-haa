@@ -485,7 +485,7 @@ LEXICON subject(4)
 [l,perf,gh,non3Ssub,sg]:                [l,perf,gh,non3Ssub,sg]:                [l,perf,gh,non3Ssub,sg]:än>             [l,perf,gh,non3Ssub,sg]<s_2sg>:
 [l,perf,gh,non3Ssub,sg]:                [l,perf,gh,non3Ssub,sg]:                [l,perf,gh,non3Ssub,sg]:ą̈>              [l,perf,gh,non3Ssub,sg]<s_2sg>:         # Dir/LR
 [l,perf,gh,non3Ssub,pl]:                [l,perf,gh,non3Ssub,pl]:                [l,perf,gh,non3Ssub,pl]:ä>              [l,perf,gh,non3Ssub,pl]<s_2pl>:
-[l,perf,gh,3Ssub,sg]:                   [l,perf,gh,3Ssub,sg]:                   l,perf,gh,3Ssub,sg]:ä>                  [l,perf,gh,3Ssub,sg]<s_3sg>: 
+[l,perf,gh,3Ssub,sg]:                   [l,perf,gh,3Ssub,sg]:                   [l,perf,gh,3Ssub,sg]:ä>                 [l,perf,gh,3Ssub,sg]<s_3sg>: 
 [l,perf,gh,non3Ssub,pl]:h{E}{¨}>        [l,perf,gh,non3Ssub,pl]:                [l,perf,gh,non3Ssub,pl]:ä>              [l,perf,gh,non3Ssub,pl]<s_3pl>:
 
 [ł,incp,dh,non3Ssub,sg]:                [ł,incp,dh,non3Ssub,sg]:                [ł,incp,dh,non3Ssub,sg]:dhök>           [ł,incp,dh,non3Ssub,sg]<s_1sg>:
@@ -518,7 +518,7 @@ LEXICON subject(4)
 [d,fut,0cm,3Ssub,sg]:                   [d,fut,0cm,3Ssub,sg]:                   [d,fut,0cm,3Ssub,sg]:ay>                [d,fut,0cm,3Ssub,sg]<s_3sg>:
 [d,fut,0cm,non3Ssub,pl]:h{E}{¨}>        [d,fut,0cm,non3Ssub,pl]:                [d,fut,0cm,non3Ssub,pl]:ay>             [d,fut,0cm,non3Ssub,pl]<s_3pl>:
 
-[l,fut,0cm,non3Ssub,sg]:                l,fut,0cm,non3Ssub,sg]:                 [l,fut,0cm,non3Ssub,sg]:ey>             [l,fut,0cm,non3Ssub,sg]<s_1sg>:
+[l,fut,0cm,non3Ssub,sg]:                [l,fut,0cm,non3Ssub,sg]:                [l,fut,0cm,non3Ssub,sg]:ey>             [l,fut,0cm,non3Ssub,sg]<s_1sg>:
 [l,fut,0cm,non3Ssub,pl]:                [l,fut,0cm,non3Ssub,pl]:trʼ{E}{¨}>      [l,fut,0cm,non3Ssub,pl]:ä>              [l,fut,0cm,non3Ssub,pl]<s_1pl>:
 [l,fut,0cm,non3Ssub,sg]:                [l,fut,0cm,non3Ssub,sg]:                [l,fut,0cm,non3Ssub,sg]:än>             [l,fut,0cm,non3Ssub,sg]<s_2sg>: 
 [l,fut,0cm,non3Ssub,sg]:                [l,fut,0cm,non3Ssub,sg]:                [l,fut,0cm,non3Ssub,sg]:ą̈>              [l,fut,0cm,non3Ssub,sg]<s_2sg>:         # Dir/LR
