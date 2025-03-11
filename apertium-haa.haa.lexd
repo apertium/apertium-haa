@@ -169,7 +169,7 @@ PATTERN Verbs-Tv
 PATTERN Verbs-Iv
 #disjunctPref plSubj  object  deicticSubj  refl   directive   aspect  gender/qualifier     theme       conjMarker,subj,cl      stem
 # --        subject(1) --     subject(2) object(2)  directive   aspect(1)     VerbStem-Iv(3)    VerbStem-Iv(4)   subject(3)     VerbStem-Iv(5)
-           (subject(1) subject(2) object?(2)  :VerbStem-Iv(2) aspect(1)     VerbStem-Iv(3)  VerbStem-Iv(4)       subject(3)     VerbStem-Iv(5) [ <v><iv>: ] :aspect(2) subject(4) object?(3))[^[3Ssub,non3Ssub],^[impf,perf,incp,fut,opt],^[sg,pl],^[l,d,0cl,ł],^[0cm,dh,gh,n]]
+           (subject(1) subject(2) object-refl-only?(1)  :VerbStem-Iv(2) aspect(1)     VerbStem-Iv(3)  VerbStem-Iv(4)       subject(3)     VerbStem-Iv(5) [ <v><iv>: ] :aspect(2) subject(4) object-refl-only?(2))[^[3Ssub,non3Ssub],^[impf,perf,incp,fut,opt],^[sg,pl],^[l,d,0cl,ł],^[0cm,dh,gh,n]]
 
 
 
@@ -563,6 +563,8 @@ LEXICON subject(4)
 [l,opt,0cm,non3Ssub,pl]:h{E}{¨}>        [l,opt,0cm,non3Ssub,pl]:                [l,opt,0cm,non3Ssub,pl]:u>              [l,opt,0cm,non3Ssub,pl]<s_3pl>: 
 
 
+LEXICON object-refl-only(2)
+:jë>   <refl>:
 
 
 LEXICON object(3)
