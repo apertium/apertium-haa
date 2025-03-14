@@ -256,16 +256,16 @@ LEXICON VerbStem-Tv(5)
 
 #working guessers TV
 # FIXME: the 0cl,0cm guesser line makes the entire guesser not work
-[0cl,0cm]<GUESSER_0cl_0cm>:          [0cl,0cm]:              [0cl,0cm]:     [0cl,0cm]:                     /([a-zʼ\̈\̀\̨])+/[0cl,0cm]  # Use/Guesser
-[d,0cm]<GUESSER_d_0cm>:              [d,0cm]:                [d,0cm]:       [d,0cm]:                       /([a-zʼ\̈\̀\̨])+/[d,0cm]      # Use/Guesser
-[l,0cm]<GUESSER_l_0cm>:              [l,0cm]:                [l,0cm]:       [l,0cm]:                       /([a-zʼ\̈\̀\̨])+/[l,0cm]      # Use/Guesser
-[ł,0cm]<GUESSER_ł_0cm>:              [ł,0cm]:                [ł,0cm]:       [ł,0cm]:                       /([a-zʼ\̈\̀\̨])+/[ł,0cm]      # Use/Guesser
+[0cl,0cm]:          [0cl,0cm]<GUESSER_0cl_0cm>:              [0cl,0cm]:     [0cl,0cm]:                     /([a-zʼ\̈\̀\̨])+/[0cl,0cm]  # Use/Guesser
+[d,0cm]:            [d,0cm]<GUESSER_d_0cm>:                  [d,0cm]:       [d,0cm]:                       /([a-zʼ\̈\̀\̨])+/[d,0cm]      # Use/Guesser
+[l,0cm]:            [l,0cm]<GUESSER_l_0cm>:                  [l,0cm]:       [l,0cm]:                       /([a-zʼ\̈\̀\̨])+/[l,0cm]      # Use/Guesser
+[ł,0cm]:            [ł,0cm]<GUESSER_ł_0cm>:                  [ł,0cm]:       [ł,0cm]:                       /([a-zʼ\̈\̀\̨])+/[ł,0cm]      # Use/Guesser
 
 # FIXME: the following guesser lines also break things
-[0cl,0cm]<GUESSER_0cl_0cm_nthm>:          [0cl,0cm]:         [0cl,0cm]:     [0cl,0cm]:n>                   /([a-zʼ\̈\̀\̨])+/[0cl,0cm]    # Use/Guesser
-[d,0cm]<GUESSER_d_0cm_nthm>:              [d,0cm]:           [d,0cm]:       [d,0cm]:n>                     /([a-zʼ\̈\̀\̨])+/[d,0cm]      # Use/Guesser
-[l,0cm]<GUESSER_l_0cm_nthm>:              [l,0cm]:           [l,0cm]:       [l,0cm]:n>                     /([a-zʼ\̈\̀\̨])+/[l,0cm]      # Use/Guesser
-[ł,0cm]<GUESSER_ł_0cm_nthm>:              [ł,0cm]:           [ł,0cm]:       [ł,0cm]:n>                     /([a-zʼ\̈\̀\̨])+/[ł,0cm]      # Use/Guesser
+[0cl,0cm]:          [0cl,0cm]<GUESSER_0cl_0cm_nthm>:         [0cl,0cm]:     [0cl,0cm]:n>                   /([a-zʼ\̈\̀\̨])+/[0cl,0cm]    # Use/Guesser
+[d,0cm]:            [d,0cm]<GUESSER_d_0cm_nthm>:             [d,0cm]:       [d,0cm]:n>                     /([a-zʼ\̈\̀\̨])+/[d,0cm]      # Use/Guesser
+[l,0cm]:            [l,0cm]<GUESSER_l_0cm_nthm>:             [l,0cm]:       [l,0cm]:n>                     /([a-zʼ\̈\̀\̨])+/[l,0cm]      # Use/Guesser
+[ł,0cm]:            [ł,0cm]<GUESSER_ł_0cm_nthm>:             [ł,0cm]:       [ł,0cm]:n>                     /([a-zʼ\̈\̀\̨])+/[ł,0cm]      # Use/Guesser
 
 
 #PROBLEM1: how to make guessed forms less likely than forms already in Transducer
@@ -303,10 +303,10 @@ LEXICON VerbStem-Iv(5)
 # [x,impf,0cm]:              [x,impf,0cm]:                ëtröö:tröö[x,impf,0cm] #cryweep1 #not sure about verb’s base (x)
 
 #working guessers IV 
-[0cl,0cm]<GUESSER_0cl_0cm>:          [0cl,0cm]:            [0cl,0cm]:     [0cl,0cm]:                   /([a-zʼ\̈\̀\̨])+/[0cl,0cm]   # Use/Guesser
-[d,0cm]<GUESSER_d_0cm>:              [d,0cm]:              [d,0cm]:       [d,0cm]:                     /([a-zʼ\̈\̀\̨])+/[d,0cm]     # Use/Guesser
-[l,0cm]<GUESSER_l_0cm>:              [l,0cm]:              [l,0cm]:       [l,0cm]:                     /([a-zʼ\̈\̀\̨])+/[l,0cm]     # Use/Guesser
-[ł,0cm]<GUESSER_ł_0cm>:              [ł,0cm]:              [ł,0cm]:       [ł,0cm]:                     /([a-zʼ\̈\̀\̨])+/[ł,0cm]     # Use/Guesser
+[0cl,0cm]:          [0cl,0cm]<GUESSER_0cl_0cm>:            [0cl,0cm]:     [0cl,0cm]:                   /([a-zʼ\̈\̀\̨])+/[0cl,0cm]   # Use/Guesser
+[d,0cm]:            [d,0cm]<GUESSER_d_0cm>:                [d,0cm]:       [d,0cm]:                     /([a-zʼ\̈\̀\̨])+/[d,0cm]     # Use/Guesser
+[l,0cm]:            [l,0cm]<GUESSER_l_0cm>:                [l,0cm]:       [l,0cm]:                     /([a-zʼ\̈\̀\̨])+/[l,0cm]     # Use/Guesser
+[ł,0cm]:            [ł,0cm]<GUESSER_ł_0cm>:                [ł,0cm]:       [ł,0cm]:                     /([a-zʼ\̈\̀\̨])+/[ł,0cm]     # Use/Guesser
 
 
 
