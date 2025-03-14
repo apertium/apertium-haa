@@ -19,6 +19,13 @@
     </pipeline>
   </mode>
 
+  <mode name="haa-guess" install="yes">
+    <pipeline>
+      <program name="hfst-proc -w">
+        <file name="haa.autoguess.hfst"/>
+      </program>
+    </pipeline>
+  </mode>
 
   <mode name="haa-lexd" install="no">
     <pipeline>
