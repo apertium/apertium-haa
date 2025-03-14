@@ -15,9 +15,13 @@
    ! allow either order of ogonek and grave
 	.o. [ ?* [  ̨  ̀    (->)  ̀  ̨  ] ?* ]
 
-   ! allow unaccented characters for accented characters
-	.o. [ ?* [  ̀   (->) 0 ] ?* ]
-
+	! allow unaccented characters for accented characters
+	! .o. [ ?* [  ̀   (->) 0 ] ?* ]  ← This rule causes the guesser to malfunction
+	.o. [ ?* [ [ a [ ̀  |  ̨  | ̈  ]^<3 ] (->) a ] ?* ]
+	.o. [ ?* [ [ e [ ̀  |  ̨  | ̈  ]^<3 ] (->) e ] ?* ]
+	.o. [ ?* [ [ i [ ̀  |  ̨  | ̈  ]^<3 ] (->) i ] ?* ]
+	.o. [ ?* [ [ o [ ̀  |  ̨  | ̈  ]^<3 ̀] (->) o ] ?* ]
+	.o. [ ?* [ [ u [ ̀  |  ̨  | ̈  ]^<3 ] (->) u ] ?* ]
 
    ! accept already composed unicode character versions of character + diacritic
 	.o. [ ?* [ i  ̨ (->) į ] ?* ]
