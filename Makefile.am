@@ -78,11 +78,14 @@ $(LANG1).autogen.hfst: .deps/$(LANG1).RL.hfst
 .deps/$(LANG1).spellrelax.hfst: $(BASENAME).$(LANG1).spellrelax .deps/.d
 	hfst-regexp2fst -S -o $@ $<
 
+.deps/$(LANG1).spellrelax-guesser.hfst: $(BASENAME).$(LANG1).spellrelax .deps/.d
+	cat $< | grep -v 'Exclude/Guesser' | hfst-regexp2fst -S -o $@
+
 $(LANG1).automorf.hfst: .deps/$(LANG1).LR.hfst .deps/$(LANG1).spellrelax.hfst
 	hfst-compose -1 $< -2 .deps/$(LANG1).spellrelax.hfst | hfst-invert | hfst-fst2fst -O -o $@
 
-$(LANG1).autoguess.hfst: .deps/$(LANG1).LR-guesser.hfst .deps/$(LANG1).spellrelax.hfst
-	hfst-compose -1 $< -2 .deps/$(LANG1).spellrelax.hfst | hfst-invert | hfst-fst2fst -O -o $@
+$(LANG1).autoguess.hfst: .deps/$(LANG1).LR-guesser.hfst .deps/$(LANG1).spellrelax-guesser.hfst
+	hfst-compose -1 $< -2 .deps/$(LANG1).spellrelax-guesser.hfst | hfst-invert | hfst-fst2fst -O -o $@
 
 
 $(LANG1).autogen.att.gz: $(LANG1).autogen.hfst
