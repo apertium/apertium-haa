@@ -217,7 +217,7 @@ LEXICON VerbStem-Tv(5)
 [l,impf,0cm]:               [l,impf,0cm]:               [l,impf,0cm]:               [l,impf,0cm]:n>             nojät:jät[l,impf,0cm]               # "scare"                   Lemma/3sg-impf    1sg-impf neyjät --ScareScared1
 [l,fut,0cm]:                [l,fut,0cm]:                [l,fut,0cm]:                [l,fut,0cm]:n>              nojät:jät[l,fut,0cm]                # "scare"                   Lemma/3sg-impf
 [l,perf,0cm]:               [l,perf,0cm]:               [l,perf,0cm]:               [l,perf,0cm]:n>             nojät:jät[l,perf,n]                 # "scare"                   Lemma/3sg-impf
-[l,impf,fut,0cm]:           [l,impf,fut,0cm]:           [l,impf,fut,0cm]:           [l,impf,fut,0cm]:n>         nojöt:jöt[l,impf,fut,0cm]           # "scare"                   Lemma/3sg-impf  Dir/LR  FIXME: why does only this line have "nojöt" lemma?
+[l,impf,fut,0cm]:           [l,impf,fut,0cm]:           [l,impf,fut,0cm]:           [l,impf,fut,0cm]:n>         nojät:jöt[l,impf,fut,0cm]           # "scare"                   Lemma/3sg-impf  Dir/LR  
 [l,perf,gh]:                [l,perf,gh]:                [l,perf,gh]:                [l,perf,gh]:n>              nojät:jït[l,perf,gh]                # "scare"                   Lemma/3sg-impf  Dir/LR
 [l,perf,gh]:                [l,perf,gh]:                [l,perf,gh]:                [l,perf,gh]:n>              nojät:jö̀t[l,perf,gh]                # "scare"                   Lemma/3sg-impf  Dir/LR 
 [d,impf,0cm]:               [d,impf,0cm]:               [d,impf,0cm]:               [d,impf,0cm]:               jënąą:nąą[d,impf,0cm]               # "drink"                   Lemma/3sg-impf    1sg-impf is i(s)hnąą --Drink
