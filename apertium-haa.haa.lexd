@@ -205,7 +205,7 @@ LEXICON VerbStem-Tv(5)
 [ł,perf,n]:                 [ł,perf,n]:                 [ł,perf,n]:                 [ł,perf,n]:n>               nök-ʼįį:{-}ʼį̀ʼ[ł,perf,n]            # "see"                     Lemma/1sg-impf  Dir/LR
 [ł,perf,n]:                 [ł,perf,n]:                 [ł,perf,n]:                 [ł,perf,n]:n>               nök-ʼįį:{-}ʼį[ł,perf,n]             # "see"                     Lemma/1sg-impf  Dir/LR
 [ł,fut,0cm]:                [ł,fut,0cm]:                [ł,fut,0cm]:                [ł,fut,0cm]:n>              nök-ʼįį:{-}ʼį̀ww[ł,fut,0cm]          # "see"                     Lemma/1sg-impf  Dir/LR
-[0cl,impf,0cm]:             [0cl,impf,0cm]:             [0cl,impf,0cm]:             [0cl,impf,0cm]:             ihsrök:{Z}rök[0cl,impf,0cm]         # "yell" (YellA1)           Lemma/1sg-impf
+[0cl,impf,0cm]:             [0cl,impf,0cm]:             [0cl,impf,0cm]:             [0cl,impf,0cm]:             ihsrök:{Z}rök[0cl,impf,0cm]         # "yell" (YellA1)           Lemma/1sg-impf  NOTE: HanVerbRootLists says YELL impf root is zrö̀k / zräww?
 [0cl,perf,0cm]:             [0cl,perf,0cm]:             [0cl,perf,0cm]:             [0cl,perf,0cm]:             ihsrök:{Z}rök[0cl,perf,n]           # "yell"                    Lemma/1sg-impf
 [0cl,fut,0cm]:              [0cl,fut,0cm]:              [0cl,fut,0cm]:              [0cl,fut,0cm]:              ihsrök:{Z}rök[0cl,fut,0cm]          # "yell"                    Lemma/1sg-impf
 ## [0cl,incp,dh]:           [0cl,incp,dh]:              [0cl,incp,dh]:              [0cl,incp,dh]:              ihsrök:{Z}rök[0cl,incp,dh]          # "yell"                    Lemma/1sg-impf
@@ -214,12 +214,12 @@ LEXICON VerbStem-Tv(5)
 [0cl,impf,0cm]:             [0cl,impf,0cm]:             [0cl,impf,0cm]:             [0cl,impf,0cm]:             ihdlòo:dlòh[0cl,impf,0cm]           # "laugh"                   Lemma/1sg-impf  Dir/LR
 [0cl,fut,0cm]:              [0cl,fut,0cm]:              [0cl,fut,0cm]:              [0cl,fut,0cm]:              ihdlòo:dlòh[0cl,fut,0cm]            # "laugh"                   Lemma/1sg-impf  Dir/LR
 [0cl,perf,n]:               [0cl,perf,n]:               [0cl,perf,n]:               [0cl,perf,n]:               ihdlòo:dlòʼ[0cl,perf,n]             # "laugh"                   Lemma/1sg-impf
-[l,impf,0cm]:               [l,impf,0cm]:               [l,impf,0cm]:               [l,impf,0cm]:n>             nojät:jät[l,impf,0cm]               # "scare"                   Lemma/3sg-impf    1sg-impf neyjät --ScareScared1
-[l,fut,0cm]:                [l,fut,0cm]:                [l,fut,0cm]:                [l,fut,0cm]:n>              nojät:jät[l,fut,0cm]                # "scare"                   Lemma/3sg-impf
-[l,perf,0cm]:               [l,perf,0cm]:               [l,perf,0cm]:               [l,perf,0cm]:n>             nojät:jät[l,perf,n]                 # "scare"                   Lemma/3sg-impf
-[l,impf,fut,0cm]:           [l,impf,fut,0cm]:           [l,impf,fut,0cm]:           [l,impf,fut,0cm]:n>         nojät:jöt[l,impf,fut,0cm]           # "scare"                   Lemma/3sg-impf  Dir/LR  
-[l,perf,gh]:                [l,perf,gh]:                [l,perf,gh]:                [l,perf,gh]:n>              nojät:jït[l,perf,gh]                # "scare"                   Lemma/3sg-impf  Dir/LR
-[l,perf,gh]:                [l,perf,gh]:                [l,perf,gh]:                [l,perf,gh]:n>              nojät:jö̀t[l,perf,gh]                # "scare"                   Lemma/3sg-impf  Dir/LR 
+[l,impf,0cm]:               [l,impf,0cm]:               [l,impf,0cm]:               [l,impf,0cm]:n>             neyjät:jät[l,impf,0cm]              # "scare" (ScareScared1)    Lemma/1sg-impf
+[l,fut,0cm]:                [l,fut,0cm]:                [l,fut,0cm]:                [l,fut,0cm]:n>              neyjät:jät[l,fut,0cm]               # "scare"                   Lemma/1sg-impf
+[l,perf,0cm]:               [l,perf,0cm]:               [l,perf,0cm]:               [l,perf,0cm]:n>             neyjät:jät[l,perf,n]                # "scare"                   Lemma/1sg-impf
+[l,impf,fut,0cm]:           [l,impf,fut,0cm]:           [l,impf,fut,0cm]:           [l,impf,fut,0cm]:n>         neyjät:jöt[l,impf,fut,0cm]          # "scare"                   Lemma/1sg-impf  Dir/LR  
+[l,perf,gh]:                [l,perf,gh]:                [l,perf,gh]:                [l,perf,gh]:n>              neyjät:jït[l,perf,gh]               # "scare"                   Lemma/1sg-impf  Dir/LR
+[l,perf,gh]:                [l,perf,gh]:                [l,perf,gh]:                [l,perf,gh]:n>              neyjät:jö̀t[l,perf,gh]               # "scare"                   Lemma/1sg-impf  Dir/LR 
 [d,impf,0cm]:               [d,impf,0cm]:               [d,impf,0cm]:               [d,impf,0cm]:               jënąą:nąą[d,impf,0cm]               # "drink"                   Lemma/3sg-impf    1sg-impf is i(s)hnąą --Drink
 [d,perf,gh]:                [d,perf,gh]:                [d,perf,gh]:                [d,perf,gh]:                jënąą:nąʼ[d,perf,gh]                # "drink"                   Lemma/3sg-impf this can also be conjugated in the 0cl gh-perf
 ## [d,incp,dh]:             [d,incp,dh]:                [d,incp,dh]:                [d,incp,dh]:                jënąą:nąʼ[d,incp,dh]                # "drink"                   Lemma/3sg-impf
