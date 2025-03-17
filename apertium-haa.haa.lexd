@@ -195,25 +195,25 @@ LEXICON VerbStem-Tv(5)
 # [0cl,impf,0cm]:            [0cl,impf,0cm]:             [0cl,impf,0cm]:                 [0cl,impf,0cm]:          ä̀htyënètl’ùt:[0cl,impf,0cm]       # "tie, sew"                Lemma/3sg-impf
 [ł,impf,0cm]:               [ł,impf,0cm]:               [ł,impf,0cm]:j{E}{¨}>       [ł,impf,0cm]:               jënohtlòt:nohtlòt[ł,impf,0cm]       # "boil liquid caus."       Lemma/3sg-impf
 [l,impf,0cm]:nä>            [l,impf,0cm]:               [l,impf,0cm]:               [l,impf,0cm]:               nä’aww:’àww[l,impf,0cm]             # "eat"                     Lemma/3sg-impf
-[ł,impf,0cm]:               [ł,impf,0cm]:               [ł,impf,0cm]:               [ł,impf,0cm]:n>             nök-ʼįį:ʼįį[ł,impf,0cm]              # "see" (SeeA)             Lemma/1sg-impf 
-[ł,impf,0cm]:               [ł,impf,0cm]:               [ł,impf,0cm]:               [ł,impf,0cm]:n>             nök-ʼįį:ʼįh[ł,impf,0cm]              # "see"                    Lemma/1sg-impf  Dir/LR
-[ł,perf,n]:                 [ł,perf,n]:                 [ł,perf,n]:                 [ł,perf,n]:n>               nök-ʼįį:ʼį̀ʼ[ł,perf,n]                # "see"                    Lemma/1sg-impf
-[ł,perf,n]:                 [ł,perf,n]:                 [ł,perf,n]:                 [ł,perf,n]:n>               nök-ʼįį:ʼį[ł,perf,n]                 # "see                     Lemma/1sg-impf  Dir/LR
-[ł,fut,0cm]:                [ł,fut,0cm]:                [ł,fut,0cm]:                [ł,fut,0cm]:n>              nök-ʼįį:ʼį̀ww[ł,fut,0cm]              # "see"                    Lemma/1sg-impf
-[ł,impf,0cm]:               [ł,impf,0cm]:               [ł,impf,0cm]:               [ł,impf,0cm]:n>             nök-ʼįį:{-}ʼįį[ł,impf,0cm]           # "see"                    Lemma/1sg-impf  Dir/LR     
-[ł,impf,0cm]:               [ł,impf,0cm]:               [ł,impf,0cm]:               [ł,impf,0cm]:n>             nök-ʼįį:{-}ʼįh[ł,impf,0cm]           # "see"                    Lemma/1sg-impf  Dir/LR
-[ł,perf,n]:                 [ł,perf,n]:                 [ł,perf,n]:                 [ł,perf,n]:n>               nök-ʼįį:{-}ʼį̀ʼ[ł,perf,n]             # "see"                    Lemma/1sg-impf  Dir/LR
-[ł,perf,n]:                 [ł,perf,n]:                 [ł,perf,n]:                 [ł,perf,n]:n>               nök-ʼįį:{-}ʼį[ł,perf,n]              # "see"                    Lemma/1sg-impf  Dir/LR
-[ł,fut,0cm]:                [ł,fut,0cm]:                [ł,fut,0cm]:                [ł,fut,0cm]:n>              nök-ʼįį:{-}ʼį̀ww[ł,fut,0cm]           # "see"                    Lemma/1sg-impf  Dir/LR
-[0cl,impf,0cm]:             [0cl,impf,0cm]:             [0cl,impf,0cm]:             [0cl,impf,0cm]:             ihsrök:{Z}rök[0cl,impf,0cm]          # "yell" (YellA1)          Lemma/1sg-impf
-[0cl,perf,0cm]:             [0cl,perf,0cm]:             [0cl,perf,0cm]:             [0cl,perf,0cm]:             ihsrök:{Z}rök[0cl,perf,n]            # "yell"                   Lemma/1sg-impf
-[0cl,fut,0cm]:              [0cl,fut,0cm]:              [0cl,fut,0cm]:              [0cl,fut,0cm]:              ihsrök:{Z}rök[0cl,fut,0cm]           # "yell"                   Lemma/1sg-impf
-## [0cl,incp,dh]:           [0cl,incp,dh]:              [0cl,incp,dh]:              [0cl,incp,dh]:              ihsrök:{Z}rök[0cl,incp,dh]           # "yell"                   Lemma/1sg-impf
-[0cl,fut,0cm]:              [0cl,fut,0cm]:              [0cl,fut,0cm]:              [0cl,fut,0cm]:              ëdlòo:dlòo[0cl,fut,0cm]             # "laugh"                   Lemma/3sg-impf    1sg-impf is ihdlòo --Laugh
-[0cl,impf,0cm]:             [0cl,impf,0cm]:             [0cl,impf,0cm]:             [0cl,impf,0cm]:             ëdlòo:dlòo[0cl,impf,0cm]            # "laugh"                   Lemma/3sg-impf
-[0cl,impf,0cm]:             [0cl,impf,0cm]:             [0cl,impf,0cm]:             [0cl,impf,0cm]:             ëdlòo:dlòh[0cl,impf,0cm]            # "laugh"                   Lemma/3sg-impf  Dir/LR
-[0cl,fut,0cm]:              [0cl,fut,0cm]:              [0cl,fut,0cm]:              [0cl,fut,0cm]:              ëdlòo:dlòh[0cl,fut,0cm]             # "laugh"                   Lemma/3sg-impf  Dir/LR
-[0cl,perf,n]:               [0cl,perf,n]:               [0cl,perf,n]:               [0cl,perf,n]:               ëdlòo:dlòʼ[0cl,perf,n]              # "laugh"                   Lemma/3sg-impf
+[ł,impf,0cm]:               [ł,impf,0cm]:               [ł,impf,0cm]:               [ł,impf,0cm]:n>             nök-ʼįį:ʼįį[ł,impf,0cm]             # "see" (SeeA)              Lemma/1sg-impf 
+[ł,impf,0cm]:               [ł,impf,0cm]:               [ł,impf,0cm]:               [ł,impf,0cm]:n>             nök-ʼįį:ʼįh[ł,impf,0cm]             # "see"                     Lemma/1sg-impf  Dir/LR
+[ł,perf,n]:                 [ł,perf,n]:                 [ł,perf,n]:                 [ł,perf,n]:n>               nök-ʼįį:ʼį̀ʼ[ł,perf,n]               # "see"                     Lemma/1sg-impf
+[ł,perf,n]:                 [ł,perf,n]:                 [ł,perf,n]:                 [ł,perf,n]:n>               nök-ʼįį:ʼį[ł,perf,n]                # "see                      Lemma/1sg-impf  Dir/LR
+[ł,fut,0cm]:                [ł,fut,0cm]:                [ł,fut,0cm]:                [ł,fut,0cm]:n>              nök-ʼįį:ʼį̀ww[ł,fut,0cm]             # "see"                     Lemma/1sg-impf
+[ł,impf,0cm]:               [ł,impf,0cm]:               [ł,impf,0cm]:               [ł,impf,0cm]:n>             nök-ʼįį:{-}ʼįį[ł,impf,0cm]          # "see"                     Lemma/1sg-impf  Dir/LR     
+[ł,impf,0cm]:               [ł,impf,0cm]:               [ł,impf,0cm]:               [ł,impf,0cm]:n>             nök-ʼįį:{-}ʼįh[ł,impf,0cm]          # "see"                     Lemma/1sg-impf  Dir/LR
+[ł,perf,n]:                 [ł,perf,n]:                 [ł,perf,n]:                 [ł,perf,n]:n>               nök-ʼįį:{-}ʼį̀ʼ[ł,perf,n]            # "see"                     Lemma/1sg-impf  Dir/LR
+[ł,perf,n]:                 [ł,perf,n]:                 [ł,perf,n]:                 [ł,perf,n]:n>               nök-ʼįį:{-}ʼį[ł,perf,n]             # "see"                     Lemma/1sg-impf  Dir/LR
+[ł,fut,0cm]:                [ł,fut,0cm]:                [ł,fut,0cm]:                [ł,fut,0cm]:n>              nök-ʼįį:{-}ʼį̀ww[ł,fut,0cm]          # "see"                     Lemma/1sg-impf  Dir/LR
+[0cl,impf,0cm]:             [0cl,impf,0cm]:             [0cl,impf,0cm]:             [0cl,impf,0cm]:             ihsrök:{Z}rök[0cl,impf,0cm]         # "yell" (YellA1)           Lemma/1sg-impf
+[0cl,perf,0cm]:             [0cl,perf,0cm]:             [0cl,perf,0cm]:             [0cl,perf,0cm]:             ihsrök:{Z}rök[0cl,perf,n]           # "yell"                    Lemma/1sg-impf
+[0cl,fut,0cm]:              [0cl,fut,0cm]:              [0cl,fut,0cm]:              [0cl,fut,0cm]:              ihsrök:{Z}rök[0cl,fut,0cm]          # "yell"                    Lemma/1sg-impf
+## [0cl,incp,dh]:           [0cl,incp,dh]:              [0cl,incp,dh]:              [0cl,incp,dh]:              ihsrök:{Z}rök[0cl,incp,dh]          # "yell"                    Lemma/1sg-impf
+[0cl,fut,0cm]:              [0cl,fut,0cm]:              [0cl,fut,0cm]:              [0cl,fut,0cm]:              ihdlòo:dlòo[0cl,fut,0cm]            # "laugh" (Laugh)           Lemma/1sg-impf
+[0cl,impf,0cm]:             [0cl,impf,0cm]:             [0cl,impf,0cm]:             [0cl,impf,0cm]:             ihdlòo:dlòo[0cl,impf,0cm]           # "laugh"                   Lemma/1sg-impf
+[0cl,impf,0cm]:             [0cl,impf,0cm]:             [0cl,impf,0cm]:             [0cl,impf,0cm]:             ihdlòo:dlòh[0cl,impf,0cm]           # "laugh"                   Lemma/1sg-impf  Dir/LR
+[0cl,fut,0cm]:              [0cl,fut,0cm]:              [0cl,fut,0cm]:              [0cl,fut,0cm]:              ihdlòo:dlòh[0cl,fut,0cm]            # "laugh"                   Lemma/1sg-impf  Dir/LR
+[0cl,perf,n]:               [0cl,perf,n]:               [0cl,perf,n]:               [0cl,perf,n]:               ihdlòo:dlòʼ[0cl,perf,n]             # "laugh"                   Lemma/1sg-impf
 [l,impf,0cm]:               [l,impf,0cm]:               [l,impf,0cm]:               [l,impf,0cm]:n>             nojät:jät[l,impf,0cm]               # "scare"                   Lemma/3sg-impf    1sg-impf neyjät --ScareScared1
 [l,fut,0cm]:                [l,fut,0cm]:                [l,fut,0cm]:                [l,fut,0cm]:n>              nojät:jät[l,fut,0cm]                # "scare"                   Lemma/3sg-impf
 [l,perf,0cm]:               [l,perf,0cm]:               [l,perf,0cm]:               [l,perf,0cm]:n>             nojät:jät[l,perf,n]                 # "scare"                   Lemma/3sg-impf
