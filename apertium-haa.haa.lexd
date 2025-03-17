@@ -250,9 +250,9 @@ LEXICON VerbStem-Tv(5)
 [l,impf,0cm]:               [l,impf,0cm]:               [l,impf,0cm]:               [l,impf,0cm]:               chʼeydzöö:odzöh[l,impf,0cm]         # "dance"                   Lemma/1sg-impf  Dir/LR
 [l,fut,0cm]:                [l,fut,0cm]:                [l,fut,0cm]:                [l,fut,0cm]:                chʼeydzöö:odzöh[l,fut,0cm]          # "dance"                   Lemma/1sg-impf
 [L,PErf,gh]:                [l,perf,gh]:                [l,perf,gh]:                [l,perf,gh]:                chʼeydzöö:odzö̀ʼ[l,perf,gh]          # "dance"                   Lemma/1sg-impf
-[l,impf,0cm]:               [l,impf,0cm]:               [l,impf,0cm]:               [l,impf,0cm]:               nozrèe:zrèe[l,impf,0cm]             # "hunt around"             Lemma/3sg-impf - missing perambulative "nä"
-[l,fut,0cm]:                [l,fut,0cm]:                [l,fut,0cm]:                [l,fut,0cm]:                nozrèe:zrèe[l,fut,0cm]              # "hunt around"             Lemma/3sg-impf    1sg-impf is neyzrèe --HuntAround2
-[l,perf,dh]:                [l,perf,dh]:                [l,perf,dh]:                [l,perf,dh]:                nozrèe:zrèʼ[l,perf,dh]              # "hunt around"             Lemma/3sg-impf
+[l,impf,0cm]:               [l,impf,0cm]:               [l,impf,0cm]:               [l,impf,0cm]:               neyzrèe:zrèe[l,impf,0cm]            # "hunt around"(HuntAround2)Lemma/1sg-impf - missing perambulative "nä"
+[l,fut,0cm]:                [l,fut,0cm]:                [l,fut,0cm]:                [l,fut,0cm]:                neyzrèe:zrèe[l,fut,0cm]             # "hunt around"             Lemma/1sg-impf
+[l,perf,dh]:                [l,perf,dh]:                [l,perf,dh]:                [l,perf,dh]:                neyzrèe:zrèʼ[l,perf,dh]             # "hunt around"             Lemma/1sg-impf
 
 #working guessers TV
 # FIXME: the 0cl,0cm guesser line makes the entire guesser not work
