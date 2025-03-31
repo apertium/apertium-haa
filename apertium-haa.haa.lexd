@@ -713,6 +713,9 @@ in:in      <plural>:    #pluralizer
 
 
 LEXICON NounRoot[bare,possessed]
+# bare means can stand on its own
+# possessed means can combined with possessive prefixes
+
 # root                                                      gloss                           bare?       +poss?      commands    comments
 
 äjee:äjee[-bare]                                            # "older sister"                =           possessed 
