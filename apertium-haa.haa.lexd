@@ -189,6 +189,9 @@ LEXICON VerbStem-Tv(5)
 #disjunct                   directive                   gender/qualifier            theme                        stem                               gloss                       form            commands
 #TODO: add in 1sg lemmas
 
+#TODO ADD NEW COLUMN FOR NAME OF FILE, THEN ALPHABETIZE BY FILENAME
+#TODO ADD LINES TO SEPARATE VERB GROUPS
+
 # [l,impf,0cm]:                   [l,impf,0cm]:         [l,impf,0cm]:                   [l,impf,0cm]:             nënä̀tąyy:tąyy[l,impf,0cm]         # "visit, keep visiting"  
 [l,perf,dh]:nä>             [l,perf,dh]:                [l,perf,dh]:                [l,perf,dh]:                 nädhozrèe:ozrèe[l,perf,dh]         # "hunt around"
 # [0cl,perf,dh]:               [0cl,perf,dh]:              [0cl,perf,dh]:                  [0cl,perf,dh]:         ä’netl’ǫǫ:tl’ǫǫ[0cl,perf,dh]      # "tie, sew"                CHECK; not completely confident on lemma or prefixes
