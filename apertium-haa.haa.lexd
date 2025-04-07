@@ -637,50 +637,49 @@ tʼoo:tʼoo       <cnjcoo>:               # "but"
 LEXICON Prepositions
 # preposition    gloss          commands        comments
 
-haa:haa         # "for"
-hèe:hèe         # "with"
-zhìt:zhìt       # "in"
-kayy:kayy       # "on"
 ezheyy:ezheyy   # "there"
 ezheyy:ëzheyy   # "there"       Dir/LR
-tłänn:tłänn     # "after"
-tłänn:tłä̀nn     # "after"       Dir/LR
-huwèe:huwèe     # "with them"                   FIXME: already possessed?
 ghat:ghat       # "by"
+haa:haa         # "for"
 het:het         # "near"
-tsʼą̈̀ʼ:tsʼą̈̀ʼ     # "to, towards"
+hèe:hèe         # "with"
+huwèe:huwèe     # "with them"                   FIXME: already possessed?
+kayy:kayy       # "on"
+kʼämën:kʼämën   # "around"
 kʼǫ̈ǫ̈:kʼǫ̈ǫ̈       # "over"
+nä̀zheyy:nä̀zheyy # "down, below, under"
 nnenn:nnenn     # "over"                        what is the distinciton between these two? - RB
 tsʼänn:tsʼänn   # "from, away from"
-kʼämën:kʼämën   # "around"
-nä̀zheyy:nä̀zheyy # "down, below, under"
-
+tsʼą̈̀ʼ:tsʼą̈̀ʼ     # "to, towards"
+tłänn:tłänn     # "after"
+tłänn:tłä̀nn     # "after"       Dir/LR
+zhìt:zhìt       # "in"
 
 
 LEXICON Adjectives
 # adjective         gloss             commands        comments
 
-tsöll:tsöll         # "small"
-hǫzǫǫ:hǫzǫǫ         # "good"
-choo:choo           # "big"
 choo:choh           # "big"           Dir/LR
-shòo:shòo           # "happy"
-zų̀ʼ:zų̀ʼ             # "beautiful"
-zų̀ʼ:zùʼ             # "beautiful"     Dir/LR          FIXME: Err/Orth
-gʼąyy:gʼąyy         # "dried"
-nzoo:nzoo           # "nice"
+choo:choo           # "big"
 dhaww:dhaww         # "hot"
-khänn:khänn         # "fast"
-hondòrr:hondòrr     # "terrible"
-dorr:dorr           # "ugly"
-tlät:tlät           # "fat"
-nähshi:nähshi       # "silly"
 dhëberr:dhëberr     # "boiled"
 dhëchʼee:dhëchʼee   # "fried"
+dorr:dorr           # "ugly"
+ghörr:ghörr         # "round"
+gʼąyy:gʼąyy         # "dried"
+hondòrr:hondòrr     # "terrible"
+hǫkayy:hǫkayy       # "delicious"
+hǫzǫǫ:hǫzǫǫ         # "good"
+khänn:khänn         # "fast"
+nähshi:nähshi       # "silly"
+nzoo:nzoo           # "nice"
+shòo:shòo           # "happy"
+tlät:tlät           # "fat"
+tsöll:tsöll         # "small"
 tʼäww:tʼäww         # "red, raw"
 tʼöö:tʼöö           # "cooked"
-ghörr:ghörr         # "round"
-hǫkayy:hǫkayy       # "delicious"
+zų̀ʼ:zùʼ             # "beautiful"     Dir/LR          FIXME: Err/Orth
+zų̀ʼ:zų̀ʼ             # "beautiful"
 
 
 LEXICON Determiners(2)
@@ -694,16 +693,16 @@ hontlʼät:hontlʼät        <qnt>:     # "lots, a lot"
 LEXICON ProperNouns(2)
 # proper noun           tag         comments          
 
-Didą̀ʼ:Didą̀ʼ             <ant>:      #RR grandchild
-Michael:Michael         <ant>:      #RR grandchild
-Didą̀:Didą̀               <ant>:      #RR grandchild
-Willem:Willem           <ant>:
 Bert:Bert               <ant>:
+Didą̀:Didą̀               <ant>:      #RR grandchild
+Didą̀ʼ:Didą̀ʼ             <ant>:      #RR grandchild
 Eagle:Eagle             <top>:
+Ethel:Ethel             <ant>:
 Fairbanks:Fairbanks     <top>:
 Jody:Jody               <ant>:
-Ethel:Ethel             <ant>:
 John:John               <ant>:
+Michael:Michael         <ant>:      #RR grandchild
+Willem:Willem           <ant>:
 
 
 LEXICON ModalWord (2)
@@ -721,147 +720,36 @@ LEXICON NounRoot[bare,possessed]
 
 # root                                                      gloss                           bare?       +poss?      commands    comments
 
-äjee:äjee[-bare]                                            # "older sister"                =           possessed 
+Dänzhìt\ hwëch’inn:Dänzhèt\ hwëch’enn  ###  move to Proper? # "Circle City People"          bare        possessed   Dir/LR
+Dänzhìt\ hwëch’inn:Dänzhìt\ hwëch’inn   ### move to Proper? # "Circle City People           bare        possessed # FIXME: is this not compositional?  if so, it should probably be a proper noun and a common noun
+Dä̀htl’ah\ Choo:Dä̀htl’ah\ Choo                               # "Bible"                       bare        possessed
 ajee\ tthit:ajee\ tthit[-bare]                              # "oldest sister"               =           possessed 
+äjee:äjee[-bare]                                            # "older sister"                =           possessed 
 äk’ayy:äk’ayy[-bare]                                        # "aunt"                        =           possessed 
-chà’:chà’[-bare]                                            # "father"                      =           possessed
-choo:choo[-bare]                                            # "younger brother"             =           possessed
-chòo\ hąyts’änn:chòo\ hąts’änn[-bare]                       # "youngest brother"            =           possessed
-e’ee:e’ee[-bare]                                            # "uncle"                       =           possessed
-gaa:gaa[-bare]                                              # "child"                       =           possessed
-jaa:jaa[-bare]                                              # "friend"                      =           possessed
-jèww:jèww[-bare]                                            # "younger sister"              =           possessed
-jèww\ hąyts’änn:jèww\ hąyts’änn[-bare]                      # "youngest sister"             =           possessed
-nąą:nąą[-bare]                                              # "mother"                      =           possessed 
-ondayy:ondayy[-bare]                                        # "older brother"               =           possessed 
-ondayy\ tthit:ondayy\ tthit[-bare]                          # "oldest brother"              =           possessed 
-tseyy:tseyy[-bare]                                          # "grandfather"                 =           possessed 
-tsǫǫ:tsǫǫ[-bare]                                            # "grandmother"                 =           possessed 
-zhoh\ k’öö:zhoh\ k’öö[-bare]                                # "family"                      -           possessed
-chaww:chaww                                                 # "three"                       bare        possessed
-dą̈̀htl’ah:dą̈̀htl’ah                                           # "paper"                       bare        possessed                New dictionary refers to this as "bills" and "book" and "credit" and "debt" and 2 other def.s(pg34), how to best proceed? -RB
-ddhäw:ddhäw                                                 # "mountain"                    bare        possessed
-dhö̀ö:dhö̀ö                                                   # "skin, covering"              bare        possessed
-dleyy:dleyy                                                 # "squirrel"                    bare        possessed
-drinn:drinn                                                 # "day"                         bare        possessed
-dzänn:dzänn                                                 # "muskrat"                     bare        possessed
-gah:gah                                                     # "rabbit"                      bare        possessed
-hintsi’:hintsi’                                             # "loves"                       bare        possessed
-iww:iww                                                     # "beads"                       bare        possessed
-hèw:hèw                                                     # "trap"                        bare        possessed
-tsàʼ:tsàʼ                                                   # "beaver"                      bare        possessed
-töö:töö                                                     # "night"                       bare        possessed
-tąyy:tąyy                                                   # "path"                        bare        possessed
-kʼä̀hmä̀ʼ:kʼä̀hmä̀ʼ                                             # "morning"                     bare        possessed
-łuu:łuu                                                     # "fish"                        bare        possessed
-tsʼeyy:tsʼeyy                                               # "porcupine"                   bare        possessed
-tʼąychànn:tʼąychànn                                         # "frypan"                      bare        possessed
-jeyy:jeyy                                                   # "blueberry"                   bare        possessed
 chaa:chaa                                                   # "boy"                         bare        possessed
-zhoo:zhoo                                                   # "house"                       bare        possessed
-wëdzey:wëdzey                                               # "caribou"                     bare        possessed
-shär:shär                                                   # "bear"                        bare        possessed
-tthechuu:tthechuu                                           # "river"                       bare        possessed
-khayy:khayy                                                 # "winter"                      bare        possessed
-chuu:chuu                                                   # "water"                       bare        possessed
-jëjee:jëjee                                                 # "man"                         bare        possessed
-jëjee\ įh:jëjee\ įh                                         # "people"                      bare        possessed
-trʼinjàa:trʼinjàa                                           # "woman"                       bare        possessed
-trʼinjàa:trʼìnjàa                                           # "woman"                       bare        possessed   Dir/LR
-tthök:tthök                                                 # "fence"                       bare        possessed
-juu:juu                                                     # "island"                      bare        possessed
-chʼìtseyy:chʼìtseyy                                         # "metal, stove"                bare        possessed
-chʼìtseyy:chitseyy                                          # "metal, stove"                bare        possessed   Dir/LR                 
-ëtsʼänn:ëtsʼänn                                             # "duck"                        bare        possessed
+chaww:chaww                                                 # "three"                       bare        possessed
+chà’:chà’[-bare]                                            # "father"                      =           possessed
 chäghänn:chäghänn                                           # "woman, old"                  bare        possessed
-trʼinìnn:trʼinìnn                                           # "child"                       bare        possessed
-trʼinkee:trʼinkee                                           # "children"                    bare        possessed
-trʼinkee:trʼinkèe                                           # "children"                    bare        possessed   Dir/LR
-nägöö:nägöö                                                 # "fox"                         bare        possessed
-trʼechoo:trʼechoo                                           # "boat"                        bare        possessed
-tsʼat:tsʼat                                                 # "hat"                         bare        possessed
-sraa:sraa                                                   # "sun"                         bare        possessed
-jǫ̀rr\ baa:jǫ̀rr\ baa                                         # "blue jay"                    bare        possessed
-lëjii:lëjii                                                 # "tea"                         bare        possessed
-männ:männ                                                   # "lake"                        bare        possessed
-shih:shih                                                   # "food"                        bare        possessed
-tölut:tölut                                                 # "hard snow road"              bare        possessed
-thay:thay                                                   # "belt"                        bare        possessed
-tthee:tthee                                                 # "rock"                        bare        possessed
-zhùr:zhùr                                                   # "wolf"                        bare        possessed
-sree:sree                                                   # "knife"                       bare        possessed
-tloo:tloo                                                   # "salve"                       bare        possessed
-känträn:känträn                                             # "slipper, moccasin"           bare        possessed
-naä̀ghayy:nä̀ghayy                                            # "frog"                        bare        possessed
-khaytsʼą̈̀ʼ:khaytsʼą̈̀ʼ                                         # "autumn"                      bare        possessed
-łą̌yy:łą̌yy[-possessed]                                       # "dog"                         bare        -
-łą̌yy:lìngʼ[-bare]                                           # "dog"                         -           possessed
-kʼàyʼ:kʼàyʼ                                                 # "willow"                      bare        possessed
-tʼëgaa:tʼëgaa                                               # "girl"                        bare        possessed
-tsʼoo:tsʼoo                                                 # "spruce tree"                 bare        possessed
-tthʼàk\ ghörr:tthʼàk\ ghörr                                 # "dish"                        bare        possessed
-koy:koy                                                     # "vomit"                       bare        possessed
-jëjezhuu:jëjezhuu                                           # "native person"               bare        possessed
-nunn:nunn                                                   # "animal"                      bare        possessed
-nìnjuu\ gah:nìnjuu\ gah                                     # "cat"                         bare        possessed
-jëjuu:jëjuu                                                 # "moose"                       bare        possessed
-tsàʼ:tsàʼ                                                   # "beaver"                      bare        possessed
-łąyy\ choh:łąyy\ choh                                       # "horse"                       bare        possessed
-shä̀tsöö:shä̀tsöö                                             # "mouse"                       bare        possessed
-jëbee:jëbee                                                 # "sheep"                       bare        possessed
-tsiww:tsiww                                                 # "marten"                      bare        possessed
-chugah:chugah                                               # "bird"                        bare        possessed
-tätrą̀ʼ:tätrą̀ʼ                                               # "raven"                       bare        possessed
-dey:dey                                                     # "(spruce) grouse"             bare        possessed
-tsegàʼ:tsegàʼ                                               # "snipe"                       bare        possessed
-khah:khah                                                   # "goose"                       bare        possessed
-jew:jew                                                     # "crane"                       bare        possessed
-chʼë̀zhànn:chʼë̀zhànn                                         # "eagle"                       bare        possessed
 chehłuu:chehłuu                                             # "burbot fish"                 bare        possessed
-łuu\ choo:łuu\ choo                                         # "king salmon"                 bare        possessed
-theyy:theyy                                                 # "chum, dog salmon"            bare        possessed
-nehjèʼ:nehjèʼ                                               # "man, old"                    bare        possessed
-trʼinìnn\ tsöll:trʼinìnn\ tsöll                             # "baby"                        bare        possessed
-lë̀seww:lë̀seww                                               # "salt"                        bare        possessed
-ǹląyy\ tlorr:ǹląyy\ tlorr                                   # "meat and gravy,stew"         bare        possessed   
-ǹląyy:ǹląyy                                                 # "meat"                        bare        possessed
-ǹląyy\ gąyy:ǹląyy\ gąyy                                     # "dried meat"                  bare        possessed
-dzèh                                                        # "chewing gum"                 bare        possessed
-łèw:łèw                                                     # "bread, flour"                bare        possessed
-łèw\ gąyy:łèw\ gąyy                                         # "crackers, pilot bread"       bare        possessed
-songą̀yy:songą̀yy                                             # "sugar"                       bare        possessed
-chʼëghö̀rr:chʼëghö̀rr                                         # "eggs"                        bare        possessed
-jěyy:jěyy                                                   # "berries"                     bare        possessed
-nintlʼät:nintlʼät                                           # "low bush cranberries"        bare        possessed
-trʼänttheww:trʼänttheww                                     # "high bush cranberries"       bare        possessed
-ninchǫ̀ʼ:ninchǫ̀ʼ                                             # "rose hips"                   bare        possessed
-łuu\ gʼąyy:łuu\ gʼąyy                                       # "dried fish"                  bare        possessed
-łuu\ tʼaa:łuu\ tʼaa                                         # "salmon, fish belly"          bare        possessed
-łuu\ nä̀nʼ:łuu\ nä̀nʼ                                         # "fish backbone"               bare        possessed
-łèw\ tʼöö:łèw\ tʼöö                                         # "fry bread (lit. cooked bread)"bare       possessed
-łèw\ tʼöö:łèw\ dhëchʼee                                     # "fry bread"                   bare        possessed               # FIXME: either include Dir/LR or make the left side the same as the right side
 chin:chin                                                   # "bucket"                      bare        possessed
-chuu\ chin:chuu\ chin                                       # "cup"                         bare        possessed
 chin\ wëchèʼ\ hònlįh:chin\ wëchèʼ\ hònlįh                   # "dipper"                      bare        possessed
-itseyy\ gùk:itseyy\ gùk                                     # "fork"                        bare        possessed
-kʼä̀htsäww:kʼä̀htsäww                                         # "spoon"                       bare        possessed
+choo:choo[-bare]                                            # "younger brother"             =           possessed
+choo:choo[-bare]                                            # "younger brother"             bare        possessed
+chòo\ hąyts’änn:chòo\ hąts’änn[-bare]                       # "youngest brother"            =           possessed
+chugah:chugah                                               # "bird"                        bare        possessed
+chuu:chuu                                                   # "water"                       bare        possessed
+chuu\ chin:chuu\ chin                                       # "cup"                         bare        possessed
+chʼëghö̀rr:chʼëghö̀rr                                         # "eggs"                        bare        possessed
+chʼë̀zhànn:chʼë̀zhànn                                         # "eagle"                       bare        possessed
+chʼìtseyy:chitseyy                                          # "metal, stove"                bare        possessed   Dir/LR                 
+chʼìtseyy:chʼìtseyy                                         # "metal, stove"                bare        possessed
 chʼìtsèyy\ tlʼaa:chʼìtsèyy\ tlʼaa                           # "oven"                        bare        possessed
 chʼìtsèyy\ tlʼaa\ tʼàychènn:chʼìtsèyy\ tlʼaa\ tʼàychènn     # "ovenpan"                     bare        possessed
-lëjìi\ chin:lëjìi\ chin                                     # "tea kettle"                  bare        possessed
-wëkayy\ chʼiʼaww:wëkayy\ chʼiʼaww                           # "table"                       bare        possessed
-wëkayy\ däʼdrètthit:wëkayy\ däʼdrètthit                     # "chair"                       bare        possessed
-
-
-# New Dictionary - Section D -d
-# root                                                      gloss                           bare?       +poss?      commands    comments
-
-dä̀’ä̀lann\ ch’į’àa’:dä̀’ä̀lann\ ch’į’àa’                       # "stone axe"                   bare        possessed
-dä̀baww:dä̀baww                                               # "door"                        bare        possessed
-dä̀baww\ tthì’:dä̀baww\ tthì’                                 # "door knob"                   bare        possessed
-dä̀baww\ tthè’:dä̀baww\ tthè’                                 # "door knob"                   bare        possessed   Dir/LR 
+dahzhää’:dahzhää’                                           # "snow on branches"            bare        possessed
+dats’enn:dats’enn                                           # "humpback whitefish"          bare        possessed
+daydhoo:daydhoo                                             # "scraper for skin (stone)"    bare        possessed
+dàydhoo:dàydhoo                                             # "scraper for skin (stone)"    bare        possessed   Dir/LR
 däbä̀ww’:däbä̀ww’                                             # "lips"                        bare        possessed
-dä̀’ëlànn:dä̀’ëlànn                                           # "old timer"                   bare        possessed
-dä̀’ëlànn:dä̀’ë̀lenn                                           # "old tiemr"                   bare        possessed   Dir/LR
 däghà:däghà                                                 # "whiskers"                    bare        possessed
 däghä̀nn’:däghä̀nn’                                           # "rib cage"                    bare        possessed
 dähdräw:dähdräw                                             # "cache"                       bare        possessed
@@ -872,43 +760,150 @@ dähsroo:dähsroo                                             # "canvas"      
 dähsroo:dähsroo                                             # "towel"                       bare        possessed
 dähsroo\ tr’ey:dähsroo\ tr’ey                               # "canvas canoe"                bare        possessed
 dähsroo\ tsöll:dähsroo\ tsöll                               # "wash rag"                    bare        possessed
-Dä̀htl’ah\ Choo:Dä̀htl’ah\ Choo                               # "Bible"                       bare        possessed
 dähtsaa:dähtsaa                                             # "rack cache"                  bare        possessed
 dähtsaa:dähtsah                                             # "rack cache"                  bare        possessed   Dir/LR
-dahzhää’:dahzhää’                                           # "snow on branches"            bare        possessed
 dähzhrùu’:dähzhrùu’                                         # "roof"                        bare        possessed
-dä’idhoo:dä’idhoo                                           # "scraper for skin (stone)"    bare        possessed
-dä’idhoo:dä̀’idhoo                                           # "scraper for skin (stone)     bare        possessed   Dir/LR
 däk’aww:däk’aww                                             # "rock ptarmigan"              bare        possessed
-dänoją̀’\ jëjee\ įh:dänoją̀’\ jëjee\ įh                       # "people of long ago"          bare        possessed
 dänoją̀’\ jëjee\ įh:dänoją̀’\ jëjee\ ęh                       # "people of long ago"          bare        possessed   Dir/LR
-Dänzhìt\ hwëch’inn:Dänzhìt\ hwëch’inn   ### move to Proper? # "Circle City People           bare        possessed # FIXME: is this not compositional?  if so, it should probably be a proper noun and a common noun
-Dänzhìt\ hwëch’inn:Dänzhèt\ hwëch’enn  ###  move to Proper? # "Circle City People"          bare        possessed   Dir/LR
-dä̀tleh:dä̀tleh                                               # "soap"                        bare        possessed
-dä̀tleh:dä̀tlèh                                               # "soap"                        bare        possessed   Dir/LR
-dä̀tleh\ tth’àk\ choo:dä̀tleh\ tth’àk\ choo                   # "wash tub"                    bare        possessed
+dänoją̀’\ jëjee\ įh:dänoją̀’\ jëjee\ įh                       # "people of long ago"          bare        possessed
 dät’ö̀h:dät’ö̀h                                               # "white-fronted goose"         bare        possessed
-dats’enn:dats’enn                                           # "humpback whitefish"          bare        possessed
-dą̈̀htl’ah\ chu’:dą̈̀htl’ah\ chu’                               # "ink"                         bare        possessed
-dą̈̀htl’ah\ tąy’:dą̈̀htl’ah\ tąy’                               # "pen, pencil"                 bare        possessed
-dąyy:dąyy                                                   # "late spring"                 bare        possessed
 däw:däw                                                     # "blood"                       bare        possessed
 däw\ nghä̀w:däw\ nghä̀w                                       # "blood clot"                  bare        possessed
 däww:däww                                                   # "log splitter"                bare        possessed           #again, has numerous definitions (pg 34)
-daydhoo:daydhoo                                             # "scraper for skin (stone)"    bare        possessed
-dàydhoo:dàydhoo                                             # "scraper for skin (stone)"    bare        possessed   Dir/LR
 däzhìi’:däzhìi’                                             # "breath"                      bare        possessed
 däzhurr:däzhurr                                             # "voice"                       bare        possessed           #variant that I want to double check with someone - RB
 däzrąyy:däzrąyy                                             # "spades (cards)"              bare        possessed
+dä̀baww:dä̀baww                                               # "door"                        bare        possessed
+dä̀baww\ tthè’:dä̀baww\ tthè’                                 # "door knob"                   bare        possessed   Dir/LR 
+dä̀baww\ tthì’:dä̀baww\ tthì’                                 # "door knob"                   bare        possessed
+dä̀tleh:dä̀tleh                                               # "soap"                        bare        possessed
+dä̀tleh:dä̀tlèh                                               # "soap"                        bare        possessed   Dir/LR
+dä̀tleh\ tth’àk\ choo:dä̀tleh\ tth’àk\ choo                   # "wash tub"                    bare        possessed
+dä̀’ä̀lann\ ch’į’àa’:dä̀’ä̀lann\ ch’į’àa’                       # "stone axe"                   bare        possessed
+dä̀’ëlànn:dä̀’ëlànn                                           # "old timer"                   bare        possessed
+dä̀’ëlànn:dä̀’ë̀lenn                                           # "old tiemr"                   bare        possessed   Dir/LR
+dä’idhoo:dä̀’idhoo                                           # "scraper for skin (stone)     bare        possessed   Dir/LR
+dä’idhoo:dä’idhoo                                           # "scraper for skin (stone)"    bare        possessed
+dąyy:dąyy                                                   # "late spring"                 bare        possessed
+dą̈̀htl’ah:dą̈̀htl’ah                                           # "paper"                       bare        possessed                New dictionary refers to this as "bills" and "book" and "credit" and "debt" and 2 other def.s(pg34), how to best proceed? -RB
+dą̈̀htl’ah\ chu’:dą̈̀htl’ah\ chu’                               # "ink"                         bare        possessed
+dą̈̀htl’ah\ tąy’:dą̈̀htl’ah\ tąy’                               # "pen, pencil"                 bare        possessed
+ddhäw:ddhäw                                                 # "mountain"                    bare        possessed
 ddhäw\ dächänn:ddhäw\ dächänn                               # "foothills"                   bare        possessed
 ddhäw\ dägorr:ddhäw\ dägorr                                 # "mountain pass"               bare        possessed
 ddhäw\ däteyy:ddhäw\ däteyy ####  missing definition ####   # Dir/LR #not sure about this one - RB  # FIXME: why is this Dir/LR?  There doesn't seem to be a primary entry
 ddhäw\ k’aww:ddhäw\ k’aww                                   # "mountain ridge"              bare        possessed
 ddhäw\ t’òrr’:ddhäw\ t’òrr’                                 # "bare mountain"               bare        possessed
-dëfą̀ą\ ek:dëfą̀ą\ ek                                         # "shirt of mixed colors"       bare        possessed
+dey:dey                                                     # "(spruce) grouse"             bare        possessed
 dëfą̀ą\ ek:dä̀fąą\ ek                                         # "shirt of mixed colors"       bare        possessed   Dir/LR
+dëfą̀ą\ ek:dëfą̀ą\ ek                                         # "shirt of mixed colors"       bare        possessed
 dëfą̀ą\ ek:dëfą̈̀ą̈\ ek                                         # "shirt of mixed colors"       bare        possessed   Dir/LR     #again, not sure about this one, does this have to do with the usage being French? -RB 
-choo:choo[-bare]                                            # "younger brother"             bare        possessed
+dhö̀ö:dhö̀ö                                                   # "skin, covering"              bare        possessed
+dleyy:dleyy                                                 # "squirrel"                    bare        possessed
+drinn:drinn                                                 # "day"                         bare        possessed
+dzänn:dzänn                                                 # "muskrat"                     bare        possessed
+dzèh                                                        # "chewing gum"                 bare        possessed
+ëtsʼänn:ëtsʼänn                                             # "duck"                        bare        possessed
+e’ee:e’ee[-bare]                                            # "uncle"                       =           possessed
+gaa:gaa[-bare]                                              # "child"                       =           possessed
+gah:gah                                                     # "rabbit"                      bare        possessed
+hèw:hèw                                                     # "trap"                        bare        possessed
+hintsi’:hintsi’                                             # "loves"                       bare        possessed
+itseyy\ gùk:itseyy\ gùk                                     # "fork"                        bare        possessed
+iww:iww                                                     # "beads"                       bare        possessed
+jaa:jaa[-bare]                                              # "friend"                      =           possessed
+jew:jew                                                     # "crane"                       bare        possessed
+jeyy:jeyy                                                   # "blueberry"                   bare        possessed
+jèww:jèww[-bare]                                            # "younger sister"              =           possessed
+jèww\ hąyts’änn:jèww\ hąyts’änn[-bare]                      # "youngest sister"             =           possessed
+jëjee:jëjee                                                 # "man"                         bare        possessed
+jëjee\ įh:jëjee\ įh                                         # "people"                      bare        possessed
+jěyy:jěyy                                                   # "berries"                     bare        possessed
+jǫ̀rr\ baa:jǫ̀rr\ baa                                         # "blue jay"                    bare        possessed
+juu:juu                                                     # "island"                      bare        possessed
+jëbee:jëbee                                                 # "sheep"                       bare        possessed
+jëjezhuu:jëjezhuu                                           # "native person"               bare        possessed
+jëjuu:jëjuu                                                 # "moose"                       bare        possessed
+khah:khah                                                   # "goose"                       bare        possessed
+khaytsʼą̈̀ʼ:khaytsʼą̈̀ʼ                                         # "autumn"                      bare        possessed
+khayy:khayy                                                 # "winter"                      bare        possessed
+koy:koy                                                     # "vomit"                       bare        possessed
+känträn:känträn                                             # "slipper, moccasin"           bare        possessed
+kʼä̀hmä̀ʼ:kʼä̀hmä̀ʼ                                             # "morning"                     bare        possessed
+kʼä̀htsäww:kʼä̀htsäww                                         # "spoon"                       bare        possessed
+kʼàyʼ:kʼàyʼ                                                 # "willow"                      bare        possessed
+lëjìi\ chin:lëjìi\ chin                                     # "tea kettle"                  bare        possessed
+lë̀seww:lë̀seww                                               # "salt"                        bare        possessed
+lëjii:lëjii                                                 # "tea"                         bare        possessed
+männ:männ                                                   # "lake"                        bare        possessed
+naä̀ghayy:nä̀ghayy                                            # "frog"                        bare        possessed
+nąą:nąą[-bare]                                              # "mother"                      =           possessed 
+nehjèʼ:nehjèʼ                                               # "man, old"                    bare        possessed
+ninchǫ̀ʼ:ninchǫ̀ʼ                                             # "rose hips"                   bare        possessed
+nintlʼät:nintlʼät                                           # "low bush cranberries"        bare        possessed
+nunn:nunn                                                   # "animal"                      bare        possessed
+nägöö:nägöö                                                 # "fox"                         bare        possessed
+nìnjuu\ gah:nìnjuu\ gah                                     # "cat"                         bare        possessed
+ǹląyy:ǹląyy                                                 # "meat"                        bare        possessed
+ǹląyy\ gąyy:ǹląyy\ gąyy                                     # "dried meat"                  bare        possessed
+ǹląyy\ tlorr:ǹląyy\ tlorr                                   # "meat and gravy,stew"         bare        possessed   
+ondayy:ondayy[-bare]                                        # "older brother"               =           possessed 
+ondayy\ tthit:ondayy\ tthit[-bare]                          # "oldest brother"              =           possessed 
+shär:shär                                                   # "bear"                        bare        possessed
+shä̀tsöö:shä̀tsöö                                             # "mouse"                       bare        possessed
+shih:shih                                                   # "food"                        bare        possessed
+songą̀yy:songą̀yy                                             # "sugar"                       bare        possessed
+sraa:sraa                                                   # "sun"                         bare        possessed
+sree:sree                                                   # "knife"                       bare        possessed
+tąyy:tąyy                                                   # "path"                        bare        possessed
+thay:thay                                                   # "belt"                        bare        possessed
+theyy:theyy                                                 # "chum, dog salmon"            bare        possessed
+tloo:tloo                                                   # "salve"                       bare        possessed
+töö:töö                                                     # "night"                       bare        possessed
+trʼänttheww:trʼänttheww                                     # "high bush cranberries"       bare        possessed
+trʼechoo:trʼechoo                                           # "boat"                        bare        possessed
+trʼinjàa:trʼinjàa                                           # "woman"                       bare        possessed
+trʼinjàa:trʼìnjàa                                           # "woman"                       bare        possessed   Dir/LR
+trʼinkee:trʼinkee                                           # "children"                    bare        possessed
+trʼinkee:trʼinkèe                                           # "children"                    bare        possessed   Dir/LR
+trʼinìnn:trʼinìnn                                           # "child"                       bare        possessed
+trʼinìnn\ tsöll:trʼinìnn\ tsöll                             # "baby"                        bare        possessed
+tsàʼ:tsàʼ                                                   # "beaver"                      bare        possessed
+tsegàʼ:tsegàʼ                                               # "snipe"                       bare        possessed
+tseyy:tseyy[-bare]                                          # "grandfather"                 =           possessed 
+tsiww:tsiww                                                 # "marten"                      bare        possessed
+tsǫǫ:tsǫǫ[-bare]                                            # "grandmother"                 =           possessed 
+tsàʼ:tsàʼ                                                   # "beaver"                      bare        possessed
+tsʼat:tsʼat                                                 # "hat"                         bare        possessed
+tsʼeyy:tsʼeyy                                               # "porcupine"                   bare        possessed
+tsʼoo:tsʼoo                                                 # "spruce tree"                 bare        possessed
+tthechuu:tthechuu                                           # "river"                       bare        possessed
+tthee:tthee                                                 # "rock"                        bare        possessed
+tthök:tthök                                                 # "fence"                       bare        possessed
+tthʼàk\ ghörr:tthʼàk\ ghörr                                 # "dish"                        bare        possessed
+tätrą̀ʼ:tätrą̀ʼ                                               # "raven"                       bare        possessed
+tölut:tölut                                                 # "hard snow road"              bare        possessed
+tʼąychànn:tʼąychànn                                         # "frypan"                      bare        possessed
+tʼëgaa:tʼëgaa                                               # "girl"                        bare        possessed
+wëdzey:wëdzey                                               # "caribou"                     bare        possessed
+wëkayy\ chʼiʼaww:wëkayy\ chʼiʼaww                           # "table"                       bare        possessed
+wëkayy\ däʼdrètthit:wëkayy\ däʼdrètthit                     # "chair"                       bare        possessed
+zhoh\ k’öö:zhoh\ k’öö[-bare]                                # "family"                      -           possessed
+zhoo:zhoo                                                   # "house"                       bare        possessed
+zhùr:zhùr                                                   # "wolf"                        bare        possessed
+łą̌yy:lìngʼ[-bare]                                           # "dog"                         -           possessed
+łą̌yy:łą̌yy[-possessed]                                       # "dog"                         bare        -
+łèw:łèw                                                     # "bread, flour"                bare        possessed
+łèw\ gąyy:łèw\ gąyy                                         # "crackers, pilot bread"       bare        possessed
+łèw\ tʼöö:łèw\ dhëchʼee                                     # "fry bread"                   bare        possessed               # FIXME: either include Dir/LR or make the left side the same as the right side
+łèw\ tʼöö:łèw\ tʼöö                                         # "fry bread (lit. cooked bread)"bare       possessed
+łuu:łuu                                                     # "fish"                        bare        possessed
+łuu\ choo:łuu\ choo                                         # "king salmon"                 bare        possessed
+łuu\ gʼąyy:łuu\ gʼąyy                                       # "dried fish"                  bare        possessed
+łuu\ nä̀nʼ:łuu\ nä̀nʼ                                         # "fish backbone"               bare        possessed
+łuu\ tʼaa:łuu\ tʼaa                                         # "salmon, fish belly"          bare        possessed
+łąyy\ choh:łąyy\ choh                                       # "horse"                       bare        possessed
+
 
 
 LEXICON Pronoun(2)
