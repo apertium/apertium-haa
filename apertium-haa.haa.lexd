@@ -186,77 +186,75 @@ PATTERN Verbs-Iv
 LEXICON VerbStem-Tv(5) 
 
 #CURRENT ORDER OF COLUMNS
-#disjunct                   directive                   gender/qualifier            theme                        stem                               gloss                       form            commands
-#TODO: add in 1sg lemmas
+#disjunct                   directive                   gender/qualifier            theme                        stem                               gloss                       file name                   form            commands
 
-#TODO ADD NEW COLUMN FOR NAME OF FILE, THEN ALPHABETIZE BY FILENAME
-#TODO ADD LINES TO SEPARATE VERB GROUPS
 
-# [l,impf,0cm]:                   [l,impf,0cm]:         [l,impf,0cm]:                   [l,impf,0cm]:             nënä̀tąyy:tąyy[l,impf,0cm]         # "visit, keep visiting"  
-[l,perf,dh]:nä>             [l,perf,dh]:                [l,perf,dh]:                [l,perf,dh]:                 nädhozrèe:ozrèe[l,perf,dh]         # "hunt around"
-# [0cl,perf,dh]:               [0cl,perf,dh]:              [0cl,perf,dh]:                  [0cl,perf,dh]:         ä’netl’ǫǫ:tl’ǫǫ[0cl,perf,dh]      # "tie, sew"                CHECK; not completely confident on lemma or prefixes
-# [0cl,impf,0cm]:            [0cl,impf,0cm]:             [0cl,impf,0cm]:                 [0cl,impf,0cm]:          ä̀htyënètl’ùt:[0cl,impf,0cm]       # "tie, sew"                Lemma/3sg-impf
-[ł,impf,0cm]:               [ł,impf,0cm]:               [ł,impf,0cm]:j{E}{¨}>       [ł,impf,0cm]:               jënohtlòt:nohtlòt[ł,impf,0cm]       # "boil liquid caus."       Lemma/3sg-impf
-[l,impf,0cm]:nä>            [l,impf,0cm]:               [l,impf,0cm]:               [l,impf,0cm]:               nä’aww:’àww[l,impf,0cm]             # "eat"                     Lemma/3sg-impf
-[ł,impf,0cm]:               [ł,impf,0cm]:               [ł,impf,0cm]:               [ł,impf,0cm]:n>             nök-ʼįį:ʼįį[ł,impf,0cm]             # "see" (SeeA)              Lemma/1sg-impf 
-[ł,impf,0cm]:               [ł,impf,0cm]:               [ł,impf,0cm]:               [ł,impf,0cm]:n>             nök-ʼįį:ʼįh[ł,impf,0cm]             # "see"                     Lemma/1sg-impf  Dir/LR
-[ł,perf,n]:                 [ł,perf,n]:                 [ł,perf,n]:                 [ł,perf,n]:n>               nök-ʼįį:ʼį̀ʼ[ł,perf,n]               # "see"                     Lemma/1sg-impf
-[ł,perf,n]:                 [ł,perf,n]:                 [ł,perf,n]:                 [ł,perf,n]:n>               nök-ʼįį:ʼį[ł,perf,n]                # "see                      Lemma/1sg-impf  Dir/LR
-[ł,fut,0cm]:                [ł,fut,0cm]:                [ł,fut,0cm]:                [ł,fut,0cm]:n>              nök-ʼįį:ʼį̀ww[ł,fut,0cm]             # "see"                     Lemma/1sg-impf
-[ł,impf,0cm]:               [ł,impf,0cm]:               [ł,impf,0cm]:               [ł,impf,0cm]:n>             nök-ʼįį:{-}ʼįį[ł,impf,0cm]          # "see"                     Lemma/1sg-impf  Dir/LR     
-[ł,impf,0cm]:               [ł,impf,0cm]:               [ł,impf,0cm]:               [ł,impf,0cm]:n>             nök-ʼįį:{-}ʼįh[ł,impf,0cm]          # "see"                     Lemma/1sg-impf  Dir/LR
-[ł,perf,n]:                 [ł,perf,n]:                 [ł,perf,n]:                 [ł,perf,n]:n>               nök-ʼįį:{-}ʼį̀ʼ[ł,perf,n]            # "see"                     Lemma/1sg-impf  Dir/LR
-[ł,perf,n]:                 [ł,perf,n]:                 [ł,perf,n]:                 [ł,perf,n]:n>               nök-ʼįį:{-}ʼį[ł,perf,n]             # "see"                     Lemma/1sg-impf  Dir/LR
-[ł,fut,0cm]:                [ł,fut,0cm]:                [ł,fut,0cm]:                [ł,fut,0cm]:n>              nök-ʼįį:{-}ʼį̀ww[ł,fut,0cm]          # "see"                     Lemma/1sg-impf  Dir/LR
-[0cl,impf,0cm]:             [0cl,impf,0cm]:             [0cl,impf,0cm]:             [0cl,impf,0cm]:             ihsrök:{Z}rök[0cl,impf,0cm]         # "yell" (YellA1)           Lemma/1sg-impf  
-[0cl,perf,0cm]:             [0cl,perf,0cm]:             [0cl,perf,0cm]:             [0cl,perf,0cm]:             ihsrök:{Z}rök[0cl,perf,n]           # "yell"                    Lemma/1sg-impf
-[0cl,fut,0cm]:              [0cl,fut,0cm]:              [0cl,fut,0cm]:              [0cl,fut,0cm]:              ihsrök:{Z}rök[0cl,fut,0cm]          # "yell"                    Lemma/1sg-impf
-## [0cl,incp,dh]:           [0cl,incp,dh]:              [0cl,incp,dh]:              [0cl,incp,dh]:              ihsrök:{Z}rök[0cl,incp,dh]          # "yell"                    Lemma/1sg-impf
-[0cl,fut,0cm]:              [0cl,fut,0cm]:              [0cl,fut,0cm]:              [0cl,fut,0cm]:              ihdlòo:dlòo[0cl,fut,0cm]            # "laugh" (Laugh)           Lemma/1sg-impf
-[0cl,impf,0cm]:             [0cl,impf,0cm]:             [0cl,impf,0cm]:             [0cl,impf,0cm]:             ihdlòo:dlòo[0cl,impf,0cm]           # "laugh"                   Lemma/1sg-impf
-[0cl,impf,0cm]:             [0cl,impf,0cm]:             [0cl,impf,0cm]:             [0cl,impf,0cm]:             ihdlòo:dlòh[0cl,impf,0cm]           # "laugh"                   Lemma/1sg-impf  Dir/LR
-[0cl,fut,0cm]:              [0cl,fut,0cm]:              [0cl,fut,0cm]:              [0cl,fut,0cm]:              ihdlòo:dlòh[0cl,fut,0cm]            # "laugh"                   Lemma/1sg-impf  Dir/LR
-[0cl,perf,n]:               [0cl,perf,n]:               [0cl,perf,n]:               [0cl,perf,n]:               ihdlòo:dlòʼ[0cl,perf,n]             # "laugh"                   Lemma/1sg-impf
-[l,impf,0cm]:               [l,impf,0cm]:               [l,impf,0cm]:               [l,impf,0cm]:n>             neyjät:jät[l,impf,0cm]              # "scare" (ScareScared1)    Lemma/1sg-impf
-[l,fut,0cm]:                [l,fut,0cm]:                [l,fut,0cm]:                [l,fut,0cm]:n>              neyjät:jät[l,fut,0cm]               # "scare"                   Lemma/1sg-impf
-[l,perf,0cm]:               [l,perf,0cm]:               [l,perf,0cm]:               [l,perf,0cm]:n>             neyjät:jät[l,perf,n]                # "scare"                   Lemma/1sg-impf
-[l,impf,fut,0cm]:           [l,impf,fut,0cm]:           [l,impf,fut,0cm]:           [l,impf,fut,0cm]:n>         neyjät:jöt[l,impf,fut,0cm]          # "scare"                   Lemma/1sg-impf  Dir/LR  
-[l,perf,gh]:                [l,perf,gh]:                [l,perf,gh]:                [l,perf,gh]:n>              neyjät:jït[l,perf,gh]               # "scare"                   Lemma/1sg-impf  Dir/LR
-[l,perf,gh]:                [l,perf,gh]:                [l,perf,gh]:                [l,perf,gh]:n>              neyjät:jö̀t[l,perf,gh]               # "scare"                   Lemma/1sg-impf  Dir/LR 
-[d,impf,0cm]:               [d,impf,0cm]:               [d,impf,0cm]:               [d,impf,0cm]:               ishnąą:nąą[d,impf,0cm]              # "drink" (Drink)           Lemma/1sg-impf 
-[0cl,impf,0cm]:             [0cl,impf,0cm]:             [0cl,impf,0cm]:             [0cl,impf,0cm]:             ihnąą:nąą[0cl,impf,0cm]             # "drink"                   Lemma/1sg-impf  Dir/LR  alternating classifers for verb
-[d,perf,gh]:                [d,perf,gh]:                [d,perf,gh]:                [d,perf,gh]:                jënąą:nąʼ[d,perf,gh]                # "drink"                   Lemma/3sg-impf this can also be conjugated in the 0cl gh-perf
-## [d,incp,dh]:             [d,incp,dh]:                [d,incp,dh]:                [d,incp,dh]:                jënąą:nąʼ[d,incp,dh]                # "drink"                   Lemma/3sg-impf
-[d,fut,0cm]:                [d,fut,0cm]:                [d,fut,0cm]:                [d,fut,0cm]:                jënąą:naw[d,fut,0cm]                # "drink"                   Lemma/3sg-impf there is also sometimes a second w, as well as unclear nasality
-[ł,impf,0cm]:               [ł,impf,0cm]:               [ł,impf,0cm]:               [ł,impf,0cm]:               öktseyy:tseyy[ł,impf,0cm]           # "make" (Make)             Lemma/1sg-impf 
-[ł,fut,0cm]:                [ł,fut,0cm]:                [ł,fut,0cm]:                [ł,fut,0cm]:                öktseyy:tseyy[ł,fut,0cm]            # "make"                    Lemma/1sg-impf  
-[ł,impf,0cm]:               [ł,impf,0cm]:               [ł,impf,0cm]:               [ł,impf,0cm]:               öktseyy:tsey[ł,impf,0cm]            # "make"                    Lemma/1sg-impf  Dir/LR
-[ł,perf,dh]:                [ł,perf,dh]:                [ł,perf,dh]:                [ł,perf,dh]:                öktseyy:tsąyy[ł,perf,dh]            # "make"                    Lemma/1sg-impf
-[ł,perf,dh]:                [ł,perf,dh]:                [ł,perf,dh]:                [ł,perf,dh]:                öktseyy:tsąy[ł,perf,dh]             # "make"                    Lemma/1sg-impf  Dir/LR
-[ł,impf,0cm]:               [ł,impf,0cm]<dir>:u>        [ł,impf,0cm]:               [ł,impf,0cm]:d>             udohkät:kät[ł,impf,0cm]             # "ask"                     Lemma/3sg-impf - d is sometimes j, add phonology rule?
-[ł,fut,0cm]:                [ł,fut,0cm]<dir>:u>         [ł,fut,0cm]:                [ł,fut,0cm]:d>              udohkät:kät[ł,fut,0cm]              # "ask"                     Lemma/3sg-impf   TODO: NEED TO FIND FILE AND GET 1SG-IMPF FORM
-[l,perf,gh]:                [l,perf,gh]<dir>:u>         [l,perf,gh]:                [l,perf,gh]:d>              udohkät:ket[l,perf,gh]              # "ask"                     Lemma/3sg-impf
-[0cl,impf,0cm]:             [0cl,impf,0cm]:             [0cl,impf,0cm]:             [0cl,impf,0cm]:             ihtröö:tröö[0cl,impf,0cm]           # "cry, weep" (CryWeep1)    Lemma/1sg-impf
-[0cl,impf,0cm]:             [0cl,impf,0cm]:             [0cl,impf,0cm]:             [0cl,impf,0cm]:             ihtröö:tröh[0cl,impf,0cm]           # "cry, weep"               Lemma/1sg-impf  Dir/LR
-[0cl,fut,0cm]:              [0cl,fut,0cm]:              [0cl,fut,0cm]:              [0cl,fut,0cm]:              ihtröö:tröö[0cl,fut,0cm]            # "cry, weep"               Lemma/1sg-impf
-[0cl,fut,0cm]:              [0cl,fut,0cm]:              [0cl,fut,0cm]:              [0cl,fut,0cm]:              ihtröö:tröh[0cl,fut,0cm]            # "cry, weep"               Lemma/1sg-impf  Dir/LR
-[0cl,perf,n]:               [0cl,perf,n]:               [0cl,perf,n]:               [0cl,perf,n]:               ihtröö:trö̀ʼ[0cl,perf,n]             # "cry, weep"               Lemma/1sg-impf
-[l,impf,0cm]:               [l,impf,0cm]:               [l,impf,0cm]:               [l,impf,0cm]:n>             jënochèe:chèe[l,impf,0cm]           # "turn over"(ANOturnOver1) Lemma/1sg-impf - missing jë prefix, what is it?
-[l,perf,dh]:                [l,perf,dh]:                [l,perf,dh]:                [l,perf,dh]:n>              jënochèe:chįį[l,perf,dh]            # "turn over"               Lemma/1sg-impf    
-[l,fut,0cm]:                [l,fut,0cm]:                [l,fut,0cm]:                [l,fut,0cm]:n>              jënochèe:chew[l,fut,0cm]            # "turn over"               Lemma/1sg-impf
-[ł,impf,0cm]:               [ł,impf,0cm]:               [ł,impf,0cm]:               [ł,impf,0cm]:n>             nöksreww:{Z}reww[ł,impf,0cm]        # "comb" (CombBrush1)       Lemma/1sg-impf
-[ł,fut,0cm]:                [ł,fut,0cm]:                [ł,fut,0cm]:                [ł,fut,0cm]:n>              nöksreww:{Z}reww[ł,fut,0cm]         # "comb"                    Lemma/1sg-impf
-[ł,impf,0cm]:               [ł,impf,0cm]:               [ł,impf,0cm]:               [ł,impf,0cm]:n>             nöksreww:{Z}rew[ł,impf,0cm]         # "comb"                    Lemma/1sg-impf  Dir/LR
-[ł,fut,0cm]:                [ł,fut,0cm]:                [ł,fut,0cm]:                [ł,fut,0cm]:n>              nöksreww:{Z}rew[ł,fut,0cm]          # "comb"                    Lemma/1sg-impf
-##[ł,perf,??]:                [ł,perf,??]:                [ł,perf,??]:                  [ł,perf,??]:n>            nöksreww:{Z}rew'[ł,perf,??]       # "comb"                    Lemma/1sg-impf not enough data to determine perfective conj marking
-[l,impf,0cm]:               [l,impf,0cm]:               [l,impf,0cm]:               [l,impf,0cm]:               chʼeydzöö:odzöö[l,impf,0cm]         # "dance" (Dance)           Lemma/1sg-impf - missing ch' prefix
-[l,fut,0cm]:                [l,fut,0cm]:                [l,fut,0cm]:                [l,fut,0cm]:                chʼeydzöö:odzöö[l,fut,0cm]          # "dance"                   Lemma/1sg-impf
-[l,impf,0cm]:               [l,impf,0cm]:               [l,impf,0cm]:               [l,impf,0cm]:               chʼeydzöö:odzöh[l,impf,0cm]         # "dance"                   Lemma/1sg-impf  Dir/LR
-[l,fut,0cm]:                [l,fut,0cm]:                [l,fut,0cm]:                [l,fut,0cm]:                chʼeydzöö:odzöh[l,fut,0cm]          # "dance"                   Lemma/1sg-impf
-[L,PErf,gh]:                [l,perf,gh]:                [l,perf,gh]:                [l,perf,gh]:                chʼeydzöö:odzö̀ʼ[l,perf,gh]          # "dance"                   Lemma/1sg-impf
-[l,impf,0cm]:               [l,impf,0cm]:               [l,impf,0cm]:               [l,impf,0cm]:               neyzrèe:zrèe[l,impf,0cm]            # "hunt around"(HuntAround2)Lemma/1sg-impf - missing perambulative "nä"
-[l,fut,0cm]:                [l,fut,0cm]:                [l,fut,0cm]:                [l,fut,0cm]:                neyzrèe:zrèe[l,fut,0cm]             # "hunt around"             Lemma/1sg-impf
-[l,perf,dh]:                [l,perf,dh]:                [l,perf,dh]:                [l,perf,dh]:                neyzrèe:zrèʼ[l,perf,dh]             # "hunt around"             Lemma/1sg-impf
+[l,impf,0cm]:               [l,impf,0cm]:               [l,impf,0cm]:               [l,impf,0cm]:n>             jënochèe:chèe[l,impf,0cm]           # "turn over"               (ANOturnOver1)              Lemma/1sg-impf - missing jë prefix, what is it?
+[l,perf,dh]:                [l,perf,dh]:                [l,perf,dh]:                [l,perf,dh]:n>              jënochèe:chįį[l,perf,dh]            # "turn over"               (ANOturnOver1)              Lemma/1sg-impf    
+[l,fut,0cm]:                [l,fut,0cm]:                [l,fut,0cm]:                [l,fut,0cm]:n>              jënochèe:chew[l,fut,0cm]            # "turn over"               (ANOturnOver1)              Lemma/1sg-impf
+[ł,impf,0cm]:               [ł,impf,0cm]:               [ł,impf,0cm]:j{E}{¨}>       [ł,impf,0cm]:               jënohtlòt:nohtlòt[ł,impf,0cm]       # "boil liquid caus."       (Boil1LiquidCaus)           Lemma/3sg-impf
+[ł,impf,0cm]:               [ł,impf,0cm]:               [ł,impf,0cm]:               [ł,impf,0cm]:n>             nöksreww:{Z}reww[ł,impf,0cm]        # "comb"                    (CombBrush1)                Lemma/1sg-impf
+[ł,fut,0cm]:                [ł,fut,0cm]:                [ł,fut,0cm]:                [ł,fut,0cm]:n>              nöksreww:{Z}reww[ł,fut,0cm]         # "comb"                    (CombBrush1)                Lemma/1sg-impf
+[ł,impf,0cm]:               [ł,impf,0cm]:               [ł,impf,0cm]:               [ł,impf,0cm]:n>             nöksreww:{Z}rew[ł,impf,0cm]         # "comb"                    (CombBrush1)                Lemma/1sg-impf  Dir/LR
+[ł,fut,0cm]:                [ł,fut,0cm]:                [ł,fut,0cm]:                [ł,fut,0cm]:n>              nöksreww:{Z}rew[ł,fut,0cm]          # "comb"                    (CombBrush1)                Lemma/1sg-impf
+# [ł,perf,??]:              [ł,perf,??]:                [ł,perf,??]:                [ł,perf,??]:n>              nöksreww:{Z}rew'[ł,perf,??]         #"comb"                     (CombBrush1)                Lemma/1sg-impf - not enough data to determine perfective conj marking
+[0cl,impf,0cm]:             [0cl,impf,0cm]:             [0cl,impf,0cm]:             [0cl,impf,0cm]:             ihtröö:tröö[0cl,impf,0cm]           # "cry, weep"               (CryWeep1)                  Lemma/1sg-impf
+[0cl,impf,0cm]:             [0cl,impf,0cm]:             [0cl,impf,0cm]:             [0cl,impf,0cm]:             ihtröö:tröh[0cl,impf,0cm]           # "cry, weep"               (CryWeep1)                  Lemma/1sg-impf  Dir/LR
+[0cl,fut,0cm]:              [0cl,fut,0cm]:              [0cl,fut,0cm]:              [0cl,fut,0cm]:              ihtröö:tröö[0cl,fut,0cm]            # "cry, weep"               (CryWeep1)                  Lemma/1sg-impf
+[0cl,fut,0cm]:              [0cl,fut,0cm]:              [0cl,fut,0cm]:              [0cl,fut,0cm]:              ihtröö:tröh[0cl,fut,0cm]            # "cry, weep"               (CryWeep1)                  Lemma/1sg-impf  Dir/LR
+[0cl,perf,n]:               [0cl,perf,n]:               [0cl,perf,n]:               [0cl,perf,n]:               ihtröö:trö̀ʼ[0cl,perf,n]             # "cry, weep"               (CryWeep1)                  Lemma/1sg-impf
+[l,impf,0cm]:               [l,impf,0cm]:               [l,impf,0cm]:               [l,impf,0cm]:               chʼeydzöö:odzöö[l,impf,0cm]         # "dance"                   (Dance)                     Lemma/1sg-impf - missing ch' prefix
+[l,fut,0cm]:                [l,fut,0cm]:                [l,fut,0cm]:                [l,fut,0cm]:                chʼeydzöö:odzöö[l,fut,0cm]          # "dance"                   (Dance)                     Lemma/1sg-impf
+[l,impf,0cm]:               [l,impf,0cm]:               [l,impf,0cm]:               [l,impf,0cm]:               chʼeydzöö:odzöh[l,impf,0cm]         # "dance"                   (Dance)                     Lemma/1sg-impf  Dir/LR
+[l,fut,0cm]:                [l,fut,0cm]:                [l,fut,0cm]:                [l,fut,0cm]:                chʼeydzöö:odzöh[l,fut,0cm]          # "dance"                   (Dance)                     Lemma/1sg-impf
+[L,PErf,gh]:                [l,perf,gh]:                [l,perf,gh]:                [l,perf,gh]:                chʼeydzöö:odzö̀ʼ[l,perf,gh]          # "dance"                   (Dance)                     Lemma/1sg-impf
+[ł,impf,0cm]:               [ł,impf,0cm]<dir>:u>        [ł,impf,0cm]:               [ł,impf,0cm]:d>             udohkät:kät[ł,impf,0cm]             # "ask"                     (DID NOT FIND FILE NAME)    Lemma/3sg-impf - d is sometimes j, add phonology rule?
+[ł,fut,0cm]:                [ł,fut,0cm]<dir>:u>         [ł,fut,0cm]:                [ł,fut,0cm]:d>              udohkät:kät[ł,fut,0cm]              # "ask"                     (DID NOT FIND FILE NAME)    Lemma/3sg-impf - TODO: NEED TO FIND FILE AND GET 1SG-IMPF FORM
+[l,perf,gh]:                [l,perf,gh]<dir>:u>         [l,perf,gh]:                [l,perf,gh]:d>              udohkät:ket[l,perf,gh]              # "ask"                     (DID NOT FIND FILE NAME)    Lemma/3sg-impf
+[d,impf,0cm]:               [d,impf,0cm]:               [d,impf,0cm]:               [d,impf,0cm]:               ishnąą:nąą[d,impf,0cm]              # "drink"                   (Drink)                     Lemma/1sg-impf 
+[0cl,impf,0cm]:             [0cl,impf,0cm]:             [0cl,impf,0cm]:             [0cl,impf,0cm]:             ihnąą:nąą[0cl,impf,0cm]             # "drink"                   (Drink)                     Lemma/1sg-impf  Dir/LR  alternating classifers for verb
+[d,perf,gh]:                [d,perf,gh]:                [d,perf,gh]:                [d,perf,gh]:                jënąą:nąʼ[d,perf,gh]                # "drink"                   (Drink)                     Lemma/3sg-impf - this can also be conjugated in the 0cl gh-perf
+# [d,incp,dh]:              [d,incp,dh]:                [d,incp,dh]:                [d,incp,dh]:                jënąą:nąʼ[d,incp,dh]                # "drink"                   (Drink)                     Lemma/3sg-impf
+[d,fut,0cm]:                [d,fut,0cm]:                [d,fut,0cm]:                [d,fut,0cm]:                jënąą:naw[d,fut,0cm]                # "drink"                   (Drink)                     Lemma/3sg-impf - there is also sometimes a second w, as well as unclear nasality
+[l,impf,0cm]:nä>            [l,impf,0cm]:               [l,impf,0cm]:               [l,impf,0cm]:               nä’aww:’àww[l,impf,0cm]             # "eat"                     (Eat)                       Lemma/3sg-impf
+[l,perf,dh]:nä>             [l,perf,dh]:                [l,perf,dh]:                [l,perf,dh]:                 nädhozrèe:ozrèe[l,perf,dh]         # "hunt around"             (HuntAround2)                              - RB, confirm this lemma and prefix
+[l,impf,0cm]:               [l,impf,0cm]:               [l,impf,0cm]:               [l,impf,0cm]:               neyzrèe:zrèe[l,impf,0cm]            # "hunt around"             (HuntAround2)               Lemma/1sg-impf - missing perambulative "nä"
+[l,fut,0cm]:                [l,fut,0cm]:                [l,fut,0cm]:                [l,fut,0cm]:                neyzrèe:zrèe[l,fut,0cm]             # "hunt around"             (HuntAround2)               Lemma/1sg-impf
+[l,perf,dh]:                [l,perf,dh]:                [l,perf,dh]:                [l,perf,dh]:                neyzrèe:zrèʼ[l,perf,dh]             # "hunt around"             (HuntAround2)               Lemma/1sg-impf
+[0cl,fut,0cm]:              [0cl,fut,0cm]:              [0cl,fut,0cm]:              [0cl,fut,0cm]:              ihdlòo:dlòo[0cl,fut,0cm]            # "laugh"                   (Laugh)                     Lemma/1sg-impf
+[0cl,impf,0cm]:             [0cl,impf,0cm]:             [0cl,impf,0cm]:             [0cl,impf,0cm]:             ihdlòo:dlòo[0cl,impf,0cm]           # "laugh"                   (Laugh)                     Lemma/1sg-impf
+[0cl,impf,0cm]:             [0cl,impf,0cm]:             [0cl,impf,0cm]:             [0cl,impf,0cm]:             ihdlòo:dlòh[0cl,impf,0cm]           # "laugh"                   (Laugh)                     Lemma/1sg-impf  Dir/LR
+[0cl,fut,0cm]:              [0cl,fut,0cm]:              [0cl,fut,0cm]:              [0cl,fut,0cm]:              ihdlòo:dlòh[0cl,fut,0cm]            # "laugh"                   (Laugh)                     Lemma/1sg-impf  Dir/LR
+[0cl,perf,n]:               [0cl,perf,n]:               [0cl,perf,n]:               [0cl,perf,n]:               ihdlòo:dlòʼ[0cl,perf,n]             # "laugh"                   (Laugh)                     Lemma/1sg-impf
+[ł,impf,0cm]:               [ł,impf,0cm]:               [ł,impf,0cm]:               [ł,impf,0cm]:               öktseyy:tseyy[ł,impf,0cm]           # "make"                    (Make)                      Lemma/1sg-impf 
+[ł,fut,0cm]:                [ł,fut,0cm]:                [ł,fut,0cm]:                [ł,fut,0cm]:                öktseyy:tseyy[ł,fut,0cm]            # "make"                    (Make)                      Lemma/1sg-impf  
+[ł,impf,0cm]:               [ł,impf,0cm]:               [ł,impf,0cm]:               [ł,impf,0cm]:               öktseyy:tsey[ł,impf,0cm]            # "make"                    (Make)                      Lemma/1sg-impf  Dir/LR
+[ł,perf,dh]:                [ł,perf,dh]:                [ł,perf,dh]:                [ł,perf,dh]:                öktseyy:tsąyy[ł,perf,dh]            # "make"                    (Make)                      Lemma/1sg-impf
+[ł,perf,dh]:                [ł,perf,dh]:                [ł,perf,dh]:                [ł,perf,dh]:                öktseyy:tsąy[ł,perf,dh]             # "make"                    (Make)                      Lemma/1sg-impf  Dir/LR
+[l,impf,0cm]:               [l,impf,0cm]:               [l,impf,0cm]:               [l,impf,0cm]:n>             neyjät:jät[l,impf,0cm]              # "scare"                   (ScareScared1)              Lemma/1sg-impf
+[l,fut,0cm]:                [l,fut,0cm]:                [l,fut,0cm]:                [l,fut,0cm]:n>              neyjät:jät[l,fut,0cm]               # "scare"                   (ScareScared1)              Lemma/1sg-impf
+[l,perf,0cm]:               [l,perf,0cm]:               [l,perf,0cm]:               [l,perf,0cm]:n>             neyjät:jät[l,perf,n]                # "scare"                   (ScareScared1)              Lemma/1sg-impf
+[l,impf,fut,0cm]:           [l,impf,fut,0cm]:           [l,impf,fut,0cm]:           [l,impf,fut,0cm]:n>         neyjät:jöt[l,impf,fut,0cm]          # "scare"                   (ScareScared1)              Lemma/1sg-impf  Dir/LR  
+[l,perf,gh]:                [l,perf,gh]:                [l,perf,gh]:                [l,perf,gh]:n>              neyjät:jït[l,perf,gh]               # "scare"                   (ScareScared1)              Lemma/1sg-impf  Dir/LR
+[l,perf,gh]:                [l,perf,gh]:                [l,perf,gh]:                [l,perf,gh]:n>              neyjät:jö̀t[l,perf,gh]               # "scare"                   (ScareScared1)              Lemma/1sg-impf  Dir/LR
+[ł,impf,0cm]:               [ł,impf,0cm]:               [ł,impf,0cm]:               [ł,impf,0cm]:n>             nök-ʼįį:ʼįį[ł,impf,0cm]             # "see"                     (SeeA)                      Lemma/1sg-impf 
+[ł,impf,0cm]:               [ł,impf,0cm]:               [ł,impf,0cm]:               [ł,impf,0cm]:n>             nök-ʼįį:ʼįh[ł,impf,0cm]             # "see"                     (SeeA)                      Lemma/1sg-impf  Dir/LR
+[ł,perf,n]:                 [ł,perf,n]:                 [ł,perf,n]:                 [ł,perf,n]:n>               nök-ʼįį:ʼį̀ʼ[ł,perf,n]               # "see"                     (SeeA)                      Lemma/1sg-impf
+[ł,perf,n]:                 [ł,perf,n]:                 [ł,perf,n]:                 [ł,perf,n]:n>               nök-ʼįį:ʼį[ł,perf,n]                # "see                      (SeeA)                      Lemma/1sg-impf  Dir/LR
+[ł,fut,0cm]:                [ł,fut,0cm]:                [ł,fut,0cm]:                [ł,fut,0cm]:n>              nök-ʼįį:ʼį̀ww[ł,fut,0cm]             # "see"                     (SeeA)                      Lemma/1sg-impf
+[ł,impf,0cm]:               [ł,impf,0cm]:               [ł,impf,0cm]:               [ł,impf,0cm]:n>             nök-ʼįį:{-}ʼįį[ł,impf,0cm]          # "see"                     (SeeA)                      Lemma/1sg-impf  Dir/LR     
+[ł,impf,0cm]:               [ł,impf,0cm]:               [ł,impf,0cm]:               [ł,impf,0cm]:n>             nök-ʼįį:{-}ʼįh[ł,impf,0cm]          # "see"                     (SeeA)                      Lemma/1sg-impf  Dir/LR
+[ł,perf,n]:                 [ł,perf,n]:                 [ł,perf,n]:                 [ł,perf,n]:n>               nök-ʼįį:{-}ʼį̀ʼ[ł,perf,n]            # "see"                     (SeeA)                      Lemma/1sg-impf  Dir/LR
+[ł,perf,n]:                 [ł,perf,n]:                 [ł,perf,n]:                 [ł,perf,n]:n>               nök-ʼįį:{-}ʼį[ł,perf,n]             # "see"                     (SeeA)                      Lemma/1sg-impf  Dir/LR
+[ł,fut,0cm]:                [ł,fut,0cm]:                [ł,fut,0cm]:                [ł,fut,0cm]:n>              nök-ʼįį:{-}ʼį̀ww[ł,fut,0cm]          # "see"                     (SeeA)                      Lemma/1sg-impf  Dir/LR
+# [0cl,perf,dh]:            [0cl,perf,dh]:              [0cl,perf,dh]:              [0cl,perf,dh]:              ä’netl’ǫǫ:tl’ǫǫ[0cl,perf,dh]        #"tie, sew"                 (TieSew)                                   - TODO: Add form? -RB
+# [0cl,impf,0cm]:           [0cl,impf,0cm]:             [0cl,impf,0cm]:             [0cl,impf,0cm]:             ä̀htyënètl’ùt:[0cl,impf,0cm]         #"tie, sew"                 (TieSew)                    Lemma/3sg-impf
+# [l,impf,0cm]:             [l,impf,0cm]:               [l,impf,0cm]:               [l,impf,0cm]:               nënä̀tąyy:tąyy[l,impf,0cm]           #"visit, keep visiting"     (VisitKeepVisiting)                        - TODO: ADD FORM -RB
+[0cl,impf,0cm]:             [0cl,impf,0cm]:             [0cl,impf,0cm]:             [0cl,impf,0cm]:             ihsrök:{Z}rök[0cl,impf,0cm]         # "yell"                    (YellA1)                    Lemma/1sg-impf  
+[0cl,perf,0cm]:             [0cl,perf,0cm]:             [0cl,perf,0cm]:             [0cl,perf,0cm]:             ihsrök:{Z}rök[0cl,perf,n]           # "yell"                    (YellA1)                    Lemma/1sg-impf
+[0cl,fut,0cm]:              [0cl,fut,0cm]:              [0cl,fut,0cm]:              [0cl,fut,0cm]:              ihsrök:{Z}rök[0cl,fut,0cm]          # "yell"                    (YellA1)                    Lemma/1sg-impf
+## [0cl,incp,dh]:           [0cl,incp,dh]:              [0cl,incp,dh]:              [0cl,incp,dh]:              ihsrök:{Z}rök[0cl,incp,dh]          # "yell"                    (YellA1)                    Lemma/1sg-impf - Why is this commented out? -RB
+
 
 #working guessers TV
 # FIXME: the 0cl,0cm guesser line makes the entire guesser not work
@@ -628,11 +626,10 @@ LEXICON PrepositionPrefixes(2)
 LEXICON Conjunctions(2)
 # conjunction                           gloss       commands        comments
 
-tsʼą̈̀ʼ:tsʼą̈̀ʼ     <cnjcoo>:               # "and"
 etsänn:etsänn   <cnjcoo>:               # "and"
 etsän:etsän     <cnjcoo>:               # "and"     Dir/LR          (likely incorrect)
+tsʼą̈̀ʼ:tsʼą̈̀ʼ     <cnjcoo>:               # "and"
 tʼoo:tʼoo       <cnjcoo>:               # "but"
-
 
 LEXICON Prepositions
 # preposition    gloss          commands        comments
@@ -642,15 +639,15 @@ ezheyy:ëzheyy   # "there"       Dir/LR
 ghat:ghat       # "by"
 haa:haa         # "for"
 het:het         # "near"
-hèe:hèe         # "with"
 huwèe:huwèe     # "with them"                   FIXME: already possessed?
+hèe:hèe         # "with"
 kayy:kayy       # "on"
-kʼämën:kʼämën   # "around"
 kʼǫ̈ǫ̈:kʼǫ̈ǫ̈       # "over"
-nä̀zheyy:nä̀zheyy # "down, below, under"
+kʼämën:kʼämën   # "around"
 nnenn:nnenn     # "over"                        what is the distinciton between these two? - RB
-tsʼänn:tsʼänn   # "from, away from"
+nä̀zheyy:nä̀zheyy # "down, below, under"
 tsʼą̈̀ʼ:tsʼą̈̀ʼ     # "to, towards"
+tsʼänn:tsʼänn   # "from, away from"
 tłänn:tłänn     # "after"
 tłänn:tłä̀nn     # "after"       Dir/LR
 zhìt:zhìt       # "in"
@@ -659,8 +656,8 @@ zhìt:zhìt       # "in"
 LEXICON Adjectives
 # adjective         gloss             commands        comments
 
-choo:choh           # "big"           Dir/LR
 choo:choo           # "big"
+choo:choh           # "big"           Dir/LR
 dhaww:dhaww         # "hot"
 dhëberr:dhëberr     # "boiled"
 dhëchʼee:dhëchʼee   # "fried"
@@ -678,78 +675,185 @@ tlät:tlät           # "fat"
 tsöll:tsöll         # "small"
 tʼäww:tʼäww         # "red, raw"
 tʼöö:tʼöö           # "cooked"
-zų̀ʼ:zùʼ             # "beautiful"     Dir/LR          FIXME: Err/Orth
 zų̀ʼ:zų̀ʼ             # "beautiful"
-
+zų̀ʼ:zùʼ             # "beautiful"     Dir/LR          FIXME: Err/Orth
 
 LEXICON Determiners(2)
 # determiner            tag         gloss               commands    comments
 
-eyy:eyy                  <dem>:     # "that"
 chʼèe:chʼèe              <ind>:     # "a"
+eyy:eyy                  <dem>:     # "that"
 hontlʼät:hontlʼät        <qnt>:     # "lots, a lot"
 
 
 LEXICON ProperNouns(2)
 # proper noun           tag         comments          
 
-Bert:Bert               <ant>:
-Didą̀:Didą̀               <ant>:      #RR grandchild
 Didą̀ʼ:Didą̀ʼ             <ant>:      #RR grandchild
+Michael:Michael         <ant>:      #RR grandchild
+Didą̀:Didą̀               <ant>:      #RR grandchild
+Willem:Willem           <ant>:
+Bert:Bert               <ant>:
 Eagle:Eagle             <top>:
-Ethel:Ethel             <ant>:
 Fairbanks:Fairbanks     <top>:
 Jody:Jody               <ant>:
+Ethel:Ethel             <ant>:
 John:John               <ant>:
-Michael:Michael         <ant>:      #RR grandchild
-Willem:Willem           <ant>:
 
 
 LEXICON ModalWord (2)
 # modal      pattern     gloss                  comments
 
-nöö:nöö      :          #our one focus marker-  is foc a good tag?
-kǒo:kǒo      :          #negation
-įh:įh      <plural>:    #pluralizer             maybe don't want a separate tag for this?  discuss -JNW
 in:in      <plural>:    #pluralizer
+įh:įh      <plural>:    #pluralizer             maybe don't want a separate tag for this?  discuss -JNW
+kǒo:kǒo      :          #negation
+nöö:nöö      :          #our one focus marker-  is foc a good tag?
 
 
 LEXICON NounRoot[bare,possessed]
-# bare means can stand on its own
-# possessed means can combined with possessive prefixes
-
 # root                                                      gloss                           bare?       +poss?      commands    comments
 
-Dänzhìt\ hwëch’inn:Dänzhèt\ hwëch’enn  ###  move to Proper? # "Circle City People"          bare        possessed   Dir/LR
-Dänzhìt\ hwëch’inn:Dänzhìt\ hwëch’inn   ### move to Proper? # "Circle City People           bare        possessed # FIXME: is this not compositional?  if so, it should probably be a proper noun and a common noun
-Dä̀htl’ah\ Choo:Dä̀htl’ah\ Choo                               # "Bible"                       bare        possessed
-ajee\ tthit:ajee\ tthit[-bare]                              # "oldest sister"               =           possessed 
 äjee:äjee[-bare]                                            # "older sister"                =           possessed 
+ajee\ tthit:ajee\ tthit[-bare]                              # "oldest sister"               =           possessed 
 äk’ayy:äk’ayy[-bare]                                        # "aunt"                        =           possessed 
-chaa:chaa                                                   # "boy"                         bare        possessed
-chaww:chaww                                                 # "three"                       bare        possessed
 chà’:chà’[-bare]                                            # "father"                      =           possessed
-chäghänn:chäghänn                                           # "woman, old"                  bare        possessed
-chehłuu:chehłuu                                             # "burbot fish"                 bare        possessed
-chin:chin                                                   # "bucket"                      bare        possessed
-chin\ wëchèʼ\ hònlįh:chin\ wëchèʼ\ hònlįh                   # "dipper"                      bare        possessed
 choo:choo[-bare]                                            # "younger brother"             =           possessed
-choo:choo[-bare]                                            # "younger brother"             bare        possessed
 chòo\ hąyts’änn:chòo\ hąts’änn[-bare]                       # "youngest brother"            =           possessed
-chugah:chugah                                               # "bird"                        bare        possessed
+e’ee:e’ee[-bare]                                            # "uncle"                       =           possessed
+gaa:gaa[-bare]                                              # "child"                       =           possessed
+jaa:jaa[-bare]                                              # "friend"                      =           possessed
+jèww:jèww[-bare]                                            # "younger sister"              =           possessed
+jèww\ hąyts’änn:jèww\ hąyts’änn[-bare]                      # "youngest sister"             =           possessed
+nąą:nąą[-bare]                                              # "mother"                      =           possessed 
+ondayy:ondayy[-bare]                                        # "older brother"               =           possessed 
+ondayy\ tthit:ondayy\ tthit[-bare]                          # "oldest brother"              =           possessed 
+tseyy:tseyy[-bare]                                          # "grandfather"                 =           possessed 
+tsǫǫ:tsǫǫ[-bare]                                            # "grandmother"                 =           possessed 
+zhoh\ k’öö:zhoh\ k’öö[-bare]                                # "family"                      -           possessed
+chaww:chaww                                                 # "three"                       bare        possessed
+dą̈̀htl’ah:dą̈̀htl’ah                                           # "paper"                       bare        possessed                New dictionary refers to this as "bills" and "book" and "credit" and "debt" and 2 other def.s(pg34), how to best proceed? -RB
+ddhäw:ddhäw                                                 # "mountain"                    bare        possessed
+dhö̀ö:dhö̀ö                                                   # "skin, covering"              bare        possessed
+dleyy:dleyy                                                 # "squirrel"                    bare        possessed
+drinn:drinn                                                 # "day"                         bare        possessed
+dzänn:dzänn                                                 # "muskrat"                     bare        possessed
+gah:gah                                                     # "rabbit"                      bare        possessed
+hintsi’:hintsi’                                             # "loves"                       bare        possessed
+iww:iww                                                     # "beads"                       bare        possessed
+hèw:hèw                                                     # "trap"                        bare        possessed
+tsàʼ:tsàʼ                                                   # "beaver"                      bare        possessed
+töö:töö                                                     # "night"                       bare        possessed
+tąyy:tąyy                                                   # "path"                        bare        possessed
+kʼä̀hmä̀ʼ:kʼä̀hmä̀ʼ                                             # "morning"                     bare        possessed
+łuu:łuu                                                     # "fish"                        bare        possessed
+tsʼeyy:tsʼeyy                                               # "porcupine"                   bare        possessed
+tʼąychànn:tʼąychànn                                         # "frypan"                      bare        possessed
+jeyy:jeyy                                                   # "blueberry"                   bare        possessed
+chaa:chaa                                                   # "boy"                         bare        possessed
+zhoo:zhoo                                                   # "house"                       bare        possessed
+wëdzey:wëdzey                                               # "caribou"                     bare        possessed
+shär:shär                                                   # "bear"                        bare        possessed
+tthechuu:tthechuu                                           # "river"                       bare        possessed
+khayy:khayy                                                 # "winter"                      bare        possessed
 chuu:chuu                                                   # "water"                       bare        possessed
-chuu\ chin:chuu\ chin                                       # "cup"                         bare        possessed
-chʼëghö̀rr:chʼëghö̀rr                                         # "eggs"                        bare        possessed
-chʼë̀zhànn:chʼë̀zhànn                                         # "eagle"                       bare        possessed
-chʼìtseyy:chitseyy                                          # "metal, stove"                bare        possessed   Dir/LR                 
+jëjee:jëjee                                                 # "man"                         bare        possessed
+jëjee\ įh:jëjee\ įh                                         # "people"                      bare        possessed
+trʼinjàa:trʼinjàa                                           # "woman"                       bare        possessed
+trʼinjàa:trʼìnjàa                                           # "woman"                       bare        possessed   Dir/LR
+tthök:tthök                                                 # "fence"                       bare        possessed
+juu:juu                                                     # "island"                      bare        possessed
 chʼìtseyy:chʼìtseyy                                         # "metal, stove"                bare        possessed
+chʼìtseyy:chitseyy                                          # "metal, stove"                bare        possessed   Dir/LR                 
+ëtsʼänn:ëtsʼänn                                             # "duck"                        bare        possessed
+chäghänn:chäghänn                                           # "woman, old"                  bare        possessed
+trʼinìnn:trʼinìnn                                           # "child"                       bare        possessed
+trʼinkee:trʼinkee                                           # "children"                    bare        possessed
+trʼinkee:trʼinkèe                                           # "children"                    bare        possessed   Dir/LR
+nägöö:nägöö                                                 # "fox"                         bare        possessed
+trʼechoo:trʼechoo                                           # "boat"                        bare        possessed
+tsʼat:tsʼat                                                 # "hat"                         bare        possessed
+sraa:sraa                                                   # "sun"                         bare        possessed
+jǫ̀rr\ baa:jǫ̀rr\ baa                                         # "blue jay"                    bare        possessed
+lëjii:lëjii                                                 # "tea"                         bare        possessed
+männ:männ                                                   # "lake"                        bare        possessed
+shih:shih                                                   # "food"                        bare        possessed
+tölut:tölut                                                 # "hard snow road"              bare        possessed
+thay:thay                                                   # "belt"                        bare        possessed
+tthee:tthee                                                 # "rock"                        bare        possessed
+zhùr:zhùr                                                   # "wolf"                        bare        possessed
+sree:sree                                                   # "knife"                       bare        possessed
+tloo:tloo                                                   # "salve"                       bare        possessed
+känträn:känträn                                             # "slipper, moccasin"           bare        possessed
+naä̀ghayy:nä̀ghayy                                            # "frog"                        bare        possessed
+khaytsʼą̈̀ʼ:khaytsʼą̈̀ʼ                                         # "autumn"                      bare        possessed
+łą̌yy:łą̌yy[-possessed]                                       # "dog"                         bare        -
+łą̌yy:lìngʼ[-bare]                                           # "dog"                         -           possessed
+kʼàyʼ:kʼàyʼ                                                 # "willow"                      bare        possessed
+tʼëgaa:tʼëgaa                                               # "girl"                        bare        possessed
+tsʼoo:tsʼoo                                                 # "spruce tree"                 bare        possessed
+tthʼàk\ ghörr:tthʼàk\ ghörr                                 # "dish"                        bare        possessed
+koy:koy                                                     # "vomit"                       bare        possessed
+jëjezhuu:jëjezhuu                                           # "native person"               bare        possessed
+nunn:nunn                                                   # "animal"                      bare        possessed
+nìnjuu\ gah:nìnjuu\ gah                                     # "cat"                         bare        possessed
+jëjuu:jëjuu                                                 # "moose"                       bare        possessed
+tsàʼ:tsàʼ                                                   # "beaver"                      bare        possessed
+łąyy\ choh:łąyy\ choh                                       # "horse"                       bare        possessed
+shä̀tsöö:shä̀tsöö                                             # "mouse"                       bare        possessed
+jëbee:jëbee                                                 # "sheep"                       bare        possessed
+tsiww:tsiww                                                 # "marten"                      bare        possessed
+chugah:chugah                                               # "bird"                        bare        possessed
+tätrą̀ʼ:tätrą̀ʼ                                               # "raven"                       bare        possessed
+dey:dey                                                     # "(spruce) grouse"             bare        possessed
+tsegàʼ:tsegàʼ                                               # "snipe"                       bare        possessed
+khah:khah                                                   # "goose"                       bare        possessed
+jew:jew                                                     # "crane"                       bare        possessed
+chʼë̀zhànn:chʼë̀zhànn                                         # "eagle"                       bare        possessed
+chehłuu:chehłuu                                             # "burbot fish"                 bare        possessed
+łuu\ choo:łuu\ choo                                         # "king salmon"                 bare        possessed
+theyy:theyy                                                 # "chum, dog salmon"            bare        possessed
+nehjèʼ:nehjèʼ                                               # "man, old"                    bare        possessed
+trʼinìnn\ tsöll:trʼinìnn\ tsöll                             # "baby"                        bare        possessed
+lë̀seww:lë̀seww                                               # "salt"                        bare        possessed
+ǹląyy\ tlorr:ǹląyy\ tlorr                                   # "meat and gravy,stew"         bare        possessed   
+ǹląyy:ǹląyy                                                 # "meat"                        bare        possessed
+ǹląyy\ gąyy:ǹląyy\ gąyy                                     # "dried meat"                  bare        possessed
+dzèh                                                        # "chewing gum"                 bare        possessed
+łèw:łèw                                                     # "bread, flour"                bare        possessed
+łèw\ gąyy:łèw\ gąyy                                         # "crackers, pilot bread"       bare        possessed
+songą̀yy:songą̀yy                                             # "sugar"                       bare        possessed
+chʼëghö̀rr:chʼëghö̀rr                                         # "eggs"                        bare        possessed
+jěyy:jěyy                                                   # "berries"                     bare        possessed
+nintlʼät:nintlʼät                                           # "low bush cranberries"        bare        possessed
+trʼänttheww:trʼänttheww                                     # "high bush cranberries"       bare        possessed
+ninchǫ̀ʼ:ninchǫ̀ʼ                                             # "rose hips"                   bare        possessed
+łuu\ gʼąyy:łuu\ gʼąyy                                       # "dried fish"                  bare        possessed
+łuu\ tʼaa:łuu\ tʼaa                                         # "salmon, fish belly"          bare        possessed
+łuu\ nä̀nʼ:łuu\ nä̀nʼ                                         # "fish backbone"               bare        possessed
+łèw\ tʼöö:łèw\ tʼöö                                         # "fry bread (lit. cooked bread)"bare       possessed
+łèw\ tʼöö:łèw\ dhëchʼee                                     # "fry bread"                   bare        possessed               # FIXME: either include Dir/LR or make the left side the same as the right side
+chin:chin                                                   # "bucket"                      bare        possessed
+chuu\ chin:chuu\ chin                                       # "cup"                         bare        possessed
+chin\ wëchèʼ\ hònlįh:chin\ wëchèʼ\ hònlįh                   # "dipper"                      bare        possessed
+itseyy\ gùk:itseyy\ gùk                                     # "fork"                        bare        possessed
+kʼä̀htsäww:kʼä̀htsäww                                         # "spoon"                       bare        possessed
 chʼìtsèyy\ tlʼaa:chʼìtsèyy\ tlʼaa                           # "oven"                        bare        possessed
 chʼìtsèyy\ tlʼaa\ tʼàychènn:chʼìtsèyy\ tlʼaa\ tʼàychènn     # "ovenpan"                     bare        possessed
-dahzhää’:dahzhää’                                           # "snow on branches"            bare        possessed
-dats’enn:dats’enn                                           # "humpback whitefish"          bare        possessed
-daydhoo:daydhoo                                             # "scraper for skin (stone)"    bare        possessed
-dàydhoo:dàydhoo                                             # "scraper for skin (stone)"    bare        possessed   Dir/LR
+lëjìi\ chin:lëjìi\ chin                                     # "tea kettle"                  bare        possessed
+wëkayy\ chʼiʼaww:wëkayy\ chʼiʼaww                           # "table"                       bare        possessed
+wëkayy\ däʼdrètthit:wëkayy\ däʼdrètthit                     # "chair"                       bare        possessed
+
+
+# New Dictionary - Section D -d
+# root                                                      gloss                           bare?       +poss?      commands    comments
+
+dä̀’ä̀lann\ ch’į’àa’:dä̀’ä̀lann\ ch’į’àa’                       # "stone axe"                   bare        possessed
+dä̀baww:dä̀baww                                               # "door"                        bare        possessed
+dä̀baww\ tthì’:dä̀baww\ tthì’                                 # "door knob"                   bare        possessed
+dä̀baww\ tthè’:dä̀baww\ tthè’                                 # "door knob"                   bare        possessed   Dir/LR 
 däbä̀ww’:däbä̀ww’                                             # "lips"                        bare        possessed
+dä̀’ëlànn:dä̀’ëlànn                                           # "old timer"                   bare        possessed
+dä̀’ëlànn:dä̀’ë̀lenn                                           # "old tiemr"                   bare        possessed   Dir/LR
 däghà:däghà                                                 # "whiskers"                    bare        possessed
 däghä̀nn’:däghä̀nn’                                           # "rib cage"                    bare        possessed
 dähdräw:dähdräw                                             # "cache"                       bare        possessed
@@ -760,157 +864,50 @@ dähsroo:dähsroo                                             # "canvas"      
 dähsroo:dähsroo                                             # "towel"                       bare        possessed
 dähsroo\ tr’ey:dähsroo\ tr’ey                               # "canvas canoe"                bare        possessed
 dähsroo\ tsöll:dähsroo\ tsöll                               # "wash rag"                    bare        possessed
+Dä̀htl’ah\ Choo:Dä̀htl’ah\ Choo                               # "Bible"                       bare        possessed
 dähtsaa:dähtsaa                                             # "rack cache"                  bare        possessed
 dähtsaa:dähtsah                                             # "rack cache"                  bare        possessed   Dir/LR
+dahzhää’:dahzhää’                                           # "snow on branches"            bare        possessed
 dähzhrùu’:dähzhrùu’                                         # "roof"                        bare        possessed
+dä’idhoo:dä’idhoo                                           # "scraper for skin (stone)"    bare        possessed
+dä’idhoo:dä̀’idhoo                                           # "scraper for skin (stone)     bare        possessed   Dir/LR
 däk’aww:däk’aww                                             # "rock ptarmigan"              bare        possessed
-dänoją̀’\ jëjee\ įh:dänoją̀’\ jëjee\ ęh                       # "people of long ago"          bare        possessed   Dir/LR
 dänoją̀’\ jëjee\ įh:dänoją̀’\ jëjee\ įh                       # "people of long ago"          bare        possessed
-dät’ö̀h:dät’ö̀h                                               # "white-fronted goose"         bare        possessed
-däw:däw                                                     # "blood"                       bare        possessed
-däw\ nghä̀w:däw\ nghä̀w                                       # "blood clot"                  bare        possessed
-däww:däww                                                   # "log splitter"                bare        possessed           #again, has numerous definitions (pg 34)
-däzhìi’:däzhìi’                                             # "breath"                      bare        possessed
-däzhurr:däzhurr                                             # "voice"                       bare        possessed           #variant that I want to double check with someone - RB
-däzrąyy:däzrąyy                                             # "spades (cards)"              bare        possessed
-dä̀baww:dä̀baww                                               # "door"                        bare        possessed
-dä̀baww\ tthè’:dä̀baww\ tthè’                                 # "door knob"                   bare        possessed   Dir/LR 
-dä̀baww\ tthì’:dä̀baww\ tthì’                                 # "door knob"                   bare        possessed
+dänoją̀’\ jëjee\ įh:dänoją̀’\ jëjee\ ęh                       # "people of long ago"          bare        possessed   Dir/LR
+Dänzhìt\ hwëch’inn:Dänzhìt\ hwëch’inn   ### move to Proper? # "Circle City People           bare        possessed # FIXME: is this not compositional?  if so, it should probably be a proper noun and a common noun
+Dänzhìt\ hwëch’inn:Dänzhèt\ hwëch’enn  ###  move to Proper? # "Circle City People"          bare        possessed   Dir/LR
 dä̀tleh:dä̀tleh                                               # "soap"                        bare        possessed
 dä̀tleh:dä̀tlèh                                               # "soap"                        bare        possessed   Dir/LR
 dä̀tleh\ tth’àk\ choo:dä̀tleh\ tth’àk\ choo                   # "wash tub"                    bare        possessed
-dä̀’ä̀lann\ ch’į’àa’:dä̀’ä̀lann\ ch’į’àa’                       # "stone axe"                   bare        possessed
-dä̀’ëlànn:dä̀’ëlànn                                           # "old timer"                   bare        possessed
-dä̀’ëlànn:dä̀’ë̀lenn                                           # "old tiemr"                   bare        possessed   Dir/LR
-dä’idhoo:dä̀’idhoo                                           # "scraper for skin (stone)     bare        possessed   Dir/LR
-dä’idhoo:dä’idhoo                                           # "scraper for skin (stone)"    bare        possessed
-dąyy:dąyy                                                   # "late spring"                 bare        possessed
-dą̈̀htl’ah:dą̈̀htl’ah                                           # "paper"                       bare        possessed                New dictionary refers to this as "bills" and "book" and "credit" and "debt" and 2 other def.s(pg34), how to best proceed? -RB
+dät’ö̀h:dät’ö̀h                                               # "white-fronted goose"         bare        possessed
+dats’enn:dats’enn                                           # "humpback whitefish"          bare        possessed
 dą̈̀htl’ah\ chu’:dą̈̀htl’ah\ chu’                               # "ink"                         bare        possessed
 dą̈̀htl’ah\ tąy’:dą̈̀htl’ah\ tąy’                               # "pen, pencil"                 bare        possessed
-ddhäw:ddhäw                                                 # "mountain"                    bare        possessed
+dąyy:dąyy                                                   # "late spring"                 bare        possessed
+däw:däw                                                     # "blood"                       bare        possessed
+däw\ nghä̀w:däw\ nghä̀w                                       # "blood clot"                  bare        possessed
+däww:däww                                                   # "log splitter"                bare        possessed           #again, has numerous definitions (pg 34)
+daydhoo:daydhoo                                             # "scraper for skin (stone)"    bare        possessed
+dàydhoo:dàydhoo                                             # "scraper for skin (stone)"    bare        possessed   Dir/LR
+däzhìi’:däzhìi’                                             # "breath"                      bare        possessed
+däzhurr:däzhurr                                             # "voice"                       bare        possessed           #variant that I want to double check with someone - RB
+däzrąyy:däzrąyy                                             # "spades (cards)"              bare        possessed
 ddhäw\ dächänn:ddhäw\ dächänn                               # "foothills"                   bare        possessed
 ddhäw\ dägorr:ddhäw\ dägorr                                 # "mountain pass"               bare        possessed
 ddhäw\ däteyy:ddhäw\ däteyy ####  missing definition ####   # Dir/LR #not sure about this one - RB  # FIXME: why is this Dir/LR?  There doesn't seem to be a primary entry
 ddhäw\ k’aww:ddhäw\ k’aww                                   # "mountain ridge"              bare        possessed
 ddhäw\ t’òrr’:ddhäw\ t’òrr’                                 # "bare mountain"               bare        possessed
-dey:dey                                                     # "(spruce) grouse"             bare        possessed
-dëfą̀ą\ ek:dä̀fąą\ ek                                         # "shirt of mixed colors"       bare        possessed   Dir/LR
 dëfą̀ą\ ek:dëfą̀ą\ ek                                         # "shirt of mixed colors"       bare        possessed
+dëfą̀ą\ ek:dä̀fąą\ ek                                         # "shirt of mixed colors"       bare        possessed   Dir/LR
 dëfą̀ą\ ek:dëfą̈̀ą̈\ ek                                         # "shirt of mixed colors"       bare        possessed   Dir/LR     #again, not sure about this one, does this have to do with the usage being French? -RB 
-dhö̀ö:dhö̀ö                                                   # "skin, covering"              bare        possessed
-dleyy:dleyy                                                 # "squirrel"                    bare        possessed
-drinn:drinn                                                 # "day"                         bare        possessed
-dzänn:dzänn                                                 # "muskrat"                     bare        possessed
-dzèh                                                        # "chewing gum"                 bare        possessed
-ëtsʼänn:ëtsʼänn                                             # "duck"                        bare        possessed
-e’ee:e’ee[-bare]                                            # "uncle"                       =           possessed
-gaa:gaa[-bare]                                              # "child"                       =           possessed
-gah:gah                                                     # "rabbit"                      bare        possessed
-hèw:hèw                                                     # "trap"                        bare        possessed
-hintsi’:hintsi’                                             # "loves"                       bare        possessed
-itseyy\ gùk:itseyy\ gùk                                     # "fork"                        bare        possessed
-iww:iww                                                     # "beads"                       bare        possessed
-jaa:jaa[-bare]                                              # "friend"                      =           possessed
-jew:jew                                                     # "crane"                       bare        possessed
-jeyy:jeyy                                                   # "blueberry"                   bare        possessed
-jèww:jèww[-bare]                                            # "younger sister"              =           possessed
-jèww\ hąyts’änn:jèww\ hąyts’änn[-bare]                      # "youngest sister"             =           possessed
-jëjee:jëjee                                                 # "man"                         bare        possessed
-jëjee\ įh:jëjee\ įh                                         # "people"                      bare        possessed
-jěyy:jěyy                                                   # "berries"                     bare        possessed
-jǫ̀rr\ baa:jǫ̀rr\ baa                                         # "blue jay"                    bare        possessed
-juu:juu                                                     # "island"                      bare        possessed
-jëbee:jëbee                                                 # "sheep"                       bare        possessed
-jëjezhuu:jëjezhuu                                           # "native person"               bare        possessed
-jëjuu:jëjuu                                                 # "moose"                       bare        possessed
-khah:khah                                                   # "goose"                       bare        possessed
-khaytsʼą̈̀ʼ:khaytsʼą̈̀ʼ                                         # "autumn"                      bare        possessed
-khayy:khayy                                                 # "winter"                      bare        possessed
-koy:koy                                                     # "vomit"                       bare        possessed
-känträn:känträn                                             # "slipper, moccasin"           bare        possessed
-kʼä̀hmä̀ʼ:kʼä̀hmä̀ʼ                                             # "morning"                     bare        possessed
-kʼä̀htsäww:kʼä̀htsäww                                         # "spoon"                       bare        possessed
-kʼàyʼ:kʼàyʼ                                                 # "willow"                      bare        possessed
-lëjìi\ chin:lëjìi\ chin                                     # "tea kettle"                  bare        possessed
-lë̀seww:lë̀seww                                               # "salt"                        bare        possessed
-lëjii:lëjii                                                 # "tea"                         bare        possessed
-männ:männ                                                   # "lake"                        bare        possessed
-naä̀ghayy:nä̀ghayy                                            # "frog"                        bare        possessed
-nąą:nąą[-bare]                                              # "mother"                      =           possessed 
-nehjèʼ:nehjèʼ                                               # "man, old"                    bare        possessed
-ninchǫ̀ʼ:ninchǫ̀ʼ                                             # "rose hips"                   bare        possessed
-nintlʼät:nintlʼät                                           # "low bush cranberries"        bare        possessed
-nunn:nunn                                                   # "animal"                      bare        possessed
-nägöö:nägöö                                                 # "fox"                         bare        possessed
-nìnjuu\ gah:nìnjuu\ gah                                     # "cat"                         bare        possessed
-ǹląyy:ǹląyy                                                 # "meat"                        bare        possessed
-ǹląyy\ gąyy:ǹląyy\ gąyy                                     # "dried meat"                  bare        possessed
-ǹląyy\ tlorr:ǹląyy\ tlorr                                   # "meat and gravy,stew"         bare        possessed   
-ondayy:ondayy[-bare]                                        # "older brother"               =           possessed 
-ondayy\ tthit:ondayy\ tthit[-bare]                          # "oldest brother"              =           possessed 
-shär:shär                                                   # "bear"                        bare        possessed
-shä̀tsöö:shä̀tsöö                                             # "mouse"                       bare        possessed
-shih:shih                                                   # "food"                        bare        possessed
-songą̀yy:songą̀yy                                             # "sugar"                       bare        possessed
-sraa:sraa                                                   # "sun"                         bare        possessed
-sree:sree                                                   # "knife"                       bare        possessed
-tąyy:tąyy                                                   # "path"                        bare        possessed
-thay:thay                                                   # "belt"                        bare        possessed
-theyy:theyy                                                 # "chum, dog salmon"            bare        possessed
-tloo:tloo                                                   # "salve"                       bare        possessed
-töö:töö                                                     # "night"                       bare        possessed
-trʼänttheww:trʼänttheww                                     # "high bush cranberries"       bare        possessed
-trʼechoo:trʼechoo                                           # "boat"                        bare        possessed
-trʼinjàa:trʼinjàa                                           # "woman"                       bare        possessed
-trʼinjàa:trʼìnjàa                                           # "woman"                       bare        possessed   Dir/LR
-trʼinkee:trʼinkee                                           # "children"                    bare        possessed
-trʼinkee:trʼinkèe                                           # "children"                    bare        possessed   Dir/LR
-trʼinìnn:trʼinìnn                                           # "child"                       bare        possessed
-trʼinìnn\ tsöll:trʼinìnn\ tsöll                             # "baby"                        bare        possessed
-tsàʼ:tsàʼ                                                   # "beaver"                      bare        possessed
-tsegàʼ:tsegàʼ                                               # "snipe"                       bare        possessed
-tseyy:tseyy[-bare]                                          # "grandfather"                 =           possessed 
-tsiww:tsiww                                                 # "marten"                      bare        possessed
-tsǫǫ:tsǫǫ[-bare]                                            # "grandmother"                 =           possessed 
-tsàʼ:tsàʼ                                                   # "beaver"                      bare        possessed
-tsʼat:tsʼat                                                 # "hat"                         bare        possessed
-tsʼeyy:tsʼeyy                                               # "porcupine"                   bare        possessed
-tsʼoo:tsʼoo                                                 # "spruce tree"                 bare        possessed
-tthechuu:tthechuu                                           # "river"                       bare        possessed
-tthee:tthee                                                 # "rock"                        bare        possessed
-tthök:tthök                                                 # "fence"                       bare        possessed
-tthʼàk\ ghörr:tthʼàk\ ghörr                                 # "dish"                        bare        possessed
-tätrą̀ʼ:tätrą̀ʼ                                               # "raven"                       bare        possessed
-tölut:tölut                                                 # "hard snow road"              bare        possessed
-tʼąychànn:tʼąychànn                                         # "frypan"                      bare        possessed
-tʼëgaa:tʼëgaa                                               # "girl"                        bare        possessed
-wëdzey:wëdzey                                               # "caribou"                     bare        possessed
-wëkayy\ chʼiʼaww:wëkayy\ chʼiʼaww                           # "table"                       bare        possessed
-wëkayy\ däʼdrètthit:wëkayy\ däʼdrètthit                     # "chair"                       bare        possessed
-zhoh\ k’öö:zhoh\ k’öö[-bare]                                # "family"                      -           possessed
-zhoo:zhoo                                                   # "house"                       bare        possessed
-zhùr:zhùr                                                   # "wolf"                        bare        possessed
-łą̌yy:lìngʼ[-bare]                                           # "dog"                         -           possessed
-łą̌yy:łą̌yy[-possessed]                                       # "dog"                         bare        -
-łèw:łèw                                                     # "bread, flour"                bare        possessed
-łèw\ gąyy:łèw\ gąyy                                         # "crackers, pilot bread"       bare        possessed
-łèw\ tʼöö:łèw\ dhëchʼee                                     # "fry bread"                   bare        possessed               # FIXME: either include Dir/LR or make the left side the same as the right side
-łèw\ tʼöö:łèw\ tʼöö                                         # "fry bread (lit. cooked bread)"bare       possessed
-łuu:łuu                                                     # "fish"                        bare        possessed
-łuu\ choo:łuu\ choo                                         # "king salmon"                 bare        possessed
-łuu\ gʼąyy:łuu\ gʼąyy                                       # "dried fish"                  bare        possessed
-łuu\ nä̀nʼ:łuu\ nä̀nʼ                                         # "fish backbone"               bare        possessed
-łuu\ tʼaa:łuu\ tʼaa                                         # "salmon, fish belly"          bare        possessed
-łąyy\ choh:łąyy\ choh                                       # "horse"                       bare        possessed
-
+choo:choo[-bare]                                            # "younger brother"             bare        possessed
 
 
 LEXICON Pronoun(2)
 # pronoun           tag                 gloss           commands
 
-jë:jë               <pers>:             # "his"
 hu:hu               <pers>:             # "their"
+jë:jë               <pers>:             # "his"
 jìi:jìi             <itg>:              # "what"
 
 
@@ -918,11 +915,11 @@ LEXICON Adverbs
 # adverb                    gloss                           commands
 
 chąą:chąą                   # "also, really, during, then"
+hätèyy:hätèyy               # "sometimes"
+hätèyy:hätèe                # "sometimes"                   Dir/LR
 łä̂ä:łä̂ä                     # "really"
 łä̂ä:łą̈̂ą̈                     # "really"                      Dir/LR
 shö̀k:shö̀k                   # "all the time"
-hätèyy:hätèyy               # "sometimes"
-hätèyy:hätèe                # "sometimes"                   Dir/LR
 tlʼaa:tlʼaa                 # "down"
 wëzhèe:wëzhèe               # "during"  FIXME: CHECK
 
