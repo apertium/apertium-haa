@@ -628,11 +628,10 @@ LEXICON PrepositionPrefixes(2)
 LEXICON Conjunctions(2)
 # conjunction                           gloss       commands        comments
 
-tsʼą̈̀ʼ:tsʼą̈̀ʼ     <cnjcoo>:               # "and"
 etsänn:etsänn   <cnjcoo>:               # "and"
 etsän:etsän     <cnjcoo>:               # "and"     Dir/LR          (likely incorrect)
 tʼoo:tʼoo       <cnjcoo>:               # "but"
-
+tsʼą̈̀ʼ:tsʼą̈̀ʼ     <cnjcoo>:               # "and"
 
 LEXICON Prepositions
 # preposition    gloss          commands        comments
@@ -642,15 +641,15 @@ ezheyy:ëzheyy   # "there"       Dir/LR
 ghat:ghat       # "by"
 haa:haa         # "for"
 het:het         # "near"
-hèe:hèe         # "with"
 huwèe:huwèe     # "with them"                   FIXME: already possessed?
+hèe:hèe         # "with"
 kayy:kayy       # "on"
-kʼämën:kʼämën   # "around"
 kʼǫ̈ǫ̈:kʼǫ̈ǫ̈       # "over"
-nä̀zheyy:nä̀zheyy # "down, below, under"
+kʼämën:kʼämën   # "around"
 nnenn:nnenn     # "over"                        what is the distinciton between these two? - RB
-tsʼänn:tsʼänn   # "from, away from"
+nä̀zheyy:nä̀zheyy # "down, below, under"
 tsʼą̈̀ʼ:tsʼą̈̀ʼ     # "to, towards"
+tsʼänn:tsʼänn   # "from, away from"
 tłänn:tłänn     # "after"
 tłänn:tłä̀nn     # "after"       Dir/LR
 zhìt:zhìt       # "in"
@@ -659,8 +658,8 @@ zhìt:zhìt       # "in"
 LEXICON Adjectives
 # adjective         gloss             commands        comments
 
-choo:choh           # "big"           Dir/LR
 choo:choo           # "big"
+choo:choh           # "big"           Dir/LR
 dhaww:dhaww         # "hot"
 dhëberr:dhëberr     # "boiled"
 dhëchʼee:dhëchʼee   # "fried"
@@ -678,15 +677,15 @@ tlät:tlät           # "fat"
 tsöll:tsöll         # "small"
 tʼäww:tʼäww         # "red, raw"
 tʼöö:tʼöö           # "cooked"
-zų̀ʼ:zùʼ             # "beautiful"     Dir/LR          FIXME: Err/Orth
 zų̀ʼ:zų̀ʼ             # "beautiful"
+zų̀ʼ:zùʼ             # "beautiful"     Dir/LR          FIXME: Err/Orth
 
 
 LEXICON Determiners(2)
 # determiner            tag         gloss               commands    comments
 
-eyy:eyy                  <dem>:     # "that"
 chʼèe:chʼèe              <ind>:     # "a"
+eyy:eyy                  <dem>:     # "that"
 hontlʼät:hontlʼät        <qnt>:     # "lots, a lot"
 
 
@@ -708,10 +707,10 @@ Willem:Willem           <ant>:
 LEXICON ModalWord (2)
 # modal      pattern     gloss                  comments
 
-nöö:nöö      :          #our one focus marker-  is foc a good tag?
-kǒo:kǒo      :          #negation
-įh:įh      <plural>:    #pluralizer             maybe don't want a separate tag for this?  discuss -JNW
 in:in      <plural>:    #pluralizer
+įh:įh      <plural>:    #pluralizer             maybe don't want a separate tag for this?  discuss -JNW
+kǒo:kǒo      :          #negation
+nöö:nöö      :          #our one focus marker-  is foc a good tag?
 
 
 LEXICON NounRoot[bare,possessed]
@@ -909,8 +908,8 @@ zhùr:zhùr                                                   # "wolf"          
 LEXICON Pronoun(2)
 # pronoun           tag                 gloss           commands
 
-jë:jë               <pers>:             # "his"
 hu:hu               <pers>:             # "their"
+jë:jë               <pers>:             # "his"
 jìi:jìi             <itg>:              # "what"
 
 
@@ -918,13 +917,13 @@ LEXICON Adverbs
 # adverb                    gloss                           commands
 
 chąą:chąą                   # "also, really, during, then"
-łä̂ä:łä̂ä                     # "really"
-łä̂ä:łą̈̂ą̈                     # "really"                      Dir/LR
-shö̀k:shö̀k                   # "all the time"
 hätèyy:hätèyy               # "sometimes"
 hätèyy:hätèe                # "sometimes"                   Dir/LR
+shö̀k:shö̀k                   # "all the time"
 tlʼaa:tlʼaa                 # "down"
 wëzhèe:wëzhèe               # "during"  FIXME: CHECK
+łä̂ä:łä̂ä                     # "really"
+łä̂ä:łą̈̂ą̈                     # "really"                      Dir/LR
 
 
 LEXICON Numeral
