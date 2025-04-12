@@ -714,7 +714,7 @@ įh:įh      <plural>:    #pluralizer             maybe don't want a separate 
 in:in      <plural>:    #pluralizer
 
 
-LEXICON NounRoot[bare,possessed]
+LEXICON NounRoot[bare,possessed] 
 # bare means can stand on its own
 # possessed means can combined with possessive prefixes
 
