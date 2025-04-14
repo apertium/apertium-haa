@@ -713,6 +713,9 @@ in:in      <plural>:    #pluralizer
 
 
 LEXICON NounRoot[bare,possessed]
+# bare means can stand on its own
+# possessed means can combined with possessive prefixes
+
 # root                                                      gloss                           bare?       +poss?      commands    comments
 
 Dänzhìt\ hwëch’inn:Dänzhèt\ hwëch’enn  ###  move to Proper? # "Circle City People"          bare        possessed   Dir/LR
