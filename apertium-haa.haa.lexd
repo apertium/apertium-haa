@@ -810,8 +810,39 @@ dzänn:dzänn                                                 # "muskrat"     
 dzèh                                                        # "chewing gum"                 bare        possessed
 
 #E
-ëtsʼänn:ëtsʼänn                                             # "duck"                        bare        possessed
-e’ee:e’ee[-bare]                                            # "uncle"                       =           possessed
+ëbaàà’:ëbàà’                                                # *Q*shirt sleeve*Q*            bare        possessed 
+ëbàà’:ë̀bàà’                                                 # *Q*shirt sleeve*Q*            bare        possessed  Dir/LR
+ëchänn:ëchänn                                               # *Q*stick*Q*                   bare        possessed 
+ëchänn:ë̀chänn                                               # *Q*stick*Q*                   bare        possessed  Dir/LR
+ëchänn:ëchänn                                               # *Q*wood*Q*                    bare        possessed 
+ëchänn:ë̀chänn                                               # *Q*wood*Q*                    bare        possessed  Dir/LR
+ëchänn\ ch’ìk’aa:ëchänn\ ch’ìk’aa                           # *Q*wood file*Q*               bare        possessed 
+ëchänn\ ch’ìk’aa:ë̀chänn\ ch’ìk’aa                           # *Q*wood file*Q*               bare        possessed  Dir/LR
+ëchänn\ chǫhkhorr:ëchänn\ chǫhkhorr                         # *Q*knot in wood*Q*            bare        possessed 
+ëchänn\ chǫhkhorr:ë̀chänn\ chǫhkhorr                         # *Q*knot in wood*Q*            bare        possessed  Dir/LR
+ëchänn\ ghorr:ëchänn\ ghorr                                 # *Q*knot in wood*Q*            bare        possessed              # Same translation as ëchänn chǫhkhorr
+ëchänn\ ghorr:ë̀chänn\ ghorr                                 # *Q*knot in wood*Q*            bare        possessed  Dir/LR      # Same translation as ëchänn chǫhkhorr
+ëchänn\ hèw:ëchänn\ hèw                                     # *Q*deadfall*Q*                bare        possessed 
+ëchänn\ hèw:ë̀chänn\ hèw                                     # *Q*deadfall*Q*                bare        possessed  Dir/LR
+ëchänn\ kanträn:ëchänn\ kanträn                             # *Q*shoes (street)*Q*          bare        possessed 	
+ëchänn\ ohkhä̀t:ëchänn\ ohkhä̀t                               # *Q*termites*Q*                bare        possessed 
+ëchänn\ ohkhä̀t:ë̀chänn\ ohkhä̀t                               # *Q*termites*Q*                bare        possessed  Dir/LR
+ëchänn\ sree:ëchänn\ sree                                   # *Q*wooden knife*Q*            bare        possessed 
+ëchänn\ sree:ë̀chänn\ sree                                   # *Q*wooden knife*Q*            bare        possessed  Dir/LR
+ëchänn\ tth’àk:ëchänn\ tth’àk                               # *Q*wooden dish*Q*             bare        possessed 
+ëchänn\ tth’àk:ë̀chänn\ tth’àk                               # *Q*wooden dish*Q*             bare        possessed  Dir/LR
+ëchänn\ wèe\ tr’ëheww:ëchänn\ wèe\ tr’ëheww                 # *Q*hand plane*Q*              bare        possessed 
+ëchänn\ wèe\ tr’ëheww:ë̀chänn\ wèe\ tr’ë̀ghèww                # *Q*hand plane*Q*              bare        possessed  Dir/LR
+ëchänn\ zhoo:ëchänn\ zhoo                                   # *Q*log cabin*Q*               bare        possessed 
+ëchänn\ zhoo:ëchänn\ zhoh                                   # *Q*log cabin*Q*               bare        possessed  Dir/LR
+ëchenn\ chen:ëchenn\ chen                                   # *Q*coffin*Q*                  bare        possessed 
+ëchenn\ chen:ë̀chenn\ chen                                   # *Q*coffin*Q*                  bare        possessed  Dir/LR
+ëchenn\ chin:ëchenn\ chin                                   # *Q*trunk*Q*                   bare        possessed 
+ëchenn\ chin:ë̀chenn\ chen                                   # *Q*trunk*Q*                   bare        possessed  Dir/LR
+ëchinnn\ buh:ëchinn\ buh                                    # *Q*toboggan*Q*                bare        possessed 
+ëchinn\ chèw:ëchinn\ chèw                                   # *Q*floor*Q*                   bare        possessed 
+ëchönn\ böh:ëchönn\ böh                                     # *Q*toboggan*Q* 					bare 		possessed                   #multiple entries, see ëchinnn buh
+# not done
 
 
 #G
