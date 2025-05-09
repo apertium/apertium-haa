@@ -727,6 +727,15 @@ äjee:äjee[-bare]                                            # "older sister"
 äk’ayy:äk’ayy[-bare]                                        # "aunt"                        =           possessed 
 
 # B
+bä̀t:bä̀t[-bare]                                              # "belly; his/her"              -           possessed
+bèbii:bèbii                                                 # "baby"                        bare        possessed
+bìzhorr:bìzhorr                                             # "bizhorr card game"           bare        possessed
+bìzhorr\ choo:bìzhorr\ choo                                 # "king of hearts"              bare        possessed
+bìzhorr\ tsäww:bìzhorr\ tsäww                               # "jack of clubs"               bare        possessed
+böh:böh                                                     # "load"                        bare        possessed                # multiple entries, see buh
+böh\ ndä̀h:böh\ ndä̀h                                         # "heavy load"                  bare        possessed                # multiple entries, see ǹdä̀h and böh ǹdä̀h
+buh:buh                                                     # "load"                        bare        possessed                # multiple entries, see böh
+buh\ ndää:buh\ ndää                                         # "heavy load"                  bare        possessed                # multiple entries, see böh ndä̀h and ǹdä̀h
 
 # C
 chaa:chaa                                                   # "boy"                         bare        possessed
@@ -893,8 +902,40 @@ èww’:èww’[-bare]                                            # "dress (he
 
 
 #G
-gaa:gaa[-bare]                                              # "child"                       =           possessed
-gah:gah                                                     # "rabbit"                      bare        possessed
+gaa:gaa[-bare]                                              # "child"                         =           possessed
+gah:gah                                                     # "rabbit"                        bare        possessed
+gaa:gaa[-bare]                                              # "child, his/her"                =           possessed
+gah:gah                                                     # "rabbit"                        bare        possessed
+gah\ gaa:gah\ gaa                                           # "rabbit baby"                   bare        possessed
+gah\ gànn’:gah\ gànn’                                       # "rabbit snare"                  bare        possessed
+gah\ ts’ä̀t:gah\ ts’ä̀t                                       # "rabbit skin blanket"           bare        possessed
+gàn:gàn                                                     # "snare"                         bare        possessed
+ganchä̀nn’:ganchä̀nn[-bare]                                   # "shoulderblade, his/her"        =           possessed
+gànn’:gànn’[-bare]                                          # "arm, his/her"                  =           possessed
+ghee:ghee[-bare]                                            # "sister-in-law, his/her"        =           possessed                  # should this be combined with brother-in-law?
+ghee:ghee[-bare]                                            # "brother-in-law, his/her"       =           possessed                  # should this be combined with sister-in-law?
+ghò:ghò[-bare]                                              # "teeth, his/her"                =           possessed
+ghohk’ät:ghohk’ät[-bare]                                    # "shoulder, his/her"             =           possessed
+ghòhtl’at:ghòhtl’at                                         # "snuff"                         bare        possessed                  # variant tl’àt listed in dict
+ghòll’:ghòll’[-bare]                                        # "rump, his/her"                 =           possessed
+ghö̀rr’\ dhö̀h:ghö̀rr\ dhö̀h[-bare]                             # "scrotum, his"                  =           possessed
+ghö̀rr’:ghö̀rr’[-bare]                                        # "testicles, his"                =           possessed
+ghotl’ö̀ö’:ghotl’ö̀ö’[-bare]                                  # "gums, his/her"                 =           possessed                  # variant wëghotl’òo’ listed in dict
+gįhii:gįhii                                                 # "minister"                      bare        possessed                  # variant ginhii listed in dict
+gįhii\ choh:gįhii\ choh                                     # "bishop"                        bare        possessed                  # variant ginhii listed in dict
+göö:göö                                                     # "glacier"                       bare        possessed
+gòt\ tlèe’:gòt\ tlèe’[-bare]                                # "knee cartilage, his/her"       =           possessed
+gòt:gòt[-bare]                                              # "knee, his/her"                 =           possessed
+gųų:gųų                                                     # "bugs; worms"                   bare        possessed                  # combined entries for bugs and worms
+gųų\ jëzhorr:gųų\ jëzhorr 	                              # "hairy caterpillar"             bare        possessed
+gų̀h:gų̀h                                                     # "plants; weeds"                 bare        possessed                  #combined entries for plants and weeds
+gųh\ däww:gųh\ däww                                         # "strawberry blight"             bare        possessed
+gųh\ dòdlerr:gųh\ dòdlerr                                   # "bluebells"                     bare        possessed
+gų̀h\ dòdlerr:gų̀h\ dòdlerr                                   # "lupine"                        bare        possessed
+gų̀h\ k’ää:gùh\ k’ää                                         # "plants"                        bare        possessed
+gų̀h\ tsän:gų̀h\ tsän                                         # "weeds"                         bare        possessed 				   #variant tsä̀n listed in dict
+gwä̀t\ tlèe’:gwä̀t\ tlèe’[-bare] 	                          # "knee cartilage, his/her"       =           possessed
+gwä̀t:gwä̀t[-bare] 			                                # "knee, his/her"                 =           possessed
 
 #H
 hèw:hèw                                                     # "trap"                        bare        possessed
