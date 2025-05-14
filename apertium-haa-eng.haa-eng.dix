@@ -1,16 +1,12 @@
 
 <?xml version="1.0" encoding="UTF-8"?>
 <dictionary>
-   <!-- Define the alphabet below. -->
+   <!-- TODO: Define the alphabet below with Han and English characters. -->
   <alphabet>aAáÁăảạÆbBcCčdDÐeEéèễệfFgGhHiIíjJkKlLmMnNoOóöớpPqQrRsSšştTŢuUúüưvVwWxXyYzZ</alphabet>
 
   <sdefs>
     <!-- Define symbol definitions within <sdef> here. -->
     <!-- using tag defs from top of apertium-haa.haa.lexd file -->
-    <!-- TODO; DO THESE NEED THE TAGS INCLUDED? LIKE "<adj>"
-        instead of "adj"?
-    -->
-
     <!-- Parts of speech categories -->
     <sdef n="n"                 c="Noun"/>
     <sdef n="v"                 c="Verb"/>
@@ -43,7 +39,7 @@
     <sdef n="pers"              c="Personal"/>
     <sdef n="itg"               c="Interrogative"/>
 
-    <!-- TODO fix?: Verb grammatical tags; unnecessary -->
+    <!-- Verb grammatical tags; unnecessary -->
 
     <!-- symbols? -->
     <sdef n="sent"              c="Sentence-ending punctuation"/>
@@ -56,13 +52,14 @@
     <sdef n="lpar"              c="Left parenthesis"/>
     <sdef n="rpar"              c="Right parenthesis"/>
 
-    <!-- TODO fix?: Noun grammatical tags; unnecessary -->
+    <!-- Noun grammatical tags; unnecessary -->
 
     <!-- Number morphology -->
     <sdef n="pl"               c="Plural"/>
     <sdef n="sg"               c="SIngular"/>
 
-    <!-- TODO: do we need to include all of these? -->
+    <!-- TODO: do we need to include all of these?
+        ANSWER: include all those necessary for Han as well as English (e.g., need vblex and sint for Eng)-->
     <!-- The full list included from original copied file
         <sdef n="n"               c="Noun"/>
         <sdef n="np"              c="Proper noun"/>
@@ -161,6 +158,8 @@
       <!-- example:
            <e><p><l>house<s n="n"/></l><r>casa<s n="n"/><s n="f"/></r></p></e>
       -->
+
+      <!-- read lexd file; match lemma to the english glosses -->
 
       <e><re>[.\?;:!…¿¶]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
       <e><re>,</re>          <p><l><s n="cm"/></l>  <r><s n="cm"/></r></p></e>
