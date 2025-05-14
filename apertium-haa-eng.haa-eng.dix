@@ -43,9 +43,9 @@
     <sdef n="pers"              c="Personal"/>
     <sdef n="itg"               c="Interrogative"/>
 
-    <!-- Verb grammatical tags; unnecessary -->
+    <!-- TODO fix?: Verb grammatical tags; unnecessary -->
 
-    <!-- symbols? -- >
+    <!-- symbols? -->
     <sdef n="sent"              c="Sentence-ending punctuation"/>
     <sdef n="guio"              c="Hyphen"/>
     <sdef n="cm"                c="Comma"/>
@@ -56,13 +56,13 @@
     <sdef n="lpar"              c="Left parenthesis"/>
     <sdef n="rpar"              c="Right parenthesis"/>
 
-    <!-- Noun grammatical tags; unnecessary -->
+    <!-- TODO fix?: Noun grammatical tags; unnecessary -->
 
     <!-- Number morphology -->
     <sdef n="pl"               c="Plural"/>
     <sdef n="sg"               c="SIngular"/>
 
-
+    <!-- TODO: do we need to include all of these? -->
     <!-- The full list included from original copied file
         <sdef n="n"               c="Noun"/>
         <sdef n="np"              c="Proper noun"/>
