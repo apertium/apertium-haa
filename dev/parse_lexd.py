@@ -20,12 +20,15 @@ def parseVerbStem(a):
         print(stripped_line) #TODO; print out lemma and gloss
         
         # TODO; inside function; how to?
+        # reg exp to track # folloed by quotes
+
         
         if "###THIS IS END OF LEXICON VERBSTEM-TV(5)###" in stripped_line:
             print("End of 'LEXICON VerbStem-Tv(5)' section on line " + str(a)) #test to see if working correctly
             return a
 
 with open("./apertium-haa.haa.lexd", 'r') as lexd_file: 
+    #TODO; need to skip also lines with "#"" sign at beginning (commented), skip lines with "Use/Guesser", skip lines with "Dir/LR"
     x = 0
     for line in lexd_file:
         x = x + 1
@@ -35,63 +38,69 @@ with open("./apertium-haa.haa.lexd", 'r') as lexd_file:
         # Transitive Verbs
         if "LEXICON VerbStem-Tv(5)" in stripped_line:                
             print("\n" + stripped_line + " on line " + str(x)) #test to see if working correctly
-            x = parseVerbStem(x)
+            # TODO; parser_function = parseVerbStem #set a variable to a function depending on LEXICON
 
         # Intransitive Verbs
-        if "LEXICON VerbStem-Iv(5)" in stripped_line:                
+        elif "LEXICON VerbStem-Iv(5)" in stripped_line:                
             print("\n" + stripped_line + " on line " + str(x)) #test to see if working correctly
 
         # NounPrefixes TODO; do we need?
-        if "LEXICON NounPrefixes(2)" in stripped_line:                
+        elif "LEXICON NounPrefixes(2)" in stripped_line:                
             print("\n" + stripped_line + " on line " + str(x)) #test to see if working correctly
 
         # PrepositionPrefixes TODO; do we need?
-        if "LEXICON PrepositionPrefixes(2)" in stripped_line:                
+        elif "LEXICON PrepositionPrefixes(2)" in stripped_line:                
             print("\n" + stripped_line + " on line " + str(x)) #test to see if working correctly
 
         # Conjunctions
-        if "LEXICON Conjunctions(2)" in stripped_line:                
+        elif "LEXICON Conjunctions(2)" in stripped_line:                
             print("\n" + stripped_line + " on line " + str(x)) #test to see if working correctly
 
         # Prepositions
-        if "LEXICON Prepositions" in stripped_line:                
+        elif "LEXICON Prepositions" in stripped_line:                
             print("\n" + stripped_line + " on line " + str(x)) #test to see if working correctly
 
         # Adjectives
-        if "LEXICON Adjectives" in stripped_line:                
+        elif "LEXICON Adjectives" in stripped_line:                
             print("\n" + stripped_line + " on line " + str(x)) #test to see if working correctly            
 
         # Determiners
-        if "LEXICON Determiners(2)" in stripped_line:                
+        elif "LEXICON Determiners(2)" in stripped_line:                
             print("\n" + stripped_line + " on line " + str(x)) #test to see if working correctly
 
         # ProperNouns
-        if "LEXICON ProperNouns(2)" in stripped_line:                
+        elif "LEXICON ProperNouns(2)" in stripped_line:                
             print("\n" + stripped_line + " on line " + str(x)) #test to see if working correctly
 
         # ModalWord
-        if "LEXICON ModalWord (2)" in stripped_line:                
+        elif "LEXICON ModalWord (2)" in stripped_line:                
             print("\n" + stripped_line + " on line " + str(x)) #test to see if working correctly
 
         # NounRoot[bare,possessed]
-        if "LEXICON NounRoot[bare,possessed]" in stripped_line:                
+        elif "LEXICON NounRoot[bare,possessed]" in stripped_line:                
             print("\n" + stripped_line + " on line " + str(x)) #test to see if working correctly
 
         # Pronoun
-        if "LEXICON Pronoun(2)" in stripped_line:                
+        elif "LEXICON Pronoun(2)" in stripped_line:                
             print("\n" + stripped_line + " on line " + str(x)) #test to see if working correctly
 
         # Adverbs
-        if "LEXICON Adverbs" in stripped_line:                
+        elif "LEXICON Adverbs" in stripped_line:                
             print("\n" + stripped_line + " on line " + str(x)) #test to see if working correctly
 
         # Numeral
-        if "LEXICON Numeral" in stripped_line:                
+        elif "LEXICON Numeral" in stripped_line:                
             print("\n" + stripped_line + " on line " + str(x)) #test to see if working correctly
 
         # Adjectives
-        if "LEXICON Adjectives" in stripped_line:                
+        elif "LEXICON Adjectives" in stripped_line:                
             print("\n" + stripped_line + " on line " + str(x)) #test to see if working correctly
+
+
+        # else #
+        # parser_function(stripped_line)
+
+
 
 print("\n!!!\neverything functioned in some capacity!\n!!!\n") #TODO; delete later
 

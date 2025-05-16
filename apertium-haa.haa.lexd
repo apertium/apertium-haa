@@ -256,9 +256,6 @@ LEXICON VerbStem-Tv(5)
 ## [0cl,incp,dh]:           [0cl,incp,dh]:              [0cl,incp,dh]:              [0cl,incp,dh]:              ihsrök:{Z}rök[0cl,incp,dh]          # "yell"                    (YellA1)                    Lemma/1sg-impf - Why is this commented out? -RB
 
 
-###THIS IS END OF LEXICON VERBSTEM-TV(5)###
-
-
 #working guessers TV
 # FIXME: the 0cl,0cm guesser line makes the entire guesser not work
 [0cl,0cm]:          [0cl,0cm]<GUESSER_0cl_0cm>:              [0cl,0cm]:     [0cl,0cm]:                     /([a-zʼ\̈\̀\̨])+/[0cl,0cm]  # Use/Guesser
