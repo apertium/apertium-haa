@@ -20,7 +20,7 @@ def parseVerbStem(a):
         print(stripped_line) #TODO; print out lemma and gloss
         
         # TODO; inside function; how to?
-        # reg exp to track # folloed by quotes
+        # reg exp to track # followed by quotes; read https://docs.python.org/3/howto/regex.html#regex-howto
 
         
         if "###THIS IS END OF LEXICON VERBSTEM-TV(5)###" in stripped_line:
