@@ -1012,7 +1012,7 @@ zhà’:zhà’                                                   # "louse"   
 zhää:zhää                                                   # "sky"	                        bare        possessed
 zhää\ zhìt:zhää\ zhìt                                       # "heaven; sky"                 bare        possessed
 zhää\ zhìt:zhää\ zhèt                                       # "heaven; sky"                 bare        possessed	  Dir/Lr
-zhä̀ä:zhä̀ä[-bare]                                            # "ribs"                        =           possessed
+zhä̀ä:zhä̀ä[-bare]                                            # "ribs"                        -           possessed
 zhäh:zhäh                                                   # "snow"                        bare        possessed
 zhäh\ chù’:zhäh\ chù’                                       # "snow water"                  bare        possessed
 zhäh\ chùrr’:zhäh\ chùrr’                                   # "soft snow"                   bare        possessed
@@ -1024,18 +1024,18 @@ zhäh\ wee\ hä̀tr’ä̀dhìt:zhäh\ wee\ hä̀tr’ä̀dhèt         
 zhähchä̀nn’:zhähchä̀nn’                                       # "handbag; purse"              bare        possessed
 zhähdrö̀nn’:zhähdrö̀nn’                                       # "winter mountain; covered in snowdrifts" bare possessed
 zhähdrö̀nn’:zhähdrinn’                                       # "winter mountain; covered in snowdrifts" bare possessed   Dir/Lr
-zhä̀hghänn:zhä̀hghänn[-bare]                                  # "parents"                     =           possessed
+zhä̀hghänn:zhä̀hghänn[-bare]                                  # "parents"                     -           possessed
 zhähts’at:zhähts’at                                         # "corner"                      bare        possessed
-zhänn:zhänn[-bare]                                          # "body"                        =           possessed
-zhärr:zhärr[-bare]                                          # "(her) son"                   =           possessed
-zhäts’è’:zhäts’è’[-bare]                                    # "(her) daughter"              =           possessed
-zhè’:zhè’[-bare]                                            # "(his) son"                   =           possessed
+zhänn:zhänn[-bare]                                          # "body"                        -           possessed
+zhärr:zhärr[-bare]                                          # "(her) son"                   -           possessed
+zhäts’è’:zhäts’è’[-bare]                                    # "(her) daughter"              -           possessed
+zhè’:zhè’[-bare]                                            # "(his) son"                   -           possessed
 zheh\ dähnìi:zheh\ dähnìi                                   # "chickadee (black-capped, boreal)" bare   possessed			# Same translation as zhoh dähnįh
-zhèhjà’:zhèhjà’[-bare]                                      # "chin"                        =           possessed
-zhèhtl’aa\ ghò:zhèhtl’aa\ ghò[-bare]                        # "back teeth"                  =           possessed
-zhèhtth’ä̀nn’:zhèhtth’ä̀nn’[-bare]                            # "jaw"                         =           possessed
-zhèyy’:zhèyy’[-bare]                                        # "marrow"                      =           possessed
-zhìi’:zhìi[-bare]                                           # "breath"                      =           possessed
+zhèhjà’:zhèhjà’[-bare]                                      # "chin"                        -           possessed
+zhèhtl’aa\ ghò:zhèhtl’aa\ ghò[-bare]                        # "back teeth"                  -           possessed
+zhèhtth’ä̀nn’:zhèhtth’ä̀nn’[-bare]                            # "jaw"                         -           possessed
+zhèyy’:zhèyy’[-bare]                                        # "marrow"                      -           possessed
+zhìi’:zhìi[-bare]                                           # "breath"                      -           possessed
 zhödhö̀h:zhödhö̀h                                             # "tent"                        bare        possessed
 zhödhö̀h:zhodhö̀h                                             # "tent"                        bare        possessed	 Dir/Lr
 zhoh\ dähnįh:zhoh\ dähnįh                                   # "chickadee (black-capped, boreal)" bare   possessed	            # Same translation as zheh dähnìi
@@ -1045,10 +1045,10 @@ zhoo\ huu:zhoh\ huu                                         # "side of house"   
 zhoo\ k’öö:zhoo\ k’öö                                       # "side of house"               bare        possessed	            # Same translation as zhoo huu
 zhoo\ k’öö:zhoo\ k’öö                                       # "side of house"               bare        possessed	Dir/Lr
 zhoo\ zrąyy:zhoo\ zrąyy                                     # "jail"                        bare        possessed
-zhuhchèw:zhuchèw[-bare]                                     # "brisket"                     =           possessed
+zhuhchèw:zhuchèw[-bare]                                     # "brisket"                     -           possessed
 zhùr\ nä̀tl’ee:zhùr\ nä̀tl’ee                                 # "pack of wolves"              bare	      possessed
 zrayy:zrayy                                                 # "rice"                        bare	    possessed
-zrö̀k:zrö̀k[-bare]                                            # "belly"                       =           possessed
+zrö̀k:zrö̀k[-bare]                                            # "belly"                       -           possessed
 
 #barred-L
 łą̌yy:lìngʼ[-bare]                                           # "dog"                         -           possessed
