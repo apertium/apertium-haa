@@ -116,6 +116,7 @@ print("\n!!!\neverything functioned in some capacity!\n!!!\n") #TODO; delete lat
 
 
 # QUESTION: include other LEXICON Numeral and LEXICON Punctuation?
+# ANSWER: not necessary
 
 
 
