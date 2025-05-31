@@ -739,7 +739,7 @@ buh\ ndää:buh\ ndää                                         # "heavy loa
 
 # C
 chaa:chaa                                                   # "boy"                         bare        possessed
-chä̀ä:chä̀ä[-bare]                                            # "voice box"                   =           possessed
+chä̀ä:chä̀ä[-bare]                                            # "voice box"                   -           possessed
 chaa\ tsöll:chaa\ tsöll                                     # "young boy"                   bare        possessed
 chäghänn\ ghò’:chäghänn\ ghò’                               # "corn"                        bare        possessed
 chahch’àt:chahch’àt                                         # "pocket"                      bare        possessed
@@ -750,10 +750,10 @@ chąh\ dhö̀h:chąh\ dhö̀h                                       # "umbre
 chąh\ ek:chąh\ ek                                           # "rain coat"                   bare        possessed
 chąh\ k’oh:chąh\ k’oh                                       # "rain clouds"                 bare        possessed
 chaww:chaww                                                 # "three"                       bare        possessed
-chayy:chayy[-bare]                                          # "daughter-in-law; her"        =           possessed 
-chayy:chayy[-bare]                                          # "son-in-law; her"             =           possessed
-chayy:chayy[-bare]                                          # "grandchild; her"             =           possessed
-chà’:chà’[-bare]                                            # "father"                      =           possessed
+chayy:chayy[-bare]                                          # "daughter-in-law; her"        -           possessed 
+chayy:chayy[-bare]                                          # "son-in-law; her"             -           possessed
+chayy:chayy[-bare]                                          # "grandchild; her"             -           possessed
+chà’:chà’[-bare]                                            # "father"                      -           possessed
 chäghänn:chäghänn                                           # "woman, old"                  bare        possessed
 chehjurr:chehjurr                                           # "mink"                        bare        possessed
 chehłaa:chehłaa                                             # "whale"                       bare        possessed
@@ -788,8 +788,8 @@ chin\ zrä̀ww’:chen\ zrä̀ww’                                   # "hook 
 chöh:chöh                                                   # "pillow"                      bare        possessed 
 chöh\ chèw:chöh\ chèw                                       # "down mattress"               bare        possessed 
 chöh\ dhö̀h:chöh\ dhö̀h                                       # "pillow case"                 bare        possessed 
-choh\ įh:choh\ įh[-bare]                                    # "older relatives"             =           possessed 
-choh\ įh:choh\ ęh[-bare]                                    # "older relatives"             =           possessed   Dir/LR
+choh\ įh:choh\ įh[-bare]                                    # "older relatives"             -           possessed 
+choh\ įh:choh\ ęh[-bare]                                    # "older relatives"             -           possessed   Dir/LR
 chǫh\ ghorr:chǫh\ ghorr                                     # "knot in wood"                bare        possessed 
 choo:choo[-bare]                                            # "younger brother"             =           possessed
 choo:choo[-bare]                                            # "younger brother"             bare        possessed
@@ -999,7 +999,7 @@ ch’ëtthìdräw:ch’ëtthìdräw                                   # "g
 ch’ëtthìdräw:ch’ë̀tthì’\ dräw                                # "great grey owl               bare        possessed   Dir/LR
 ch’ëtthö̀ö’:ch’ëtthö̀ö’                                       # "scent gland"                 bare        possessed
 ch’ëtthö̀ö’:ch’ë̀tthö̀ö’                                       # "scent gland"                 bare        possessed   Dir/LR
-ch’èww’:ch’èww’[-bare]                                      # "umbilical cord"              =           possessed
+ch’èww’:ch’èww’[-bare]                                      # "umbilical cord"              -           possessed
 ch’ëzhä̀ä\ tthį̀’:ch’ëzhä̀ä\ tthį̀’                             # "rib meat"                    bare        possessed
 ch’ëzhä̀ä\ tthį̀’:ch’ë̀zhä̀ä\ tthį̀’                             # "rib meat"                    bare        possessed   Dir/LR
 chʼë̀zhànn:chʼë̀zhànn                                         # "eagle"                       bare        possessed
@@ -1015,7 +1015,7 @@ ch’ëzhuhchèw\ tthį̀’:ch’ëzhuhchèw\ tthį̀’                 
 ch’ëzhuhchèw\ tthį̀’:ch’ë̀zhuhchèw\ tthę̀’                     # "brisket meat"                bare        possessed   Dir/LR
 ch’ì’aww\ zhoo:ch’ì’aww\ zhoo                               # "lodge; restaurant"           bare        possessed
 ch’ì’aww\ zhoo:ch’ì’aww\ zhoh                               # "lodge; restaurant"           bare        possessed
-ch’ìi’:ch’ìi’[-bare]                                        # "blood vein"                  =           possessed
+ch’ìi’:ch’ìi’[-bare]                                        # "blood vein"                  -           possessed
 ch’ijee:ch’ijee                                             # "scraper for raw skin"        bare        possessed
 ch’ìk’aa:ch’ìk’aa                                           # "file"                        bare        possessed
 chʼìtseyy:chitseyy                                          # "metal, stove"                bare        possessed   Dir/LR                 
@@ -1046,7 +1046,7 @@ ch’oh\ ts’ä̀t:ch’oh\ ts’ä̀t                                   # "e
 ch’òndèy\ ghörr:ch’òndèy\ ghörr                             # "pills"                       bare        possessed 
 ch’òndèy\ ghörr:ch’òndèy\ ghärr                             # "pills"                       bare        possessed Dir/LR
 ch’ondeyy:ch’ondeyy                                         # "medicine"                    bare        possessed 
-ch’oo:ch’oo[-bare]                                          # "clothes"                     =           possessed 
+ch’oo:ch’oo[-bare]                                          # "clothes"                     -           possessed 
 ch’ǫ̀r:ch’ǫ̀r                                                 # "fish hook"                   bare        possessed 
 ch’ǫts’ǫ̀ǫ:ch’ǫts’ǫ̀ǫ                                         # "ruffled grouse"              bare        possessed 
 ch’ukèt\ zhoo:ch’ukèt\ zhoo                                 # "store"                       bare        possessed 
