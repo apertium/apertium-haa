@@ -231,6 +231,11 @@ LEXICON VerbStem-Tv(5)
 [ł,impf,0cm]:               [ł,impf,0cm]:               [ł,impf,0cm]:               [ł,impf,0cm]:               öktseyy:tsey[ł,impf,0cm]            # "make"                    (Make)                      Lemma/1sg-impf  Dir/LR
 [ł,perf,dh]:                [ł,perf,dh]:                [ł,perf,dh]:                [ł,perf,dh]:                öktseyy:tsąyy[ł,perf,dh]            # "make"                    (Make)                      Lemma/1sg-impf
 [ł,perf,dh]:                [ł,perf,dh]:                [ł,perf,dh]:                [ł,perf,dh]:                öktseyy:tsąy[ł,perf,dh]             # "make"                    (Make)                      Lemma/1sg-impf  Dir/LR
+#[ł,incp,dh]:               [ł,incp,dh]:                [ł,incp,dh]:                [ł,incp,dh]:                öktsay:tsąyy[ł,incp,dh]             # "make"                    (Make)                      Lemma/1sg-impf
+#[ł,incp,dh]:               [ł,incp,dh]:                [ł,incp,dh]:                [ł,incp,dh]:                öktsay:tsąy[ł,incp,dh]              # "make"                    (Make)                      Lemma/1sg-impf  Dir/LR
+#[ł,incp,dh]:               [ł,incp,dh]:                [ł,incp,dh]:                [ł,incp,dh]:                öktsay:tseyy[ł,incp,dh]             # "make"                    (Make)                      Lemma/1sg-impf  Dir/LR  #should this be 0cm? listed as dh since other incp forms are, but this lines up better with 0cm based on root
+#[ł,opt,0cm]:               [ł,opt,0cm]:                [ł,opt,0cm]:                [ł,opt,0cm]:                öktsay:tseyy[ł,opt,0cm]             # "make"                    (Make)                      Lemma/1sg-impf
+#[ł,opt,0cm]:               [ł,opt,0cm]:                [ł,opt,0cm]:                [ł,opt,0cm]:                öktsay:tsey[ł,opt,0cm]              # "make"                    (Make)                      Lemma/1sg-impf  Dir/LR
 [l,impf,0cm]:               [l,impf,0cm]:               [l,impf,0cm]:               [l,impf,0cm]:n>             neyjät:jät[l,impf,0cm]              # "scare"                   (ScareScared1)              Lemma/1sg-impf
 [l,fut,0cm]:                [l,fut,0cm]:                [l,fut,0cm]:                [l,fut,0cm]:n>              neyjät:jät[l,fut,0cm]               # "scare"                   (ScareScared1)              Lemma/1sg-impf
 [l,perf,0cm]:               [l,perf,0cm]:               [l,perf,0cm]:               [l,perf,0cm]:n>             neyjät:jät[l,perf,n]                # "scare"                   (ScareScared1)              Lemma/1sg-impf
@@ -254,6 +259,15 @@ LEXICON VerbStem-Tv(5)
 [0cl,perf,0cm]:             [0cl,perf,0cm]:             [0cl,perf,0cm]:             [0cl,perf,0cm]:             ihsrök:{Z}rök[0cl,perf,n]           # "yell"                    (YellA1)                    Lemma/1sg-impf
 [0cl,fut,0cm]:              [0cl,fut,0cm]:              [0cl,fut,0cm]:              [0cl,fut,0cm]:              ihsrök:{Z}rök[0cl,fut,0cm]          # "yell"                    (YellA1)                    Lemma/1sg-impf
 ## [0cl,incp,dh]:           [0cl,incp,dh]:              [0cl,incp,dh]:              [0cl,incp,dh]:              ihsrök:{Z}rök[0cl,incp,dh]          # "yell"                    (YellA1)                    Lemma/1sg-impf - Why is this commented out? -RB
+[0cl,impf,0cm]:             [0cl, impf,0cm]:            [0cl,impf,0cm]:             [0cl,impf,0cm]:             ihdleyy:dleyy[0cl, impf, 0cm]       # “get cold”                (Cold1)                     Lemma/1sg-impf
+[0cl,impf,0cm]:             [0cl, impf,0cm]:            [0cl,impf,0cm]:             [0cl,impf,0cm]:             ihdley:dley[0cl, impf, 0cm]         # “get cold”                (Cold1)                     Lemma/1sg-impf  Dir/LR
+[0cl,impf,0cm]:             [0cl, impf,0cm]:            [0cl,impf,0cm]:             [0cl,impf,0cm]:             ihdley:dley[0cl, impf, 0cm]         # “get cold”                (Cold1)                     Lemma/1sg-impf 
+[0cl,perf,0cm]:             [0cl, perf,0cm]:            [0cl,perf,0cm]:             [0cl,perf,0cm]:             ihdlèy’:dlèy’[0cl, impf, 0cm]       # “get cold”                (Cold1)                     Lemma/1sg-impf
+[0cl,perf,0cm]:             [0cl, perf,0cm]:            [0cl,perf,0cm]:             [0cl,perf,0cm]:             idlèy’:dlèy’[0cl, impf, 0cm]        # “get cold”                (Cold1)                     Lemma/1sg-impf  Dir/LR
+#[0cl,incp,0cm]:            [0cl, incp,0cm]:            [0cl,incp,0cm]:             [0cl,incp,0cm]:             chëdhidlèy’:dlèy[0cl, incp, 0cm]    # “get cold”                (Cold1)                     Lemma/1sg-impf 
+#[0cl,incp,0cm]:            [0cl, incp,0cm]:            [0cl,incp,0cm]:             [0cl,incp,0cm]:             chëdhihdlèy’:dlèy[0cl, incp, 0cm]   # “get cold”                (Cold1)                     Lemma/1sg-impf  Dir/LR
+#[0cl,fut,0cm]:             [0cl, fut,0cm]:             [0cl,fut,0cm]:              [0cl,fut,0cm]:              chihdley:dley[0cl, incp, 0cm]       # “get cold”                (Cold1)                     Lemma/1sg-impf  
+#[0cl,fut,0cm]:             [0cl, fut,0cm]:             [0cl,fut,0cm]:              [0cl,fut,0cm]:              chihdleyy:dleyy[0cl, incp, 0cm]     # “get cold”                (Cold1)                     Lemma/1sg-impf  Dir/LR
 
 
 #working guessers TV
