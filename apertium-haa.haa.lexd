@@ -791,9 +791,9 @@ chöh\ dhö̀h:chöh\ dhö̀h                                       # "pillo
 choh\ įh:choh\ įh[-bare]                                    # "older relatives"             -           possessed 
 choh\ įh:choh\ ęh[-bare]                                    # "older relatives"             -           possessed   Dir/LR
 chǫh\ ghorr:chǫh\ ghorr                                     # "knot in wood"                bare        possessed 
-choo:choo[-bare]                                            # "younger brother"             =           possessed
+choo:choo[-bare]                                            # "younger brother"             -           possessed
 choo:choo[-bare]                                            # "younger brother"             bare        possessed
-chòo\ hąyts’änn:chòo\ hąts’änn[-bare]                       # "youngest brother"            =           possessed
+chòo\ hąyts’änn:chòo\ hąts’änn[-bare]                       # "youngest brother"            -           possessed
 chudòt:chudòt                                               # "blister"                     bare        possessed
 chugah:chugah                                               # "bird"                        bare        possessed
 chuu:chuu                                                   # "water"                       bare        possessed
@@ -879,7 +879,7 @@ ch’ëdhö̀h:ch’ë̀dhö̀h                                           # 
 ch’ëdhö̀h:ch’ëdhö̀h                                           # "skin"                        bare        possessed
 ch’ëdhö̀h:ch’ë̀dhö̀h                                           # "skin"                        bare        possessed   Dir/LR
 ch’ëdhö̀h\ gąyy:ch’ëdhö̀h\ gąyy                               # "dried hide"                  bare        possessed
-ch’ëdhö̀h\ gąyy:ch’ë̀dhö̀h\ gąyy                               # "dried hide"                  bare        possessed  Dir/LR
+ch’ëdhö̀h\ gąyy:ch’ë̀dhö̀h\ gąyy                               # "dried hide"                  bare        possessed   Dir/LR
 ch’ëdhö̀h\ gų̀’:ch’ëdhö̀h\ gų̀’                                 # "worm in caribou head"        bare        possessed
 ch’ëdhö̀h\ įdhą̀’:ch’ëdhö̀h\ įdhą̀’	                            # "tanned hide"                 bare        possessed
 ch’ëdhoh\ tr’ehchoo:ch’ëdhoh\ tr’ehchoo                     # "skin boat"                   bare        possessed
@@ -909,7 +909,7 @@ ch’ëgä̀kee:ch’ëgä̀kee                                         # "c
 ch’ëganchä̀nn’:ch’ëganchä̀nn’                                 # "shoulder blade for calling game" bare    possessed
 ch’ëganchä̀nn’:ch’ë̀ganchä̀nn’                                 # "shoulder blade for calling game" bare    possessed   Dir/LR
 ch’ëghò’\ hä̀leh:ch’ëghò’\ hä̀leh	                            # "dentist"                     bare        possessed
-ch’ëghò’\ hä̀leh:ch’ëghò’\ hä̀le	                            # "dentist"                     bare        possessed  Dir/LR
+ch’ëghò’\ hä̀leh:ch’ëghò’\ hä̀le	                            # "dentist"                     bare        possessed   Dir/LR
 ch’ëghòll’:ch’ëghòll’                                       # "hindquarter"                 bare        possessed
 ch’ëghòll’:ch’ë̀ghòll’                                       # "hindquarter"                 bare        possessed   Dir/LR
 chʼëghö̀rr:chʼëghö̀rr                                         # "eggs"                        bare        possessed
@@ -1027,33 +1027,33 @@ ch’ìtseyy\ ëjè’ąh:ch’itseyy\ jè’ąh                          
 ch’ìtsèyy\ ëtthät:ch’ìtsèyy\ ëtthät                         # "blacksmith"                  bare        possessed
 ch’ìtseyy\ hèw:ch’ìtseyy\ hèw                               # "steel trap"                  bare        possessed
 chʼìtsèyy\ tlʼaa:chʼìtsèyy\ tlʼaa                           # "oven"                        bare        possessed
-chʼìtsèyy\ tlʼaa\ tʼàychènn:chʼìtsèyy\ tlʼaa\ tʼàychènn     # "ovenpan"                     bare        possessed
-## ch’ìtsèyy\ tl’aa\ t’aychànn’:ch’ìtsèyy\ tl’aa\ t’aychànn’   # "oven pan"                    bare        possessed           ## form in dictionary different from form already in code
-## ch’ìtsèyy\ tl’aa\ t’aychànn’:ch’ìtsèyy\ tl’aa\ t’aychą̀nn’   # "oven pan"                    bare        possessed Dir/LR    ## form in dictionary different from form already in code
+chʼìtsèyy\ tlʼaa\ tʼàychènn:chʼìtsèyy\ tlʼaa\ tʼàychènn     # "ovenpan"                     bare        possessed             ## form from textbook elicitations (recording double checked at time of entry here)
+ch’ìtsèyy\ tl’aa\ t’aychànn’:ch’ìtsèyy\ tl’aa\ t’aychànn’   # "oven pan"                    bare        possessed   Dir/LR    ## form from dictionary
+ch’ìtsèyy\ tl’aa\ t’aychànn’:ch’ìtsèyy\ tl’aa\ t’aychą̀nn’   # "oven pan"                    bare        possessed   Dir/LR    ## form from dictionary
 chi’ìtseyy\ wèe\ k’àyǹtr’ënët’tä̀h:chi’ìtseyy\ wèe\ k’àyǹtr’ënët’tä̀h # "pliers"              bare        possessed 
-chi’ìtseyy\ wèe\ k’àyǹtr’ënët’tä̀h:chi’ìtseyy\ wèe\ k’àyǹtr’ë̀në̀t’tä̀h # "pliers"              bare        possessed Dir/LR
+chi’ìtseyy\ wèe\ k’àyǹtr’ënët’tä̀h:chi’ìtseyy\ wèe\ k’àyǹtr’ë̀në̀t’tä̀h # "pliers"              bare        possessed   Dir/LR
 ch’į’aa:ch’į’aa                                             # "axe"                         bare        possessed 
-ch’į’ah:ch’in’ah                                            # "axe"                         bare        possessed Dir/LR 
+ch’į’ah:ch’in’ah                                            # "axe"                         bare        possessed   Dir/LR 
 ch’į’ah\ nihk’ǫ̈̀ǫ̈\ jèk’a:chi’į’ah\ nihk’ǫ̈̀ǫ̈\ jèk’a            # "double axe"                  bare        possessed  
-ch’į’ah\ nihk’ǫ̈̀ǫ̈\ jèk’a:chi’in’ah\ nįhk’ǫ̈̀ǫ̈\ jèk’a           # "double axe"                  bare        possessed Dir/LR 
+ch’į’ah\ nihk’ǫ̈̀ǫ̈\ jèk’a:chi’in’ah\ nįhk’ǫ̈̀ǫ̈\ jèk’a           # "double axe"                  bare        possessed   Dir/LR 
 ch’įhtą̀y’:ch’įhtą̀y’                                         # "bow"                         bare        possessed 
-ch’įhtą̀y’:ch’ęhtą̀y’                                         # "bow"                         bare        possessed Dir/LR
+ch’įhtą̀y’:ch’ęhtą̀y’                                         # "bow"                         bare        possessed   Dir/LR
 ch’įhtą̀y’\ tl’ùu’:ch’įhtą̀y’\ tl’ùu’                         # "bow string"                  bare        possessed 
-ch’įhtą̀y’\ tl’ùu’:ch’ęhtą̀y’\ tl’ùu’                         # "bow string"                  bare        possessed Dir/LR 
+ch’įhtą̀y’\ tl’ùu’:ch’ęhtą̀y’\ tl’ùu’                         # "bow string"                  bare        possessed   Dir/LR 
 ch’odäzhù’:ch’odäzhù’                                       # "caribou feed"                bare        possessed 
 ch’odäzhù’:ch’odäzhù’                                       # "lichen"                      bare        possessed 
 ch’oh\ ts’ä̀t:ch’oh\ ts’ä̀t                                   # "eiderdown"                   bare        possessed 
 ch’òndèy\ ghörr:ch’òndèy\ ghörr                             # "pills"                       bare        possessed 
-ch’òndèy\ ghörr:ch’òndèy\ ghärr                             # "pills"                       bare        possessed Dir/LR
+ch’òndèy\ ghörr:ch’òndèy\ ghärr                             # "pills"                       bare        possessed   Dir/LR
 ch’ondeyy:ch’ondeyy                                         # "medicine"                    bare        possessed 
 ch’oo:ch’oo[-bare]                                          # "clothes"                     -           possessed 
 ch’ǫ̀r:ch’ǫ̀r                                                 # "fish hook"                   bare        possessed 
 ch’ǫts’ǫ̀ǫ:ch’ǫts’ǫ̀ǫ                                         # "ruffled grouse"              bare        possessed 
 ch’ukèt\ zhoo:ch’ukèt\ zhoo                                 # "store"                       bare        possessed 
-ch’ukèt\ zhoo:ch’ukèt\ zhoh                                 # "store"                       bare        possessed Dir/LR 
+ch’ukèt\ zhoo:ch’ukèt\ zhoh                                 # "store"                       bare        possessed   Dir/LR 
 ch’ukèt\ zhoo\ khä̀hkèe’:ch’ukèt\ zhoo\ khä̀hkèe’             # "store manager"               bare        possessed 
 ch’uzheyy:ch’uzheyy                                         # "gift"                        bare        possessed 
-ch’uzheyy:huzheyy                                           # "gift"                        bare        possessed Dir/LR 
+ch’uzheyy:huzheyy                                           # "gift"                        bare        possessed   Dir/LR 
 
 #D
 dahzhää’:dahzhää’                                           # "snow on branches"            bare        possessed
