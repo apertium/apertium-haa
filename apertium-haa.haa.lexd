@@ -949,6 +949,8 @@ lëjii:lëjii                                                 # "tea"           
 männ:männ                                                   # "lake"                        bare        possessed
 
 #N
+naä̀ghayy:naä̀ghayy                                           # "frog"                        bare        possessed
+nąą:nąą[-bare]                                              # "mother"                      bare        possessed
 nä̀bàdä̀h’įh:nä̀bàdä̀h’įh                                       # "police"                      bare        possessed
 nä̀bàdä̀h’įh:nä̀bàdä̀h’ęh                                       # "police"                      bare        possessed   Dir/LR
 nä̀bàh:nä̀bàh                                                 # "war"                         bare        possessed
@@ -967,6 +969,7 @@ nädhöö:nädhöǫ̈                                               # "sno
 nädohghà’:nädohghà[-bare]                                   # "eyebrows"                    -           possessed
 nädohghà’:nä̀dohghà[-bare]                                   # "eyebrows"                    -           possessed   Dir/LR
 nädòo’:nädòo[-bare]                                         # "eyelid"                      -           possessed
+nägöö:nägöö                                                 # "fox"                         bare        possessed
 nä̀hdèy\ ts’ąyy:nä̀hdèy\ ts’ąyy                               # "right side"                  bare        possessed
 nä̀hdèy\ ts’ąyy:nä̀hdèh\ ts’ąyy                               # "right side"                  bare        possessed   Dir/LR
 nä̀hjah:nä̀hjah                                               # "boreal owl"                  bare        possessed
@@ -1041,6 +1044,7 @@ ndǫ̀ǫ\ hotr’eyy:ndǫ̀ǫ\ hotr’èyy’                              
 nedhënèdlaa:nedhënèdlaa                                     # "necklace"                    bare        possessed          ## Same translation as dhënèdlaa
 neghò’\ hä̀leh:neghò’\ hä̀leh                                 # "dentist"                     bare        possessed
 neghò’\ hä̀leh:neghò’\ hä̀lee                                 # "dentist"                     bare        possessed   Dir/LR
+nehjè’:nehjè’                                               # "man, old"                    bare        possessed
 nèhjè’\ tsä̀’inn:nèhjè’\ tsä̀’inn                             # "horned beetle"               bare        possessed
 nèhjè’\ tsä̀’inn:nehjè’\ tsä̀’enn                             # "horned beetle"               bare        possessed   Dir/LR
 nèhtsönn:nèhtsönn                                           # "spruce shelter"              bare        possessed
@@ -1114,7 +1118,8 @@ ninchǫ̀’:nìnchǫ̀’                                             # "ros
 nìnchunn:nìnchunn                                           # "big bull moose"              bare        possessed
 nìnjà’:nìnjà’                                               # "maggots"                     bare        possessed
 nìnjuu:nìnjuu                                               # "lynx"                        bare        possessed
-nìnjuu\ gaa:nìnjuu\ gaa                                     # "young lynx"                  bare        possessed   Dir/LR ## nìnjuu gah is already in the transducer as "cat"
+nìnjuu\ gaa:nìnjuu\ gaa                                     # "young lynx"                  bare        possessed
+nìnjuu\ gah:nìnjuu\ gah                                     # "cat"                         bare        possessed
 nìnjuu\ zhärr:nìnjuu\ zhärr                                 # "house cat"                   bare        possessed
 nitl’ä̀hdàyy\ dhohchö̀h:nitl’ä̀hdàyy\ dhohchö̀h                 # "apron"                       bare        possessed
 nitl’ä̀hdàyy\ dhohchö̀h:ǹtl’ä̀hdàyy\ dhohchö̀h                  # "apron"                       bare        possessed   Dir/LR
@@ -1141,6 +1146,7 @@ nlätth’òo\ tsöll:nlätth’òo\ tsöll[-bare]                    # "l
 nlätth’òo:nlätth’òo[-bare]                                  # "fingers"                     -           possessed
 nlätth’òo:lätth’oo[-bare]                                   # "fingers"                     -           possessed   Dir/LR
 nląyy:nląyy                                                 # "meat"                        bare        possessed   Dir/LR
+ǹląyy:ǹląyy                                                 # "meat"                        bare        possessed   
 ǹląyy\ chù’:nląyy\ chù’                                     # "broth"                       bare        possessed   Dir/LR
 ǹląyy\ chù’:ǹląyy\ chù’                                     # "broth"                       bare        possessed
 nląyy\ dähdrä̀ww’:nląyy\ dähdrä̀ww’                           # "meat rack"                   bare        possessed
@@ -1155,6 +1161,7 @@ ǹląyy\ dhëch’ee:nląyy\ dhë̀ch’ee                             # "f
 ǹląyy\ gąyy:nląyy\ gąyy                                     # "dried meat"                  bare        possessed   Dir/LR
 ǹląyy\ lew:ǹląyy\ lew                                       # "raw meat; fresh-killed meat" bare        possessed          ## Same translation as ǹląyy t’äww
 ǹląyy\ lew:nląyy\ lew                                       # "raw meat; fresh-killed meat" bare        possessed
+ǹląyy\ tlorr:ǹląyy\ tlorr                                   # "meat and gravy, stew"        bare        possessed
 ǹląyy\ t’äww:ǹląyy\ t’äww                                   # "raw meat"                    bare        possessed          ## Same translation as ǹląyy lew
 ǹląyy\ t’äww:nląyy\ t’äww                                   # "raw meat"                    bare        possessed   Dir/LR
 ǹląyy\ t’ö̀h:ǹląyy\ t’ö̀h                                     # "roasted meat"                bare        possessed
@@ -1166,6 +1173,7 @@ nǫǫ\ hotr’eyy:nǫǫ\ hotr’eyy                                 # "east 
 nǫǫ\ hotr’eyy:nòǫ̀\ hotr’èyy’                                # "east wind; south wind"       bare        possessed   Dir/LR
 Nǫ̀dlee:Nǫ̀dlee                                               # "white man"                   bare        possessed
 Nǫ̀dlee\ tr’àyy’:Nǫ̀dlee\ tr’àyy’                             # "white woman"                 bare        possessed
+nintl’ät:nintl’ät                                           # "low bush cranberries"        bare        possessed          ## Same translation as ntl’ä̀t; should either be a Dir/LR??
 ntl’ä̀t:ntl’ä̀t                                               # "low-bush cranberries"        bare        possessed          ## Same translation as nintlʼät
 ntl’ä̀t:ǹtl’ä̀t                                               # "low-bush cranberries"        bare        possessed   Dir/LR
 ntl’àt:ntl’àt[-bare]                                        # "lap, palm"                   -           possessed
@@ -1174,6 +1182,7 @@ ntsąy:ntsąy[-bare]                                          # "nose"        
 nts’ö̀ö’:nts’ö̀ö’[-bare]                                      # "forehead"                    -           possessed
 nun\ dhö̀h:nun\ dhö̀h                                         # "fur (animal)"                bare        possessed          ## Same translation as nun ghà’
 nun\ ghà’:nun\ ghà’                                         # "fur (animal)"                bare        possessed          ## Same translation as nun dhö̀h
+nunn:nunn                                                   # "animal"                      bare        possessed
 nunn\ chè:nunn\ chè                                         # "animal’s tail"               bare        possessed
 nunn\ ch’òndèyy’:nunn\ ch’òndèyy’                           # "poison"                      bare        possessed
 nunn\ ch’òndèyy’:nunn\ ch’òndèy’                            # "poison"                      bare        possessed   Dir/LR
