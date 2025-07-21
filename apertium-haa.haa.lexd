@@ -902,10 +902,8 @@ èww’:èww’[-bare]                                            # "dress (he
 
 
 #G
-gaa:gaa[-bare]                                              # "child"                         -           possessed
 gah:gah                                                     # "rabbit"                        bare        possessed
 gaa:gaa[-bare]                                              # "child, his/her"                -           possessed
-gah:gah                                                     # "rabbit"                        bare        possessed
 gah\ gaa:gah\ gaa                                           # "rabbit baby"                   bare        possessed
 gah\ gànn’:gah\ gànn’                                       # "rabbit snare"                  bare        possessed
 gah\ ts’ä̀t:gah\ ts’ä̀t                                       # "rabbit skin blanket"           bare        possessed
@@ -927,15 +925,15 @@ göö:göö                                                     # "glacier" 
 gòt\ tlèe’:gòt\ tlèe’[-bare]                                # "knee cartilage, his/her"       -           possessed
 gòt:gòt[-bare]                                              # "knee, his/her"                 -           possessed
 gųų:gųų                                                     # "bugs; worms"                   bare        possessed                  # combined entries for bugs and worms
-gųų\ jëzhorr:gųų\ jëzhorr   	                              # "hairy caterpillar"             bare        possessed
+gųų\ jëzhorr:gųų\ jëzhorr                                   # "hairy caterpillar"             bare        possessed
 gų̀h:gų̀h                                                     # "plants; weeds"                 bare        possessed                  #combined entries for plants and weeds
 gųh\ däww:gųh\ däww                                         # "strawberry blight"             bare        possessed
 gųh\ dòdlerr:gųh\ dòdlerr                                   # "bluebells"                     bare        possessed
 gų̀h\ dòdlerr:gų̀h\ dòdlerr                                   # "lupine"                        bare        possessed
 gų̀h\ k’ää:gùh\ k’ää                                         # "plants"                        bare        possessed
-gų̀h\ tsän:gų̀h\ tsän                                         # "weeds"                         bare        possessed 				         #variant tsä̀n listed in dict
-gwä̀t\ tlèe’:gwä̀t\ tlèe’[-bare]  	                          # "knee cartilage, his/her"       -           possessed
-gwä̀t:gwä̀t[-bare] 			                                      # "knee, his/her"                 -           possessed
+gų̀h\ tsän:gų̀h\ tsän                                         # "weeds"                         bare        possessed                   #variant tsä̀n listed in dict
+gwä̀t\ tlèe’:gwä̀t\ tlèe’[-bare]                              # "knee cartilage, his/her"       -           possessed
+gwä̀t:gwä̀t[-bare]                                            # "knee, his/her"                 -           possessed
 
 #H
 hèw:hèw                                                     # "trap"                        bare        possessed
