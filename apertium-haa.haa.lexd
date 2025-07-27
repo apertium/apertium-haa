@@ -153,6 +153,7 @@ ModalWord [<mod>:]
 Adverbs [<adv>:]
 Pronoun(1) [<prn>:] Pronoun(2)
 Numeral [<num>:]
+Numbers [<num>:]
 
 PATTERN Nouns
 NounPrefixes(1) NounRoot[possessed] [<n>:] NounPrefixes(2)  #for possessed tag prefixes
@@ -1097,7 +1098,7 @@ wëzhèe:wëzhèe               # "during"  FIXME: CHECK
 łä̂ä:łą̈̂ą̈                     # "really"                      Dir/LR
 
 
-LEXICON Numeral
+LEXICON Numbers
 nä̀nkąyy:nä̀nkąyy             # "two"
 
 
