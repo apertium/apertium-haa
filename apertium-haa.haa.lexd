@@ -1014,21 +1014,23 @@ zhùr:zhùr                                                   # "wolf"          
 
 #barred-L
 łä̀h’ärr:łä̀h’ärr                                             # "close pals"                  bare        possessed
-łä̀h’ärr:łä̀h’ä̀rr’                                            # "close pals"                  bare        possessed   Dir/Lr
+łä̀h’ärr:łä̀h’ä̀rr’                                            # "close pals"                  bare        possessed   Dir/LR
 łä̀h’òo’:łä̀h’òo’                                             # "rivals"                      bare        possessed
 łäjee\ įh:łäjee\ įh                                         # "sisters (together)"          bare        possessed
 łät:łät                                                     # "smoke"                       bare        possessed
 łät\ ts’èy:łät\ ts’èy                                       # "birch-ear snoose; smoke dust"bare        possessed
 łäts’èy:łäts’èy                                             # "birch ear"                   bare        possessed
-łäts’èy:łöts’èy                                             # "birch ear"                   bare        possessed   Dir/Lr
+łäts’èy:łöts’èy                                             # "birch ear"                   bare        possessed   Dir/LR
 łä̀’dä̀dleyy:łä̀’dä̀dleyy                                       # "truth"                       bare        possessed
+łą̌yy:lìngʼ[-bare]                                           # "dog"                         -           possessed
+łą̌yy:łą̌yy[-possessed]                                       # "dog"                         bare        -
 łąyy\ buh\ ts’ąyy\ dhëjah:łąyy\ buh\ ts’ąyy\ dhëjah         # "wheel dog"                   bare        possessed            ## Possessed form??
 łąyy\ chè’:łąyy\ chè’                                       # "mare’s tail grass"           bare        possessed
-łąyy\ ch’ënähttheh\ dhëjah:łąyy\ ch’ënähttheh\ dhëjah       # "leader dog"                  bare        possessed   Dir/Lr   ## Possessed form??
+łąyy\ ch’ënähttheh\ dhëjah:łąyy\ ch’ënähttheh\ dhëjah       # "leader dog"                  bare        possessed   Dir/LR   ## Possessed form??
 łąyy\ gah:łąyy\ gah                                         # "pup"                         bare        possessed            ## Possessed form??
 łąyy\ ghèww’:łąyy\ ghèww’                                   # "dogpack"                     bare        possessed            ## Possessed form??
 łąyy\ itseyy\ leyy’:łąyy\ itseyy\ leyy’                     # "dog bells"                   bare        possessed            ## Possessed form??
-łąyy\ itseyy\ leyy’:łąyy\ itseyy\ làyy’                     # "dog bells"                   bare        possessed   Dir/Lr   ## Possessed form??
+łąyy\ itseyy\ leyy’:łąyy\ itseyy\ làyy’                     # "dog bells"                   bare        possessed   Dir/LR   ## Possessed form??
 łąyy\ jèyy’:łąyy\ jèyy’                                     # "black currants"              bare        possessed
 łąyy\ nehjè’:łąyy\ nehjè’                                   # "old dog"                     bare        possessed            ## Possessed form??
 łąyy\ tl’ùu’:łayy\ tl’ùu’                                   # "dog harness"                 bare        possessed            ## Possessed form??
@@ -1037,16 +1039,18 @@ zhùr:zhùr                                                   # "wolf"          
 łèw\ baa:łèw\ baa                                           # "white sand"                  bare        possessed
 łèw\ chùrr\ nìnt’ey:łèw\ chùrr\ nìnt’ey                     # "baking soda"                 bare        possessed            ## Same translation as łèw nèchurr
 łèw\ dònn’:łèw\ dònn’                                       # "bread (from store)"          bare        possessed
+łèw\ gąyy:łèw\ gąyy                                         # "crackers, pilot bread"       bare        possessed
 łèw\ nèchurr:łèw\ nèchuurr                                  # "baking soda"                 bare        possessed            ## Same translation as łèw chùrr nìnt’ey
 łèw\ tlòk:łèw\ tlòk                                         # "pancakes"                    bare        possessed
 łèw\ tlorr:łèw\ tlorr                                       # "gravy"                       bare        possessed
 łèw\ t’ö̀h:łèw\ t’ö̀h                                         # "bannock"                     bare        possessed
+łèw\ tʼöö:łèw\ tʼöö                                         # "fry bread (lit. cooked bread)"bare       possessed
 łèw\ t’òt:łèw\ t’òt                                         # "mud (sticky)"                bare        possessed
 łèw\ tr’ùrr\ kayy:łèw\ tr’ùrr\ kayy                         # "mud bank"                    bare        possessed
 łèw\ zhòll’:łèw\ zhòll’                                     # "blowing dust and dirt"       bare        possessed
 łèw\ zrąyy:łèw\ zrąyy                                       # "black sand"                  bare        possessed
 łihnąą\ įh:łihnąą\ įh                                       # "mother and child"            bare        possessed
-łihnąą\ įh:łihnąą\ ęh                                       # "mother and child"            bare        possessed   Dir/Lr
+łihnąą\ įh:łihnąą\ ęh                                       # "mother and child"            bare        possessed   Dir/LR
 łònträä:łònträä                                             # "dog whip"                    bare        possessed
 łor:łor                                                     # "urine"                       bare        possessed
 łör:łör                                                     # "kindling wood"               bare        possessed            ## Same translation as łur
@@ -1054,38 +1058,43 @@ zhùr:zhùr                                                   # "wolf"          
 łur:łur                                                     # "kindling wood"               bare        possessed            ## Same translation as łör
 łut:łut                                                     # "ice; scab"                   bare        possessed
 łut\ dhùll:łut\ dhùll                                       # "shell ice"                   bare        possessed
-łut\ dhùll:łut\ dhull                                       # "shell ice"                   bare        possessed   Dir/Lr
+łut\ dhùll:łut\ dhull                                       # "shell ice"                   bare        possessed   Dir/LR
 łut\ drann:łut\ drann                                       # "thin ice"                    bare        possessed
 łut\ drön:łut\ drön                                         # "clear ice"                   bare        possessed
-łut\ drön:łut\ drin                                         # "clear ice"                   bare        possessed   Dir/Lr
+łut\ drön:łut\ drin                                         # "clear ice"                   bare        possessed   Dir/LR
 łut\ dzǫ̈ǫ̈:łut\ dzǫ̈ǫ̈                                         # "rough ice"                   bare        possessed            ## Same translation as łut ghòyy’ and łut tsį̀’
 łut\ ëlëtrąyy:łut\ ëlëtrąyy                                 # "cracked ice"                 bare        possessed            ## Same translation as łut tä̀w
 łut\ ghòyy’:łut\ ghòyy’                                     # "rough ice"                   bare        possessed            ## Same translation as łut dzǫ̈ǫ̈ and łut tsį̀’
 łut\ tä̀w:łut\ tä̀w                                           # "cracked ice"                 bare        possessed            ## Same translation as łut ëlëtrąyy
 łut\ tä̀w\ k’èt:łut\ tä̀w\ k’èt                               # "cracked ice place"           bare        possessed
-łut\ tä̀w\ k’èt:łut\ tä̀w\ k’ìt                               # "cracked ice place"           bare        possessed   Dir/Lr
+łut\ tä̀w\ k’èt:łut\ tä̀w\ k’ìt                               # "cracked ice place"           bare        possessed   Dir/LR
 łut\ tsį̀’:łut\ tsį̀                                          # "rough ice"                   bare        possessed            ## Same translation as łut dzǫ̈ǫ̈ and łut ghòyy’
+łuu:łuu                                                     # "fish"                        bare        possessed
+łuu\ choo:łuu\ choo                                         # "king salmon"                 bare        possessed
 łuu\ dähdrä̀ww’:łuu\ dähdrä̀ww’                               # "fish rack"                   bare        possessed
 łuu\ dhëberr:łuu\ dhëberr                                   # "boiled fish"                 bare        possessed
-łuu\ dhëberr:łuu\ dhë̀berr                                   # "boiled fish"                 bare        possessed   Dir/Lr
+łuu\ dhëberr:łuu\ dhë̀berr                                   # "boiled fish"                 bare        possessed   Dir/LR
+łuu\ gʼąyy:łuu\ gʼąyy                                       # "dried fish"                  bare        possessed
 łuu\ ghä̀k:łuu\ ghä̀k                                         # "fish grill"                  bare        possessed
 łuu\ ghè’:łuu\ ghè’                                         # "salmon grease"               bare        possessed
-łuu\ gų̀ų’:łuu\ gų̀ų                                          # "weed growing along riverbank"bare        possessed
+łuu\ gų̀ų’:łuu\ gų̀ų                                          # "weed growing along riverbank" bare       possessed
 łuu\ hënųų:łuu\ hënųų                                       # "fish flesh"                  bare        possessed            ## Same translation as łuu nųų and łuu nųh
-łuu\ hënųų:łuu\ hönųų                                       # "fish flesh"                  bare        possessed   Dir/Lr
+łuu\ hënųų:łuu\ hönųų                                       # "fish flesh"                  bare        possessed   Dir/LR
 łuu\ jëk’ǫ̀’:łuu\ jëk’ǫ̀’                                     # "female fish with eggs"       bare        possessed
 łuu\ jënèzreyy:łuu\ jënèzreyy                               # "sliced fish meat"            bare        possessed            ## Same translation as łuu nädrèe
 łuu\ k’ǫ̀ǫ’:łuu\ k’ǫ̀ǫ’                                       # "fish eggs"                   bare        possessed
 łuu\ nädrèe’:łuu\ nädrèe’                                   # "sliced fish meat"            bare        possessed            ## Same translation as łuu jënèzreyy
-łuu\ nädrèe’:łuu\ nädrèyy’                                  # "sliced fish meat"            bare        possessed   Dir/Lr
+łuu\ nädrèe’:łuu\ nädrèyy’                                  # "sliced fish meat"            bare        possessed   Dir/LR
 łuu\ nähzhèyy’:łuu\ nähzhèyy’                               # "thin-sliced fish"            bare        possessed
 łuu\ näjëtthök:łuu\ näjëtthök                               # "fish strips"                 bare        possessed
 łuu\ nä̀lee:łuu\ nä̀lee                                       # "spawning female fish"        bare        possessed
+łuu\ nä̀nʼ:łuu\ nä̀nʼ                                         # "fish backbone"               bare        possessed
 łuu\ nųų:łuu\ nųų                                           # "fish flesh"                  bare        possessed            ## Same translation as łuu hënųų and łuu nųh
 łuu\ nųh:łuu\ nųh                                           # "fish flesh"                  bare        possessed            ## Same translation as łuu hënųų and łuu nųų
+łuu\ tʼaa:łuu\ tʼaa                                         # "salmon, fish belly"          bare        possessed
 łuu\ t’àa’:łuu\ t’àa’                                       # "fish fins"                   bare        possessed
 łuu\ tl’ìrr’:łuu\ tl’ìrr’                                   # "fish slime"                  bare        possessed
-łuu\ tl’ìrr’:łuu\ tl’èrr’                                   # "fish slime"                  bare        possessed   Dir/Lr
+łuu\ tl’ìrr’:łuu\ tl’èrr’                                   # "fish slime"                  bare        possessed   Dir/LR
 łuu\ tr’ùrr’:łuu\ tr’ùrr’                                   # "fish scales"                 bare        possessed
 łuu\ tthì’\ t’ö̀h:łuu\ tthì’\ t’ö̀h                           # "roasted head"                bare        possessed
 
