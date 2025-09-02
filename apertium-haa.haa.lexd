@@ -1151,7 +1151,7 @@ tsuu\ zrąyy:tsuu\ zrąyy                                     # "black marten"
 tsàʼ:tsàʼ                                                   # "beaver"                      bare        possessed
 ts’à’\ ts’at:ts’à’\ ts’at                                   # "beaver hat"                  bare        possessed
 tsʼat:tsʼat                                                 # "hat"                         bare        possessed
-## ts’àa’:ts’àa’[-bare]                                        # "hat"                      -           possessed          ## Dictionary lists separate forms for bare and possessed hat?
+## ts’àa’:ts’àa’[-bare]                                     # "hat"                         -           possessed          ## Dictionary lists separate forms for bare and possessed hat?
 ts’ä̀ch’uu:ts’ä̀ch’uu                                         # "tobacco"                     bare        possessed
 ts’äch’uu\ chin:ts’äch’uu\ chin                             # "tobacco can"                 bare        possessed
 ts’äch’uu\ chin:ts’äch’uu\ chen                             # "tobacco can"                 bare        possessed   Dir/LR
@@ -1162,7 +1162,7 @@ ts’ähch’inn:ts’ähch’inn                                     # "maide
 ts’ähch’inn:ts’ähch’enn                                     # "maiden"                      bare        possessed   Dir/LR ## Note: question?
 ts’ä̀hch’inn\ ts’àa:ts’ä̀hch’inn\ ts’àa                       # "maiden’s hat"                bare        possessed
 ts’ahjà’:ts’ahjà’                                           # "cap brim"                    bare        possessed
-ts’at:ts’at                                                 # "cap, hat"                    bare        possessed
+ts’at:ts’at[-possessed]                                     # "cap, hat"                    bare        -
 ts’ä̀t:ts’ä̀t                                                 # "robe, blanket"               bare        possessed
 ts’ä̀t\ k’äww:ts’ä̀t\ k’äww                                   # "sheets"                      bare        possessed
 ts’ä̀t:ts’ä̀t[-bare]                                          # "womb"                        -           possessed
