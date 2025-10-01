@@ -906,9 +906,9 @@ iww:iww                                                     # "beads"           
 
 #J
 jää:jää                                                     # "black duck"                  bare        possessed
-jàa’:jàa’[-bare]                                            # "friend, his/her"             -           possessed
+jàa’:jàa’[-bare]                                            # "friend"                      -           possessed
 jak\ hehdän:jak\ hehdän                                     # "blindness"                   bare        possessed
-jàww’:jàww’[-bare]                                          # "eyes, his/her"               -           possessed
+jàww’:jàww’[-bare]                                          # "eyes"                        -           possessed
 jëbee:jëbee                                                 # "sheep"                       bare        possessed
 jëbee:jë̀bee                                                 # "sheep"                       bare        possessed  Dir/LR
 jëbee\ gaa:jëbee\ gaa                                       # "lamb"                        bare        possessed	
@@ -977,11 +977,11 @@ jik’aa\ tsaww:jik’aa\ tsaww                                 # "handgun"     
 jik’aa\ tth’è:jik’aa\ tth’è                                 # "gun shells"                  bare        possessed		
 jik’aa\ zhìt\ wèe\ tr’ëhohsù’:jik’aa\ zhìt\ wèe\ tr’ëhohsù’ # "gun cleaner"                 bare        possessed
 jik’aa\ zhìt\ wèe\ tr’ëhohsù’:jik’aa\ zhèt\ wèe\ tr’ë̀hohsù’ # "gun cleaner"                 bare        possessed  Dir/LR
-jǫ̈̀ǫ̈’:jǫ̈̀ǫ̈[-bare]                                             # "navel, bellybutton, his/her" -           possessed             #combined entries for navel and bellybutton
+jǫ̈̀ǫ̈’:jǫ̈̀ǫ̈[-bare]                                             # "navel, bellybutton"          -           possessed             #combined entries for navel and bellybutton
 jǫrr:jǫrr                                                   # "Canada jay; whiskeyjack"     bare        possessed             #combined entries for Canada jay and whiskeyjack
 jǫ̀rr:jǫ̀rr                                                   # "Canada jay; whiskeyjack"     bare        possessed  Dir/LR     #combined entries for Canada jay and whiskeyjack
-jǫrr\ baa:jǫrr\ baa                                         # "bluejay; Canada jay; magpie; shrike"bare possessed             #seems to be uncertain about translation for shrike; combined entries for bluejay, Canada jay, magpie, and shrike
-jǫrr\ baa:jǫ̀rr\ baa                                         # "bluejay; Canada jay; magpie; shrike"bare possessed  Dir/LR     #seems to be uncertain about translation for shrike; combined entries for bluejay, Canada jay, magpie, and shrike
+jǫrr\ baa:jǫrr\ baa                                         # "bluejay; Canada jay; magpie; shrike" bare possessed             #seems to be uncertain about translation for shrike; combined entries for bluejay, Canada jay, magpie, and shrike
+jǫrr\ baa:jǫ̀rr\ baa                                         # "bluejay; Canada jay; magpie; shrike" bare possessed  Dir/LR     #seems to be uncertain about translation for shrike; combined entries for bluejay, Canada jay, magpie, and shrike
 jǫrr\ choo:jǫrr\ choo                                       # "goshawk"                     bare        possessed		
 jǫrr\ dobaa:jǫrr\ dobaa                                     # "magpie"                      bare        possessed		
 jǫrr\ jàww’:jǫrr\ jàww’                                     # "ptarmigan berries"           bare        possessed		
