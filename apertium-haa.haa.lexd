@@ -954,6 +954,7 @@ khee:khee                                                   # "grease; oil; tall
 khee\ chin:khee\ chin                                       # "lard pail"                    bare       possessed 
 khee\ chin:khee\ chen                                       # "lard pail"                    bare       possessed 
 khee\ jèk’än’:khee\ jèk’än’                                 # "kerosene"                     bare       possessed 
+khee\ jèk’än’:khee\ jèk’ä̀n’                                 # "kerosene"                     bare       possessed   Dir/LR
 khee\ jek’ą’:khee\ jek’ą’                                   # "candle"                       bare       possessed 
 khee\ jek’ą’:khee\ jek’ä̀n’                                  # "candle"                       bare       possessed 
 khee\jek’ą’\ tl’ùù:khee\jek’ą’\ tl’ùù                       # "wick for oil lamp"            bare       possessed 
@@ -989,6 +990,7 @@ koy:koy                                                     # "vomit"           
 krists’ik\ gįhìì’:krists’ik\ gįhìì’                         # "priest"                       bare       possessed 
 krists’ik\ gįhìì’:kres\ ts’ek\ ginhìì’                      # "priest"                       bare       possessed   Dir/LR
 kwän\ jàww’:kwän\ jàww’                                     # "fireplace"                    bare       possessed 
+kwän\ jàww’:kòn\ jàww’                                      # "fireplace"                    bare       possessed   Dir/LR
 kwän\ jèk’an’:kwän\ jèk’an’                                 # "fire (burning)"               bare       possessed   Dir/LR
 kwän\ ts’enn:kwän\ ts’enn                                   # "spark"                        bare       possessed   Dir/LR
 kwän’\ tthìww:kwän’\ tthìww                                 # "flame"                        bare       possessed   Dir/LR
