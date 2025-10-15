@@ -707,7 +707,7 @@ PACKAGE_TARNAME
 PACKAGE_NAME
 PATH_SEPARATOR
 SHELL'
-ac_subst_files='ap_include'
+ac_subst_files=''
 ac_user_opts='
 enable_option_checking
 enable_silent_rules
@@ -3367,98 +3367,7 @@ printf "%s\n" "yes" >&6; }
 
 fi
 
-
-
-
-  ap_include=$srcdir/ap_include.am
-
-  cat >$srcdir/ap_include.am <<EOF
-
-modes/%.mode: modes.xml
-	apertium-validate-modes \$<
-	apertium-gen-modes \$<
-
-apertium_modesdir=\$(prefix)/share/apertium/modes/
-install-modes: modes.xml
-	apertium-gen-modes -f -l \$< \$(prefix)/share/apertium/\$(BASENAME)
-	\$(MKDIR_P) \$(DESTDIR)\$(apertium_modesdir)
-	modes=\`xmllint --xpath '//mode[@install="yes"]/@name' \$< | sed 's/ *name="\([^"]*\)"/\1.mode /g'\`; \\
-		if test -n "\$\$modes"; then \\
-			\$(INSTALL_DATA) \$\$modes \$(DESTDIR)\$(apertium_modesdir); \\
-			rm \$\$modes; \\
-		fi
-
-uninstall-modes: modes.xml
-	files=\`xmllint --xpath '//mode[@install="yes"]/@name' \$< | sed 's/ *name="\([^"]*\)"/\1.mode /g'\`; \\
-	if test -n "\$\$files"; then \\
-		dir=\$(DESTDIR)\$(apertium_modesdir); \\
-		\$(am__uninstall_files_from_dir); \\
-	fi
-
-.deps/.d:
-	\$(MKDIR_P) .deps
-	touch \$@
-
-.PRECIOUS: .deps/.d
-
-langs:
-	@fail=; \
-	if \$(am__make_keepgoing); then \
-	  failcom='fail=yes'; \
-	else \
-	  failcom='exit 1'; \
-	fi; \
-	dot_seen=no; \
-	list='\$(AP_SUBDIRS)'; \
-	for subdir in \$\$list; do \
-	  echo "Making \$\$subdir"; \
-	  (\$(am__cd) \$\$subdir && \$(MAKE) \$(AM_MAKEFLAGS) all-am) \
-	  || eval \$\$failcom; \
-	done; \
-	\$(MAKE) \$(AM_MAKEFLAGS) all-am || exit 1; \
-	test -z "\$\$fail"
-.PHONY: langs
-
-
-.deps/%.autobil.prefixes: %.autobil.bin .deps/.d
-	lt-print -H $< > .deps/\$*.autobil.att
-	hfst-txt2fst <  .deps/\$*.autobil.att > .deps/\$*.autobil.hfst
-	hfst-project -p upper .deps/\$*.autobil.hfst > .deps/\$*.autobil.upper                                   # bidix
-	echo ' [ ? - %+ ]* ' | hfst-regexp2fst > .deps/\$*.any-nonplus.hfst                                                        # [^+]*
-	hfst-concatenate -1 .deps/\$*.autobil.upper -2 .deps/\$*.any-nonplus.hfst -o .deps/\$*.autobil.nonplussed    # bidix [^+]*
-	echo ' %+ ' | hfst-regexp2fst > .deps/\$*.single-plus.hfst                                                                 # +
-	hfst-concatenate -1 .deps/\$*.single-plus.hfst -2 .deps/\$*.autobil.nonplussed -o .deps/\$*.autobil.postplus # + bidix [^+]*
-	hfst-repeat -f0 -t3 -i .deps/\$*.autobil.postplus -o .deps/\$*.autobil.postplus.0,3                      # (+ bidix [^+]*){0,3} -- gives at most three +
-	hfst-concatenate -1 .deps/\$*.autobil.nonplussed -2 .deps/\$*.autobil.postplus.0,3 -o \$@                 # bidix [^+]* (+ bidix [^+]*){0,3}
-
-%.rlx.bin: \$(BASENAME).%.rlx
-	cg-comp \$< \$@
-
-%.autolex.bin: \$(BASENAME).%.lrx
-	lrx-comp \$< \$@
-
-%.autoseq.bin: \$(BASENAME).%.lsx
-	lsx-comp lr \$< \$@
-
-%.revautoseq.bin: \$(BASENAME).%.lsx
-	lsx-comp rl \$< \$@
-
-%.t1x.bin: \$(BASENAME).%.t1x
-	apertium-validate-transfer \$<
-	apertium-preprocess-transfer \$< \$@
-%.t2x.bin: \$(BASENAME).%.t2x
-	apertium-validate-interchunk \$<
-	apertium-preprocess-transfer \$< \$@
-%.t3x.bin: \$(BASENAME).%.t3x
-	apertium-validate-postchunk \$<
-	apertium-preprocess-transfer \$< \$@
-
-%.rtx.bin: \$(BASENAME).%.rtx
-	rtx-comp \$< \$@
-
-EOF
-
-
+AP_MKINCLUDE
 
 ac_config_files="$ac_config_files Makefile apertium-haa.pc"
 
@@ -4231,24 +4140,7 @@ ac_tmp=$tmp
 # This happens for instance with `./config.status config.h'.
 if test -n "$CONFIG_FILES"; then
 
-if $AWK 'BEGIN { getline <"/dev/null" }' </dev/null 2>/dev/null; then
-  ac_cs_awk_getline=:
-  ac_cs_awk_pipe_init=
-  ac_cs_awk_read_file='
-      while ((getline aline < (F[key])) > 0)
-	print(aline)
-      close(F[key])'
-  ac_cs_awk_pipe_fini=
-else
-  ac_cs_awk_getline=false
-  ac_cs_awk_pipe_init="print \"cat <<'|#_!!_#|' &&\""
-  ac_cs_awk_read_file='
-      print "|#_!!_#|"
-      print "cat " F[key] " &&"
-      '$ac_cs_awk_pipe_init
-  # The final `:' finishes the AND list.
-  ac_cs_awk_pipe_fini='END { print "|#_!!_#|"; print ":" }'
-fi
+
 ac_cr=`echo X | tr X '\015'`
 # On cygwin, bash can eat \r inside `` if the user requested igncr.
 # But we know of no other shell where ac_cr would be empty at this
@@ -4266,17 +4158,6 @@ fi
 echo 'BEGIN {' >"$ac_tmp/subs1.awk" &&
 _ACEOF
 
-# Create commands to substitute file output variables.
-{
-  echo "cat >>$CONFIG_STATUS <<_ACEOF || ac_write_fail=1" &&
-  echo 'cat >>"\$ac_tmp/subs1.awk" <<\\_ACAWK &&' &&
-  echo "$ac_subst_files" | sed 's/.*/F["&"]="$&"/' &&
-  echo "_ACAWK" &&
-  echo "_ACEOF"
-} >conf$$files.sh &&
-. ./conf$$files.sh ||
-  as_fn_error $? "could not make $CONFIG_STATUS" "$LINENO" 5
-rm -f conf$$files.sh
 
 {
   echo "cat >conf$$subs.awk <<_ACEOF" &&
@@ -4353,7 +4234,7 @@ _ACAWK
 cat >>"\$ac_tmp/subs1.awk" <<_ACAWK &&
   for (key in S) S_is_set[key] = 1
   FS = ""
-  \$ac_cs_awk_pipe_init
+
 }
 {
   line = $ 0
@@ -4371,16 +4252,10 @@ cat >>"\$ac_tmp/subs1.awk" <<_ACAWK &&
     } else
       len += 1 + keylen
   }
-  if (nfields == 3 && !substed) {
-    key = field[2]
-    if (F[key] != "" && line ~ /^[	 ]*@.*@[	 ]*$/) {
-      \$ac_cs_awk_read_file
-      next
-    }
-  }
+
   print line
 }
-\$ac_cs_awk_pipe_fini
+
 _ACAWK
 _ACEOF
 cat >>$CONFIG_STATUS <<\_ACEOF || ac_write_fail=1
@@ -4619,12 +4494,7 @@ s&@INSTALL@&$ac_INSTALL&;t t
 s&@MKDIR_P@&$ac_MKDIR_P&;t t
 $ac_datarootdir_hack
 "
-eval sed \"\$ac_sed_extra\" "$ac_file_inputs" |
-if $ac_cs_awk_getline; then
-  $AWK -f "$ac_tmp/subs.awk"
-else
-  $AWK -f "$ac_tmp/subs.awk" | $SHELL
-fi \
+eval sed \"\$ac_sed_extra\" "$ac_file_inputs" | $AWK -f "$ac_tmp/subs.awk" \
   >$ac_tmp/out || as_fn_error $? "could not create $ac_file" "$LINENO" 5
 
 test -z "$ac_datarootdir_hack$ac_datarootdir_seen" &&
