@@ -966,7 +966,8 @@ jëzhorr\ thäw:jëzhorr\ thäw                                 # "caribou s
 jih\ choo:jih\ choo                                         # "next largest caribou bull"   bare        possessed		
 jìì’:jìì’                                                   # "something cached away"       bare        possessed		
 jik’aa:jik’aa                                               # "gun; rifle"                  bare        possessed             #combined entries for gun and rifle
-jik’aa\ ch’ëchëtthök:jik’aa\ ch’ëchëtthök                   # "gun hammer"                  bare        possessed		
+jik’aa\ ch’ëchëtthök:jik’aa\ ch’ëchëtthök                   # "gun hammer"                  bare        possessed
+jik’aa\ ch’ëchëtthök:jik’aa\ ch’ö̀chö̀tthök                   # "gun hammer"                  bare        possessed  Dir/LR
 jik’aa\ däk’àww’:jik’aa\ däk’àww’                           # "gun sight"                   bare        possessed		
 jik’aa\ dzìt:jik’aa\ dzìt                                   # "gun hammer"                  bare        possessed		
 jik’aa\ kedrä̀ww’:jik’aa\ kedrä̀ww’                           # "gun trigger"                 bare        possessed		
@@ -977,6 +978,9 @@ jik’aa\ tsaww:jik’aa\ tsaww                                 # "handgun"     
 jik’aa\ tth’è:jik’aa\ tth’è                                 # "gun shells"                  bare        possessed		
 jik’aa\ zhìt\ wèe\ tr’ëhohsù’:jik’aa\ zhìt\ wèe\ tr’ëhohsù’ # "gun cleaner"                 bare        possessed
 jik’aa\ zhìt\ wèe\ tr’ëhohsù’:jik’aa\ zhèt\ wèe\ tr’ë̀hohsù’ # "gun cleaner"                 bare        possessed  Dir/LR
+jik’aa\ zhìt\ wèe\ tr’ëhohsù’:jik’aa\ zhèt\ wèe\ tr’ö̀hohsù’ # "gun cleaner"                 bare        possessed  Dir/LR
+jik’aa\ kehtä̀w:jik’aa\ kehtä̀w                               # "gun stock"                   bare        possessed
+jik’aa\ tsäww:jik’aa\ tsäww                                 # "hand gun"                    bare        possessed
 jǫ̈̀ǫ̈’:jǫ̈̀ǫ̈[-bare]                                             # "navel, bellybutton"          -           possessed             #combined entries for navel and bellybutton
 jǫrr:jǫrr                                                   # "Canada jay; whiskeyjack"     bare        possessed             #combined entries for Canada jay and whiskeyjack
 jǫ̀rr:jǫ̀rr                                                   # "Canada jay; whiskeyjack"     bare        possessed  Dir/LR     #combined entries for Canada jay and whiskeyjack
