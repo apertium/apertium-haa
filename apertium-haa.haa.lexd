@@ -918,8 +918,8 @@ ghohk’ät:ghohk’at[-bare]                                    # "shoulder"  
 ghòhtl’at:ghòhtl’at                                         # "snuff"                       bare        possessed
 ghòhtl’at:ghòhtl’àt                                         # "snuff"                       bare        possessed   Dir/LR
 ghòll’:ghòll’[-bare]                                        # "rump"                        -           possessed
-ghö̀rr’\ dhö̀h:ghö̀rr\ dhö̀h[-bare]                             # "scrotum"                     -           possessed
 ghö̀rr’:ghö̀rr’[-bare]                                        # "testicles"                   -           possessed
+ghö̀rr’\ dhö̀h:ghö̀rr\ dhö̀h[-bare]                             # "scrotum"                     -           possessed
 ghotl’ö̀ö’:ghotl’ö̀ö’[-bare]                                  # "gums"                        -           possessed
 ghotl’ö̀ö’:ghotl’òo’[-bare]                                  # "gums"                        -           possessed   Dir/LR
 gįhii:gįhii                                                 # "minister"                    bare        possessed 
@@ -927,10 +927,8 @@ gįhii:ginhii                                                # "minister"      
 gįhii\ choh:gįhii\ choh                                     # "bishop"                      bare        possessed 
 gįhii\ choh:ginhii\ choh                                    # "bishop"                      bare        possessed   Dir/LR
 göö:göö                                                     # "glacier"                     bare        possessed
-gòt\ tlèe’:gòt\ tlèe’[-bare]                                # "knee cartilage"              -           possessed
 gòt:gòt[-bare]                                              # "knee"                        -           possessed
-gųų:gųų                                                     # "bugs; worms"                 bare        possessed
-gųų\ jëzhorr:gųų\ jëzhorr                                   # "hairy caterpillar"           bare        possessed
+gòt\ tlèe’:gòt\ tlèe’[-bare]                                # "knee cartilage"              -           possessed
 gų̀h:gų̀h                                                     # "plants; weeds"               bare        possessed
 gųh\ däww:gųh\ däww                                         # "strawberry blight"           bare        possessed
 gųh\ dòdlerr:gųh\ dòdlerr                                   # "bluebells"                   bare        possessed
@@ -938,6 +936,8 @@ gų̀h\ dòdlerr:gų̀h\ dòdlerr                                   # "lupin
 gų̀h\ k’ää:gùh\ k’ää                                         # "worm"                        bare        possessed
 gų̀h\ tsän:gų̀h\ tsän                                         # "weed"                        bare        possessed 
 gų̀h\ tsän:gų̀h\ tsä̀n                                         # "weed"                        bare        possessed   Dir/LR
+gųų:gųų                                                     # "bugs; worms"                 bare        possessed
+gųų\ jëzhorr:gųų\ jëzhorr                                   # "hairy caterpillar"           bare        possessed
 gwä̀t\ tlèe’:gwä̀t\ tlèe’[-bare]                              # "knee cartilage"              -           possessed
 gwä̀t:gwä̀t[-bare]                                            # "knee"                        -           possessed
 
