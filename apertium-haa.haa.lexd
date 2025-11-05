@@ -1025,8 +1025,10 @@ wèe\ hè'tr'uchèhdrà':wèe\ hè'tr'uchèhdrà'                   # "y
 wèe\ k'à'\ jìnchąh:wèe\ k'à'\ jìnchąh                       # "well-off man"                bare        possessed            
 wèe\ netthì'\ tr'ënohsrew:wèe\ netthì'\ tr'ënohsrew         # "hairbrush"                   bare        possessed
 wèe\ netthì'\ tr'ënohsrew:wèe\ netthì'\ tr'ë̀nohsrew         # "hairbrush"                   bare        possessed   Dir/LR
+wèe\ netthì'\ tr'ënohsrew:wèe\ netthì'\ tr'ö̀nohsrew         # "hairbrush"                   bare        possessed   Dir/LR
 wèe\ nidäghà'\ tr'ëdhoh:wèe\ nidäghà'\ tr'ëdhoh             # "razor"                       bare        possessed
 wèe\ nidäghà'\ tr'ëdhoh:wèe\ nedaghà'\ tr'ë̀dhoo             # "razor"                       bare        possessed   Dir/LR
+wèe\ nidäghà'\ tr'ëdhoh:wèe\ nedäghà'\ tr'ö̀dhoo             # "razor"                       bare        possessed   Dir/LR
 wèe\ ntr'ëgheww:wèe\ ntr'ëgheww                             # "tanning"                     bare        possessed
 wèe\ ntr'ëgheww:wèe\ ǹtr'ë̀ghèww                             # "tanning"                     bare        possessed   Dir/LR
 wèe\ ntr'ëtl'uu\ tthähtsaww': wèe\ ntr'ëtl'uu\ tthähtsaww'  # "knitting needle"             bare        possessed 
@@ -1063,8 +1065,10 @@ wëjëdlänn:wëjë̀dlänn                                         # "ste
 wëjìi':wëjìi'                                               # "crumbs;dirt;leavings;refuse" bare        possessed
 wëkä̀t\ ch'òjew:wëkä̀t\ ch'òjew                               # "rash"                        bare        possessed
 wëkayy\ chi'ì'aww:wëkayy\ chi'ì'aww                         # "table;altar"                 bare        possessed  
+wëkayy\ chi'ì'aww:wùkayy\ ch'ì'aww                          # "table;altar"                 bare        possessed   Dir/LR
 wëkayy\ däke'tr'ë'ä̀rr:wëkayy\ däke'tr'ë'ä̀rr                 # "ladder"                      bare        possessed
 wëkayy\ däke'tr'ë'ä̀rr:wëkayy\ dä̀kè'tr'ë̀'ärr                 # "ladder"                      bare        possessed   Dir/LR
+wëkayy\ däke'tr'ë'ä̀rr:wùkayy\ dä̀kè'tr'ö̀'ärr                 # "ladder"                      bare        possessed   Dir/LR
 wëkayy\ dä'tl'à'jèjaa:wëkayy\ dä'tl'à'jèjaa                 # "chair"                       bare        possessed
 wëkayy\ dä'tl'à'jèjaa:wëkayy\ dätl'ahèjah                   # "chair"                       bare        possessed   Dir/LR
 wëkayy\ dä'tl'à'jèjaa:wùkayy\ dätl'ajèjah                   # "chair"                       bare        possessed   Dir/LR
@@ -1084,19 +1088,23 @@ wëzhit\ hä̀hlèw\ tr'ëdhä̀t:wëzhit\ hä̀hlèw\ tr'ëdhä̀t   
 wëzhit\ hä̀hlèw\ tr'ëdhä̀t:wëzhèt\ hä̀hlèw\ tr'ë̀dhä̀t           # "shovel"                      bare        possessed   Dir/LR
 wëzhit\ hä̀hlèw\ tr'ëdhä̀t:wëzhit\ hä̀hlèw\ tr'ë̀dhä̀t           # "shovel"                      bare        possessed   Dir/LR
 wëzhit\ hä̀hlèw\ tr'ëdhä̀t:wëzhèt\ hä̀hlèw\ tr'ëdhä̀t           # "shovel"                      bare        possessed   Dir/LR
+wëzhit\ hä̀hlèw\ tr'ëdhä̀t:wùzhèt\ hähłew\ tr'ë̀dhèt           # "shovel"                      bare        possessed   Dir/LR
 wëzhìt\ hët'ä'nèką̀':wëzhìt\hët'ä'nèką̀'                      # "lining"                      bare        possessed
 wëzhìt\ hët'ä'nèką̀':wëzhèt\hët'ä'nèką̀'                      # "lining"                      bare        possessed   Dir/LR
 wëzhit\ nä̀tr'ëjënoh'įh:wëzhit\ nä̀tr'ëjënoh'įh               # "mirror"                      bare        possessed
 wëzhit\ nä̀tr'ëjënoh'įh:wëzhèt\ nä̀tr'ë̀jë̀noh'ęh               # "mirror"                      bare        possessed   Dir/LR
 wëzhit\ nä̀tr'ëjënoh'įh:wëzhit\ nä̀tr'ë̀jë̀noh'ęh               # "mirror"                      bare        possessed   Dir/LR
 wëzhit\ nä̀tr'ëjënoh'įh:wëzhèt\ nä̀tr'ëjënoh'įh               # "mirror"                      bare        possessed   Dir/LR
+wëzhit\ nä̀tr'ëjënoh'įh:wùzhèt\ nä̀tr'ö̀jö̀no'ęh                # "mirror"                      bare        possessed   Dir/LR
 wëzhìt\ tä'į̀'ah:wëzhìt\ tä'į̀'ah                             # "skin stretcher"              bare        possessed 
 wëzhìt\ tä'į̀'ah:wëzhèt\ tä̀'in'ah                            # "skin stretcher"              bare        possessed   Dir/LR
 wëzhìt\ tä'į̀'ah:wëzhìt\ täynį̀'ah                            # "skin stretcher"              bare        possessed   Dir/LR
 wëzhìt\ tr'ëhòdök:wëzhìt\ tr'ëhòdök                         # "radio"                       bare        possessed
 wëzhìt\ tr'ëhòdök:wëzhèt\ tr'ë̀hodök                         # "radio"                       bare        possessed   Dir/LR
+wëzhìt\ tr'ëhòdök:wùzhèt\ tr'ö̀hodök                         # "radio"                       bare        possessed   Dir/LR
 wëzhìt\ tr'unoh'įį:wëzhìt\ tr'unoh'įį                       # "field glasses"               bare        possessed
 wëzhìt\ tr'unoh'įį:wëzhèt\ tr'unoh'ęh                       # "field glasses"               bare        possessed   Dir/LR
+wëzhìt\ tr'unoh'įį:wùzhèt\ tr'ùnoh'ęh                       # "field glasses"               bare        possessed   Dir/LR
 wëzrį̀'\ kayy:wëzrį̀'\ kayy                                   # "clearing; open place"        bare        possessed
 wëzrįh\ tl'àa:wëzrįh\ tl'àa                                 # "cut bank"                    bare        possessed 
 wëzrįh\ tl'àa:wëzrįh\ tl'aa                                 # "cut bank"                    bare        possessed   Dir/LR
