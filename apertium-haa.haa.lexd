@@ -810,7 +810,7 @@ dzänn:dzänn                                                 # "muskrat"     
 dzèh                                                        # "chewing gum"                 bare        possessed
 
 #E
-ëbaàà':ëbàà'                                                # "shirt sleeve"            bare        possessed 
+ëbàà':ëbàà'                                                 # "shirt sleeve"            bare        possessed 
 ëbàà':ë̀bàà'                                                 # "shirt sleeve"            bare        possessed  Dir/LR
 ëchänn:ëchänn                                               # "stick"                   bare        possessed 
 ëchänn:ë̀chänn                                               # "stick"                   bare        possessed  Dir/LR
@@ -818,10 +818,10 @@ ëchänn:ëchänn                                               # "wood"    
 ëchänn:ë̀chänn                                               # "wood"                    bare        possessed  Dir/LR
 ëchänn\ ch'ìk'aa:ëchänn\ ch'ìk'aa                           # "wood file"               bare        possessed 
 ëchänn\ ch'ìk'aa:ë̀chänn\ ch'ìk'aa                           # "wood file"               bare        possessed  Dir/LR
-ëchänn\ chǫhkhorr:ëchänn\ chǫhkhorr                         # "knot in wood"            bare        possessed 
+ëchänn\ chǫhkhorr:ëchänn\ chǫhkhorr                         # "knot in wood"            bare        possessed              #lemma chosen at random
 ëchänn\ chǫhkhorr:ë̀chänn\ chǫhkhorr                         # "knot in wood"            bare        possessed  Dir/LR
-ëchänn\ ghorr:ëchänn\ ghorr                                 # "knot in wood"            bare        possessed              # Same translation as ëchänn chǫhkhorr
-ëchänn\ ghorr:ë̀chänn\ ghorr                                 # "knot in wood"            bare        possessed  Dir/LR      # Same translation as ëchänn chǫhkhorr
+ëchänn\ chǫhkhorr:ëchänn\ ghorr                             # "knot in wood"            bare        possessed  Dir/LR
+ëchänn\ chǫhkhorr:ë̀chänn\ ghorr                             # "knot in wood"            bare        possessed  Dir/LR
 ëchänn\ hèw:ëchänn\ hèw                                     # "deadfall"                bare        possessed 
 ëchänn\ hèw:ë̀chänn\ hèw                                     # "deadfall"                bare        possessed  Dir/LR
 ëchänn\ hèw:ö̀chänn\ hèw                                     # "deadfall"                bare        possessed  Dir/LR
@@ -840,34 +840,34 @@ ëchenn\ chen:ëchenn\ chen                                   # "coffin"      
 ëchenn\ chen:ë̀chenn\ chen                                   # "coffin"                  bare        possessed  Dir/LR
 ëchenn\ chin:ëchenn\ chin                                   # "trunk"                   bare        possessed 
 ëchenn\ chin:ë̀chenn\ chen                                   # "trunk"                   bare        possessed  Dir/LR
-ëchinnn\ buh:ëchinn\ buh                                    # "toboggan"                bare        possessed 
+ëchinnn\ buh:ëchinn\ buh                                    # "toboggan"                bare        possessed            #lemma chosen at random
+ëchinnn\ buh:ëchönn\ böh                                    # "toboggan"                bare        possessed  Dir/LR
+ëchinnn\ buh:ë̀chenn\ böh                                    # "toboggan"                bare        possessed  Dir/LR
 ëchinn\ chèw:ëchinn\ chèw                                   # "floor"                   bare        possessed 
-ëchönn\ böh:ëchönn\ böh                                     # "toboggan"                bare        possessed             #multiple entries, see ëchinnn buh
-ë̀chenn\ böh:ë̀chenn\ böh                                     # "toboggan"                bare        possessed  Dir/LR     #multiple entries, see ëchinnn buh
 ëdą̀y':ëdą̀y'                                                 # "blow fly"                bare        possessed 
 ëdą̀y':ë̀dą̀y'                                                 # "blow fly"                bare        possessed  Dir/LR
 ëdhäk:ëdhäk                                                 # "straight pin"            bare        possessed
 ëdhäk:ëdhä̀k                                                 # "straight pin"            bare        possessed  Dir/LR
-ëdhö̀h\ dä̀hchann:ëdhö̀h\ dä̀hchann                             # "Stick used in tanning"   bare        possessed
-ëdhö̀h\ dä̀hchann:ë̀dhö̀h\ dä̀hchann                             # "Stick used in tanning"   bare        possessed  Dir/LR
-ëdhö̀h\ zhoo:ëdhö̀h\ zhoo                                     # "Smokehouse for skin"     bare        possessed 
-ëdhö̀h\ zhoo:ëdhö̀h\ zhoh                                     # "Smokehouse for skin"     bare        possessed  Dir/LR
-ëdzöh\ zhoo:ëdzöh\ zhoo                                     # "Dance hall"              bare        possessed 
-ëdzöh\ zhoo:ëdzöh\ zhoh                                     # "Dance hall"              bare        possessed  Dir/LR
-e'ee:e'ee[-bare]                                            # "Uncle (mothers brother)" -           possessed
-èhdàyy':èhdàyy'[-bare]                                      # "Back throat"             -           possessed 
-èhjà':èhjà'[-bare]                                          # "Chin"                    -           possessed 
-ehlàa\ įh:ehlàa\ įh[-bare]                                  # "Relatives"               -           possessed
-ehlàa\ įh:ehlaa\ ęh[-bare]                                  # "Relatives"               -           possessed  Dir/LR
+ëdhö̀h\ dä̀hchann:ëdhö̀h\ dä̀hchann                             # "stick used in tanning"   bare        possessed
+ëdhö̀h\ dä̀hchann:ë̀dhö̀h\ dä̀hchann                             # "stick used in tanning"   bare        possessed  Dir/LR
+ëdhö̀h\ zhoo:ëdhö̀h\ zhoo                                     # "smokehouse for skin"     bare        possessed 
+ëdhö̀h\ zhoo:ëdhö̀h\ zhoh                                     # "smokehouse for skin"     bare        possessed  Dir/LR
+ëdzöh\ zhoo:ëdzöh\ zhoo                                     # "dance hall"              bare        possessed 
+ëdzöh\ zhoo:ëdzöh\ zhoh                                     # "dance hall"              bare        possessed  Dir/LR
+e'ee:e'ee[-bare]                                            # "uncle (mothers brother)" -           possessed
+èhdàyy':èhdàyy'[-bare]                                      # "back throat"             -           possessed 
+èhjà':èhjà'[-bare]                                          # "chin"                    -           possessed 
+ehlàa\ įh:ehlàa\ įh[-bare]                                  # "relatives"               -           possessed
+ehlàa\ įh:ehlaa\ ęh[-bare]                                  # "relatives"               -           possessed  Dir/LR
 ehonk'ǫ̈̀ǫ̈':ehonk'ǫ̈̀ǫ̈'[-bare]                                  # "shadow"                  -           possessed
-èhtl'akä̀ä':èhtl'akä̀ä'[-bare]                                # "Throat glands"           -           possessed 
+èhtl'akä̀ä':èhtl'akä̀ä'[-bare]                                # "throat glands"           -           possessed 
 ëjëtsuu:ëjëtsuu                                             # "rust"                    bare        possessed
 ëjëtsuu:ë̀jë̀tsuu                                             # "rust"                    bare        possessed  Dir/LR
 ejèww':ejèww'[-bare]                                        # "language"                -           possessed
 ë̀jëzhǫ̀rr':ë̀jëzhǫ̀rr'[-bare]                                  # "upper arm"               -           possessed 
 ë̀jëzhǫ̀rr':wë̀jëzhǫ̀rr'[-bare]                                 # "upper arm"               -           possessed  Dir/LR
 ehìi':ehìi'[-bare]                                          # "mind"                    -           possessed
-ek:ek                                                       # "dress ; shirt"           bare        possessed           # combined entries for dress and shirt
+ek:ek                                                       # "dress; shirt"             bare        possessed           # combined entries for dress and shirt
 ek\ tsä̀ww':ek\ tsä̀ww'                                       # "button"                  bare        possessed
 ëlähdzǫ̈ǫ̈:ëlähdzǫ̈ǫ̈                                           # "bees"                    bare        possessed
 ëlähdzǫ̈ǫ̈:ë̀lä̀hdzǫ̈ǫ̈                                           # "bees"                    bare        possessed  Dir/LR
@@ -875,10 +875,8 @@ ëlähdzǫ̈ǫ̈\ t'oo:ëlähdzǫ̈ǫ̈\ t'oo                           
 ëlähdzǫ̈ǫ̈\ t'oo:ë̀lä̀hdzǫ̈ǫ̈\ t'oo                               # "bee hive"                bare        possessed  Dir/LR
 ëlähdzǫ̈ǫ̈\ ts'iww:ëlähdzǫ̈ǫ̈\ ts'iww                           # "wasps"                   bare        possessed 
 ëlähdzǫ̈ǫ̈\ ts'iww:ë̀lä̀hdzǫ̈ǫ̈\ ts'eww                           # "wasps"                   bare        possessed  Dir/LR
-ëlëchann:ëlëchann                                           # "jackfish"                bare        possessed 
-ëlëchann:ë̀lë̀chann                                           # "jackfish"                bare        possessed  Dir/LR
-ëlëchann:ëlëchann                                           # "pike"                    bare        possessed 				
-ëlëchann:ë̀lë̀chann                                           # "pike"                    bare        possessed  Dir/LR			
+ëlëchann:ëlëchann                                           # "jackfish; pike"          bare        possessed 
+ëlëchann:ë̀lë̀chann                                           # "jackfish; pike"          bare        possessed  Dir/LR
 ëlink:ëlink                                                 # "song"                    bare        possessed 
 ëlink:ëlenk                                                 # "song"                    bare        possessed  Dir/LR		
 ëts'änn:ëts'änn                                             # "duck"                    bare        possessed
