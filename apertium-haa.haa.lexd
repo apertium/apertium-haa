@@ -906,95 +906,92 @@ iww:iww                                                     # "beads"           
 
 #J
 jää:jää                                                     # "black duck"                  bare        possessed
-jàa’:jàa’[-bare]                                            # "friend"                      -           possessed
+jàa':jàa'[-bare]                                            # "friend"                      -           possessed
 jak\ hehdän:jak\ hehdän                                     # "blindness"                   bare        possessed
-jàww’:jàww’[-bare]                                          # "eyes"                        -           possessed
+jàww':jàww'[-bare]                                          # "eyes"                        -           possessed
 jëbee:jëbee                                                 # "sheep"                       bare        possessed
 jëbee:jë̀bee                                                 # "sheep"                       bare        possessed  Dir/LR
 jëbee\ gaa:jëbee\ gaa                                       # "lamb"                        bare        possessed	
 jëbee\ gaa:jë̀bee\ gaa                                       # "lamb"                        bare        possessed  Dir/LR
-jëbee\ tr’ayy:jëbee\ tr’ayy                                 # "ewe"                         bare        possessed
+jëbee\ tr'ayy:jëbee\ tr'ayy                                 # "ewe"                         bare        possessed
 jëghann:jëghann                                             # "hunchback"                   bare        possessed
-jëjee\ chèe’:jëjee\ chèe’                                   # "corpse, dead body"           bare        possessed             #combined entries for corpse and dead body
+jëjee\ chèe':jëjee\ chèe'                                   # "corpse, dead body"           bare        possessed
 jëjee\ įh:jëjee\ įh                                         # "people"                      bare        possessed
 jëjee\ srënä̀leh:jëjee\ srënä̀leh                             # "doctor"                      bare        possessed
 jëjee\ srënä̀leh:jë̀jee\ srë̀nä̀lee                             # "doctor"                      bare        possessed  Dir/LR
-jëjee\ tr’ohjah:jëjee\ tr’ohjah                             # "slave"                       bare        possessed
-jëjee\ tr’ohjah:jë̀jee\ tr’ohjah                             # "slave"                       bare        possessed  Dir/LR
-jëjee\ zhuh\ hejèww’:jëjee\ zhuh\ hejèww                    # "Indian language"             bare        possessed             # is this how we’re translating it? from old dictionary
-jëjee\ zhuh\ hejèww’:jëjee\ zhuh\ hejèww                    # "Indian language"             bare        possessed  Dir/LR     # is this how we’re translating it? from old dictionary
-jëjee\ zhuh\ kek’ìt:jëjee\ zhuh\ kek’ìt                     # "Indian village"              bare        possessed             # is this how we’re translating it? from old dictionary
-jëjeh:jëjeh                                                 # "man, person"                 bare        possessed             # combined entries for man and person
-jëjeh:jë̀jee                                                 # "man, person"                 bare        possessed  Dir/LR     # combined entries for man and person
-jëjeh\ jëzhänn:jëjeh\ jëzhänn                               # "medicine man"                bare        possessed		
+jëjee\ tr'ohjah:jëjee\ tr'ohjah                             # "slave"                       bare        possessed
+jëjee\ tr'ohjah:jë̀jee\ tr'ohjah                             # "slave"                       bare        possessed  Dir/LR
+jëjee\ zhuh\ hejèww':jëjee\ zhuh\ hejèww                    # "native language"             bare        possessed
+jëjee\ zhuh\ hejèww':jëjee\ zhuh\ hejèww                    # "native language"             bare        possessed  Dir/LR
+jëjee\ zhuh\ kek'ìt:jëjee\ zhuh\ kek'ìt                     # "native village"              bare        possessed
+jëjeh:jë̀jee                                                 # "man, person"                 bare        possessed  Dir/LR
+jëjeh:jëjeh                                                 # "man, person"                 bare        possessed
 jëjeh\ jëzhänn:jë̀jee\ jëzhänn                               # "medicine man"                bare        possessed  Dir/LR
-jëjeh\ nä̀hohjà’:jëjeh\ nä̀hohjà’                             # "magician"                    bare        possessed		
-jëjeh\ nä̀hohjà’:jë̀jee\ nä̀hohjà                              # "magician"                    bare        possessed  Dir/LR
-jëjeh\ tthii’:jëjeh\ tthii’                                 # "head man"                    bare        possessed		
-jëjeh\ tthii’:jë̀jee\ tthèe’                                 # "head man"                    bare        possessed  Dir/LR
+jëjeh\ jëzhänn:jëjeh\ jëzhänn                               # "medicine man"                bare        possessed		
+jëjeh\ nä̀hohjà':jë̀jee\ nä̀hohjà                              # "magician"                    bare        possessed  Dir/LR
+jëjeh\ nä̀hohjà':jëjeh\ nä̀hohjà'                             # "magician"                    bare        possessed		
+jëjeh\ tthii':jë̀jee\ tthèe'                                 # "head man"                    bare        possessed  Dir/LR
+jëjeh\ tthii':jëjeh\ tthii'                                 # "head man"                    bare        possessed		
 jëjuu:jëjuu                                                 # "moose"                       bare        possessed		
 jëjuu\ choo:jëjuu\ choo                                     # "bull moose"                  bare        possessed		
-jëjuu\ jè’:jëjuu\ jè’                                       # "moose antlers"               bare        possessed		
 jëjuu\ jè:jë̀juu\ jè                                         # "moose antlers"               bare        possessed  Dir/LR
-jek’äww:jek’äww                                             # "young caribou bull"          bare        possessed		
-jek’äww:jee\ k’äww                                          # "young caribou bull"          bare        possessed  Dir/LR
-jëtr’uu\ chèw:jëtr’uu\ chèw                                 # "dried skin mattress"         bare        possessed	
-jëtr’uu\ chèw:jë̀tr’uu\ chèw                                 # "dried skin mattress"         bare        possessed  Dir/LR
+jëjuu\ jè':jëjuu\ jè'                                       # "moose antlers"               bare        possessed		
+jek'äww:jek'äww                                             # "young caribou bull"          bare        possessed		
+jek'äww:jee\ k'äww                                          # "young caribou bull"          bare        possessed  Dir/LR
+jëtr'uu\ chèw:jëtr'uu\ chèw                                 # "dried skin mattress"         bare        possessed	
+jëtr'uu\ chèw:jë̀tr'uu\ chèw                                 # "dried skin mattress"         bare        possessed  Dir/LR
 jëtsänn:jëtsänn                                             # "starvation"                  bare        possessed		
 jëtsuu:jëtsuu                                               # "calf moose"                  bare        possessed		
 jëtsuu:jë̀tsuu                                               # "calf moose"                  bare        possessed  Dir/LR
 jëtsuu\ haww:jëtsuu\ haww                                   # "yearling"                    bare        possessed		
 jëtsuu\ haww:jë̀tsuu\ haww                                   # "yearling"                    bare        possessed  Dir/LR
 jew:jew                                                     # "crane"                       bare        possessed		
-jèww’\ hąyts’änn:jèww’\ hąyts’änn[-bare]                    # "youngest sister, his"        -           possessed	
-jèww’:jèww’[-bare]                                          # "younger sister, his"         -           possessed		
-jeyy:jeyy                                                   # "berries, blueberries"        bare        possessed             #combined entries for berries and blueberries
+jèww'\ hąyts'änn:jèww'\ hąyts'änn[-bare]                    # "youngest sister, his"        -           possessed	
+jèww':jèww'[-bare]                                          # "younger sister, his"         -           possessed		
+jeyy:jeyy                                                   # "berries, blueberries"        bare        possessed
 jeyy\ choo:jeyy\ choo                                       # "grapes"                      bare        possessed		
-jeyy\ chù’:jeyy\ chù’                                       # "wine"                        bare        possessed		
+jeyy\ chù':jeyy\ chù'                                       # "wine"                        bare        possessed		
 jeyy\ gąyy:jeyy\ gąyy                                       # "raisins"                     bare        possessed		
-jeyy\ nätthè’:jeyy\ nätthè’                                 # "berry seed"                  bare        possessed		
+jeyy\ nätthè':jeyy\ nätthè'                                 # "berry seed"                  bare        possessed		
 jeyy\ nëjëlut:jeyy\ nëjëlut                                 # "unripe berries"              bare        possessed		
-jeyy\ nèzrį̀’:jeyy\ nèzrį̀’                                   # "ripe berries"                bare        possessed		
-jeyy\ nèzrį̀’:jeyy\ nèzrę̀’                                   # "ripe berries"                bare        possessed  Dir/LR
+jeyy\ nèzrį̀':jeyy\ nèzrę̀'                                   # "ripe berries"                bare        possessed  Dir/LR
+jeyy\ nèzrį̀':jeyy\ nèzrį̀'                                   # "ripe berries"                bare        possessed		
 jeyy\ tlorr:jeyy\ tlorr                                     # "berries with sugar and flour"bare        possessed	
-jëzhänn\ he’ëlìng:jëzhänn\ he’ëling                         # "medicine song"               bare        possessed			
-jëzhänn\ he’ëlìng:jëzhänn\ he’ë̀lèng                         # "medicine song"               bare        possessed  Dir/LR
+jëzhänn\ he'ëlìng:jëzhänn\ he'ëlìng                         # "medicine song"               bare        possessed			
+jëzhänn\ he'ëlìng:jëzhänn\ he'ëling                         # "medicine song"               bare        possessed  Dir/LR		
+jëzhänn\ he'ëlìng:jëzhänn\ he'ë̀lèng                         # "medicine song"               bare        possessed  Dir/LR
 jëzhärr:jëzhärr                                             # "cow moose"                   bare        possessed		
 jëzhärr:jë̀zzhärr                                            # "cow moose"                   bare        possessed  Dir/LR
-jëzhorr:jëzhorr                                             # "fur, wool"                   bare        possessed             #combined entries for fur and wool
+jëzhorr:jëzhorr                                             # "fur, wool"                   bare        possessed
 jëzhorr\ thäw:jëzhorr\ thäw                                 # "caribou skin pants"          bare        possessed		
 jih\ choo:jih\ choo                                         # "next largest caribou bull"   bare        possessed		
-jìì’:jìì’                                                   # "something cached away"       bare        possessed		
-jik’aa:jik’aa                                               # "gun; rifle"                  bare        possessed             #combined entries for gun and rifle
-jik’aa\ ch’ëchëtthök:jik’aa\ ch’ëchëtthök                   # "gun hammer"                  bare        possessed
-jik’aa\ ch’ëchëtthök:jik’aa\ ch’ö̀chö̀tthök                   # "gun hammer"                  bare        possessed  Dir/LR
-jik’aa\ däk’àww’:jik’aa\ däk’àww’                           # "gun sight"                   bare        possessed		
-jik’aa\ dzìt:jik’aa\ dzìt                                   # "gun hammer"                  bare        possessed		
-jik’aa\ kedrä̀ww’:jik’aa\ kedrä̀ww’                           # "gun trigger"                 bare        possessed		
-jik’aa\ kehtä̀w:jik’aa\ kehtä̀w                               # "gun trigger"                 bare        possessed		
-jik’aa\ kònn’:jik’aa\ kònn’                                 # "gun powder"                  bare        possessed		
-jik’aa\ kònn’:jik’aa\ kwann’                                # "gun powder"                  bare        possessed  Dir/LR     #dictionary is unsure of this form
-jik’aa\ tsaww:jik’aa\ tsaww                                 # "handgun"                     bare        possessed		
-jik’aa\ tth’è:jik’aa\ tth’è                                 # "gun shells"                  bare        possessed		
-jik’aa\ zhìt\ wèe\ tr’ëhohsù’:jik’aa\ zhìt\ wèe\ tr’ëhohsù’ # "gun cleaner"                 bare        possessed
-jik’aa\ zhìt\ wèe\ tr’ëhohsù’:jik’aa\ zhèt\ wèe\ tr’ë̀hohsù’ # "gun cleaner"                 bare        possessed  Dir/LR
-jik’aa\ zhìt\ wèe\ tr’ëhohsù’:jik’aa\ zhèt\ wèe\ tr’ö̀hohsù’ # "gun cleaner"                 bare        possessed  Dir/LR
-jik’aa\ kehtä̀w:jik’aa\ kehtä̀w                               # "gun stock"                   bare        possessed
-jik’aa\ tsäww:jik’aa\ tsäww                                 # "hand gun"                    bare        possessed
-jǫ̈̀ǫ̈’:jǫ̈̀ǫ̈[-bare]                                             # "navel, bellybutton"          -           possessed             #combined entries for navel and bellybutton
-jǫrr:jǫrr                                                   # "Canada jay; whiskeyjack"     bare        possessed             #combined entries for Canada jay and whiskeyjack
-jǫ̀rr:jǫ̀rr                                                   # "Canada jay; whiskeyjack"     bare        possessed  Dir/LR     #combined entries for Canada jay and whiskeyjack
-jǫrr\ baa:jǫrr\ baa                                         # "bluejay; Canada jay; magpie; shrike" bare possessed             #seems to be uncertain about translation for shrike; combined entries for bluejay, Canada jay, magpie, and shrike
-jǫrr\ baa:jǫ̀rr\ baa                                         # "bluejay; Canada jay; magpie; shrike" bare possessed  Dir/LR     #seems to be uncertain about translation for shrike; combined entries for bluejay, Canada jay, magpie, and shrike
+jìì':jìì'                                                   # "something cached away"       bare        possessed		
+jik'aa:jik'aa                                               # "gun; rifle"                  bare        possessed
+jik'aa\ ch'ëchëtthök:jik'aa\ ch'ëchëtthök                   # "gun hammer"                  bare        possessed		
+jik'aa\ däk'àww':jik'aa\ däk'àww'                           # "gun sight"                   bare        possessed		
+jik'aa\ dzìt:jik'aa\ dzìt                                   # "gun hammer"                  bare        possessed		
+jik'aa\ kedrä̀ww':jik'aa\ kedrä̀ww'                           # "gun trigger"                 bare        possessed		
+jik'aa\ kehtä̀w:jik'aa\ kehtä̀w                               # "gun trigger"                 bare        possessed		
+jik'aa\ kònn':jik'aa\ kònn'                                 # "gun powder"                  bare        possessed		
+jik'aa\ kònn':jik'aa\ kwann'                                # "gun powder"                  bare        possessed  Dir/LR     #dictionary is unsure of this form
+jik'aa\ tsaww:jik'aa\ tsaww                                 # "handgun"                     bare        possessed		
+jik'aa\ tth'è:jik'aa\ tth'è                                 # "gun shells"                  bare        possessed		
+jik'aa\ zhìt\ wèe\ tr'ëhohsù':jik'aa\ zhìt\ wèe\ tr'ëhohsù' # "gun cleaner"                 bare        possessed
+jik'aa\ zhìt\ wèe\ tr'ëhohsù':jik'aa\ zhèt\ wèe\ tr'ë̀hohsù' # "gun cleaner"                 bare        possessed  Dir/LR
+jǫ̈̀ǫ̈':jǫ̈̀ǫ̈[-bare]                                             # "navel, bellybutton"          -           possessed
+jǫrr:jǫrr                                                   # "Canada jay; whiskeyjack"     bare        possessed
+jǫ̀rr:jǫ̀rr                                                   # "Canada jay; whiskeyjack"     bare        possessed  Dir/LR
+jǫrr\ baa:jǫrr\ baa                                         # "bluejay; Canada jay; magpie; shrike" bare possessed
+jǫrr\ baa:jǫ̀rr\ baa                                         # "bluejay; Canada jay; magpie; shrike" bare possessed  Dir/LR
 jǫrr\ choo:jǫrr\ choo                                       # "goshawk"                     bare        possessed		
 jǫrr\ dobaa:jǫrr\ dobaa                                     # "magpie"                      bare        possessed		
-jǫrr\ jàww’:jǫrr\ jàww’                                     # "ptarmigan berries"           bare        possessed		
+jǫrr\ jàww':jǫrr\ jàww'                                     # "ptarmigan berries"           bare        possessed		
 junzhìt:junzhìt                                             # "canyon"                      bare        possessed		
 junzhìt:junzhèt                                             # "canyon"                      bare        possessed  Dir/LR
 jur:jur                                                     # "mitts"                       bare        possessed		
-jur\ tl’ùu’:jur\ tl’ùu’                                     # "mitts string"                bare        possessed		
+jur\ tl'ùu':jur\ tl'ùu'                                     # "mitts string"                bare        possessed		
 juu:juu                                                     # "island"                      bare        possessed		
-juu\ tl’à’:juu\ tl’à’                                       # "end of island"               bare        possessed		
+juu\ tl'à':juu\ tl'à'                                       # "end of island"               bare        possessed		
 
 #K
 khah:khah                                                   # "goose"                       bare        possessed
