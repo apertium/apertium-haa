@@ -933,12 +933,13 @@ jëjuu:jëjuu                                                 # "moose"         
 ką̀':ką̀'[-bare]                                              # "husband"                     -           possessed 
 k'à':k'à'                                                   # "arrow"                       bare        possessed 	
 k'à'\ dägorr: k'à'\dägorr                                   # "arrow notch"                 bare        possessed
-k'à'\ dätthì’:k'à'\ dätthì’                                 # "arrowhead"                   bare        possessed 
+k'à'\ dätthì':k'à'\ dätthì'                                 # "arrowhead"                   bare        possessed 
 k'à'\ dhö̀h: k'à'\ dhö̀h                                      # "arrow bag"                   bare        possessed 
 k'a'\ t'àa': k'a'\ t'àa'                                    # "arrow feather"               bare        possessed 
 kä̀ä':kä̀ä'[-bare]                                            # "throat gland"                -           possessed 
 k'ä̀baa:k'ä̀baa                                               # "willow ptarmigan"            bare        possessed
 k'abaa\ kè':k'abaa\ kè'                                     # "clubs (cards)"               bare        possessed 
+k'abaa\ kè':k'ä̀baa\ kè'                                     # "clubs (cards)"               bare        possessed   Dir/LR
 k'ah:k'ah[-bare]                                            # "fat"                         -           possessed 
 k'ä̀hjąą:k'ä̀jąą                                              # "yesterday"                   bare        possessed 
 k'ä̀hjąą\ jè':k'ä̀jąą\ jè'                                    # "tomorrow"                    bare        possessed 
@@ -968,9 +969,10 @@ kàww':kàww'[-bare]                                          # "open cut"    
 k'ày':k'ày'                                                 # "willow"                      bare        possessed
 k'ày'\ gų̀':k'ày'\ gų̀'                                       # "willow worm"                 bare        possessed 
 k'ày'\ jèchät:k'ày'\ jèchät                                 # "Y-shaped willow branch"      bare        possessed 
-k'ày'\ t’ä̀nn’:k'ày'\ t'ä̀nn'                                 # "willow leaves"               bare        possessed 
+k'ày'\ t'ä̀nn':k'ày'\ t'ä̀nn'                                 # "willow leaves"               bare        possessed 
 k'ày'\ tl'äk:k'ày'\ tl'äk                                   # "reddish willow"              bare        possessed 
 k'ày'\ yuzùr:k'ày'\ yuzùr                                   # "willow-bark whistle"         bare        possessed 
+k'ày'\ yuzùr:k'ay'\ yuzhùr                                  # "willow-bark whistle"         bare        possessed   Dir/LR
 k'ày'\ zhoo: k'ày'\ zhoo                                    # "brush shelter"               bare        possessed 
 k'ày'\ zhoo: k'ày'\ zhoh                                    # "brush shelter"               bare        possessed   Dir/LR
 kè':kè'[-bare]                                              # "foot"                        bare        possessed 
@@ -992,6 +994,7 @@ këlä̀hdree:kë̀lä̀hdree                                         # "ant
 këlä̀hdree\ mènn':këlä̀hdree\ mènn'                           # "spider web"                  bare        possessed 
 këlä̀hjinn:këlä̀hjinn                                         # "swallow"                     bare        possessed                # multiple swallow species listed under same entry
 kełįk:kełįk                                                 # "babiche"                     bare        possessed                #Note: part of snowshoe webbing?
+kełįk:kehłenk                                               # "babiche"                     bare        possessed   Dir/LR
 k'en:k'en                                                   # "boreal owl; eye-poker"       bare        possessed 
 k'en:k'èn                                                   # "boreal owl; eye-poker"       bare        possessed   Dir/LR
 k'èndzèh:k'èndzèh                                           # "roe, pounded with other ingredients" bare possessed 
@@ -1023,23 +1026,24 @@ khee\ chin:khee\ chen                                       # "lard pail"       
 khee\ jek'ą':khee\ jek'ą'                                   # "candle"                      bare        possessed 
 khee\ jek'ą':khee\ jek'ä̀n'                                  # "candle"                      bare        possessed   Dir/LR
 khee\ jek'ą'\ tl'ùù:khee\ jek'ą'\ tl'ùù                     # "wick for oil lamp"           bare        possessed 
+khee\ jek'ą'\ tl'ùù:khee\ jèk'ä̀n'\ tl'ùu                    # "wick for oil lamp"           bare        possessed   Dir/LR
 khee\ jèk'än':khee\ jèk'än'                                 # "kerosene"                    bare        possessed 
 khee\ jèk'än':khee\ jèk'ä̀n'                                 # "kerosene"                    bare        possessed   Dir/LR
 khew:khew                                                   # "packsack"                    bare        possessed 
-khǫ̀’\ gų̀':khǫ̀'\ gų̀'                                         # "fireweed"                    bare        possessed 
-khǫ̀’\ gų̀':kǫ̀'\ gų̀'                                          # "fireweed"                    bare        possessed   Dir/LR
+khǫ̀'\ gų̀':khǫ̀'\ gų̀'                                         # "fireweed"                    bare        possessed 
+khǫ̀'\ gų̀':kǫ̀'\ gų̀'                                          # "fireweed"                    bare        possessed   Dir/LR
 khöh:khöh                                                   # "pus"                         bare        possessed 
 khǫ̈̀ǫ̈':khǫ̈̀ǫ̈'                                                 # "raft"                        bare        possessed 
 khor:khor                                                   # "thorns"                      bare        possessed 
 kǫ̀':kǫ̀'                                                     # "match"                       bare        possessed                 # lemma chosen at random
 kǫ̀':kòn'                                                    # "match"                       bare        possessed   Dir/LR
-k’ǫ̀':k'ǫ̀'                                                   # "fish egg"                    bare        possessed 
+k'ǫ̀':k'ǫ̀'                                                   # "fish egg"                    bare        possessed 
 kǫ̀'\ dòhthuu:kǫ̀'\ dòhthuu                                   # "nighthawk"                   bare        possessed 
 kǫ̀'\ gąyy:kǫ̀'\ gąyy                                         # "dry egg"                     bare        possessed 
 k'oh:k'oh                                                   # "cloud"                       bare        possessed                 # same Han word, different meaning, one is -bare, what to do????
 k'oh:k'oh[-bare]                                            # "neck"                        -           possessed 
 koh\ ch'òndèyy':koh\ ch'òndèyy'                             # "cough syrup"                 bare        possessed 
-k'ohtthä̀nn’:k'ohtthä̀nn[-bare]                               # "collarbone"                  -           possessed 
+k'ohtthä̀nn':k'ohtthä̀nn[-bare]                               # "collarbone"                  -           possessed 
 kòndä̀teyy\ gaa:kòndä̀teyy                                    # "fatherless child"            bare        possessed                 # chosen as lemma at random
 kòndä̀teyy\ gaa: kwä̀ndä̀teyy\ gaa                             # "fatherless child"            bare        possessed   Dir/LR
 k'ont'eyy:k'ont'eyy                                         # "handkerchief"                bare        possessed 
@@ -1058,7 +1062,7 @@ kwän'\ tthuu:kwän'\ tthìww                                  # "flame"     
 kwän\ jàww':kwän\ jàww'                                     # "fireplace"                   bare        possessed 
 kwän\ jàww':kòn\ jàww'                                      # "fireplace"                   bare        possessed   Dir/LR
 kwän\ jèk'an':kwän\ jèk'an'                                 # "fire (burning)"              bare        possessed                # chosen as lemma for high tone
-kwän\ jèk'an':kòn’\ jèk'ä̀n'                                 # "fire (burning)"              bare        possessed   Dir/LR
+kwän\ jèk'an':kòn'\ jèk'ä̀n'                                 # "fire (burning)"              bare        possessed   Dir/LR
 kwän\ ts'enn:kwän\ ts'enn                                   # "spark"                       bare        possessed                # chosen as lemma for high tone
 kwän\ ts'enn:kòn\ ts'enn                                    # "spark"                       bare        possessed   Dir/LR
 kwä̀n'àt:kwä̀n'at                                             # "one-family place in tent"    bare        possessed                # chosen as lemma at random
