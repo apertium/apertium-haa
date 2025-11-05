@@ -1067,6 +1067,7 @@ wëkayy\ däke'tr'ë'ä̀rr:wëkayy\ däke'tr'ë'ä̀rr                 
 wëkayy\ däke'tr'ë'ä̀rr:wëkayy\ dä̀kè'tr'ë̀'ärr                 # "ladder"                      bare        possessed   Dir/LR
 wëkayy\ dä'tl'à'jèjaa:wëkayy\ dä'tl'à'jèjaa                 # "chair"                       bare        possessed
 wëkayy\ dä'tl'à'jèjaa:wëkayy\ dätl'ahèjah                   # "chair"                       bare        possessed   Dir/LR
+wëkayy\ dä'tl'à'jèjaa:wùkayy\ dätl'ajèjah                   # "chair"                       bare        possessed   Dir/LR
 wëkayy\ ntr'ëhënëtl'ä̀t:wëkayy\ ntr'ëhënëtl'ä̀t               # "desk"                        bare        possessed
 wëkayy\ ntr'ëhënëtl'ä̀t:wëkayy\ ntr'ë̀hë̀në̀tl'ät               # "desk"                        bare        possessed   Dir/LR
 wëlann:wëlann                                               # "border;limits"               bare        possessed
@@ -1077,7 +1078,7 @@ wëntsąy\ tl'uh:wëntsąy\ tl'uh                               # "nose ring
 wëträw:wëträw                                               # "fish fence"                  bare        possessed
 wëts'ą̈̀'\ chënį'ah:wëts'ą̈̀'\ chënį'ah                         # "lead to fish wheel"          bare        possessed
 wëts'ą̈̀'\ chënį'ah:wëts'ą̈̀'\ chènį'ah                         # "lead to fish wheel"          bare        possessed   Dir/LR
-wèwdä̀ww':wèwdä̀ww'[-possessed]                               # "belongings"                  bare        -         
+wèwdä̀ww':wèwdä̀ww'[-possessed]                               # "his/her belongings"          bare        -         
 wëzhä̀h'at:wëzhä̀h'at                                         # "well-off woman"              bare        possessed
 wëzhit\ hä̀hlèw\ tr'ëdhä̀t:wëzhit\ hä̀hlèw\ tr'ëdhä̀t           # "shovel"                      bare        possessed
 wëzhit\ hä̀hlèw\ tr'ëdhä̀t:wëzhèt\ hä̀hlèw\ tr'ë̀dhä̀t           # "shovel"                      bare        possessed   Dir/LR
@@ -1102,6 +1103,7 @@ wëzrįh\ tl'àa:wëzrįh\ tl'aa                                 # "cut ban
 wëzrįh\ tl'àa:wëzrįh\ tl'èh                                 # "cut bank"                    bare        possessed   Dir/LR
 wëłä'jìlee:wëłä'jìlee                                       # "broom"                       bare        possessed
 wëłä'jìlee:wèła'jìlee                                       # "broom"                       bare        possessed   Dir/LR
+wëłä'jìlee:wèhła'\ jìlee                                    # "broom"                       bare        possessed   Dir/LR
 wùgàh\ zhärr:wùgàh\ zhärr                                   # "snow birds"                  bare        possessed
 wùkàww':wùkàww'                                             # "open cut"                    bare        possessed
 wuträw:wuträw                                               # "fish duck; merganser"        bare        possessed
