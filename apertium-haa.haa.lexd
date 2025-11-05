@@ -1027,10 +1027,9 @@ zhähdrö̀nn':zhähdrö̀nn'                                       # "winte
 zhä̀hghänn:zhä̀hghänn[-bare]                                  # "parents"                     -           possessed
 zhähts'at:zhähts'at                                         # "corner"                      bare        possessed
 zhänn:zhänn[-bare]                                          # "body"                        -           possessed
-zhärr:zhärr[-bare]                                          # "(her) son"                   -           possessed
-zhäts'è':zhäts'è'[-bare]                                    # "(her) daughter"              -           possessed
-zhè':zhè'[-bare]                                            # "(his) son"                   -           possessed
-zheh\ dähnìi:zheh\ dähnìi                                   # "chickadee (black-capped, boreal)" bare   possessed               # Same translation as zhoh dähnįh
+zhärr:zhärr[-bare]                                          # "son"                         -           possessed
+zhäts'è':zhäts'è'[-bare]                                    # "daughter"                    -           possessed
+zhè':zhè'[-bare]                                            # "son"                         -           possessed
 zhèhjà':zhèhjà'[-bare]                                      # "chin"                        -           possessed
 zhèhtl'aa\ ghò:zhèhtl'aa\ ghò[-bare]                        # "back teeth"                  -           possessed
 zhèhtl'aa\ ghò:zhèhtl'aa\ ghò'[-bare]                       # "back teeth"                  -           possessed   Dir/LR      # from old dictionary
@@ -1040,17 +1039,17 @@ zhìi':zhìi'[-bare]                                          # "breath"      
 zhödhö̀h:zhödhö̀h                                             # "tent"                        bare        possessed
 zhödhö̀h:zhodhö̀h                                             # "tent"                        bare        possessed   Dir/Lr
 zhoh:zhoh                                                   # "house"                       bare        possessed               # from old dictionary
-zhoh\ dähnįh:zhoh\ dähnįh                                   # "chickadee (black-capped, boreal)" bare   possessed               # Same translation as zheh dähnìi
+zhoh\ dähnįh:zheh\ dähnìi                                   # "chickadee (black-capped, boreal)" bare   possessed   Dir/LR
+zhoh\ dähnįh:zhoh\ dähnįh                                   # "chickadee (black-capped, boreal)" bare   possessed
 zhoo\ hèkee:zhoo\ hèkee                                     # "walls"                       bare	      possessed
-zhoo\ huu:zhoo\ huu                                         # "side of house"               bare        possessed               # Same translation as zhoo k’öö
-zhoo\ huu:zhoh\ huu                                         # "side of house"               bare        possessed   Dir/Lr
-zhoo\ k'öö:zhoo\ k'öö                                       # "side of house"               bare        possessed               # Same translation as zhoo huu
-zhoo\ k'öö:zhoo\ k'öö                                       # "side of house"               bare        possessed   Dir/Lr
+zhoo\ huu:zhoh\ huu                                         # "side of house"               bare        possessed   Dir/LR
+zhoo\ huu:zhoo\ huu                                         # "side of house"               bare        possessed               # lemma chosen at random
+zhoo\ huu:zhoo\ k'öö                                        # "side of house"               bare        possessed   Dir/LR
 zhoo\ zrąyy:zhoo\ zrąyy                                     # "jail"                        bare        possessed
 zhuhchèw:zhuchèw[-bare]                                     # "brisket"                     -           possessed
 zhùr\ nä̀tl'ee:zhùr\ nä̀tl'ee                                 # "pack of wolves"              bare        possessed
 zrayy:zrayy                                                 # "rice"                        bare        possessed
-zrè':zrè'[-bare]                                            # "name"                        -           possessed               # adding from old dictionary but is this right? i thought "name" was a different word
+zrè':zrè'[-bare]                                            # "name"                        -           possessed               # adding from old dictionary but is this right? i thought "name" was "ǫzrè"
 zrö̀k:zrö̀k[-bare]                                            # "belly"                       -           possessed
 
 #barred-L
