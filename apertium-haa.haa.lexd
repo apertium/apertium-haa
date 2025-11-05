@@ -978,8 +978,8 @@ tąyy:tąyy                                                   # "path"        
 tächöö:tächöö                                               # "creek"                       bare        possessed
 tächöö\ dàyy':tächöö\ dàyy'                                 # "mouth of creek"              bare        possessed
 täddhäww:täddhäww                                           # "open place on water"         bare        possessed
-tä’ëtröh:tä’ëtröh                                           # "red-throated loon"           bare        possessed
-tä’ëtröh:tä̀’ë̀trö̀ö̀’                                          # "red-throated loon"           bare        possessed   Dir/LR
+tä'ëtröh:tä'ëtröh                                           # "red-throated loon"           bare        possessed
+tä'ëtröh:tä̀'ë̀trö̀ö̀'                                          # "red-throated loon"           bare        possessed   Dir/LR
 tägorr:tägorr                                               # "whistling swan"              bare        possessed
 tä̀htlö̀ö':tä̀htlö̀ö'                                           # "water algae"                 bare        possessed
 täjèhchąh:täjèhchąh                                         # "puddles, still water"        bare        possessed
@@ -1033,8 +1033,8 @@ tl'ö̀ö':tl'ö̀ö'[-bare]                                        # "gall 
 tl'öö:tl'öö[-bare]                                          # "waist"                       -           possessed
 tl'uh:tl'uh                                                 # "rope; clothesline"           bare        possessed
 tl'uh\ chënèt'eyy:tl'uh\ chënèt'eyy                         # "clothesline"                 bare        possessed
-tl'uh\ ts'iww:tl'uh\ ts'iww                                 # "string"                      bare        possessed
-tl'uh\ ts'iww:tl'uh\ ts'eww                                 # "string"                      bare        possessed   Dir/LR
+tl'uh\ ts'iww:tl'uh\ ts'iww                                 # "string; twine"               bare        possessed
+tl'uh\ ts'iww:tl'uh\ ts'eww                                 # "string; twine"               bare        possessed   Dir/LR
 tl'uh\ zhìt\ tr'ëhìheh:tl'uh\ zhìt\ tr'ëhìheh               # "telephone"                   bare        possessed
 tl'uh\ zhìt\ tr'ëhìheh:tl'uh\ zhèt\ tr'ë̀hìnhee              # "telephone"                   bare        possessed   Dir/LR
 töö:töö                                                     # "night"                       bare        possessed
@@ -1105,6 +1105,7 @@ tr'o'inn\ k'èt\ dhëdlaa:tr'o'enn\ dhë̀dhah                   # "curtain" 
 tr'o'inn\ k'èt\ dhëdlaa:tr'o'enn\ dhë̀dlaa                   # "curtain"                     bare        possessed   Dir/LR
 tr'o'inn\ k'èt\ dhëdlaa:tr'o'inn\ k'èt\ nèbaww'             # "curtain"                     bare        possessed   Dir/LR
 tr'o'inn\ k'èt\ dhëdlaa:tr'o'enn\ nèbaww'                   # "curtain"                     bare        possessed   Dir/LR
+tr'o'inn\ k'èt\ dhëdlaa:tr'o'enn\ k'èt\ dhë̀dlaa             # "curtain"                     bare        possessed   Dir/LR
 tr'okoh:tr'okoh                                             # "cough"                       bare        possessed
 tr'orr:tr'orr[-bare]                                        # "calf"                        -           possessed
 tr'òrr:tr'òrr[-bare]                                        # "kidneys"                     -           possessed
@@ -1112,7 +1113,7 @@ tr'ortthį̀':tr'ortthę̀'[-bare]                                # "calf musc
 tr'ortthį̀':tr'ortthį̀[-bare]                                 # "calf muscle"                 -           possessed
 tsà':tsà'                                                   # "beaver"                      bare        possessed
 tsà'\ choo:tsà'\ choo                                       # "largest beaver"              bare        possessed
-tsà'\ dä̀wch’inn:tsà’\ dä̀wch’inn                             # "bushman"                     bare        possessed
+tsà'\ dä̀wch'inn:tsà'\ dä̀wch'inn                             # "bushman"                     bare        possessed
 tsà'\ gaa:tsà\ gaa                                          # "young beaver"                bare        possessed
 tsà'\ kä̀nn':tsà'\ kä̀nn                                      # "beaver lodge"                bare        possessed
 tsà'\ linn':tsà'\ linn'                                     # "beaver castor"               bare        possessed
@@ -1128,7 +1129,7 @@ tsäghäh:tsayghä̀h                                            # "darkness"
 tsä̀ghä̀w\ lùu':tsä̀ghä̀w\ lùu'                                 # "late August salmon"          bare        possessed
 tsä̀nn':tsä̀nn'[-bare]                                        # "vagina"                      -           possessed
 tsąy\ tl'èyy:tsąy\ tl'èyy                                   # "nasal mucus; snot"           bare        possessed
-tsąy\ tl’èyy:tsąy\ tl'èe'                                   # "nasal mucus; snot"           bare        possessed   Dir/LR
+tsąy\ tl'èyy:tsąy\ tl'èe'                                   # "nasal mucus; snot"           bare        possessed   Dir/LR
 tsegà':tsegà'                                               # "snipe"                       bare        possessed
 tsegà'\ choo:tsegà'\ choo                                   # "sandpiper"                   bare        possessed
 tsegà'\ choo:tsëgà'\ choo                                   # "sandpiper"                   bare        possessed   Dir/LR
@@ -1184,8 +1185,8 @@ ts'eyy:ts'eyy                                               # "porcupine"       
 ts'ik\ nèdhäww:ts'ik\ nèdhäww                               # "fever"                       bare        possessed
 ts'ik\ nzǫh\ koo:ts'ik\ nzǫh\ koo                           # "venereal disease"            bare        possessed          # Dictionary says: Note: dubious
 ts'iww:ts'iww[-bare]                                        # "guts; intestines"            -           possessed   
-ts'iww:ts'ìww’[-bare]                                       # "guts; intestines"            -           possessed   Dir/LR
-ts'iww:ts'ùu’[-bare]                                        # "guts; intestines"            -           possessed   Dir/LR # Lemma chosen for high tone
+ts'iww:ts'ìww'[-bare]                                       # "guts; intestines"            -           possessed   Dir/LR
+ts'iww:ts'ùu'[-bare]                                        # "guts; intestines"            -           possessed   Dir/LR # Lemma chosen for high tone
 ts'ö̀h:ts'ö̀h[-bare]                                          # "elbow"                       -           possessed
 ts'ohgwät:ts'ohgwät[-bare]                                  # "fist"                        -           possessed           # Lemma chosen for vowel length and high tone     
 ts'ohgwät:ts'ǫ̀hgòt[-bare]                                   # "fist"                        -           possessed   Dir/LR  # not sure about this form, it came from the older dictionary but we seem to have an updated version maybe?
@@ -1263,9 +1264,10 @@ tth'àk:tth'àk\ ghörr                                        # "dish"         
 tth'àk\ ghärr:tth'àk\ ghärr                                 # "bowl"                        bare        possessed
 tth'àk\ wëzhìt\ k'ä̀tr'ohträw:tth'àk\ wëzhìt\ k'ä̀tr'ohträw   # "dishpan"                     bare        possessed
 tth'àk\ wëzhìt\ k'ä̀tr'ohträw:tth'àk\ wëzhèt\ k'ä̀tr'ohträw   # "dishpan"                     bare        possessed   Dir/LR
+tth'àk\ wëzhìt\ k'ä̀tr'ohträw:tth'àk\ wùzhèt\ k'ä̀'trohträw   # "dishpan"                     bare        possessed   Dir/LR
 tth'änn\ chù':tth'änn\ chù'                                 # "bone soup"                   bare        possessed
 tth'änn\ ghè':tth'änn\ ghè'                                 # "cone grease"                 bare        possessed
-tth'änn\ k’èt:tth'änn\ k'èt                                 # "grave; cemetery"             bare        possessed
+tth'änn\ k'èt:tth'änn\ k'èt                                 # "grave; cemetery"             bare        possessed
 tth'ä̀nn':tth'ä̀nn'[-bare]                                    # "bone; leg"                   -           possessed
 tth'aw:tth'aw                                               # "diapers"                     bare        possessed
 tth'echùu\ dayy':tth'echùu\ dayy'                           # "mouth of river"              bare        possessed
