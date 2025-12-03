@@ -1004,6 +1004,7 @@ täzrä̀ww':täzrä̀ww'                                           # "steam
 tä̀t'oo:tä̀t'oo                                               # "paddle"                      bare        possessed
 tënäjëtthit:tënäjëtthit                                     # "pepper"                      bare        possessed          
 tënäjëtthit:tënäjëthhet                                     # "pepper"                      bare        possessed   Dir/LR 
+tl'er:tl'er                                                 # "bullfly; horsefly"           bare        possessed
 tl'ew\ ttheww:tl'ew\ ttheww                                 # "bufflehead; butterball"      bare        possessed             # Lemma chosen at random
 te'ehttheww:te'ehttheww                                     # "bufflehead; butterball"      bare        possessed   Dir/LR
 thah:thah                                                   # "sand"                        bare        possessed
@@ -1023,6 +1024,7 @@ tloo:tloo                                                   # "salve"           
 tl'ew:tl'ew                                                 # "flint; fire-drill"           bare        possessed
 tl'ìghàa':tl'ìghàa'[-bare]                                  # "pubic hair"                  -           possessed
 tl'ìt:tl'ìt                                                 # "fart"                        bare        possessed
+tl'oh:tl'oh                                                 # "bloodsucker; leech"          bare        possessed
 tl'oo:tl'oo                                                 # "grass"                       bare        possessed
 tl'oo\ chàà\ wëjezroh:tl'oo\ chàà\ wëjezroh                 # "frost on grass"              bare        possessed
 tl'oo\ drök:tl'oo\ drök                                     # "onion; wild onion"           bare        possessed
@@ -1041,6 +1043,7 @@ töö:töö                                                     # "night"   
 töö\ tätl'at:töö\ tätl'at                                   # "midnight"                    bare        possessed
 too\ ts'ëlaww:too\ ts'ëlaww                                 # "moth"                        bare        possessed
 too\ ts'ëlaww:too\ ts'ë̀laww                                 # "moth"                        bare        possessed   Dir/LR
+too\ ts'ëlaww:töö\ ts'ö̀läww                                 # "moth"                        bare        possessed   Dir/LR
 töö\ zraa:töö\ zraa                                         # "moon"                        bare        possessed          # Lemma chosen due to longer vowel
 töö\ zraa:töö\zrak                                          # "moon"                        bare        possessed   Dir/LR
 trä̀got:trä̀got                                               # "ruffed grouse"               bare        possessed   
@@ -1178,6 +1181,7 @@ ts'eghò':ts'eghò'                                           # "snowshoe chis
 ts'eyghò':ts'eyghò'                                         # "snowshoe chisel"             bare        possessed          # Lemma chosen for longer vowel sound
 ts'ëläww:tsëläww                                            # "butterfly; buttercup"        bare        possessed
 ts'ëläww:ts'ë̀läww                                           # "butterfly; buttercup"        bare        possessed   Dir/LR
+ts'ëläww:ts'ö̀läww                                           # "butterfly; buttercup"        bare        possessed   Dir/LR
 ts'ë̀łbaa:ts'ë̀łbaa                                           # "arctic loon"                 bare        possessed
 ts'eygų̀ų':ts'eygų̀ų'                                         # "rhubarb"                     bare        possessed
 ts'ey\ ch'òo':ts'ey\ ch'òo'                                 # "porcupine quills"            bare        possessed
