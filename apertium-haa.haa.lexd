@@ -907,10 +907,13 @@ itse'äww: ìtseyy\ àww'                                      # "scissors"  
 ìtseyy:ìtseyy                                               # "iron; metal"                 bare        possessed
 itseyy\ gùk:itseyy\ gùk                                     # "fork"                        bare        possessed
 itseyy\ gùk:ìtseyy\ gùk                                     # "fork"                        bare        possessed   Dir/LR
-itseyy\ leyy: itseyy\ leyy                                  # "fiddle"                      bare        possessed
+itseyy\ leyy:itseyy\ leyy                                   # "fiddle"                      bare        possessed
+itseyy\ leyy:ìtseyy\ leyy                                   # "fiddle"                      bare        possessed   Dir/LR
 itseyy\ leyy\ dzèe':itseyy\ leyy\ dzèe'                     # "rosin                        bare        possessed
 itseyy\ leyy\ dzèe':itseyy\ leyy\ dzè'                      # "rosin"                       bare        possessed   Dir/LR
+itseyy\ leyy\ dzèe':ìtseyy\ leyy\ dzè'                      # "rosin"                       bare        possessed   Dir/LR
 itseyy\ leyy\ tą̀y':itseyy\ leyy\ tą̀y'                       # "bow"                         bare        possessed
+itseyy\ leyy\ tą̀y':ìtseyy\ leyy\ tą̀y'                       # "bow"                         bare        possessed   Dir/LR
 itseyy\ tl'uh:itseyy\ tl'uh                                 # "chain"                       bare        possessed
 iww:iww                                                     # "beads"                       bare        possessed
 iww\ tthähtsä̀ww':iww\ tthähtsä̀ww'                           # "beads needle"                bare        possessed
