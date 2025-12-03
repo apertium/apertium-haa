@@ -1003,6 +1003,7 @@ tʼëgaa:tʼëgaa                                               # "girl"      
 
 #W
 wëchèw:wëchèw                                               # "flat place"                  bare        possessed   
+wëchèw:wùchèw                                               # "flat place"                  bare        possessed   Dir/LR
 wëch'ǫrr\ daw\ dawjįį:wëch'ǫrr\ daw\ dawjįį                 # "have period"                 bare        possessed
 wëdhäw:wëdhäw                                               # "warm weather"                bare        possessed
 wëdhìzhänn:wëdhìzhänn                                       # "weapons"                     bare        possessed
@@ -1047,6 +1048,7 @@ wëgàh:wëgàh                                                 # "snow goos
 wëgàh\ zhärr:wëgàh\ zhärr                                   # "snow bunting"                bare        possessed
 wëgàh\ zhärr:wëgàh\ zhä̀rr                                   # "snow bunting"                bare        possessed   Dir/LR
 wëgä̀k\ kayy:wëgä̀k\ kayy                                     # "clearing;open place"         bare        possessed
+wëgä̀k\ kayy:wùgä̀k\ kayy                                     # "clearing;open place"         bare        possessed   Dir/LR
 wëghoh\ töh\ nèt'èyy:wëghoh\ töh\ nèt'èyy                   # "suspenders"                  bare        possessed
 wëghoh\ töh\ nèt'èyy:wëghöh\ töh\ nèt'èyy                   # "suspenders"                  bare        possessed   Dir/LR
 wëghoh\ töh\ nèt'èyy:wëghoh\ töh\ nèt'eyy                   # "suspenders"                  bare        possessed   Dir/LR
@@ -1055,13 +1057,17 @@ wehkaa:wehkaa                                               # "bonaparte's gull;
 wehkaa:wehkaa\ ghö̀rr                                        # "bonaparte's gull; mew gull"  bare        possessed   Dir/LR
 wehkaa:wehkah                                               # "bonaparte's gull; mew gull"  bare        possessed   Dir/LR
 wehk'äw:wehk'äw                                             # "bluff; rampart"              bare        possessed 
+wehk'äw:wèhk'ä̀w                                             # "bluff; rampart"              bare        possessed   Dir/LR
 wehshuu:wehshuu                                             # "groundhog; marmot; whistler" bare        possessed  
-wehsrąyy\ jaww: wehsrąyy\ jaww                              # "river bank"                  bare        possessed
+wehsrąyy\ jaww:wehsrąyy\ jaww                               # "river bank"                  bare        possessed
+wehsrąyy\ jaww:wèhsrą̀yy\ jàww                               # "river bank"                  bare        possessed   Dir/LR
 wehtr'eh:wehtr'eh                                           # "flint;obsidian"              bare        possessed                                      
+wehtr'eh:wèhtr'èh                                           # "flint;obsidian"              bare        possessed   Dir/LR
 wëjà':wëjà                                                  # "spout"                       bare        possessed
 wëjà':wùjà'                                                 # "spout"                       bare        possessed   Dir/LR
 wëjëdlänn:wëjëdlänn                                         # "steep place"                 bare        possessed
 wëjëdlänn:wëjë̀dlänn                                         # "steep place"                 bare        possessed   Dir/LR
+wëjëdlänn:wùjë̀dlänn                                         # "steep place"                 bare        possessed   Dir/LR
 wëjìi':wëjìi'                                               # "crumbs;dirt;leavings;refuse" bare        possessed
 wëkä̀t\ ch'òjew:wëkä̀t\ ch'òjew                               # "rash"                        bare        possessed
 wëkayy\ chi'ì'aww:wëkayy\ chi'ì'aww                         # "table;altar"                 bare        possessed  
@@ -1077,6 +1083,7 @@ wëkayy\ ntr'ëhënëtl'ä̀t:wëkayy\ ntr'ë̀hë̀në̀tl'ät       
 wëlann:wëlann                                               # "border;limits"               bare        possessed
 wënèghòtl'atr'ëhohsù:wënèghòtl'atr'ëhohsù                   # "toothpick"                   bare        possessed
 wënòhshèè\ hähjaww':wënòhshèè\ hähjaww'                     # "garden"                      bare        possessed
+wënòhshèè\ hähjaww':wùnohshee\ hähjàww'                     # "garden"                      bare        possessed   Dir/LR
 wëntsąy\ chaa\ gų̀':wëntsąy\ chaa\ gų̀'                       # "worm in caribou head"        bare        possessed 
 wëntsąy\ tl'uh:wëntsąy\ tl'uh                               # "nose ring"                   bare        possessed
 wëträw:wëträw                                               # "fish fence"                  bare        possessed
@@ -1109,6 +1116,7 @@ wëzrį̀'\ kayy:wëzrį̀'\ kayy                                   # "clear
 wëzrįh\ tl'àa:wëzrįh\ tl'àa                                 # "cut bank"                    bare        possessed 
 wëzrįh\ tl'àa:wëzrįh\ tl'aa                                 # "cut bank"                    bare        possessed   Dir/LR
 wëzrįh\ tl'àa:wëzrįh\ tl'èh                                 # "cut bank"                    bare        possessed   Dir/LR
+wëzrįh\ tl'àa:wùzrįh\ tl'aa                                 # "cut bank"                    bare        possessed   Dir/LR
 wëłä'jìlee:wëłä'jìlee                                       # "broom"                       bare        possessed
 wëłä'jìlee:wèła'jìlee                                       # "broom"                       bare        possessed   Dir/LR
 wëłä'jìlee:wèhła'\ jìlee                                    # "broom"                       bare        possessed   Dir/LR
