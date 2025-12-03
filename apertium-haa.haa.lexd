@@ -992,15 +992,18 @@ tänitthoo:tänitthoo                                         # "rotten wood" 
 tä̀r:tä̀r                                                     # "arrow for small game; tattoo" bare       possessed
 tä̀t:tä̀t                                                     # "cane; spear; walking stick"  bare        possessed
 tätl'at:tätl'at                                             # "head of river"               bare        possessed
+tätl'at:tä̀tl'àt                                             # "head of river"               bare        possessed   Dir/LR
 tätrą̀\ gaa:tätrą̀\ gaa                                       # "blackbird"                   bare        possessed
 tätrą̀'òll:tätrą̀'òll                                         # "surf scoter"                 bare        possessed
 täw:täw                                                     # "socks"                       bare        possessed
 tay:tay                                                     # "hills"                       bare        possessed
+tay:tày                                                     # "hills"                       bare        possessed   Dir/LR 
 tay\ tr'ùrr':tay\ tr'ùrr'                                   # "small bare mountain"         bare        possessed          # Lemma chosen based on ay vowel vs ah
-tay\ tr'ùrr':thah\ tr'ùrr'                                  # "small bare mountain"         bare        possessed  Dir/LR
+tay\ tr'ùrr':thah\ tr'ùrr'                                  # "small bare mountain"         bare        possessed   Dir/LR
 tayy:tayy[-bare]                                            # "uncle"                       -           possessed
 täzhur:täzhur                                               # "fog on water"                bare        possessed
-täzrä̀ww':täzrä̀ww'                                           # "steam"                       bare        possessed
+täzhur:tä̀zhùrr                                              # "fog on water"                bare        possessed   Dir/LR 
+täzrä̀ww':täzrä̀ww'                                           # "steam (from kettle)"         bare        possessed
 tä̀t'oo:tä̀t'oo                                               # "paddle"                      bare        possessed
 tënäjëtthit:tënäjëtthit                                     # "pepper"                      bare        possessed          
 tënäjëtthit:tënäjëthhet                                     # "pepper"                      bare        possessed   Dir/LR 
@@ -1008,9 +1011,12 @@ tl'er:tl'er                                                 # "bullfly; horsefly
 tl'ew\ ttheww:tl'ew\ ttheww                                 # "bufflehead; butterball"      bare        possessed             # Lemma chosen at random
 te'ehttheww:te'ehttheww                                     # "bufflehead; butterball"      bare        possessed   Dir/LR
 thah:thah                                                   # "sand"                        bare        possessed
+thah:thàh                                                   # "sand"                        bare        possessed   Dir/LR
 thah\ juu:thah\ juu                                         # "sandbar"                     bare        possessed
+tay\ tr'ùrr':thàhtr'ùrr                                     # "small bare mountain"         bare        possessed   Dir/LR
 thä̀töh:thä̀töh                                               # "portage"                     bare        possessed
 thä̀töh:thätöh                                               # "portage"                     bare        possessed   Dir/LR
+thä̀töh:thä̀tö̀h                                               # "portage"                     bare        possessed   Dir/LR
 thay:thay                                                   # "belt"                        bare        possessed
 thëjaa:thëjaa                                               # "point on river"              bare        possessed
 theyy:theyy                                                 # "chum, dog salmon"            bare        possessed
@@ -1025,7 +1031,8 @@ tl'ew:tl'ew                                                 # "flint; fire-drill
 tl'ìghàa':tl'ìghàa'[-bare]                                  # "pubic hair"                  -           possessed
 tl'ìt:tl'ìt                                                 # "fart"                        bare        possessed
 tl'oh:tl'oh                                                 # "bloodsucker; leech"          bare        possessed
-tl'oo:tl'oo                                                 # "grass"                       bare        possessed
+tl'oo:tl'oo                                                 # "grass"                       bare        
+tl'oo\ tä̀hshö̀h:tl'oo\ tä̀hshö̀h                               # "blackhead grass"             bare        possessed   Dir/LR
 tl'oo\ chàà\ wëjezroh:tl'oo\ chàà\ wëjezroh                 # "frost on grass"              bare        possessed
 tl'oo\ drök:tl'oo\ drök                                     # "onion; wild onion"           bare        possessed
 tl'ö̀ö\ ts'ik:tl'ö̀ö\ ts'ik                                   # "diarrhea"                    bare        possessed
@@ -1204,6 +1211,7 @@ ts'oo\ dzèe':ts'oo\ dzèe'                                   # "spruce gum"  
 ts'oo\ dzèe':ts'oo\ dzè'                                    # "spruce gum"                  bare        possessed   Dir/LR
 ts'oo\ ghayy':ts'oo\ ghayy'                                 # "spruce roots"                bare        possessed
 ts'òò\ juu:ts'òò\ juu                                       # "stand of spruce"             bare        possessed
+ts'òò\ juu:ts'òo\ juu                                       # "stand of spruce"             bare        possessed   Dir/LR
 ts'oo\ lägä̀t:ts'oo\ lägä̀t                                   # "spruce needle"               bare        possessed
 ts'oo\ lähchö̀ö':ts'oo\ lähchö̀ö'                             # "witches’ hair"               bare        possessed
 ts'oo\ lähdzìt:ts'oo\ lähdzìt                               # "spruce cone"                 bare        possessed          # Lemma chosen for frequency
@@ -1229,16 +1237,22 @@ tthäw\ k'it:tthäw\ k'èt                                     # "seam"      
 tthäwtthį̀':tthäwtthį̀'[-bare]                                # "thigh muscle (back)"         bare        possessed
 tthäww:tthäww                                               # "ground squirrel"             bare        possessed
 tthäww:tthäww[-bare]                                        # "rectum"                      -           possessed
-tthechuu:tthechuu                                           # "river"                       bare        possessed
-tthee:tthee                                                 # "rock"                        bare        possessed
+tth'echùù':tth'echùù'                                       # "river (large)"               bare        possessed
+tth'echùù':tth'echùu'                                       # "river (large)"               bare        possessed   Dir/LR
+tth'echùù':tth'echù'                                        # "river (large)"               bare        possessed   Dir/LR
+tth'echùù':tth'ichùu'                                       # "river (large)"               bare        possessed   Dir/LR
+tth'echùù':tth'ichù'                                        # "river (large)"               bare        possessed   Dir/LR
+tthee:tthee                                                 # "rock; stone"                 bare        possessed
 tthè':tthè'[-bare]                                          # "daughter"                    -           possessed
 tthee\ chaa:tthee\ chaa                                     # "rocky place"                 bare        possessed
+tthee\ chaa:tthèe\ chàa                                     # "rocky place"                 bare        possessed   Dir/LR
 tthee\ chaa\ wëlùk:tthee\ chaa\ wëlùk                       # "harlequin duck"              bare        possessed
 tthee\ ëdhö̀h:tthee\ ëdhö̀h                                   # "rock on side of mountain"    bare        possessed
 tthee\ huu:tthee\ huu                                       # "surface of bluff"            bare        possessed
 tthee\ wèe\ nä̀'tr'ëk'ah:tthee\ wèe\ nä̀'tr'ëk'ah             # "whetstone"                   bare        possessed
 tthee\ zhìt:tthee\ zhìt                                     # "canyon"                      bare        possessed
 tthee\ zhìt:tthee\ zhèt                                     # "canyon"                      bare        possessed   Dir/LR
+tthee\ zhìt:tthee\ zhį̀t                                     # "canyon"                      bare        possessed   Dir/LR
 tthekąy':tthekąy'[-bare]                                    # "son-in-law"                  -           possessed
 tthetrànn':tthetrànn'                                       # "copper"                      bare        possessed
 tthetràn\ chin:tthetràn\ chin                               # "copper kettle"               bare        possessed
@@ -1275,11 +1289,13 @@ tth'änn\ k'èt:tth'änn\ k'èt                                 # "grave; ce
 tth'ä̀nn':tth'ä̀nn'[-bare]                                    # "bone; leg"                   -           possessed
 tth'aw:tth'aw                                               # "diapers"                     bare        possessed
 tth'echùu\ dayy':tth'echùu\ dayy'                           # "mouth of river"              bare        possessed
+tth'echùu\ dayy':tth'echùu\ dàyy'                           # "mouth of river"              bare        possessed   Dir/LR
 tth'èh:tth'èh                                               # "thread"                      bare        possessed
 tth'èh\ nèdät:tth'èh\ nèdät                                 # "twisted sinew thread"        bare        possessed
 tth'inn':tth'inn'[-bare]                                    # "forearm; wrist"              -           possessed
 tätrą̀':tätrą̀'                                               # "raven"                       bare        possessed
 tölut:tölut                                                 # "hard snow road"              bare        possessed
+tölut:tòlùt                                                 # "hard snow road"              bare        possessed   Dir/LR
 t'ąychànn:t'ąychànn                                         # "frypan"                      bare        possessed
 t'ąychànn:t'àychann                                         # "frypan"                      bare        possessed   Dir/LR
 t'aykäk:t'aykäk                                             # "ball"                        bare        possessed
@@ -1291,6 +1307,7 @@ t'ëgaa:t'ëgaa                                               # "girl"        
 t'ëgaa:t'öö\ gaa                                            # "girl"                        bare        possessed   Dir/LR
 t'öh:t'öh                                                   # "cottonwood"                  bare        possessed
 t'öh\ juu:t'öh\ juu                                         # "stand of cottonwood"         bare        possessed
+t'öh\ juu:t'ö̀h\ jùu                                         # "stand of cottonwood"         bare        possessed   Dir/LR
 t'öh\ k'inn':t'öh\ k'inn'                                   # "cottonwood sap"              bare        possessed
 t'öh\ k'inn':t'öh\ k'ènn'                                   # "cottonwood sap"              bare        possessed   Dir/LR
 t'òo\ tthì':t'òo\ tthì'[-bare]                              # "nipples"                     -           possessed
