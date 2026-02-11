@@ -914,6 +914,7 @@ jëbee:jë̀bee                                                 # "sheep"     
 jëbee\ gaa:jëbee\ gaa                                       # "lamb"                        bare        possessed	
 jëbee\ gaa:jë̀bee\ gaa                                       # "lamb"                        bare        possessed  Dir/LR
 jëbee\ tr'ayy:jëbee\ tr'ayy                                 # "ewe"                         bare        possessed
+jëbee\ tr'ayy:jë̀bee\ tr'ayy                                 # "ewe"                         bare        possessed  Dir/LR
 jëghann:jëghann                                             # "hunchback"                   bare        possessed
 jëjee\ chèe':jëjee\ chèe'                                   # "corpse, dead body"           bare        possessed
 jëjee\ įh:jëjee\ įh                                         # "people"                      bare        possessed
@@ -933,9 +934,12 @@ jëjeh\ nä̀hohjà':jëjeh\ nä̀hohjà'                             # "m
 jëjeh\ tthii':jë̀jee\ tthèe'                                 # "head man"                    bare        possessed  Dir/LR
 jëjeh\ tthii':jëjeh\ tthii'                                 # "head man"                    bare        possessed		
 jëjuu:jëjuu                                                 # "moose"                       bare        possessed		
+jëjuu:jö̀juu                                                 # "moose"                       bare        possessed  Dir/LR
 jëjuu\ choo:jëjuu\ choo                                     # "bull moose"                  bare        possessed		
+jëjuu\ choo:jö̀juu\ choo                                     # "bull moose"                  bare        possessed  Dir/LR
 jëjuu\ jè:jë̀juu\ jè                                         # "moose antlers"               bare        possessed  Dir/LR
 jëjuu\ jè':jëjuu\ jè'                                       # "moose antlers"               bare        possessed		
+jëjuu\ jè:jö̀juu\ jè'                                        # "moose antlers"               bare        possessed  Dir/LR
 jek'äww:jek'äww                                             # "young caribou bull"          bare        possessed		
 jek'äww:jee\ k'äww                                          # "young caribou bull"          bare        possessed  Dir/LR
 jëtr'uu\ chèw:jëtr'uu\ chèw                                 # "dried skin mattress"         bare        possessed	
@@ -943,8 +947,10 @@ jëtr'uu\ chèw:jë̀tr'uu\ chèw                                 # "dried s
 jëtsänn:jëtsänn                                             # "starvation"                  bare        possessed		
 jëtsuu:jëtsuu                                               # "calf moose"                  bare        possessed		
 jëtsuu:jë̀tsuu                                               # "calf moose"                  bare        possessed  Dir/LR
+jëtsuu:jö̀tsuu                                               # "calf moose"                  bare        possessed  Dir/LR
 jëtsuu\ haww:jëtsuu\ haww                                   # "yearling"                    bare        possessed		
 jëtsuu\ haww:jë̀tsuu\ haww                                   # "yearling"                    bare        possessed  Dir/LR
+jëtsuu\ haww:jö̀tsuu\ haww                                   # "yearling"                    bare        possessed  Dir/LR
 jew:jew                                                     # "crane"                       bare        possessed		
 jèww'\ hąyts'änn:jèww'\ hąyts'änn[-bare]                    # "youngest sister, his"        -           possessed	
 jèww':jèww'[-bare]                                          # "younger sister, his"         -           possessed		
@@ -962,6 +968,7 @@ jëzhänn\ he'ëlìng:jëzhänn\ he'ëling                         # "med
 jëzhänn\ he'ëlìng:jëzhänn\ he'ë̀lèng                         # "medicine song"               bare        possessed  Dir/LR
 jëzhärr:jëzhärr                                             # "cow moose"                   bare        possessed		
 jëzhärr:jë̀zzhärr                                            # "cow moose"                   bare        possessed  Dir/LR
+jëzhärr:jö̀zhärr                                             # "cow moose"                   bare        possessed  Dir/LR
 jëzhorr:jëzhorr                                             # "fur, wool"                   bare        possessed
 jëzhorr\ thäw:jëzhorr\ thäw                                 # "caribou skin pants"          bare        possessed		
 jih\ choo:jih\ choo                                         # "next largest caribou bull"   bare        possessed		
