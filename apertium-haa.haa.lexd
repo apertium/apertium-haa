@@ -1108,7 +1108,19 @@ wëzhèe:wëzhèe               # "during"  FIXME: CHECK
 
 
 LEXICON Numbers
+ihłeyy:ihłeyy               # "one"
 nä̀nkąyy:nä̀nkąyy             # "two"
+chaww:chaww                 # "three"
+dänn:dänn                   # "four"
+ihłǫlà':ihłǫlà'             # "five"
+nk'echaww:nk'echaww         # "six"
+wënlätth'ò'\ nä̀nkąyy\ ts'ą̈̀'\ dhë̀chąh:wënlätth'ò'\ nä̀nkąyy\ ts'ą̈̀'\ dhë̀chąh # "seven"
+nk'edänn:nk'edänn           # "eight"
+wënlächä̀t\ ihłeyy\ zhèyy\ dhë̀chąh:wënlächä̀t\ ihłeyy\ zhèyy\ dhë̀chąh # "nine"
+ihłeyy\ jèchąh:ihłeyy\ jèchąh # "ten"
+ihłeyy\ jèchąh\ ts'ä̀'\ ihłeyy:ihłeyy\ jèchąh\ ts'ä̀'\ ihłeyy # "eleven"
+chaww\ jèchan\ ts'ä̀'\ ihłeyy:chaww\ jèchan\ ts'ä̀'\ ihłeyy # "thirty-one"
+ihłeyy\ jèchan\ jèchan\ jèchan\ ts'ą̈̀'\ wënlächä̀t\ ihłeyy\ zhèyy\ dhë̀chąh\ jèchan\ jèchan\ ts'ą̈̀'\ wënlätth'o'\ nä̀nkąyy\ ts'ą̈̀'\ dhë̀chąh\ jèchan\ ts'ą̈̀'\ wënlächä̀t\ ihłeyy\ zhèyy\ dhechąh:ihłeyy\ jèchan\ jèchan\ jèchan\ ts'ą̈̀'\ wënlächä̀t\ ihłeyy\ zhèyy\ dhë̀chąh\ jèchan\ jèchan\ ts'ą̈̀'\ wënlätth'o'\ nä̀nkąyy\ ts'ą̈̀'\ dhë̀chąh\ jèchan\ ts'ą̈̀'\ wënlächä̀t\ ihłeyy\ zhèyy\ dhechąh # "nineteen seventy-nine"
 
 
 PATTERN Number
