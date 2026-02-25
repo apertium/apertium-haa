@@ -603,6 +603,12 @@ LEXICON subject(4)
 [ł,cust,0cm,3Ssub,sg]:                  [ł,cust,0cm,3Ssub,sg]:                  [ł,cust,0cm,3Ssub,sg]:>                 [ł,cust,0cm,3Ssub,sg]<s_3sg>:
 [ł,cust,0cm,non3Ssub,pl]:h{E}{¨}>       [ł,cust,0cm,non3Ssub,pl]:               [ł,cust,0cm,non3Ssub,pl]:>              [ł,cust,0cm,non3Ssub,pl]<s_3pl>:
 
+[l,cust,0cm,non3Ssub,sg]:               [l,cust,0cm,non3Ssub,sg]:               [l,cust,0cm,non3Ssub,sg]:>              [l,cust,0cm,non3Ssub,sg]<s_1sg>:
+[l,cust,0cm,non3Ssub,pl]:               [l,cust,0cm,non3Ssub,pl]:trʼ{E}{¨}>     [l,cust,0cm,non3Ssub,pl]:>              [l,cust,0cm,non3Ssub,pl]<s_1pl>:
+[l,cust,0cm,non3Ssub,sg]:               [l,cust,0cm,non3Ssub,sg]:               [l,cust,0cm,non3Ssub,sg]:>              [l,cust,0cm,non3Ssub,sg]<s_2sg>:    
+[l,cust,0cm,non3Ssub,pl]:               [l,cust,0cm,non3Ssub,pl]:               [l,cust,0cm,non3Ssub,pl]:>              [l,cust,0cm,non3Ssub,pl]<s_2pl>:
+[l,cust,0cm,3Ssub,sg]:                  [l,cust,0cm,3Ssub,sg]:                  [l,cust,0cm,3Ssub,sg]:>                 [l,cust,0cm,3Ssub,sg]<s_3sg>:
+[l,cust,0cm,non3Ssub,pl]:h{E}{¨}>       [l,cust,0cm,non3Ssub,pl]:               [l,cust,0cm,non3Ssub,pl]:>              [l,cust,0cm,non3Ssub,pl]<s_3pl>:
 
 LEXICON object-refl-only(2)
 :jë>   <refl>:
