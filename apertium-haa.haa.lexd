@@ -877,16 +877,21 @@ ch'ëdey\ èww':ch'ëdey\ èww'                                 # "parka"   
 ch'ëdey\ èww':ch'ëdeyy\ èww'                                # "parka"                       bare        possessed   Dir/LR
 ch'ëdhö̀h:ch'ëdhö̀h                                           # "hide"                        bare        possessed
 ch'ëdhö̀h:ch'ë̀dhö̀h                                           # "hide"                        bare        possessed   Dir/LR
+ch'ëdhö̀h:ch'ö̀dhö̀h                                           # "hide"                        bare        possessed   Dir/LR
 ch'ëdhö̀h:ch'ëdhö̀h                                           # "skin"                        bare        possessed
 ch'ëdhö̀h:ch'ë̀dhö̀h                                           # "skin"                        bare        possessed   Dir/LR
 ch'ëdhö̀h\ gąyy:ch'ëdhö̀h\ gąyy                               # "dried hide"                  bare        possessed
 ch'ëdhö̀h\ gąyy:ch'ë̀dhö̀h\ gąyy                               # "dried hide"                  bare        possessed   Dir/LR
+ch'ëdhö̀h\ gąyy:ch'ö̀dhö̀h\ gąyy                               # "dried hide"                  bare        possessed   Dir/LR
 ch'ëdhö̀h\ gų̀':ch'ëdhö̀h\ gų̀'                                 # "worm in caribou head"        bare        possessed
 ch'ëdhö̀h\ įdhą̀':ch'ëdhö̀h\ įdhą̀'	                            # "tanned hide"                 bare        possessed
+ch'ëdhö̀h\ įdhą̀':ch'ö̀dhö̀h\ indhą̀'	                        # "tanned hide"                 bare        possessed   Dir/LR
 ch'ëdhoh\ tr'ehchoo:ch'ëdhoh\ tr'ehchoo                     # "skin boat"                   bare        possessed
 ch'ëdhoh\ tr'ehchoo:ch'ë̀dhö̀h\ tr'ehchoo                     # "skin boat"                   bare        possessed   Dir/LR
 ch'ëdhö̀h\ zhoh:ch'ëdhö̀h\ zhoh                               # "house for smoking"           bare        possessed
 ch'ëdhö̀h\ zhoh:ch'ë̀dhö̀h\ zhoh                               # "house for smoking"           bare        possessed   Dir/LR
+ch'ëdhö̀h\ zhoh:ch'ö̀dhö̀h\ zhoh                               # "house for smoking"           bare        possessed   Dir/LR
+Ch'ë̀dzek\ zraa\ nän:Ch'ë̀dzek\ zraa\ nän                     # "February"                    bare        possessed
 ch'ëdo'èw:ch'ëdo'èw                                         # "two-year-old beaver"         bare        possessed
 ch'ëdo'èw:ch'ë̀do'eww                                        # "two-year-old beaver"         bare        possessed   Dir/LR
 ch'ëdo'èw:ch'ö̀do'eww                                        # "two-year-old beaver"         bare        possessed   Dir/LR
@@ -998,6 +1003,7 @@ ch'ëts'uk'àh:ch'ë̀ts'ùu\ k'ah                                # "fat on 
 ch'ëtth'àa':ch'ëtth'àa'                                     # "crosspiece, front -- of snowshoe" bare   possessed
 ch'ëtth'àa':ch'ë̀tth'àa'                                     # "crosspiece, front -- of snowshoe" bare   possessed   Dir/LR
 ch'ëtthah:ch'ëtthah                                         # "high-flying hawk"            bare        possessed
+Ch'ë̀tthah\ zraa\ nän:Ch'ë̀tthah\ zraa\ nän                   # "April"                       bare        possessed   Dir/LR
 ch'ëtth'än:ch'ëtth'än                                       # "bear in winter, covered with ice" bare   possessed
 ch'ëtth'ąyy:ch'ëtth'ąyy                                     # "brush for making fire (fine)" bare       possessed
 ch'ëtth'ąyy:ch'ë̀tth'ąyy                                     # "brush for making fire (fine)" bare       possessed   Dir/LR
@@ -1030,6 +1036,7 @@ ch'ì'aww\ zhoo:ch'ì'aww\ zhoo                               # "lodge; restau
 ch'ì'aww\ zhoo:ch'ì'aww\ zhoh                               # "lodge; restaurant"           bare        possessed
 ch'ìi':ch'ìi'[-bare]                                        # "blood vein"                  -           possessed
 ch'ijee:ch'ijee                                             # "scraper for raw skin"        bare        possessed
+ch'ijee:ch'ìjee                                             # "scraper for raw skin"        bare        possessed   Dir/LR
 ch'ìk'aa:ch'ìk'aa                                           # "file"                        bare        possessed
 ch'ìtseyy:chitseyy                                          # "metal, stove"                bare        possessed   Dir/LR                 
 ch'ìtseyy:ch'ìtseyy                                         # "metal, stove"                bare        possessed
@@ -1056,6 +1063,7 @@ ch'įhtą̀y'\ tl'ùu':ch'įhtą̀y'\ tl'ùu'                         # "b
 ch'įhtą̀y'\ tl'ùu':ch'ęhtą̀y'\ tl'ùu'                         # "bow string"                  bare        possessed   Dir/LR 
 ch'odäzhù':ch'odäzhù'                                       # "caribou feed"                bare        possessed 
 ch'odäzhù':ch'odäzhù'                                       # "lichen"                      bare        possessed 
+Ch'ö̀ghä̀rr'\ zraa\ nän:Ch'ö̀ghä̀rr'\ zraa\ nän                 # "June"                        bare        possessed
 ch'oh\ ts'ä̀t:ch'oh\ ts'ä̀t                                   # "eiderdown"                   bare        possessed 
 ch'òndèy\ ghörr:ch'òndèy\ ghörr                             # "pills"                       bare        possessed 
 ch'òndèy\ ghörr:ch'òndèy\ ghärr                             # "pills"                       bare        possessed   Dir/LR
