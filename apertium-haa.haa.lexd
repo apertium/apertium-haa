@@ -1011,7 +1011,7 @@ wëkayy\ däʼdrètthit:wëkayy\ däʼdrètthit                     # "cha
 zhà':zhà'                                                   # "louse"                       bare        possessed
 zhää:zhää                                                   # "sky"                         bare        possessed
 zhä̀ä:zhä̀ä[-bare]                                            # "ribs"                        -           possessed
-zhää\ zhìt:zhää\ zhèt                                       # "heaven; sky"                 bare        possessed   Dir/Lr
+zhää\ zhìt:zhää\ zhèt                                       # "heaven; sky"                 bare        possessed   Dir/LR
 zhää\ zhìt:zhää\ zhìt                                       # "heaven; sky"                 bare        possessed
 zhäh:zhäh                                                   # "snow"                        bare        possessed
 zhäh\ chù':zhäh\ chù'                                       # "snow water"                  bare        possessed
@@ -1019,10 +1019,11 @@ zhäh\ chùrr':zhäh\ chùrr'                                   # "soft snow
 zhah\ kä̀dhëjeww:zhah\ kä̀dhëjeww                             # "snow bugs"                   bare        possessed
 zhah\ kë̀dhë̀jeww:zhah\ kë̀dhë̀jeww                             # "snow bugs"                   bare        possessed
 zhäh\ trä̀w:zhäh\ trä̀w                                       # "wet snow"                    bare        possessed
-zhäh\ wee\ hä̀tr'ä̀dhìt:zhäh\ wee\ hä̀tr'ä̀dhèt                 # "snow scoop"                  bare        possessed	Dir/Lr
+zhäh\ trä̀w:zhäh\ träw                                       # "wet snow"                    bare        possessed   Dir/LR
+zhäh\ wee\ hä̀tr'ä̀dhìt:zhäh\ wee\ hä̀tr'ä̀dhèt                 # "snow scoop"                  bare        possessed	Dir/LR
 zhäh\ wee\ hä̀tr'ä̀dhìt:zhäh\ wee\ hä̀tr'ä̀dhìt                 # "snow scoop"                  bare        possessed
 zhähchä̀nn':zhähchä̀nn'                                       # "handbag; purse"              bare        possessed
-zhähdrö̀nn':zhähdrinn'                                       # "winter mountain; covered in snowdrifts" bare possessed   Dir/Lr
+zhähdrö̀nn':zhähdrinn'                                       # "winter mountain; covered in snowdrifts" bare possessed   Dir/LR
 zhähdrö̀nn':zhähdrö̀nn'                                       # "winter mountain; covered in snowdrifts" bare possessed
 zhä̀hghänn:zhä̀hghänn[-bare]                                  # "parents"                     -           possessed
 zhähts'at:zhähts'at                                         # "corner"                      bare        possessed
@@ -1037,7 +1038,7 @@ zhèhtth'ä̀nn':zhèhtth'ä̀nn'[-bare]                            # "jaw" 
 zhèyy':zhèyy'[-bare]                                        # "marrow"                      -           possessed
 zhìi':zhìi'[-bare]                                          # "breath"                      -           possessed
 zhödhö̀h:zhödhö̀h                                             # "tent"                        bare        possessed
-zhödhö̀h:zhodhö̀h                                             # "tent"                        bare        possessed   Dir/Lr
+zhödhö̀h:zhodhö̀h                                             # "tent"                        bare        possessed   Dir/LR
 zhoh:zhoh                                                   # "house"                       bare        possessed               # from old dictionary
 zhoh\ dähnįh:zheh\ dähnìi                                   # "chickadee (black-capped, boreal)" bare   possessed   Dir/LR
 zhoh\ dähnįh:zhoh\ dähnįh                                   # "chickadee (black-capped, boreal)" bare   possessed
