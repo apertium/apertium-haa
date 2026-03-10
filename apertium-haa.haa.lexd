@@ -1035,6 +1035,7 @@ tl'oh:tl'oh                                                 # "bloodsucker; leec
 tl'oo:tl'oo                                                 # "grass"                       bare        
 tl'oo\ tä̀hshö̀h:tl'oo\ tä̀hshö̀h                               # "blackhead grass"             bare        possessed   Dir/LR
 tl'oo\ chàà\ wëjezroh:tl'oo\ chàà\ wëjezroh                 # "frost on grass"              bare        possessed
+tl'oo\ chàà\ wëjezroh:tl'oo\ chaa\ wùjèzroo                 # "frost on grass"              bare        possessed   Dir/LR
 tl'oo\ drök:tl'oo\ drök                                     # "onion; wild onion"           bare        possessed
 tl'oo\ drök:tl'oo\ drek                                     # "wild onion"                  bare        possessed   Dir/LR
 tl'ö̀ö\ ts'ik:tl'ö̀ö\ ts'ik                                   # "diarrhea"                    bare        possessed
@@ -1055,7 +1056,7 @@ too\ ts'ëlaww:too\ ts'ëlaww                                 # "moth"        
 too\ ts'ëlaww:too\ ts'ë̀laww                                 # "moth"                        bare        possessed   Dir/LR
 too\ ts'ëlaww:töö\ ts'ö̀läww                                 # "moth"                        bare        possessed   Dir/LR
 töö\ zraa:töö\ zraa                                         # "moon"                        bare        possessed          # Lemma chosen due to longer vowel
-töö\ zraa:töö\zrak                                          # "moon"                        bare        possessed   Dir/LR
+töö\ zraa:töö\ zrak                                         # "moon"                        bare        possessed   Dir/LR
 trä̀got:trä̀got                                               # "ruffed grouse"               bare        possessed   
 trä̀got:trä̀gòt                                               # "ruffed grouse"               bare        possessed   Dir/LR
 träh:träh                                                   # "bear roots; indian carrot"   bare        possessed
