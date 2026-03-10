@@ -912,38 +912,39 @@ hätr'eyy:hätr'eyy                                           # "spruce bark" 
 hätr'eyy\ kän:hätr'eyy\ kän                                 # "spruce bark hut"             bare        possessed
 hatr'eyy\ trät:hatr'eyy\ trät                               # "dead spruce with bark stripped off" bare possessed
 hätr'unohtänn\ zhoo:hätr'unohtänn\ zhoo                     # "school"                      bare        possessed
-hätr'unohtänn\ zhoo:hätr'unohtänn\ zhoh                     # "school"                      bare        possessed   Dir\LR
+hätr'unohtänn\ zhoo:hätr'unohtänn\ zhoh                     # "school"                      bare        possessed   Dir/LR
 hätthann:hätthann                                           # "stranger"                    bare        possessed
 hä̀wbàa\ wëjëtthey:hä̀wbàa\ wëjëtthey                         # "light on horizon"            bare        possessed
+hä̀wbàa\ wëjëtthey:hä̀wbàa\ wùjëtthey                         # "light on horizon"            bare        possessed   Dir/LR
 häww:häww[-bare]                                            # "brother-in-law"              -           possessed
 hàww\ ją̀':hàww\ ją̀'                                         # "last year"                   bare        possessed
 hàww\ nä̀ttheh\ ją̀':hàww\ nä̀ttheh\ ją̀'                       # "year before last"            bare        possessed
 hejinjek:hejinjek                                           # "prayers"                     bare        possessed
-hejinjek:hëjinjek                                           # "prayers"                     bare        possessed   Dir\LR
+hejinjek:hëjinjek                                           # "prayers"                     bare        possessed   Dir/LR
 hèw:hèw                                                     # "trap"                        bare        possessed
 hèw\ ch'ëtsä̀nn':hèw\ ch'ëtsä̀nn'                             # "trap bait"                   bare        possessed
-hèw\ ch'ëtsä̀nn':hèw\ ch'ë̀tsä̀nn'                             # "trap bait"                   bare        possessed   Dir\LR
+hèw\ ch'ëtsä̀nn':hèw\ ch'ë̀tsä̀nn'                             # "trap bait"                   bare        possessed   Dir/LR
 hèw\ kä̀ll:hèw\ kä̀ll                                         # "trap toggle"                 bare        possessed
-hèw\ kä̀ll:hèw\ kä̀ll’                                        # "trap toggle"                 bare        possessed   Dir\LR
+hèw\ kä̀ll:hèw\ kä̀ll’                                        # "trap toggle"                 bare        possessed   Dir/LR
 hèw\ tąyy:hèw\ tąyy                                         # "trap line"                   bare        possessed
 hèw\ tthì'öö:hèw\ tthì'öö                                   # "trap spring"                 bare        possessed
 hèw\ zhi':hèw\ zhi'                                         # "trap bait"                   bare        possessed
 hintsi':hintsi'                                             # "loves"                       bare        possessed
 hotr'ä̀w:hotr'ä̀w                                             # "brush (thick); brushy place"	bare        possessed               # merged brush (thick) and brushy place
 hǫghor\ chù':hǫghor\ chù'                                   # "beer"                        bare        possessed
-hǫghor\ chù':honghor\ chù'                                  # "beer"                        bare        possessed   Dir\LR
+hǫghor\ chù':honghor\ chù'                                  # "beer"                        bare        possessed   Dir/LR
 hǫghorr:hǫghorr                                             # "bubbles; foam"               bare        possessed
-hǫghorr:honghor                                             # "bubbles; foam"               bare        possessed   Dir\LR      # merged ’bubbles’ and ’foam’
+hǫghorr:honghor                                             # "bubbles; foam"               bare        possessed   Dir/LR      # merged ’bubbles’ and ’foam’
 hǫhsrę̀':hǫhsrę̀'                                             # "meadow"                      bare        possessed
-hǫhsrę̀':hǫhsrį̀'                                             # "meadow"                      bare        possessed   Dir\LR
+hǫhsrę̀':hǫhsrį̀'                                             # "meadow"                      bare        possessed   Dir/LR
 hǫzhąh:hǫzhąh                                               # "seeds"                       bare        possessed
-hǫzhąh:honzhèh                                              # "seeds"                       bare        possessed   Dir\LR
+hǫzhąh:honzhèh                                              # "seeds"                       bare        possessed   Dir/LR
 hùjëchèn:hùjëchèn                                           # "potlatch"                    bare        possessed
 huzheyy                                                     # "gift"                        bare        possessed
 hwëhu'įį\ hejèww':hwëhu'įį\ hejèww'                         # "parables"                    bare        possessed
-hwëhu'įį\ hejèww':hehu'įį\ hejèww'                          # "parables"                    bare        possessed   Dir\LR
+hwëhu'įį\ hejèww':hehu'įį\ hejèww'                          # "parables"                    bare        possessed   Dir/LR
 hwëjëchìn:hwëjëchìn                                         # "potluck"                     bare        possessed
-hwëjëchìn:hwëjëchèn                                         # "potluck"                     bare        possessed   Dir\LR
+hwëjëchìn:hwëjëchèn                                         # "potluck"                     bare        possessed   Dir/LR
 
 #I
 itseyy\ gùk:itseyy\ gùk                                     # "fork"                        bare        possessed
