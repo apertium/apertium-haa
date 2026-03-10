@@ -615,6 +615,16 @@ LEXICON subject(4)
 [l,cust,0cm,non3Ssub,pl]:h{E}{¨}>       [l,cust,0cm,non3Ssub,pl]:               [l,cust,0cm,non3Ssub,pl]:o>             [l,cust,0cm,non3Ssub,pl]<s_3pl>: 
 #[l,cust,0cm,3Ssub,pl]:                  [l,cust,0cm,3Ssub,pl]:                  [l,cust,0cm,3Ssub,pl]:lë>               [l,cust,0cm,3Ssub,pl]<s_3pl>:         # possible form derived from s_3pl
 
+[0cl,cust,0cm,non3Ssub,sg]:             [0cl,cust,0cm,non3Ssub,sg]:             [0cl,cust,0cm,non3Ssub,sg]:ih>          [0cl,cust,0cm,non3Ssub,sg]<s_1sg>:
+[0cl,cust,0cm,non3Ssub,pl]:             [0cl,cust,0cm,non3Ssub,pl]:trʼ{E}{¨}>   [0cl,cust,0cm,non3Ssub,pl]:ë>           [0cl,cust,0cm,non3Ssub,pl]<s_1pl>:
+[0cl,cust,0cm,non3Ssub,pl]:             [0cl,cust,0cm,non3Ssub,pl]:trʼ{E}{¨}>   [0cl,cust,0cm,non3Ssub,pl]:>            [0cl,cust,0cm,non3Ssub,pl]<s_1pl>:      # Dir/LR
+[0cl,cust,0cm,non3Ssub,sg]:             [0cl,cust,0cm,non3Ssub,sg]:             [0cl,cust,0cm,non3Ssub,sg]:in>          [0cl,cust,0cm,non3Ssub,sg]<s_2sg>: 
+[0cl,cust,0cm,non3Ssub,sg]:             [0cl,cust,0cm,non3Ssub,sg]:             [0cl,cust,0cm,non3Ssub,sg]:į>           [0cl,cust,0cm,non3Ssub,sg]<s_2sg>:      # Dir/LR
+[0cl,cust,0cm,non3Ssub,pl]:             [0cl,cust,0cm,non3Ssub,pl]:             [0cl,cust,0cm,non3Ssub,pl]:äh>          [0cl,cust,0cm,non3Ssub,pl]<s_2pl>:
+[0cl,cust,0cm,3Ssub,sg]:                [0cl,cust,0cm,3Ssub,sg]:                [0cl,cust,0cm,3Ssub,sg]:ë>              [0cl,cust,0cm,3Ssub,sg]<s_3sg>:
+[0cl,cust,0cm,3Ssub,sg]:                [0cl,cust,0cm,3Ssub,sg]:                [0cl,cust,0cm,3Ssub,sg]:>               [0cl,cust,0cm,3Ssub,sg]<s_3sg>:         # Dir/LR
+[0cl,cust,0cm,non3Ssub,pl]:h{E}{¨}>     [0cl,cust,0cm,non3Ssub,pl]:             [0cl,cust,0cm,non3Ssub,pl]:ë>           [0cl,cust,0cm,non3Ssub,pl]<s_3pl>:
+[0cl,cust,0cm,non3Ssub,pl]:h{E}{¨}>     [0cl,cust,0cm,non3Ssub,pl]:             [0cl,cust,0cm,non3Ssub,pl]:>            [0cl,cust,0cm,non3Ssub,pl]<s_3pl>:      # Dir/LR
 
 LEXICON object-refl-only(2)
 :jë>   <refl>:
