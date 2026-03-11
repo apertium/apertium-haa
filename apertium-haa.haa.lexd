@@ -1043,10 +1043,12 @@ wèe\ ntr'ëtl'uu\ tthähtsaww':wèe\ ǹtr'ö̀tl'ùu\ tthähtsä̀ww' 
 wèe\ trä̀t\ tr'ëdoht'or:wèe\ trä̀t\ tr'ëdoht'or               # "hammer"                      bare        possessed
 wèe\ trä̀t\ tr'ëdoht'or:wèe\ trä̀t\ tr'ë̀doht'or               # "hammer"                      bare        possessed   Dir/LR
 wèe\ trä̀t\ tr'ëdoht'or:wèe\ trä̀t\ tr'ö̀doht'orr              # "hammer"                      bare        possessed   Dir/LR
-wèe\ tr'ëhohsù':wèe\ tr'ëhohsù                              # "rake"                        bare        possessed
-wèe\ tr'ëhohsù':wèe\ tr'ë̀hohsù                              # "rake"                        bare        possessed   Dir/LR
+wèe\ tr'ëhohsù':wèe\ tr'ëhohsù'                             # "rake"                        bare        possessed
+wèe\ tr'ëhohsù':wèe\ tr'ë̀hohsù'                             # "rake"                        bare        possessed   Dir/LR
+wèe\ tr'ëhohsù':wèe\ tr'ö̀hohsù'                             # "rake"                        bare        possessed   Dir/LR
 wee\ tr'ë̀huget:wee\ tr'ë̀huget                               # "shovel"                      bare        possessed           #lemma chosen at random
 wee\ tr'ë̀huget:wee\ tr'ëwëget                               # "shovel"                      bare        possessed   Dir/LR
+wee\ tr'ë̀huget:wee\ tr'ö̀wùget                               # "shovel"                      bare        possessed   Dir/LR
 wèe\ tr'ëhuhtthät:wèe\ tr'ëhuhtthät                         # "hammer"                      bare        possessed
 wèe\ tr'ëhuhtthät:wèe\ tr'ë̀huhtthät                         # "hammer"                      bare        possessed   Dir/LR  
 wèe\ tr'ëhuhtthät:wèe\ tr'ëwëtthät                          # "hammer"                      bare        possessed   Dir/LR
@@ -1117,6 +1119,7 @@ wëzhit\ nä̀tr'ëjënoh'įh:wùzhèt\ nä̀tr'ö̀jö̀no'ęh      
 wëzhìt\ tä'į̀'ah:wëzhìt\ tä'į̀'ah                             # "skin stretcher"              bare        possessed 
 wëzhìt\ tä'į̀'ah:wëzhèt\ tä̀'in'ah                            # "skin stretcher"              bare        possessed   Dir/LR
 wëzhìt\ tä'į̀'ah:wëzhìt\ täynį̀'ah                            # "skin stretcher"              bare        possessed   Dir/LR
+wëzhìt\ tä'į̀'ah:wùzhèt\ tä̀'in'ah                            # "skin stretcher"              bare        possessed   Dir/LR
 wëzhìt\ tr'ëhòdök:wëzhìt\ tr'ëhòdök                         # "radio"                       bare        possessed
 wëzhìt\ tr'ëhòdök:wëzhèt\ tr'ë̀hodök                         # "radio"                       bare        possessed   Dir/LR
 wëzhìt\ tr'ëhòdök:wùzhèt\ tr'ö̀hodök                         # "radio"                       bare        possessed   Dir/LR
