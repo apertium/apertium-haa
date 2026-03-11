@@ -911,6 +911,7 @@ hätr'ëgëjinjii:hätr'ëgëjinjii                               # "black
 hätr'eyy:hätr'eyy                                           # "spruce bark"                 bare        possessed
 hätr'eyy\ kän:hätr'eyy\ kän                                 # "spruce bark hut"             bare        possessed
 hatr'eyy\ trät:hatr'eyy\ trät                               # "dead spruce with bark stripped off" bare possessed
+hatr'eyy\ trät:hätr'eyy\ trät                               # "dead spruce with bark stripped off" bare possessed   Dir/LR
 hätr'unohtänn\ zhoo:hätr'unohtänn\ zhoo                     # "school"                      bare        possessed
 hätr'unohtänn\ zhoo:hätr'unohtänn\ zhoh                     # "school"                      bare        possessed   Dir/LR
 hätthann:hätthann                                           # "stranger"                    bare        possessed
