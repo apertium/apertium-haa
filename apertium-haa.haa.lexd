@@ -521,13 +521,13 @@ LEXICON subject(4)
 [d,incp,dh,non3Ssub,sg]:                [d,incp,dh,non3Ssub,sg]:                [d,incp,dh,non3Ssub,sg]:dhish>          [d,incp,dh,non3Ssub,sg]<s_1sg>:
 [d,incp,dh,non3Ssub,sg]:                [d,incp,dh,non3Ssub,sg]:                [d,incp,dh,non3Ssub,sg]:dhih>           [d,incp,dh,non3Ssub,sg]<s_1sg>:         # Dir/LR
 [d,incp,dh,non3Ssub,pl]:                [d,incp,dh,non3Ssub,pl]:trʼ{E}{¨}>      [d,incp,dh,non3Ssub,pl]:y>              [d,incp,dh,non3Ssub,pl]<s_1pl>:
-[d,incp,dh,non3Ssub,pl]:                [d,incp,dh,non3Ssub,pl]:trʼ{E}{¨}>      [d,incp,dh,non3Ssub,pl]:jë>             [d,incp,dh,non3Ssub,pl]<s_1pl>:         # Dir/LR
+[d,incp,dh,non3Ssub,pl]:                [d,incp,dh,non3Ssub,pl]:trʼ{E}{¨}>      [d,incp,dh,non3Ssub,pl]:j{E}{¨}>        [d,incp,dh,non3Ssub,pl]<s_1pl>:         # Dir/LR
 [d,incp,dh,non3Ssub,sg]:                [d,incp,dh,non3Ssub,sg]:                [d,incp,dh,non3Ssub,sg]:dhin>           [d,incp,dh,non3Ssub,sg]<s_2sg>:
 [d,incp,dh,non3Ssub,pl]:                [d,incp,dh,non3Ssub,pl]:                [d,incp,dh,non3Ssub,pl]:dhay>           [d,incp,dh,non3Ssub,pl]<s_2pl>:
 [d,incp,dh,non3Ssub,sg]:                [d,incp,dh,non3Ssub,sg]:                [d,incp,dh,non3Ssub,sg]:y>              [d,incp,dh,non3Ssub,sg]<s_3sg>:
-[d,incp,dh,non3Ssub,sg]:                [d,incp,dh,non3Ssub,sg]:                [d,incp,dh,non3Ssub,sg]:jë>             [d,incp,dh,non3Ssub,sg]<s_3sg>:         # Dir/LR
+[d,incp,dh,non3Ssub,sg]:                [d,incp,dh,non3Ssub,sg]:                [d,incp,dh,non3Ssub,sg]:j{E}{¨}>        [d,incp,dh,non3Ssub,sg]<s_3sg>:         # Dir/LR
 [d,incp,dh,non3Ssub,pl]:h{E}{¨}>        [d,incp,dh,non3Ssub,pl]:                [d,incp,dh,non3Ssub,pl]:y>              [d,incp,dh,non3Ssub,pl]<s_3pl>:
-[d,incp,dh,non3Ssub,pl]:h{E}{¨}>        [d,incp,dh,non3Ssub,pl]:                [d,incp,dh,non3Ssub,pl]:jë>             [d,incp,dh,non3Ssub,pl]<s_3pl>:         # Dir/LR
+[d,incp,dh,non3Ssub,pl]:h{E}{¨}>        [d,incp,dh,non3Ssub,pl]:                [d,incp,dh,non3Ssub,pl]:j{E}{¨}>        [d,incp,dh,non3Ssub,pl]<s_3pl>:         # Dir/LR
 
 [ł,fut,0cm,non3Ssub,sg]:                [ł,fut,0cm,non3Ssub,sg]:                [ł,fut,0cm,non3Ssub,sg]:ök>             [ł,fut,0cm,non3Ssub,sg]<s_1sg>:
 [ł,fut,0cm,non3Ssub,pl]:                [ł,fut,0cm,non3Ssub,pl]:trʼ{E}{¨}>      [ł,fut,0cm,non3Ssub,pl]:äh>             [ł,fut,0cm,non3Ssub,pl]<s_1pl>:
