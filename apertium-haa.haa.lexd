@@ -170,7 +170,7 @@ PATTERN Verbs-Tv
 PATTERN Verbs-Iv
 #disjunctPref       plSubj  object  deicticSubj  refl   directive   aspect  gender/qualifier     theme       conjMarker,subj,cl      stem
 # VerbStem-IV(1) subject(1) --     subject(2) object(2)  VerbStem-Iv(2)   aspect(1)     VerbStem-Iv(3)    VerbStem-Iv(4)   subject(3)     VerbStem-Iv(5)
-(VerbStem-Iv(1)  subject(1) subject(2) object-refl-only?(1)  :VerbStem-Iv(2) aspect(1)     VerbStem-Iv(3)  VerbStem-Iv(4)       subject(3)     VerbStem-Iv(5) [ <v><iv>: ] VerbStem-Tv(2): :aspect(2) subject(4) object-refl-only?(2))[^[3Ssub,non3Ssub],^[impf,perf,incp,fut,opt],^[sg,pl],^[l,d,0cl,ł],^[0cm,dh,gh,n]]
+(VerbStem-Iv(1)  subject(1) subject(2) object-refl-only?(1)  :VerbStem-Iv(2) aspect(1)     VerbStem-Iv(3)  VerbStem-Iv(4)       subject(3)     VerbStem-Iv(5) [ <v><iv>: ] VerbStem-Iv(2): aspect(2) subject(4) object-refl-only?(2))[^[impf,perf,incp,fut,opt],^[sg,pl],^[l,d,0cl,ł],^[0cm,dh,gh,n]]
 
 
 
@@ -299,7 +299,7 @@ LEXICON VerbStem-Iv(5)
 [0cl,fut,0cm,sg]:           [0cl,fut,0cm,sg]:           [0cl,fut,0cm,sg]:           [0cl,fut,0cm,sg]:n>         nähaa:haw[0cl,fut,0cm,sg]           # "GoComeArrive(sg)"        Lemma
 [0cl,impf,0cm,pl]:          [0cl,impf,0cm,pl]:          [0cl,impf,0cm,pl]:          [0cl,impf,0cm,pl]:n>        nähaa:jèww[0cl,impf,0cm,pl]         # "GoComeArrive(sg)"        Lemma   #no elicited forms in the impf
 [0cl,perf,n,pl]:            [0cl,perf,n,pl]:            [0cl,perf,n,pl]:            [0cl,perf,n,pl]:n>          nähaa:jeww[0cl,perf,n,pl]           # "GoComeArrive(sg)"        Lemma
-[0cl,fut,0cm,pl]:           [0cl,fut,0cm,pl]:           [0cl,perf,n,pl]:            [0cl,fut,0cm,pl]:n>         nähaa:dä̀w[0cl,fut,0cm,pl]           # "GoComeArrive(sg)"        Lemma
+[0cl,fut,0cm,pl]:           [0cl,fut,0cm,pl]:           [0cl,fut,n,pl]:             [0cl,fut,0cm,pl]:n>         nähaa:dä̀w[0cl,fut,0cm,pl]           # "GoComeArrive(sg)"        Lemma
 
 
 #cough, cryweep1 are intv? 
