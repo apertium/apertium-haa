@@ -6,13 +6,13 @@ import sys
 
 lang1="haa"
 lang2="eng"
-reGloss = re.compile(r"\"(.*)\"")
+reGloss = re.compile(r"\"(.*?)\"")
 re2ndCol = re.compile(r".*?\s+(<.*>)")
-entryline = "<e><l>{}{}</l><r>{}{}</r></e>"
+entryline = "<e><p><l>{}{}</l><r>{}{}</r></p></e>"
 tagtemplate = "<s n=\"{}\"/>"
 
 taglist = {
-	"VerbStem-Tv": (["v", "tv"], ["vblex"]),     # lemma in column 5
+	"VerbStem-Tv(5)": (["v", "tv"], ["vblex"]),     # lemma in column 5
 	"VerbStem-Iv(5)": (["v", "iv"], ["vblex"]),  # lemma in column 5
 	"Conjunctions(2)": (),  # get cat from second column
 	"Prepositions": (["pr"], ["pr"]),
@@ -27,6 +27,11 @@ taglist = {
 
 # tags from 2nd column
 extraTags = ["Conjunctions(2)", "Determiners(2)", "ProperNouns(2)", "Pronoun(2)"]
+
+lemmaColOverride = {
+    "VerbStem-Tv(5)": 4,
+    "VerbStem-Iv(5)": 4,
+}
 
 with open(os.path.join("../", "apertium-"+lang1+"."+lang1+".lexd"), 'r') as lexd:
 	tags = None
@@ -55,6 +60,11 @@ with open(os.path.join("../", "apertium-"+lang1+"."+lang1+".lexd"), 'r') as lexd
 						lang1tags += tagtemplate.format((tag))
 					for tag in tags[1]:
 						lang2tags += tagtemplate.format((tag))
+					if lexname in lemmaColOverride:
+						idx = lemmaColOverride[lexname]
+						templine = uncommentedline.split()
+						if len(templine) > idx:
+							uncommentedline = templine[idx]
 					if ":" in lexdline:
 						lang1lemma = uncommentedline.split(':')[0]
 						lang1lemma = lang1lemma.replace("\\ ", "<b/>")
